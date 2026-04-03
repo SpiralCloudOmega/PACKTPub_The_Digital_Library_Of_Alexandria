@@ -5,7 +5,6 @@
 A curated, community-friendly repository for storing and sharing PDFs, eBooks, presentations, spreadsheets, and all kinds of documents — along with a complete index of the **9,200+ PacktPublishing repositories**.
 
 [![Update PacktPublishing Index](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml)
-
 ---
 
 ## 📂 Repository Structure
@@ -83,9 +82,11 @@ git push
 
 ## 📚 PacktPublishing Index
 
-➡️ **[View the Full PacktPublishing Index](PACKT_INDEX.md)**
+➡️ **[View the PacktPublishing Repository Index](PACKT_INDEX.md)**
 
-The [`PACKT_INDEX.md`](PACKT_INDEX.md) file is a complete, alphabetically-organized, clickable index of all **9,200+** repositories in the [PacktPublishing GitHub organization](https://github.com/PacktPublishing) — a gold mine of code samples, notebooks, and documentation for hundreds of technical books.
+The [`PACKT_INDEX.md`](PACKT_INDEX.md) is an alphabetically-organized, clickable index of repositories in the [PacktPublishing GitHub organization](https://github.com/PacktPublishing) — a gold mine of code samples, notebooks, and documentation for hundreds of technical books covering 9,200+ repos total.
+
+> **Note:** The current index contains ~1,000 repositories fetched at setup time. Run the generator script or trigger the weekly workflow to regenerate the complete index of all 9,200+ repos.
 
 ### Regenerating the Index
 The index is automatically updated weekly via GitHub Actions. To manually regenerate:

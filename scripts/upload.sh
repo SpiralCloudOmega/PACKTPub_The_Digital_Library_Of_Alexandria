@@ -52,7 +52,7 @@ if [[ "${1:-}" == "--url" ]]; then
     FILENAME="${3:-$(basename "$URL" | cut -d'?' -f1)}"
     MESSAGE="${4:-Add $FILENAME}"
 
-    TMP_FILE=$(mktemp "/tmp/${FILENAME}.XXXXXX")
+    TMP_FILE=$(mktemp)
     log_info "Downloading: $URL"
     curl -fsSL -o "$TMP_FILE" "$URL"
     SIZE=$(du -sh "$TMP_FILE" | cut -f1)
@@ -81,22 +81,24 @@ AUTH_HEADER=""
 [[ -n "$TOKEN" ]] && AUTH_HEADER="Authorization: Bearer $TOKEN"
 
 CHECK_URL="$API_BASE/repos/$REPO_OWNER/$REPO_NAME/contents/$REMOTE_PATH"
+CHECK_RESP=$(mktemp)
 
 if [[ -n "$TOKEN" ]]; then
-    HTTP_CODE=$(curl -s -o /tmp/_check_resp.json -w "%{http_code}" \
+    HTTP_CODE=$(curl -s -o "$CHECK_RESP" -w "%{http_code}" \
         -H "$AUTH_HEADER" \
         -H "Accept: application/vnd.github+json" \
         "$CHECK_URL")
 else
-    HTTP_CODE=$(curl -s -o /tmp/_check_resp.json -w "%{http_code}" \
+    HTTP_CODE=$(curl -s -o "$CHECK_RESP" -w "%{http_code}" \
         -H "Accept: application/vnd.github+json" \
         "$CHECK_URL")
 fi
 
 if [[ "$HTTP_CODE" == "200" ]]; then
-    EXISTING_SHA=$(python3 -c "import json; print(json.load(open('/tmp/_check_resp.json')).get('sha',''))")
+    EXISTING_SHA=$(python3 -c "import json, sys; print(json.load(open(sys.argv[1])).get('sha',''))" "$CHECK_RESP")
     log_info "File already exists — will update (SHA: ${EXISTING_SHA:0:8}...)"
 fi
+rm -f "$CHECK_RESP"
 
 # Build JSON payload using environment variables to avoid shell injection
 if [[ -n "$EXISTING_SHA" ]]; then

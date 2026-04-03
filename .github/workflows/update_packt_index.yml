@@ -49,6 +49,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add PACKT_INDEX.md
-          REPO_COUNT=$(grep -c '^| \[' PACKT_INDEX.md || echo "?")
+          REPO_COUNT=$(grep -c '](https://github.com/PacktPublishing/' PACKT_INDEX.md || echo "?")
           git commit -m "chore: update PacktPublishing index (${REPO_COUNT} repos) [skip ci]"
           git push
