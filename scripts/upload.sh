@@ -40,15 +40,19 @@ if [[ -z "$TOKEN" ]]; then
     log_warn "Set it with: export GITHUB_TOKEN=your_token"
 fi
 
+# Track whether we're in URL mode (before any shifts)
+URL_MODE=false
+
 # ─── Download from URL mode ───────────────────────────────────────────────────
 if [[ "${1:-}" == "--url" ]]; then
+    URL_MODE=true
     shift
     URL="${1:?Usage: $0 --url <url> [dest_folder] [filename] [message]}"
     DEST="${2:-docs/Other}"
     FILENAME="${3:-$(basename "$URL" | cut -d'?' -f1)}"
     MESSAGE="${4:-Add $FILENAME}"
 
-    TMP_FILE="/tmp/$FILENAME"
+    TMP_FILE=$(mktemp "/tmp/${FILENAME}.XXXXXX")
     log_info "Downloading: $URL"
     curl -fsSL -o "$TMP_FILE" "$URL"
     SIZE=$(du -sh "$TMP_FILE" | cut -f1)
@@ -94,16 +98,25 @@ if [[ "$HTTP_CODE" == "200" ]]; then
     log_info "File already exists — will update (SHA: ${EXISTING_SHA:0:8}...)"
 fi
 
-# Build JSON payload
+# Build JSON payload using environment variables to avoid shell injection
 if [[ -n "$EXISTING_SHA" ]]; then
-    PAYLOAD=$(python3 -c "
-import json
-print(json.dumps({'message': '$MESSAGE', 'content': '$CONTENT_B64', 'branch': '$BRANCH', 'sha': '$EXISTING_SHA'}))
+    PAYLOAD=$(MSG="$MESSAGE" CONTENT="$CONTENT_B64" BRANCH="$BRANCH" SHA="$EXISTING_SHA" python3 -c "
+import json, os
+print(json.dumps({
+    'message': os.environ['MSG'],
+    'content': os.environ['CONTENT'],
+    'branch':  os.environ['BRANCH'],
+    'sha':     os.environ['SHA'],
+}))
 ")
 else
-    PAYLOAD=$(python3 -c "
-import json
-print(json.dumps({'message': '$MESSAGE', 'content': '$CONTENT_B64', 'branch': '$BRANCH'}))
+    PAYLOAD=$(MSG="$MESSAGE" CONTENT="$CONTENT_B64" BRANCH="$BRANCH" python3 -c "
+import json, os
+print(json.dumps({
+    'message': os.environ['MSG'],
+    'content': os.environ['CONTENT'],
+    'branch':  os.environ['BRANCH'],
+}))
 ")
 fi
 
@@ -139,4 +152,4 @@ else
 fi
 
 # Clean up temp file if we downloaded it
-[[ "${1:-}" == "--url" ]] && rm -f "$TMP_FILE"
+[[ "$URL_MODE" == "true" ]] && rm -f "$TMP_FILE"

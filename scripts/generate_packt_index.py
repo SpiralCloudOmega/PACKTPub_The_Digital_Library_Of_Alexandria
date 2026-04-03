@@ -97,7 +97,7 @@ def generate_markdown(repos: list) -> str:
             letter = "#"
         groups[letter].append(r)
 
-    now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = []
 
     lines.append("# 📚 PacktPublishing Complete Repository Index")

@@ -17,6 +17,7 @@ import argparse
 import base64
 import os
 import sys
+import tempfile
 import urllib.request
 from pathlib import Path
 
@@ -113,9 +114,11 @@ def download_and_upload(
             print("❌ Could not determine filename from URL. Use --filename.")
             return False
 
-    tmp_path = f"/tmp/{filename}"
+    suffix = Path(filename).suffix or ""
     print(f"⬇️  Downloading: {url}")
     try:
+        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+            tmp_path = tmp.name
         urllib.request.urlretrieve(url, tmp_path)
         size_mb = os.path.getsize(tmp_path) / (1024 * 1024)
         print(f"   ✅ Downloaded ({size_mb:.1f} MB)")
