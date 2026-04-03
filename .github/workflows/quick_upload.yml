@@ -1,0 +1,81 @@
+name: Quick Upload Document
+
+on:
+  workflow_dispatch:
+    inputs:
+      file_url:
+        description: 'Public URL of the document to download and upload'
+        required: true
+      destination:
+        description: 'Destination folder in the repo'
+        required: false
+        default: 'docs/PDFs'
+        type: choice
+        options:
+          - docs/PDFs
+          - docs/eBooks
+          - docs/Presentations
+          - docs/Spreadsheets
+          - docs/Other
+      filename:
+        description: 'Override filename (leave blank to use URL filename)'
+        required: false
+      commit_message:
+        description: 'Commit message'
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resolve filename
+        id: resolve
+        run: |
+          URL="${{ github.event.inputs.file_url }}"
+          OVERRIDE="${{ github.event.inputs.filename }}"
+          if [[ -n "$OVERRIDE" ]]; then
+            echo "filename=$OVERRIDE" >> "$GITHUB_OUTPUT"
+          else
+            FILENAME=$(basename "$URL" | cut -d'?' -f1)
+            echo "filename=$FILENAME" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download document
+        run: |
+          FILENAME="${{ steps.resolve.outputs.filename }}"
+          DEST="${{ github.event.inputs.destination }}"
+          mkdir -p "$DEST"
+          echo "⬇️  Downloading: ${{ github.event.inputs.file_url }}"
+          curl -fsSL -o "$DEST/$FILENAME" "${{ github.event.inputs.file_url }}"
+          SIZE=$(du -sh "$DEST/$FILENAME" | cut -f1)
+          echo "✅ Downloaded $FILENAME ($SIZE) → $DEST/"
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          FILENAME="${{ steps.resolve.outputs.filename }}"
+          DEST="${{ github.event.inputs.destination }}"
+          MSG="${{ github.event.inputs.commit_message }}"
+          [[ -z "$MSG" ]] && MSG="Add $FILENAME via Quick Upload"
+
+          git add "$DEST/$FILENAME"
+          git commit -m "$MSG"
+          git push
+
+      - name: Summary
+        run: |
+          FILENAME="${{ steps.resolve.outputs.filename }}"
+          DEST="${{ github.event.inputs.destination }}"
+          echo "## ✅ Upload Successful" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**File:** \`$FILENAME\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Destination:** \`$DEST/\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Source URL:** ${{ github.event.inputs.file_url }}" >> "$GITHUB_STEP_SUMMARY"
