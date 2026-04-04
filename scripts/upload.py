@@ -22,7 +22,7 @@ import urllib.request
 from pathlib import Path
 
 REPO_OWNER = "SpiralCloudOmega"
-REPO_NAME = "PDF-s_The_-Library_Of_-Alexandria"
+REPO_NAME = "PACKTPub_The_Digital_Library_Of_Alexandria"
 API_BASE = "https://api.github.com"
 BRANCH = "main"
 
