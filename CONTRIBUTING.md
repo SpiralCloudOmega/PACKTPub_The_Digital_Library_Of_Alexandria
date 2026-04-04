@@ -41,8 +41,8 @@ Bad:   scan0001.pdf
 
 ### Via Git CLI
 ```bash
-git clone https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria.git
-cd PDF-s_The_-Library_Of_-Alexandria
+git clone https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria.git
+cd PACKTPub_The_Digital_Library_Of_Alexandria
 cp ~/Downloads/mybook.pdf docs/PDFs/
 git add .
 git commit -m "Add mybook.pdf"

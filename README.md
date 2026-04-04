@@ -6,7 +6,7 @@ A curated, community-friendly repository for storing and sharing PDFs, eBooks, p
 
 ## 🚀 Launch the Web App
 
-> **[▶ Open Library of Alexandria App](https://spiralcloudOmega.github.io/PDF-s_The_-Library_Of_-Alexandria/)** ← GitHub Pages web app
+> **[▶ Open Library of Alexandria App](https://spiralcloudOmega.github.io/PACKTPub_The_Digital_Library_Of_Alexandria/)** ← GitHub Pages web app
 
 The app is a **Filza File Manager-inspired** web interface with 4 built-in tools:
 
@@ -19,8 +19,8 @@ The app is a **Filza File Manager-inspired** web interface with 4 built-in tools
 
 > **First time?** Go to ⚙️ Settings → paste your [GitHub Personal Access Token](https://github.com/settings/tokens) (needs `repo` scope) → start uploading.
 
-[![Deploy to GitHub Pages](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/pages.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/pages.yml)
-[![Update PacktPublishing Index](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml)
+[![Deploy to GitHub Pages](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/pages.yml/badge.svg)](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/pages.yml)
+[![Update PacktPublishing Index](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/update_packt_index.yml/badge.svg)](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/update_packt_index.yml)
 
 ---
 
@@ -87,8 +87,8 @@ chmod +x scripts/upload.sh
 
 ### Option 5 — Git Command Line
 ```bash
-git clone https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria.git
-cd PDF-s_The_-Library_Of_-Alexandria
+git clone https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria.git
+cd PACKTPub_The_Digital_Library_Of_Alexandria
 cp /path/to/your/file.pdf docs/PDFs/
 git add docs/PDFs/file.pdf
 git commit -m "Add file.pdf"

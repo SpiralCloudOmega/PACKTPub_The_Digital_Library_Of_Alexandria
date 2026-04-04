@@ -1,0 +1,48 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# Git LFS — Large File Storage
+# ═══════════════════════════════════════════════════════════════════════════════
+# Track large document types with Git LFS so files over 100 MB can be stored.
+# After cloning, run: git lfs install
+#
+# To add a large file:
+#   git lfs track "*.pdf"     (already done below)
+#   git add .gitattributes
+#   git add docs/PDFs/my-huge-book.pdf
+#   git commit -m "Add large PDF via LFS"
+#   git push
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ─── PDF Documents ────────────────────────────────────────────────────────────
+docs/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+docs/**/*.PDF filter=lfs diff=lfs merge=lfs -text
+
+# ─── eBooks ───────────────────────────────────────────────────────────────────
+docs/**/*.epub filter=lfs diff=lfs merge=lfs -text
+docs/**/*.mobi filter=lfs diff=lfs merge=lfs -text
+docs/**/*.azw filter=lfs diff=lfs merge=lfs -text
+docs/**/*.azw3 filter=lfs diff=lfs merge=lfs -text
+docs/**/*.djvu filter=lfs diff=lfs merge=lfs -text
+docs/**/*.fb2 filter=lfs diff=lfs merge=lfs -text
+docs/**/*.cbz filter=lfs diff=lfs merge=lfs -text
+docs/**/*.cbr filter=lfs diff=lfs merge=lfs -text
+
+# ─── Office Documents ─────────────────────────────────────────────────────────
+docs/**/*.docx filter=lfs diff=lfs merge=lfs -text
+docs/**/*.doc filter=lfs diff=lfs merge=lfs -text
+docs/**/*.pptx filter=lfs diff=lfs merge=lfs -text
+docs/**/*.ppt filter=lfs diff=lfs merge=lfs -text
+docs/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
+docs/**/*.xls filter=lfs diff=lfs merge=lfs -text
+docs/**/*.odt filter=lfs diff=lfs merge=lfs -text
+docs/**/*.odp filter=lfs diff=lfs merge=lfs -text
+docs/**/*.ods filter=lfs diff=lfs merge=lfs -text
+
+# ─── Archives ─────────────────────────────────────────────────────────────────
+docs/**/*.zip filter=lfs diff=lfs merge=lfs -text
+docs/**/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+docs/**/*.7z filter=lfs diff=lfs merge=lfs -text
+docs/**/*.rar filter=lfs diff=lfs merge=lfs -text
+
+# ─── Other Large Media ────────────────────────────────────────────────────────
+docs/**/*.iso filter=lfs diff=lfs merge=lfs -text
+docs/**/*.dmg filter=lfs diff=lfs merge=lfs -text
