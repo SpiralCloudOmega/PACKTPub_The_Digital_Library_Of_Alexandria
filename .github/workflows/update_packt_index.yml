@@ -1,0 +1,54 @@
+name: Update PacktPublishing Index
+
+on:
+  schedule:
+    # Run every Sunday at 02:00 UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regeneration even if nothing changed'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate PacktPublishing index
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_packt_index.py --output PACKT_INDEX.md
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet PACKT_INDEX.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "ℹ️ No changes detected in PACKT_INDEX.md"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "✅ Changes detected — will commit"
+          fi
+
+      - name: Commit and push updated index
+        if: steps.changes.outputs.changed == 'true' || github.event.inputs.force == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add PACKT_INDEX.md
+          REPO_COUNT=$(grep -c '](https://github.com/PacktPublishing/' PACKT_INDEX.md || echo "?")
+          git commit -m "chore: update PacktPublishing index (${REPO_COUNT} repos) [skip ci]"
+          git push

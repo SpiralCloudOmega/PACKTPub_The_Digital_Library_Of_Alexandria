@@ -1,0 +1,2050 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📚 Library of Alexandria</title>
+
+<!-- CDN Libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+
+<!-- CodeMirror 6 via ESM importmap -->
+<script type="importmap">
+{
+  "imports": {
+    "codemirror": "https://esm.sh/codemirror@6.0.1",
+    "@codemirror/view": "https://esm.sh/@codemirror/view@6.22.3",
+    "@codemirror/state": "https://esm.sh/@codemirror/state@6.3.3",
+    "@codemirror/language": "https://esm.sh/@codemirror/language@6.9.3",
+    "@codemirror/commands": "https://esm.sh/@codemirror/commands@6.3.3",
+    "@codemirror/search": "https://esm.sh/@codemirror/search@6.5.5",
+    "@codemirror/lang-markdown": "https://esm.sh/@codemirror/lang-markdown@6.2.3",
+    "@codemirror/lang-javascript": "https://esm.sh/@codemirror/lang-javascript@6.2.1",
+    "@codemirror/lang-python": "https://esm.sh/@codemirror/lang-python@6.1.3",
+    "@codemirror/lang-html": "https://esm.sh/@codemirror/lang-html@6.4.7",
+    "@codemirror/theme-one-dark": "https://esm.sh/@codemirror/theme-one-dark@6.1.2"
+  }
+}
+</script>
+
+<style>
+/* ===== CSS VARIABLES ===== */
+:root {
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-tertiary: #21262d;
+  --bg-hover: #30363d;
+  --accent: #58a6ff;
+  --accent-hover: #79c0ff;
+  --text-primary: #e6edf3;
+  --text-secondary: #8b949e;
+  --text-muted: #6e7681;
+  --border: #30363d;
+  --success: #3fb950;
+  --error: #f85149;
+  --warning: #d29922;
+  --pdf-color: #f85149;
+  --epub-color: #a371f7;
+  --md-color: #58a6ff;
+  --txt-color: #8b949e;
+  --header-height: 48px;
+  --tab-height: 60px;
+}
+
+[data-theme="light"] {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f6f8fa;
+  --bg-tertiary: #eaeef2;
+  --bg-hover: #d0d7de;
+  --accent: #0969da;
+  --accent-hover: #0550ae;
+  --text-primary: #1f2328;
+  --text-secondary: #656d76;
+  --text-muted: #848d97;
+  --border: #d0d7de;
+  --success: #1a7f37;
+  --error: #cf222e;
+  --warning: #9a6700;
+}
+
+/* ===== RESET & BASE ===== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===== HEADER ===== */
+#app-header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--header-height);
+  background: rgba(13,17,23,0.85);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  z-index: 100;
+}
+
+[data-theme="light"] #app-header {
+  background: rgba(255,255,255,0.85);
+}
+
+#header-title {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  color: var(--text-primary);
+}
+
+#header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon-btn {
+  width: 36px; height: 36px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  transition: background 0.15s, border-color 0.15s;
+  text-decoration: none;
+}
+
+.icon-btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--accent);
+}
+
+/* ===== MAIN CONTENT ===== */
+#main-content {
+  position: fixed;
+  top: var(--header-height);
+  left: 0; right: 0;
+  bottom: var(--tab-height);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ===== TABS ===== */
+.tab-panel { display: none; min-height: 100%; }
+.tab-panel.active { display: block; }
+
+#tab-editor.active { display: flex; flex-direction: column; height: 100%; }
+
+/* ===== BOTTOM TAB BAR ===== */
+#tab-bar {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  height: var(--tab-height);
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border);
+  display: flex;
+  z-index: 100;
+}
+
+.tab-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.15s;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tab-btn.active { color: var(--accent); }
+.tab-btn:hover { color: var(--text-secondary); }
+.tab-btn.active:hover { color: var(--accent-hover); }
+
+.tab-icon { font-size: 22px; line-height: 1; }
+.tab-label { font-size: 10px; font-weight: 500; letter-spacing: 0.2px; }
+
+/* ===== FILE BROWSER ===== */
+#files-panel { padding: 0 0 80px; }
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 6px;
+  flex-wrap: wrap;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.breadcrumb-item {
+  font-size: 13px;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.breadcrumb-item:hover { background: var(--bg-hover); }
+.breadcrumb-item.current { color: var(--text-primary); cursor: default; }
+.breadcrumb-item.current:hover { background: transparent; }
+.breadcrumb-sep { color: var(--text-muted); font-size: 13px; }
+
+.file-list { padding: 8px 16px; }
+
+.file-item {
+  display: flex;
+  align-items: center;
+  height: 56px;
+  gap: 12px;
+  padding: 0 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.1s;
+  border: 1px solid transparent;
+}
+
+.file-item:hover {
+  background: var(--bg-secondary);
+  border-color: var(--border);
+}
+
+.file-icon-wrap {
+  width: 40px; height: 40px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.file-info { flex: 1; min-width: 0; }
+
+.file-name {
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--text-primary);
+}
+
+.file-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.file-actions { display: flex; gap: 6px; flex-shrink: 0; }
+
+.file-action-btn {
+  width: 32px; height: 32px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  transition: all 0.1s;
+}
+
+.file-action-btn:hover {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+/* folder colors */
+.icon-folder { background: rgba(210,153,34,0.15); }
+.icon-pdf { background: rgba(248,81,73,0.15); }
+.icon-epub { background: rgba(163,113,247,0.15); }
+.icon-md { background: rgba(88,166,255,0.15); }
+.icon-txt { background: rgba(139,148,158,0.15); }
+.icon-img { background: rgba(63,185,80,0.15); }
+.icon-zip { background: rgba(210,153,34,0.15); }
+.icon-code { background: rgba(88,166,255,0.15); }
+.icon-doc { background: rgba(63,185,80,0.15); }
+.icon-other { background: rgba(139,148,158,0.15); }
+
+/* ===== LOADING / EMPTY STATES ===== */
+.state-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  gap: 12px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.state-box .state-icon { font-size: 48px; }
+.state-box .state-text { font-size: 15px; font-weight: 500; color: var(--text-secondary); }
+.state-box .state-sub { font-size: 13px; }
+
+.spinner {
+  width: 32px; height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ===== FAB ===== */
+#fab-upload {
+  position: fixed;
+  bottom: calc(var(--tab-height) + 16px);
+  right: 16px;
+  width: 56px; height: 56px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: white;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 4px 20px rgba(88,166,255,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+  transition: transform 0.15s, background 0.15s;
+}
+
+#fab-upload:hover {
+  background: var(--accent-hover);
+  transform: scale(1.08);
+}
+
+/* ===== MODALS ===== */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 200;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.modal-overlay.open {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.modal-sheet {
+  background: var(--bg-secondary);
+  border-radius: 20px 20px 0 0;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 0 0 24px;
+  transform: translateY(40px);
+  transition: transform 0.25s cubic-bezier(0.34,1.56,0.64,1);
+}
+
+.modal-overlay.open .modal-sheet {
+  transform: translateY(0);
+}
+
+.modal-handle {
+  width: 36px; height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+  margin: 12px auto 0;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.modal-title { font-size: 17px; font-weight: 700; }
+
+.modal-close {
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  background: var(--bg-tertiary);
+  border: none;
+  color: var(--text-secondary);
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-close:hover { background: var(--bg-hover); color: var(--text-primary); }
+
+.modal-body { padding: 16px 20px; }
+
+/* ===== FORM ELEMENTS ===== */
+.form-group { margin-bottom: 16px; }
+
+.form-label {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.form-input, .form-select, .form-textarea {
+  width: 100%;
+  padding: 10px 14px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-size: 14px;
+  font-family: inherit;
+  transition: border-color 0.15s;
+  outline: none;
+}
+
+.form-input:focus, .form-select:focus, .form-textarea:focus {
+  border-color: var(--accent);
+}
+
+.form-select option {
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+}
+
+.form-textarea { resize: vertical; min-height: 80px; }
+
+.input-wrap { position: relative; }
+
+.input-eye {
+  position: absolute;
+  right: 10px; top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 16px;
+  padding: 4px;
+}
+
+/* ===== BUTTONS ===== */
+.btn {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+}
+
+.btn-primary:hover { background: var(--accent-hover); }
+
+.btn-secondary {
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+}
+
+.btn-secondary:hover { background: var(--bg-hover); }
+
+.btn-danger { background: var(--error); color: white; }
+.btn-danger:hover { filter: brightness(1.1); }
+
+.btn-full { width: 100%; justify-content: center; }
+
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ===== DROP ZONE ===== */
+.drop-zone {
+  border: 2px dashed var(--border);
+  border-radius: 12px;
+  padding: 40px 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+  background: var(--bg-tertiary);
+  position: relative;
+}
+
+.drop-zone:hover, .drop-zone.dragover {
+  border-color: var(--accent);
+  background: rgba(88,166,255,0.06);
+}
+
+.drop-zone input[type="file"] {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+
+.drop-icon { font-size: 40px; margin-bottom: 12px; }
+.drop-text { font-size: 15px; font-weight: 600; color: var(--text-secondary); }
+.drop-sub { font-size: 13px; color: var(--text-muted); margin-top: 4px; }
+.drop-filename {
+  margin-top: 12px;
+  padding: 6px 12px;
+  background: var(--bg-primary);
+  border-radius: 6px;
+  font-size: 13px;
+  color: var(--accent);
+  display: none;
+}
+
+/* ===== CONVERT TAB ===== */
+#convert-panel { padding: 20px 16px 100px; }
+
+.section-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: var(--text-primary);
+}
+
+.step-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.step-num {
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.format-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.format-pill {
+  padding: 12px 10px;
+  border-radius: 10px;
+  border: 2px solid var(--border);
+  background: var(--bg-secondary);
+  cursor: pointer;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 600;
+  transition: all 0.15s;
+  color: var(--text-secondary);
+}
+
+.format-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(88,166,255,0.06);
+}
+
+.format-pill.selected {
+  border-color: var(--accent);
+  background: rgba(88,166,255,0.12);
+  color: var(--accent);
+}
+
+.format-pill .fmt-icon { font-size: 22px; display: block; margin-bottom: 4px; }
+
+.progress-bar-wrap {
+  height: 6px;
+  background: var(--bg-tertiary);
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 16px 0;
+  display: none;
+}
+
+.progress-bar {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 3px;
+  width: 0%;
+  transition: width 0.3s;
+}
+
+/* ===== EDITOR TAB ===== */
+#editor-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+#editor-filename {
+  flex: 1;
+  min-width: 140px;
+  padding: 7px 12px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-size: 13px;
+  font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+  outline: none;
+}
+
+#editor-filename:focus { border-color: var(--accent); }
+
+#editor-lang-select {
+  padding: 7px 10px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-size: 12px;
+  cursor: pointer;
+  outline: none;
+}
+
+.editor-btn {
+  padding: 7px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.editor-btn:hover { background: var(--bg-hover); color: var(--text-primary); }
+.editor-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+#editor-wrap {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+#codemirror-host {
+  height: 100%;
+  overflow: hidden;
+}
+
+#codemirror-host .cm-editor {
+  height: 100%;
+  font-family: 'SF Mono', 'Fira Code', 'Consolas', 'Monaco', monospace;
+  font-size: 13px;
+}
+
+#codemirror-host .cm-scroller { overflow: auto; height: 100%; }
+
+#editor-statusbar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 5px 14px;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border);
+  font-size: 11px;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+/* ===== SETTINGS TAB ===== */
+#settings-panel { padding: 20px 16px 80px; max-width: 600px; margin: 0 auto; }
+
+.settings-section {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.settings-section-title {
+  padding: 12px 16px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-tertiary);
+}
+
+.settings-row {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.settings-row:last-child { border-bottom: none; }
+
+.settings-row-label {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: var(--text-primary);
+}
+
+.settings-row-sub {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+  line-height: 1.5;
+}
+
+.settings-row-sub a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.settings-row-sub a:hover { text-decoration: underline; }
+
+.toggle-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* iOS-style toggle */
+.toggle {
+  position: relative;
+  width: 46px; height: 26px;
+  cursor: pointer;
+}
+
+.toggle input { opacity: 0; width: 0; height: 0; }
+
+.toggle-track {
+  position: absolute;
+  inset: 0;
+  background: var(--bg-hover);
+  border-radius: 13px;
+  transition: background 0.2s;
+}
+
+.toggle input:checked + .toggle-track { background: var(--accent); }
+
+.toggle-thumb {
+  position: absolute;
+  top: 3px; left: 3px;
+  width: 20px; height: 20px;
+  background: white;
+  border-radius: 50%;
+  transition: left 0.2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+
+.toggle input:checked ~ .toggle-thumb { left: 23px; }
+
+/* ===== ABOUT SECTION ===== */
+.about-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+}
+
+.about-emoji { font-size: 48px; margin-bottom: 12px; }
+.about-name { font-size: 18px; font-weight: 700; margin-bottom: 4px; }
+.about-version { font-size: 13px; color: var(--text-muted); margin-bottom: 12px; }
+.about-powered { font-size: 13px; color: var(--text-secondary); margin-bottom: 16px; }
+
+.about-links {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.about-link {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  transition: all 0.15s;
+}
+
+.about-link:hover { background: var(--bg-hover); }
+
+/* ===== TOAST ===== */
+#toast-container {
+  position: fixed;
+  bottom: calc(var(--tab-height) + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 8px;
+  pointer-events: none;
+  width: min(90vw, 400px);
+}
+
+.toast {
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  color: white;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  animation: toastIn 0.3s cubic-bezier(0.34,1.56,0.64,1) forwards;
+  pointer-events: all;
+}
+
+.toast.out { animation: toastOut 0.25s ease forwards; }
+
+.toast-success { background: var(--success); }
+.toast-error { background: var(--error); }
+.toast-info { background: var(--accent); }
+.toast-warning { background: var(--warning); }
+
+@keyframes toastIn {
+  from { opacity: 0; transform: translateY(20px) scale(0.9); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes toastOut {
+  from { opacity: 1; transform: translateY(0) scale(1); }
+  to { opacity: 0; transform: translateY(10px) scale(0.95); }
+}
+
+/* ===== CARD CONTAINER ===== */
+.card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* ===== REPO INFO ROW ===== */
+.info-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 0;
+  font-size: 14px;
+}
+
+.info-label { color: var(--text-muted); font-weight: 500; }
+.info-value { color: var(--text-primary); font-weight: 600; font-family: monospace; }
+
+/* ===== UPLOAD MODAL SPECIFIC ===== */
+.folder-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.folder-chip {
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.folder-chip:hover { border-color: var(--accent); color: var(--accent); }
+.folder-chip.selected { border-color: var(--accent); background: rgba(88,166,255,0.12); color: var(--accent); }
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 480px) {
+  .format-grid { grid-template-columns: repeat(3, 1fr); }
+  #editor-toolbar { padding: 8px; gap: 6px; }
+  .editor-btn { padding: 6px 8px; font-size: 11px; }
+}
+
+/* ===== EDITOR PLACEHOLDER ===== */
+#editor-placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 12px;
+  color: var(--text-muted);
+  font-size: 15px;
+  pointer-events: none;
+}
+
+/* override codemirror line numbers visibility */
+.cm-gutters {
+  background-color: var(--bg-tertiary) !important;
+  border-right: 1px solid var(--border) !important;
+  color: var(--text-muted) !important;
+  min-width: 42px;
+}
+
+.cm-lineNumbers .cm-gutterElement {
+  padding: 0 8px;
+  min-width: 32px;
+}
+
+/* light theme editor */
+[data-theme="light"] .cm-gutters {
+  background-color: #f6f8fa !important;
+  border-right: 1px solid #d0d7de !important;
+  color: #848d97 !important;
+}
+
+[data-theme="light"] #codemirror-host .cm-editor {
+  background: #ffffff;
+  color: #1f2328;
+}
+</style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header id="app-header">
+  <span id="header-title">📚 Library of Alexandria</span>
+  <div id="header-actions">
+    <button class="icon-btn" id="theme-toggle-btn" title="Toggle theme">🌙</button>
+    <a class="icon-btn" href="https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria" target="_blank" title="GitHub">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+      </svg>
+    </a>
+  </div>
+</header>
+
+<!-- ===== MAIN CONTENT ===== -->
+<main id="main-content">
+
+  <!-- TAB 1: FILES -->
+  <div id="tab-files" class="tab-panel active">
+    <div id="files-panel">
+      <div class="breadcrumb" id="breadcrumb-bar">
+        <span class="breadcrumb-item" data-path="">🏠 root</span>
+      </div>
+      <div id="file-list-container">
+        <div class="state-box">
+          <div class="spinner"></div>
+          <span class="state-text">Loading files…</span>
+        </div>
+      </div>
+    </div>
+    <button id="fab-upload" title="Upload file">＋</button>
+  </div>
+
+  <!-- TAB 2: CONVERT -->
+  <div id="tab-convert" class="tab-panel">
+    <div id="convert-panel">
+      <h2 class="section-title">🔄 Document Converter</h2>
+
+      <div class="step-label"><span class="step-num">1</span> Select a file</div>
+      <div class="drop-zone" id="convert-drop">
+        <input type="file" id="convert-file-input" accept="*/*">
+        <div class="drop-icon">📄</div>
+        <div class="drop-text">Drop a file here or click to browse</div>
+        <div class="drop-sub">Supports PDF, TXT, MD, HTML and more</div>
+        <div class="drop-filename" id="convert-filename"></div>
+      </div>
+
+      <div class="step-label"><span class="step-num">2</span> Choose output format</div>
+      <div class="format-grid">
+        <div class="format-pill" data-fmt="pdf"><span class="fmt-icon">📄</span>PDF</div>
+        <div class="format-pill" data-fmt="html"><span class="fmt-icon">🌐</span>HTML (zip)</div>
+        <div class="format-pill" data-fmt="md"><span class="fmt-icon">📝</span>Markdown</div>
+        <div class="format-pill" data-fmt="epub"><span class="fmt-icon">📖</span>EPUB</div>
+        <div class="format-pill" data-fmt="odt"><span class="fmt-icon">📃</span>ODT</div>
+        <div class="format-pill" data-fmt="txt"><span class="fmt-icon">📋</span>TXT</div>
+        <div class="format-pill" data-fmt="rtf"><span class="fmt-icon">🖊️</span>RTF</div>
+      </div>
+
+      <div class="step-label"><span class="step-num">3</span> Convert</div>
+      <div class="progress-bar-wrap" id="convert-progress-wrap">
+        <div class="progress-bar" id="convert-progress-bar"></div>
+      </div>
+      <button class="btn btn-primary btn-full" id="convert-btn" style="margin-top:12px;" disabled>
+        ⚡ Convert &amp; Download
+      </button>
+      <div id="convert-status" style="margin-top:12px;font-size:13px;color:var(--text-muted);text-align:center;"></div>
+    </div>
+  </div>
+
+  <!-- TAB 3: EDITOR -->
+  <div id="tab-editor" class="tab-panel">
+    <div id="editor-toolbar">
+      <input id="editor-filename" type="text" placeholder="untitled.md" value="untitled.md" spellcheck="false">
+      <select id="editor-lang-select">
+        <option value="markdown">Markdown</option>
+        <option value="javascript">JavaScript</option>
+        <option value="python">Python</option>
+        <option value="html">HTML</option>
+        <option value="text">Plain Text</option>
+      </select>
+      <button class="editor-btn" id="editor-wrap-btn" title="Toggle word wrap">⏎ Wrap</button>
+      <button class="editor-btn" id="editor-open-btn" title="Open local file">📂 Open</button>
+      <input type="file" id="editor-file-input" style="display:none">
+      <button class="editor-btn" id="editor-download-btn" title="Download file">⬇️ Save</button>
+      <button class="editor-btn" id="editor-save-repo-btn" title="Save to GitHub repo">💾 Repo</button>
+    </div>
+    <div id="editor-wrap">
+      <div id="codemirror-host"></div>
+      <div id="editor-placeholder">
+        <span style="font-size:40px">✏️</span>
+        <span>Loading editor…</span>
+      </div>
+    </div>
+    <div id="editor-statusbar">
+      <span id="editor-stat-lines">Lines: 0</span>
+      <span>|</span>
+      <span id="editor-stat-chars">Chars: 0</span>
+      <span>|</span>
+      <span id="editor-stat-lang">Markdown</span>
+      <span style="flex:1"></span>
+      <span id="editor-stat-cursor">Ln 1, Col 1</span>
+    </div>
+  </div>
+
+  <!-- TAB 4: SETTINGS -->
+  <div id="tab-settings" class="tab-panel">
+    <div id="settings-panel">
+
+      <div class="settings-section">
+        <div class="settings-section-title">🔑 GitHub Authentication</div>
+        <div class="settings-row">
+          <div class="settings-row-label">Personal Access Token</div>
+          <div class="input-wrap" style="margin-top:8px;">
+            <input type="password" id="gh-token-input" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
+            <button class="input-eye" id="gh-token-eye" tabindex="-1">👁</button>
+          </div>
+          <div class="settings-row-sub">
+            Required for uploading files and saving from editor. Token needs <strong>repo</strong> scope.<br>
+            <a href="https://github.com/settings/tokens/new?scopes=repo&description=Library+of+Alexandria" target="_blank">➕ Create token at github.com/settings/tokens</a>
+          </div>
+        </div>
+        <div class="settings-row">
+          <button class="btn btn-primary" id="save-token-btn">💾 Save Token</button>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">📦 Repository</div>
+        <div class="settings-row">
+          <div class="info-row">
+            <span class="info-label">Repo:</span>
+            <span class="info-value">SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">Host:</span>
+            <span class="info-value">GitHub Pages</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">API:</span>
+            <span class="info-value">api.github.com</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">🎨 Appearance</div>
+        <div class="settings-row">
+          <div class="toggle-row">
+            <div>
+              <div class="settings-row-label">Dark Theme</div>
+              <div class="settings-row-sub">Filza-style dark interface</div>
+            </div>
+            <label class="toggle">
+              <input type="checkbox" id="theme-toggle-check" checked>
+              <span class="toggle-track"></span>
+              <span class="toggle-thumb"></span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="about-card">
+        <div class="about-emoji">📚</div>
+        <div class="about-name">Library of Alexandria</div>
+        <div class="about-version">Version 1.0.0</div>
+        <div class="about-powered">Powered by GitHub Pages · Built with ❤️</div>
+        <div class="about-links">
+          <a class="about-link" href="README.md" target="_blank">📖 README</a>
+          <a class="about-link" href="PACKT_INDEX.md" target="_blank">📑 PACKT Index</a>
+          <a class="about-link" href="https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria" target="_blank">🐙 GitHub</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</main>
+
+<!-- ===== BOTTOM TAB BAR ===== -->
+<nav id="tab-bar">
+  <button class="tab-btn active" data-tab="files">
+    <span class="tab-icon">📁</span>
+    <span class="tab-label">Files</span>
+  </button>
+  <button class="tab-btn" data-tab="convert">
+    <span class="tab-icon">🔄</span>
+    <span class="tab-label">Convert</span>
+  </button>
+  <button class="tab-btn" data-tab="editor">
+    <span class="tab-icon">✏️</span>
+    <span class="tab-label">Editor</span>
+  </button>
+  <button class="tab-btn" data-tab="settings">
+    <span class="tab-icon">⚙️</span>
+    <span class="tab-label">Settings</span>
+  </button>
+</nav>
+
+<!-- ===== UPLOAD MODAL ===== -->
+<div class="modal-overlay" id="upload-modal">
+  <div class="modal-sheet">
+    <div class="modal-handle"></div>
+    <div class="modal-header">
+      <span class="modal-title">📤 Upload File</span>
+      <button class="modal-close" id="upload-modal-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <div class="drop-zone" id="upload-drop">
+          <input type="file" id="upload-file-input" accept="*/*">
+          <div class="drop-icon">📄</div>
+          <div class="drop-text">Drop file here or click to browse</div>
+          <div class="drop-sub">Any document type</div>
+          <div class="drop-filename" id="upload-filename"></div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Destination Folder</label>
+        <div class="folder-chip-row" id="folder-chips">
+          <div class="folder-chip selected" data-folder="docs/PDFs">📄 PDFs</div>
+          <div class="folder-chip" data-folder="docs/eBooks">📗 eBooks</div>
+          <div class="folder-chip" data-folder="docs/Presentations">📊 Presentations</div>
+          <div class="folder-chip" data-folder="docs/Spreadsheets">📈 Spreadsheets</div>
+          <div class="folder-chip" data-folder="docs/Other">📎 Other</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Commit Message</label>
+        <input type="text" class="form-input" id="upload-commit-msg" placeholder="Add document via Library of Alexandria app">
+      </div>
+      <div class="progress-bar-wrap" id="upload-progress-wrap">
+        <div class="progress-bar" id="upload-progress-bar"></div>
+      </div>
+      <button class="btn btn-primary btn-full" id="upload-btn">
+        📤 Upload to Repo
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== SAVE TO REPO MODAL ===== -->
+<div class="modal-overlay" id="save-modal">
+  <div class="modal-sheet">
+    <div class="modal-handle"></div>
+    <div class="modal-header">
+      <span class="modal-title">💾 Save to Repository</span>
+      <button class="modal-close" id="save-modal-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label class="form-label">File Path in Repo</label>
+        <input type="text" class="form-input" id="save-path-input" placeholder="docs/PDFs/filename.md">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Commit Message</label>
+        <input type="text" class="form-input" id="save-commit-msg" placeholder="Update file via editor">
+      </div>
+      <button class="btn btn-primary btn-full" id="save-confirm-btn">💾 Save to Repo</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== TOAST CONTAINER ===== -->
+<div id="toast-container"></div>
+
+<!-- ===== MAIN SCRIPT ===== -->
+<script>
+// =============================================
+// GitHub API Helper
+// =============================================
+class GitHubAPI {
+  constructor(token, repo = 'SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria') {
+    this.token = token;
+    this.repo = repo;
+    this.base = 'https://api.github.com';
+  }
+
+  get headers() {
+    const h = { 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' };
+    if (this.token) h['Authorization'] = `token ${this.token}`;
+    return h;
+  }
+
+  async getContents(path) {
+    const url = `${this.base}/repos/${this.repo}/contents/${encodeURI(path)}`;
+    const res = await fetch(url, { headers: this.headers });
+    if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
+    return res.json();
+  }
+
+  async uploadFile(repoPath, content, message, sha = null) {
+    const url = `${this.base}/repos/${this.repo}/contents/${encodeURI(repoPath)}`;
+    const body = { message, content };
+    if (sha) body.sha = sha;
+    const res = await fetch(url, { method: 'PUT', headers: this.headers, body: JSON.stringify(body) });
+    if (!res.ok) throw new Error(`Upload failed ${res.status}: ${await res.text()}`);
+    return res.json();
+  }
+
+  async getFileSha(repoPath) {
+    try {
+      const data = await this.getContents(repoPath);
+      return data.sha || null;
+    } catch { return null; }
+  }
+}
+
+// =============================================
+// Toast Notification System
+// =============================================
+function showToast(message, type = 'info') {
+  const container = document.getElementById('toast-container');
+  const toast = document.createElement('div');
+  toast.className = `toast toast-${type}`;
+  const icons = { success: '✅', error: '❌', info: 'ℹ️', warning: '⚠️' };
+  toast.innerHTML = `<span>${icons[type] || 'ℹ️'}</span><span>${message}</span>`;
+  container.appendChild(toast);
+  setTimeout(() => {
+    toast.classList.add('out');
+    setTimeout(() => toast.remove(), 300);
+  }, 3000);
+}
+
+// =============================================
+// Theme Management
+// =============================================
+function applyTheme(dark) {
+  document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+  document.getElementById('theme-toggle-btn').textContent = dark ? '🌙' : '☀️';
+  document.getElementById('theme-toggle-check').checked = dark;
+  localStorage.setItem('theme', dark ? 'dark' : 'light');
+  if (window.editorInstance) {
+    window.editorInstance.updateTheme(dark);
+  }
+}
+
+document.getElementById('theme-toggle-btn').addEventListener('click', () => {
+  applyTheme(document.documentElement.getAttribute('data-theme') === 'light');
+});
+
+document.getElementById('theme-toggle-check').addEventListener('change', (e) => {
+  applyTheme(e.target.checked);
+});
+
+// Init theme
+const savedTheme = localStorage.getItem('theme') || 'dark';
+applyTheme(savedTheme === 'dark');
+
+// =============================================
+// Tab Navigation
+// =============================================
+const tabBtns = document.querySelectorAll('.tab-btn');
+const tabPanels = document.querySelectorAll('.tab-panel');
+
+function switchTab(tabName) {
+  tabBtns.forEach(b => b.classList.toggle('active', b.dataset.tab === tabName));
+  tabPanels.forEach(p => p.classList.toggle('active', p.id === `tab-${tabName}`));
+  if (tabName === 'editor' && window.editorInstance) {
+    setTimeout(() => window.editorInstance.refresh(), 50);
+  }
+}
+
+tabBtns.forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+// =============================================
+// File Browser
+// =============================================
+const REPO = 'SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria';
+let currentPath = '';
+let breadcrumbs = [{ label: '🏠 root', path: '' }];
+
+function getToken() { return localStorage.getItem('gh_token') || ''; }
+function getAPI() { return new GitHubAPI(getToken()); }
+
+function getFileIcon(name, type) {
+  if (type === 'dir') return { icon: '📁', cls: 'icon-folder' };
+  const ext = name.split('.').pop().toLowerCase();
+  const map = {
+    pdf: { icon: '📄', cls: 'icon-pdf' },
+    epub: { icon: '📖', cls: 'icon-epub' },
+    mobi: { icon: '📖', cls: 'icon-epub' },
+    md: { icon: '📝', cls: 'icon-md' },
+    markdown: { icon: '📝', cls: 'icon-md' },
+    txt: { icon: '📋', cls: 'icon-txt' },
+    html: { icon: '🌐', cls: 'icon-code' },
+    htm: { icon: '🌐', cls: 'icon-code' },
+    js: { icon: '📜', cls: 'icon-code' },
+    py: { icon: '🐍', cls: 'icon-code' },
+    json: { icon: '🔧', cls: 'icon-code' },
+    yml: { icon: '🔧', cls: 'icon-code' },
+    yaml: { icon: '🔧', cls: 'icon-code' },
+    png: { icon: '🖼️', cls: 'icon-img' },
+    jpg: { icon: '🖼️', cls: 'icon-img' },
+    jpeg: { icon: '🖼️', cls: 'icon-img' },
+    gif: { icon: '🖼️', cls: 'icon-img' },
+    svg: { icon: '🖼️', cls: 'icon-img' },
+    zip: { icon: '🗜️', cls: 'icon-zip' },
+    tar: { icon: '🗜️', cls: 'icon-zip' },
+    gz: { icon: '🗜️', cls: 'icon-zip' },
+    xlsx: { icon: '📊', cls: 'icon-doc' },
+    xls: { icon: '📊', cls: 'icon-doc' },
+    csv: { icon: '📊', cls: 'icon-doc' },
+    pptx: { icon: '📽️', cls: 'icon-doc' },
+    ppt: { icon: '📽️', cls: 'icon-doc' },
+    docx: { icon: '📃', cls: 'icon-doc' },
+    doc: { icon: '📃', cls: 'icon-doc' },
+    odt: { icon: '📃', cls: 'icon-doc' },
+    rtf: { icon: '📃', cls: 'icon-doc' },
+  };
+  return map[ext] || { icon: '📎', cls: 'icon-other' };
+}
+
+function formatSize(bytes) {
+  if (!bytes) return '';
+  if (bytes < 1024) return `${bytes} B`;
+  if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(1)} KB`;
+  return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+}
+
+function buildBreadcrumb() {
+  const bar = document.getElementById('breadcrumb-bar');
+  bar.innerHTML = '';
+  breadcrumbs.forEach((crumb, i) => {
+    const el = document.createElement('span');
+    el.className = 'breadcrumb-item' + (i === breadcrumbs.length - 1 ? ' current' : '');
+    el.textContent = crumb.label;
+    el.dataset.path = crumb.path;
+    if (i < breadcrumbs.length - 1) {
+      el.addEventListener('click', () => navigateTo(crumb.path, breadcrumbs.slice(0, i + 1)));
+    }
+    bar.appendChild(el);
+    if (i < breadcrumbs.length - 1) {
+      const sep = document.createElement('span');
+      sep.className = 'breadcrumb-sep';
+      sep.textContent = '/';
+      bar.appendChild(sep);
+    }
+  });
+}
+
+async function navigateTo(path, crumbs) {
+  currentPath = path;
+  breadcrumbs = crumbs || [{ label: '🏠 root', path: '' }];
+  buildBreadcrumb();
+  await loadFiles(path);
+}
+
+async function loadFiles(path) {
+  const container = document.getElementById('file-list-container');
+  container.innerHTML = `<div class="state-box"><div class="spinner"></div><span class="state-text">Loading…</span></div>`;
+  try {
+    const api = getAPI();
+    const items = await api.getContents(path);
+    if (!Array.isArray(items)) {
+      // It's a file — offer to open in editor or download
+      renderFileDetail(items, container);
+      return;
+    }
+    // Sort: dirs first, then by name
+    items.sort((a, b) => {
+      if (a.type === b.type) return a.name.localeCompare(b.name);
+      return a.type === 'dir' ? -1 : 1;
+    });
+    if (items.length === 0) {
+      container.innerHTML = `<div class="state-box"><div class="state-icon">📭</div><div class="state-text">Empty folder</div><div class="state-sub">No files here yet</div></div>`;
+      return;
+    }
+    renderFileList(items, container);
+  } catch (err) {
+    container.innerHTML = `<div class="state-box"><div class="state-icon">⚠️</div><div class="state-text">Failed to load</div><div class="state-sub">${err.message}</div></div>`;
+  }
+}
+
+function renderFileList(items, container) {
+  const list = document.createElement('div');
+  list.className = 'file-list';
+  items.forEach(item => {
+    const { icon, cls } = getFileIcon(item.name, item.type);
+    const row = document.createElement('div');
+    row.className = 'file-item';
+    row.innerHTML = `
+      <div class="file-icon-wrap ${cls}">${icon}</div>
+      <div class="file-info">
+        <div class="file-name">${item.name}</div>
+        <div class="file-meta">${item.type === 'dir' ? 'Folder' : formatSize(item.size)}</div>
+      </div>
+      <div class="file-actions">
+        ${item.type === 'file' ? `<button class="file-action-btn" title="Open in editor" data-action="edit" data-url="${item.download_url || ''}" data-name="${item.name}">✏️</button>
+          <a class="file-action-btn" href="${item.download_url || item.html_url}" download="${item.name}" title="Download">⬇️</a>` : ''}
+        ${item.type === 'dir' ? `<span class="file-action-btn" style="background:transparent;border:none;color:var(--text-muted);">›</span>` : ''}
+      </div>
+    `;
+    if (item.type === 'dir') {
+      row.addEventListener('click', () => {
+        const newCrumbs = [...breadcrumbs, { label: item.name, path: item.path }];
+        navigateTo(item.path, newCrumbs);
+      });
+    }
+    row.querySelectorAll('[data-action="edit"]').forEach(btn => {
+      btn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        openFileInEditor(btn.dataset.url, btn.dataset.name);
+      });
+    });
+    list.appendChild(row);
+  });
+  container.innerHTML = '';
+  container.appendChild(list);
+}
+
+function renderFileDetail(item, container) {
+  const { icon, cls } = getFileIcon(item.name, 'file');
+  container.innerHTML = `
+    <div style="padding:20px;">
+      <div class="card" style="padding:20px;text-align:center;">
+        <div class="file-icon-wrap ${cls}" style="width:60px;height:60px;font-size:32px;margin:0 auto 12px;">${icon}</div>
+        <div style="font-size:16px;font-weight:700;margin-bottom:4px;">${item.name}</div>
+        <div style="font-size:13px;color:var(--text-muted);margin-bottom:16px;">${formatSize(item.size)}</div>
+        <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;">
+          <a class="btn btn-secondary" href="${item.download_url}" download="${item.name}">⬇️ Download</a>
+          <button class="btn btn-primary" onclick="openFileInEditor('${item.download_url}','${item.name}')">✏️ Open in Editor</button>
+        </div>
+      </div>
+    </div>`;
+}
+
+async function openFileInEditor(url, name) {
+  if (!url) { showToast('No download URL for this file', 'error'); return; }
+  try {
+    showToast('Loading file into editor…', 'info');
+    const res = await fetch(url);
+    const text = await res.text();
+    document.getElementById('editor-filename').value = name;
+    if (window.editorInstance) {
+      window.editorInstance.setValue(text);
+      autoDetectLanguage(name);
+    }
+    switchTab('editor');
+  } catch (err) {
+    showToast('Failed to load file: ' + err.message, 'error');
+  }
+}
+
+function autoDetectLanguage(filename) {
+  const ext = filename.split('.').pop().toLowerCase();
+  const langMap = { md: 'markdown', markdown: 'markdown', js: 'javascript', mjs: 'javascript', cjs: 'javascript', py: 'python', html: 'html', htm: 'html' };
+  const lang = langMap[ext] || 'text';
+  const select = document.getElementById('editor-lang-select');
+  select.value = lang;
+  if (window.editorInstance) window.editorInstance.setLanguage(lang);
+}
+
+// Initial load
+loadFiles('');
+
+// =============================================
+// Upload Modal
+// =============================================
+let uploadFile = null;
+let selectedFolder = 'docs/PDFs';
+
+document.getElementById('fab-upload').addEventListener('click', () => {
+  document.getElementById('upload-modal').classList.add('open');
+});
+
+document.getElementById('upload-modal-close').addEventListener('click', () => {
+  document.getElementById('upload-modal').classList.remove('open');
+});
+
+document.getElementById('upload-modal').addEventListener('click', (e) => {
+  if (e.target === e.currentTarget) e.currentTarget.classList.remove('open');
+});
+
+// Folder chips
+document.querySelectorAll('.folder-chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.folder-chip').forEach(c => c.classList.remove('selected'));
+    chip.classList.add('selected');
+    selectedFolder = chip.dataset.folder;
+  });
+});
+
+// Upload drop zone
+setupDropZone('upload-drop', 'upload-file-input', 'upload-filename', (file) => {
+  uploadFile = file;
+});
+
+document.getElementById('upload-btn').addEventListener('click', async () => {
+  if (!uploadFile) { showToast('Please select a file to upload', 'error'); return; }
+  const token = getToken();
+  if (!token) { showToast('No GitHub token set. Go to Settings tab.', 'error'); return; }
+  const commitMsg = document.getElementById('upload-commit-msg').value || `Add ${uploadFile.name} via Library of Alexandria`;
+  const repoPath = `${selectedFolder}/${uploadFile.name}`;
+  const btn = document.getElementById('upload-btn');
+  btn.disabled = true;
+  btn.textContent = 'Uploading…';
+  const progressWrap = document.getElementById('upload-progress-wrap');
+  const progressBar = document.getElementById('upload-progress-bar');
+  progressWrap.style.display = 'block';
+  progressBar.style.width = '30%';
+  try {
+    const arrayBuf = await uploadFile.arrayBuffer();
+    const base64 = btoa(String.fromCharCode(...new Uint8Array(arrayBuf)));
+    progressBar.style.width = '60%';
+    const api = getAPI();
+    const existingSha = await api.getFileSha(repoPath);
+    progressBar.style.width = '80%';
+    await api.uploadFile(repoPath, base64, commitMsg, existingSha);
+    progressBar.style.width = '100%';
+    showToast(`✅ Uploaded: ${uploadFile.name}`, 'success');
+    document.getElementById('upload-modal').classList.remove('open');
+    uploadFile = null;
+    document.getElementById('upload-filename').style.display = 'none';
+    await loadFiles(currentPath);
+  } catch (err) {
+    showToast('Upload failed: ' + err.message, 'error');
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '📤 Upload to Repo';
+    progressWrap.style.display = 'none';
+    progressBar.style.width = '0%';
+  }
+});
+
+// =============================================
+// Drop Zone Helper
+// =============================================
+function setupDropZone(zoneId, inputId, filenameId, onFile) {
+  const zone = document.getElementById(zoneId);
+  const input = document.getElementById(inputId);
+  const fnDisplay = document.getElementById(filenameId);
+
+  function handleFile(file) {
+    if (!file) return;
+    onFile(file);
+    if (fnDisplay) {
+      fnDisplay.textContent = `📎 ${file.name} (${formatSize(file.size)})`;
+      fnDisplay.style.display = 'block';
+    }
+  }
+
+  input.addEventListener('change', () => handleFile(input.files[0]));
+  zone.addEventListener('dragover', (e) => { e.preventDefault(); zone.classList.add('dragover'); });
+  zone.addEventListener('dragleave', () => zone.classList.remove('dragover'));
+  zone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    zone.classList.remove('dragover');
+    handleFile(e.dataTransfer.files[0]);
+  });
+}
+
+// =============================================
+// CONVERTER TAB
+// =============================================
+let convertFile = null;
+let selectedFormat = null;
+
+setupDropZone('convert-drop', 'convert-file-input', 'convert-filename', (file) => {
+  convertFile = file;
+  updateConvertBtn();
+});
+
+document.querySelectorAll('.format-pill').forEach(pill => {
+  pill.addEventListener('click', () => {
+    document.querySelectorAll('.format-pill').forEach(p => p.classList.remove('selected'));
+    pill.classList.add('selected');
+    selectedFormat = pill.dataset.fmt;
+    updateConvertBtn();
+  });
+});
+
+function updateConvertBtn() {
+  document.getElementById('convert-btn').disabled = !(convertFile && selectedFormat);
+}
+
+document.getElementById('convert-btn').addEventListener('click', async () => {
+  if (!convertFile || !selectedFormat) return;
+  const btn = document.getElementById('convert-btn');
+  const progressWrap = document.getElementById('convert-progress-wrap');
+  const progressBar = document.getElementById('convert-progress-bar');
+  const status = document.getElementById('convert-status');
+
+  btn.disabled = true;
+  btn.textContent = '⏳ Converting…';
+  progressWrap.style.display = 'block';
+  progressBar.style.width = '10%';
+  status.textContent = 'Reading file…';
+
+  try {
+    const text = await extractText(convertFile, (pct) => {
+      progressBar.style.width = `${10 + pct * 40}%`;
+    });
+    progressBar.style.width = '55%';
+    status.textContent = 'Converting…';
+    const baseName = convertFile.name.replace(/\.[^.]+$/, '');
+    let blob, outName;
+
+    switch (selectedFormat) {
+      case 'txt':
+        blob = new Blob([text], { type: 'text/plain' });
+        outName = `${baseName}.txt`;
+        break;
+      case 'md': {
+        const mdText = `# ${baseName}\n\n${text}`;
+        blob = new Blob([mdText], { type: 'text/markdown' });
+        outName = `${baseName}.md`;
+        break;
+      }
+      case 'pdf':
+        { const { jsPDF } = window.jspdf;
+          const doc = new jsPDF({ unit: 'pt', format: 'a4' });
+          const lines = doc.splitTextToSize(text, 500);
+          let y = 40;
+          lines.forEach(line => {
+            if (y > 800) { doc.addPage(); y = 40; }
+            doc.text(line, 40, y);
+            y += 14;
+          });
+          blob = doc.output('blob');
+          outName = `${baseName}.pdf`;
+        }
+        break;
+      case 'html': {
+        const htmlContent = `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>${baseName}</title><style>body{font-family:sans-serif;max-width:800px;margin:40px auto;padding:0 20px;line-height:1.6}pre{white-space:pre-wrap}</style></head><body><h1>${baseName}</h1><pre>${escapeHtml(text)}</pre></body></html>`;
+        const zip = new JSZip();
+        zip.file(`${baseName}.html`, htmlContent);
+        blob = await zip.generateAsync({ type: 'blob' });
+        outName = `${baseName}_html.zip`;
+        break;
+      }
+      case 'rtf': {
+        const rtfText = text.replace(/\\/g, '\\\\').replace(/\{/g, '\\{').replace(/\}/g, '\\}').replace(/\n/g, '\\par\n');
+        const rtf = `{\\rtf1\\ansi\\deff0{\\fonttbl{\\f0 Courier New;}}\\f0\\fs20 ${rtfText}}`;
+        blob = new Blob([rtf], { type: 'application/rtf' });
+        outName = `${baseName}.rtf`;
+        break;
+      }
+      case 'odt': {
+        const zip = new JSZip();
+        zip.file('mimetype', 'application/vnd.oasis.opendocument.text');
+        zip.file('META-INF/manifest.xml', `<?xml version="1.0" encoding="UTF-8"?><manifest:manifest xmlns:manifest="urn:oasis:names:tc:opendocument:xmlns:manifest:1.0"><manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.text" manifest:full-path="/"/><manifest:file-entry manifest:media-type="text/xml" manifest:full-path="content.xml"/></manifest:manifest>`);
+        const paras = text.split('\n').map(l => `<text:p text:style-name="Standard">${escapeXml(l)}</text:p>`).join('');
+        zip.file('content.xml', `<?xml version="1.0" encoding="UTF-8"?><office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" office:version="1.2"><office:body><office:text>${paras}</office:text></office:body></office:document-content>`);
+        blob = await zip.generateAsync({ type: 'blob' });
+        outName = `${baseName}.odt`;
+        break;
+      }
+      case 'epub': {
+        const zip = new JSZip();
+        zip.file('mimetype', 'application/epub+zip');
+        zip.file('META-INF/container.xml', `<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>`);
+        zip.file('OEBPS/content.opf', `<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>${escapeXml(baseName)}</dc:title><dc:language>en</dc:language><dc:identifier id="id">urn:uuid:${crypto.randomUUID()}</dc:identifier></metadata><manifest><item id="content" href="chapter1.xhtml" media-type="application/xhtml+xml"/><item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/></manifest><spine toc="ncx"><itemref idref="content"/></spine></package>`);
+        const paras2 = text.split('\n').map(l => `<p>${escapeXml(l) || '&#160;'}</p>`).join('');
+        zip.file('OEBPS/chapter1.xhtml', `<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>${escapeXml(baseName)}</title></head><body><h1>${escapeXml(baseName)}</h1>${paras2}</body></html>`);
+        zip.file('OEBPS/toc.ncx', `<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta name="dtb:uid" content="uid"/></head><docTitle><text>${escapeXml(baseName)}</text></docTitle><navMap><navPoint id="n1" playOrder="1"><navLabel><text>Content</text></navLabel><content src="chapter1.xhtml"/></navPoint></navMap></ncx>`);
+        blob = await zip.generateAsync({ type: 'blob' });
+        outName = `${baseName}.epub`;
+        break;
+      }
+      default:
+        throw new Error('Unknown format');
+    }
+
+    progressBar.style.width = '100%';
+    status.textContent = 'Done! Downloading…';
+    triggerDownload(blob, outName);
+    showToast(`✅ Converted to ${outName}`, 'success');
+  } catch (err) {
+    showToast('Conversion failed: ' + err.message, 'error');
+    status.textContent = 'Error: ' + err.message;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '⚡ Convert & Download';
+    setTimeout(() => {
+      progressWrap.style.display = 'none';
+      progressBar.style.width = '0%';
+      status.textContent = '';
+    }, 2000);
+  }
+});
+
+async function extractText(file, onProgress) {
+  const name = file.name.toLowerCase();
+  if (name.endsWith('.pdf')) {
+    return extractPdfText(file, onProgress);
+  }
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = (e) => { onProgress && onProgress(1); resolve(e.target.result); };
+    reader.onerror = reject;
+    reader.readAsText(file);
+  });
+}
+
+async function extractPdfText(file, onProgress) {
+  const arrayBuf = await file.arrayBuffer();
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  const pdf = await pdfjsLib.getDocument({ data: arrayBuf }).promise;
+  let fullText = '';
+  for (let i = 1; i <= pdf.numPages; i++) {
+    const page = await pdf.getPage(i);
+    const content = await page.getTextContent();
+    fullText += content.items.map(s => s.str).join(' ') + '\n';
+    onProgress && onProgress(i / pdf.numPages);
+  }
+  return fullText;
+}
+
+function triggerDownload(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(url); }, 1000);
+}
+
+function escapeHtml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function escapeXml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;');
+}
+
+// =============================================
+// Settings Tab
+// =============================================
+const tokenInput = document.getElementById('gh-token-input');
+tokenInput.value = localStorage.getItem('gh_token') || '';
+
+document.getElementById('gh-token-eye').addEventListener('click', () => {
+  tokenInput.type = tokenInput.type === 'password' ? 'text' : 'password';
+});
+
+document.getElementById('save-token-btn').addEventListener('click', () => {
+  const val = tokenInput.value.trim();
+  if (!val) { showToast('Please enter a token', 'error'); return; }
+  localStorage.setItem('gh_token', val);
+  showToast('Token saved!', 'success');
+});
+
+// =============================================
+// Editor — Save to Repo
+// =============================================
+document.getElementById('editor-save-repo-btn').addEventListener('click', () => {
+  const filename = document.getElementById('editor-filename').value || 'untitled.txt';
+  document.getElementById('save-path-input').value = `docs/${filename}`;
+  document.getElementById('save-commit-msg').value = `Update ${filename} via editor`;
+  document.getElementById('save-modal').classList.add('open');
+});
+
+document.getElementById('save-modal-close').addEventListener('click', () => {
+  document.getElementById('save-modal').classList.remove('open');
+});
+
+document.getElementById('save-modal').addEventListener('click', (e) => {
+  if (e.target === e.currentTarget) e.currentTarget.classList.remove('open');
+});
+
+document.getElementById('save-confirm-btn').addEventListener('click', async () => {
+  const token = getToken();
+  if (!token) { showToast('No GitHub token set. Go to Settings tab.', 'error'); return; }
+  const repoPath = document.getElementById('save-path-input').value.trim();
+  if (!repoPath) { showToast('Please enter a file path', 'error'); return; }
+  const commitMsg = document.getElementById('save-commit-msg').value || `Update ${repoPath}`;
+  const content = window.editorInstance ? window.editorInstance.getValue() : '';
+  const btn = document.getElementById('save-confirm-btn');
+  btn.disabled = true;
+  btn.textContent = 'Saving…';
+  try {
+    const base64 = btoa(unescape(encodeURIComponent(content)));
+    const api = getAPI();
+    const existingSha = await api.getFileSha(repoPath);
+    await api.uploadFile(repoPath, base64, commitMsg, existingSha);
+    showToast(`✅ Saved to ${repoPath}`, 'success');
+    document.getElementById('save-modal').classList.remove('open');
+  } catch (err) {
+    showToast('Save failed: ' + err.message, 'error');
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '💾 Save to Repo';
+  }
+});
+
+document.getElementById('editor-download-btn').addEventListener('click', () => {
+  const content = window.editorInstance ? window.editorInstance.getValue() : '';
+  const filename = document.getElementById('editor-filename').value || 'untitled.txt';
+  const blob = new Blob([content], { type: 'text/plain' });
+  triggerDownload(blob, filename);
+  showToast(`⬇️ Downloaded ${filename}`, 'success');
+});
+
+document.getElementById('editor-open-btn').addEventListener('click', () => {
+  document.getElementById('editor-file-input').click();
+});
+
+document.getElementById('editor-file-input').addEventListener('change', async (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    document.getElementById('editor-filename').value = file.name;
+    if (window.editorInstance) {
+      window.editorInstance.setValue(ev.target.result);
+      autoDetectLanguage(file.name);
+    }
+    showToast(`📂 Opened ${file.name}`, 'info');
+  };
+  reader.readAsText(file);
+  e.target.value = '';
+});
+
+document.getElementById('editor-lang-select').addEventListener('change', (e) => {
+  if (window.editorInstance) window.editorInstance.setLanguage(e.target.value);
+});
+
+document.getElementById('editor-wrap-btn').addEventListener('click', function() {
+  this.classList.toggle('active');
+  if (window.editorInstance) window.editorInstance.toggleWordWrap();
+});
+
+</script>
+
+<!-- ===== CODEMIRROR 6 MODULE SCRIPT ===== -->
+<script type="module">
+import { EditorView, keymap, lineNumbers, highlightActiveLine, highlightActiveLineGutter, drawSelection } from '@codemirror/view';
+import { EditorState, Compartment } from '@codemirror/state';
+import { defaultKeymap, history, historyKeymap, indentWithTab } from '@codemirror/commands';
+import { searchKeymap, search } from '@codemirror/search';
+import { indentOnInput, bracketMatching, foldGutter, syntaxHighlighting, defaultHighlightStyle } from '@codemirror/language';
+import { oneDark } from '@codemirror/theme-one-dark';
+import { markdown } from '@codemirror/lang-markdown';
+import { javascript } from '@codemirror/lang-javascript';
+import { python } from '@codemirror/lang-python';
+import { html } from '@codemirror/lang-html';
+
+const langCompartment = new Compartment();
+const themeCompartment = new Compartment();
+const wrapCompartment = new Compartment();
+
+const langExtensions = {
+  markdown: () => markdown(),
+  javascript: () => javascript(),
+  python: () => python(),
+  html: () => html(),
+  text: () => [],
+};
+
+function getLangExt(lang) {
+  const fn = langExtensions[lang];
+  return fn ? fn() : [];
+}
+
+const lightTheme = EditorView.theme({
+  '&': { backgroundColor: '#ffffff', color: '#1f2328' },
+  '.cm-content': { caretColor: '#0969da' },
+  '.cm-cursor': { borderLeftColor: '#0969da' },
+  '.cm-selectionBackground': { background: '#add6ff !important' },
+  '.cm-gutters': { backgroundColor: '#f6f8fa', color: '#848d97', borderRight: '1px solid #d0d7de' },
+  '.cm-activeLineGutter': { backgroundColor: '#eaeef2' },
+  '.cm-activeLine': { backgroundColor: '#eaeef240' },
+});
+
+const darkTheme = oneDark;
+
+let wordWrapOn = false;
+
+const startDoc = `# Welcome to the Library of Alexandria ✏️
+
+Start typing or open a file from the Files tab.
+
+## Keyboard Shortcuts
+- **Ctrl+F** — Search / Replace
+- **Ctrl+Z** — Undo
+- **Ctrl+Shift+Z** — Redo
+- **Tab** — Indent
+`;
+
+const state = EditorState.create({
+  doc: startDoc,
+  extensions: [
+    lineNumbers(),
+    highlightActiveLine(),
+    highlightActiveLineGutter(),
+    history(),
+    drawSelection(),
+    indentOnInput(),
+    bracketMatching(),
+    foldGutter(),
+    syntaxHighlighting(defaultHighlightStyle, { fallback: true }),
+    search({ top: false }),
+    keymap.of([...defaultKeymap, ...historyKeymap, ...searchKeymap, indentWithTab]),
+    themeCompartment.of(darkTheme),
+    langCompartment.of(getLangExt('markdown')),
+    wrapCompartment.of([]),
+    EditorView.updateListener.of(update => {
+      if (update.docChanged || update.selectionSet) {
+        updateStatusBar(update.view);
+      }
+    }),
+  ],
+});
+
+const host = document.getElementById('codemirror-host');
+const view = new EditorView({ state, parent: host });
+
+// Hide placeholder once editor is ready
+const placeholder = document.getElementById('editor-placeholder');
+if (placeholder) placeholder.style.display = 'none';
+
+function updateStatusBar(v) {
+  const doc = v.state.doc;
+  const lines = doc.lines;
+  const chars = doc.length;
+  const sel = v.state.selection.main;
+  const line = doc.lineAt(sel.head);
+  const col = sel.head - line.from + 1;
+  document.getElementById('editor-stat-lines').textContent = `Lines: ${lines.toLocaleString()}`;
+  document.getElementById('editor-stat-chars').textContent = `Chars: ${chars.toLocaleString()}`;
+  document.getElementById('editor-stat-cursor').textContent = `Ln ${line.number}, Col ${col}`;
+}
+
+updateStatusBar(view);
+
+// Expose editor instance globally
+window.editorInstance = {
+  getValue() {
+    return view.state.doc.toString();
+  },
+  setValue(text) {
+    view.dispatch({
+      changes: { from: 0, to: view.state.doc.length, insert: text }
+    });
+    updateStatusBar(view);
+  },
+  setLanguage(lang) {
+    view.dispatch({
+      effects: langCompartment.reconfigure(getLangExt(lang))
+    });
+    document.getElementById('editor-stat-lang').textContent = lang.charAt(0).toUpperCase() + lang.slice(1);
+  },
+  updateTheme(dark) {
+    view.dispatch({
+      effects: themeCompartment.reconfigure(dark ? darkTheme : lightTheme)
+    });
+  },
+  toggleWordWrap() {
+    wordWrapOn = !wordWrapOn;
+    view.dispatch({
+      effects: wrapCompartment.reconfigure(
+        wordWrapOn ? EditorView.lineWrapping : []
+      )
+    });
+  },
+  refresh() {
+    view.requestMeasure();
+  }
+};
+
+// Apply current theme to editor on init
+const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+window.editorInstance.updateTheme(isDark);
+</script>
+
+</body>
+</html>
