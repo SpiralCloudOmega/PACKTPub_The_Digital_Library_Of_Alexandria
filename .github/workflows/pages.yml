@@ -38,4 +38,5 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Summary
-        run: echo "App deployed to: ${{ steps.deployment.outputs.page_url }}"
+        run: |
+          echo "App deployed to: ${{ steps.deployment.outputs.page_url }}"
