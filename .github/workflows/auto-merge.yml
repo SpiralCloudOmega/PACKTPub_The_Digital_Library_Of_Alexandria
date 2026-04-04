@@ -18,11 +18,23 @@ jobs:
         with:
           script: |
             const pr = context.payload.pull_request;
+
+            if (pr.draft) {
+              console.log(`⏳ PR #${pr.number} is still a draft — skipping auto-merge`);
+              return;
+            }
+
             console.log(`Auto-merging Copilot PR #${pr.number}: ${pr.title}`);
-            await github.rest.pulls.merge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: pr.number,
-              merge_method: 'squash'
-            });
-            console.log('✅ PR merged successfully');
+            try {
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                merge_method: 'squash'
+              });
+              console.log('✅ PR merged successfully');
+            } catch (error) {
+              console.log(`⚠️ Auto-merge failed for PR #${pr.number}: ${error.message}`);
+              console.log('This can happen if there are merge conflicts or the PR is not mergeable yet.');
+              throw error;
+            }
