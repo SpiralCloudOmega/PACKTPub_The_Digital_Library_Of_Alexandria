@@ -965,6 +965,152 @@ html, body {
   min-width: 32px;
 }
 
+/* ===== PACKT SEARCH TAB ===== */
+#packt-panel { padding: 0 0 80px; }
+
+.packt-search-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.packt-search-input {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.packt-search-input:focus { border-color: var(--accent); }
+.packt-search-input::placeholder { color: var(--text-muted); }
+
+.packt-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.packt-filter-select {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  font-size: 12px;
+  cursor: pointer;
+  outline: none;
+}
+
+.packt-stats-bar {
+  display: flex;
+  gap: 12px;
+  font-size: 11px;
+  color: var(--text-secondary);
+  padding: 6px 16px;
+  background: var(--bg-tertiary);
+  border-bottom: 1px solid var(--border);
+}
+
+.packt-stat { display: flex; align-items: center; gap: 4px; }
+.packt-stat-num { font-weight: 700; color: var(--accent); }
+
+.packt-results { padding: 0; }
+
+.packt-repo-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.packt-repo-card:hover { background: var(--bg-hover); }
+
+.packt-repo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.packt-repo-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  word-break: break-word;
+}
+
+.packt-repo-stars {
+  font-size: 12px;
+  color: var(--warning);
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.packt-repo-desc {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.packt-repo-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.packt-repo-lang {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.lang-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.packt-load-more {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  border: none;
+  background: var(--bg-tertiary);
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.packt-load-more:hover { background: var(--bg-hover); }
+
+.packt-empty {
+  text-align: center;
+  padding: 48px 24px;
+  color: var(--text-muted);
+}
+
+.packt-empty-icon { font-size: 48px; margin-bottom: 12px; }
+.packt-empty-text { font-size: 14px; }
+
 /* light theme editor */
 [data-theme="light"] .cm-gutters {
   background-color: #f6f8fa !important;
@@ -1143,15 +1289,59 @@ html, body {
       <div class="about-card">
         <div class="about-emoji">📚</div>
         <div class="about-name">Library of Alexandria</div>
-        <div class="about-version">Version 1.0.0</div>
-        <div class="about-powered">Powered by GitHub Pages · Built with ❤️</div>
+        <div class="about-version">Version 2.0.0</div>
+        <div class="about-powered">Powered by GitHub Pages · Git LFS · Built with ❤️</div>
         <div class="about-links">
           <a class="about-link" href="README.md" target="_blank">📖 README</a>
           <a class="about-link" href="PACKT_INDEX.md" target="_blank">📑 PACKT Index</a>
+          <a class="about-link" href="PACKT_TOPICS.md" target="_blank">🏷️ Topics</a>
           <a class="about-link" href="https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria" target="_blank">🐙 GitHub</a>
         </div>
       </div>
 
+    </div>
+  </div>
+
+  <!-- TAB 5: PACKT SEARCH -->
+  <div id="tab-packt" class="tab-panel">
+    <div id="packt-panel">
+      <div class="packt-search-bar">
+        <input type="text" class="packt-search-input" id="packt-search-input"
+               placeholder="🔍 Search 9,200+ PacktPublishing repos...">
+        <div class="packt-filters">
+          <select class="packt-filter-select" id="packt-lang-filter">
+            <option value="">All Languages</option>
+          </select>
+          <select class="packt-filter-select" id="packt-sort">
+            <option value="stars">⭐ Most Stars</option>
+            <option value="name">🔤 A–Z</option>
+            <option value="name-desc">🔤 Z–A</option>
+          </select>
+          <select class="packt-filter-select" id="packt-topic-filter">
+            <option value="">All Topics</option>
+            <option value="ai-ml">🤖 AI & ML</option>
+            <option value="data-science">📊 Data Science</option>
+            <option value="web-dev">🌐 Web Dev</option>
+            <option value="cloud-devops">☁️ Cloud & DevOps</option>
+            <option value="security">🔒 Security</option>
+            <option value="mobile">📱 Mobile</option>
+            <option value="game-dev">🎮 Game Dev</option>
+            <option value="python">🐍 Python</option>
+            <option value="java-jvm">☕ Java & JVM</option>
+            <option value="dotnet">🔷 .NET & C#</option>
+            <option value="systems">🔧 Systems</option>
+            <option value="databases">🗄️ Databases</option>
+            <option value="blockchain">🔗 Blockchain</option>
+          </select>
+        </div>
+      </div>
+      <div class="packt-stats-bar" id="packt-stats-bar">
+        <span class="packt-stat">📦 <span class="packt-stat-num" id="packt-total">0</span> repos</span>
+        <span class="packt-stat">⭐ <span class="packt-stat-num" id="packt-stars-total">0</span> stars</span>
+        <span class="packt-stat">💻 <span class="packt-stat-num" id="packt-langs-total">0</span> languages</span>
+        <span class="packt-stat">🔍 <span class="packt-stat-num" id="packt-showing">0</span> shown</span>
+      </div>
+      <div class="packt-results" id="packt-results"></div>
     </div>
   </div>
 
@@ -1174,6 +1364,10 @@ html, body {
   <button class="tab-btn" data-tab="settings">
     <span class="tab-icon">⚙️</span>
     <span class="tab-label">Settings</span>
+  </button>
+  <button class="tab-btn" data-tab="packt">
+    <span class="tab-icon">📚</span>
+    <span class="tab-label">Packt</span>
   </button>
 </nav>
 
@@ -1902,6 +2096,220 @@ document.getElementById('editor-wrap-btn').addEventListener('click', function() 
   this.classList.toggle('active');
   if (window.editorInstance) window.editorInstance.toggleWordWrap();
 });
+
+// =============================================
+// Packt Index Search Engine
+// =============================================
+(function() {
+  const PACKT_INDEX_URL = 'PACKT_INDEX.md';
+  const PAGE_SIZE = 50;
+  let allRepos = [];
+  let filteredRepos = [];
+  let displayCount = 0;
+  let packtLoaded = false;
+
+  // Language colors (GitHub-style)
+  const LANG_COLORS = {
+    'Python': '#3572A5', 'Jupyter Notebook': '#DA5B0B', 'JavaScript': '#f1e05a',
+    'Java': '#b07219', 'C#': '#178600', 'HTML': '#e34c26', 'C++': '#f34b7d',
+    'TypeScript': '#3178c6', 'Shell': '#89e051', 'Go': '#00ADD8',
+    'Swift': '#F05138', 'PowerShell': '#012456', 'R': '#198CE7',
+    'C': '#555555', 'PHP': '#4F5D95', 'Kotlin': '#A97BFF', 'Scala': '#c22d40',
+    'HCL': '#844FBA', 'Rust': '#dea584', 'CSS': '#563d7c', 'Ruby': '#701516',
+    'Dart': '#00B4AB', 'Lua': '#000080', 'MATLAB': '#e16737',
+  };
+
+  // Topic classification (simplified version of packt_stats.py rules)
+  const TOPIC_PATTERNS = {
+    'ai-ml': /machine.?learn|deep.?learn|\bai\b|neural|tensorflow|pytorch|keras|nlp|natural.?language|computer.?vision|gpt|\bllm\b|generative|chatbot|transformer|bert|langchain|diffusion|prompt.?engineer|copilot|openai|reinforcement/i,
+    'data-science': /data.?science|data.?analy|pandas|numpy|kaggle|statistic|visualization|power.?bi|tableau|big.?data|spark|hadoop|pyspark|data.?engineer|etl\b|data.?mining/i,
+    'web-dev': /\breact\b|angular|vue|next\.?js|node\.?js|express|django|flask|fastapi|web.?develop|html|css|javascript|typescript|frontend|backend|full.?stack|bootstrap|tailwind|svelte|graphql|php|laravel|wordpress|asp\.?net|blazor/i,
+    'cloud-devops': /\baws\b|azure|google.?cloud|\bgcp\b|cloud|devops|docker|kubernetes|\bk8s\b|terraform|ansible|jenkins|ci.?cd|serverless|microservice|helm|gitops|monitoring/i,
+    'security': /security|penetration|pentest|hack|cyber|malware|forensic|vulnerability|exploit|encryption|cryptograph|kali|metasploit|owasp|comptia.?security/i,
+    'mobile': /\bios\b|android|flutter|react.?native|swift|kotlin|mobile|xamarin|\bmaui\b|ionic|iphone/i,
+    'game-dev': /unity|unreal|game.?develop|game.?design|godot|blender|3d.?model|opengl|vulkan|shader|animation/i,
+    'python': /\bpython\b/i,
+    'java-jvm': /\bjava\b(?!script)|spring|\bjvm\b|kotlin|scala|gradle|maven|hibernate|quarkus/i,
+    'dotnet': /\.net\b|c.?sharp|\bc#|asp\.?net|\bmaui\b|blazor|entity.?framework|dotnet/i,
+    'systems': /\bc\+\+|rust|\bgo\b(?!ogle)|golang|linux|kernel|embedded|cuda|assembly|system.?program/i,
+    'databases': /\bsql\b|mysql|postgres|mongodb|redis|database|nosql|elasticsearch|sqlite/i,
+    'blockchain': /blockchain|ethereum|solidity|web3|smart.?contract|crypto|bitcoin/i,
+  };
+
+  function classifyRepo(name, desc) {
+    const text = (name + ' ' + desc).replace(/[-_]/g, ' ');
+    const topics = [];
+    for (const [key, pattern] of Object.entries(TOPIC_PATTERNS)) {
+      if (pattern.test(text)) topics.push(key);
+    }
+    return topics;
+  }
+
+  async function loadPacktIndex() {
+    if (packtLoaded) return;
+    const resultsEl = document.getElementById('packt-results');
+    resultsEl.innerHTML = '<div class="packt-empty"><div class="packt-empty-icon">⏳</div><div class="packt-empty-text">Loading 9,200+ repositories...</div></div>';
+
+    try {
+      const resp = await fetch(PACKT_INDEX_URL);
+      if (!resp.ok) throw new Error(`Failed to fetch index: ${resp.status}`);
+      const text = await resp.text();
+
+      const pattern = /\| \[(.+?)\]\((.+?)\) \| (.*?) \| (.*?) \| (.*?) \|/g;
+      let match;
+      while ((match = pattern.exec(text)) !== null) {
+        const [, name, url, desc, lang, starsRaw] = match;
+        const starsMatch = starsRaw.match(/(\d+)/);
+        const stars = starsMatch ? parseInt(starsMatch[1]) : 0;
+        const cleanDesc = desc.replace(/\\\|/g, '|').trim();
+        allRepos.push({
+          name: name.trim(),
+          url: url.trim(),
+          desc: cleanDesc,
+          lang: lang.trim(),
+          stars,
+          topics: classifyRepo(name, cleanDesc),
+          _search: (name + ' ' + cleanDesc + ' ' + lang).toLowerCase(),
+        });
+      }
+
+      packtLoaded = true;
+      populateLanguageFilter();
+      updateStats();
+      applyFilters();
+    } catch (err) {
+      resultsEl.innerHTML = `<div class="packt-empty"><div class="packt-empty-icon">❌</div><div class="packt-empty-text">Failed to load index: ${err.message}</div></div>`;
+    }
+  }
+
+  function populateLanguageFilter() {
+    const langCounts = {};
+    for (const r of allRepos) {
+      if (r.lang) langCounts[r.lang] = (langCounts[r.lang] || 0) + 1;
+    }
+    const sorted = Object.entries(langCounts).sort((a, b) => b[1] - a[1]);
+    const select = document.getElementById('packt-lang-filter');
+    for (const [lang, count] of sorted.slice(0, 30)) {
+      const opt = document.createElement('option');
+      opt.value = lang;
+      opt.textContent = `${lang} (${count})`;
+      select.appendChild(opt);
+    }
+  }
+
+  function updateStats() {
+    const totalStars = allRepos.reduce((s, r) => s + r.stars, 0);
+    const langs = new Set(allRepos.filter(r => r.lang).map(r => r.lang));
+    document.getElementById('packt-total').textContent = allRepos.length.toLocaleString();
+    document.getElementById('packt-stars-total').textContent = totalStars.toLocaleString();
+    document.getElementById('packt-langs-total').textContent = langs.size;
+  }
+
+  function applyFilters() {
+    const query = document.getElementById('packt-search-input').value.toLowerCase().trim();
+    const langFilter = document.getElementById('packt-lang-filter').value;
+    const topicFilter = document.getElementById('packt-topic-filter').value;
+    const sortBy = document.getElementById('packt-sort').value;
+
+    filteredRepos = allRepos.filter(r => {
+      if (query && !r._search.includes(query)) return false;
+      if (langFilter && r.lang !== langFilter) return false;
+      if (topicFilter && !r.topics.includes(topicFilter)) return false;
+      return true;
+    });
+
+    if (sortBy === 'stars') {
+      filteredRepos.sort((a, b) => b.stars - a.stars);
+    } else if (sortBy === 'name') {
+      filteredRepos.sort((a, b) => a.name.localeCompare(b.name));
+    } else if (sortBy === 'name-desc') {
+      filteredRepos.sort((a, b) => b.name.localeCompare(a.name));
+    }
+
+    displayCount = 0;
+    document.getElementById('packt-results').innerHTML = '';
+    showMore();
+  }
+
+  function showMore() {
+    const resultsEl = document.getElementById('packt-results');
+    const end = Math.min(displayCount + PAGE_SIZE, filteredRepos.length);
+
+    // Remove existing load-more button
+    const existing = resultsEl.querySelector('.packt-load-more');
+    if (existing) existing.remove();
+
+    if (filteredRepos.length === 0) {
+      resultsEl.innerHTML = '<div class="packt-empty"><div class="packt-empty-icon">🔍</div><div class="packt-empty-text">No repositories match your search</div></div>';
+      document.getElementById('packt-showing').textContent = '0';
+      return;
+    }
+
+    const fragment = document.createDocumentFragment();
+    for (let i = displayCount; i < end; i++) {
+      const r = filteredRepos[i];
+      const card = document.createElement('div');
+      card.className = 'packt-repo-card';
+      card.onclick = () => window.open(r.url, '_blank');
+
+      const langColor = LANG_COLORS[r.lang] || '#8b949e';
+      const starsHtml = r.stars > 0 ? `<span class="packt-repo-stars">⭐ ${r.stars.toLocaleString()}</span>` : '';
+      const langHtml = r.lang ? `<span class="packt-repo-lang"><span class="lang-dot" style="background:${langColor}"></span>${r.lang}</span>` : '';
+      const topicBadges = r.topics.slice(0, 3).map(t => {
+        const labels = {'ai-ml':'🤖','data-science':'📊','web-dev':'🌐','cloud-devops':'☁️','security':'🔒','mobile':'📱','game-dev':'🎮','python':'🐍','java-jvm':'☕','dotnet':'🔷','systems':'🔧','databases':'🗄️','blockchain':'🔗'};
+        return labels[t] || '';
+      }).join(' ');
+
+      card.innerHTML = `
+        <div class="packt-repo-header">
+          <span class="packt-repo-name">${r.name}</span>
+          ${starsHtml}
+        </div>
+        ${r.desc ? `<div class="packt-repo-desc">${r.desc}</div>` : ''}
+        <div class="packt-repo-meta">
+          ${langHtml}
+          ${topicBadges ? `<span>${topicBadges}</span>` : ''}
+        </div>
+      `;
+      fragment.appendChild(card);
+    }
+    resultsEl.appendChild(fragment);
+
+    displayCount = end;
+    document.getElementById('packt-showing').textContent = `${displayCount.toLocaleString()} / ${filteredRepos.length.toLocaleString()}`;
+
+    if (displayCount < filteredRepos.length) {
+      const btn = document.createElement('button');
+      btn.className = 'packt-load-more';
+      btn.textContent = `Load more (${(filteredRepos.length - displayCount).toLocaleString()} remaining)`;
+      btn.onclick = showMore;
+      resultsEl.appendChild(btn);
+    }
+  }
+
+  // Event listeners
+  let searchTimeout;
+  document.getElementById('packt-search-input').addEventListener('input', () => {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(applyFilters, 200);
+  });
+  document.getElementById('packt-lang-filter').addEventListener('change', applyFilters);
+  document.getElementById('packt-sort').addEventListener('change', applyFilters);
+  document.getElementById('packt-topic-filter').addEventListener('change', applyFilters);
+
+  // Load when tab is first opened
+  const origSwitchTab = window.switchTab || switchTab;
+  const _switchTabOrig = switchTab;
+  window.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (btn.dataset.tab === 'packt' && !packtLoaded) {
+          loadPacktIndex();
+        }
+      });
+    });
+  });
+})();
 
 </script>
 

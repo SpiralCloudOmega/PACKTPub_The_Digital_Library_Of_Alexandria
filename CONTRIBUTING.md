@@ -25,10 +25,11 @@ Bad:   scan0001.pdf
 
 ## 🚫 What NOT to Upload
 
-- Files over **100 MB** (GitHub's file size limit) — use Git LFS or link to external storage instead
 - Copyrighted materials you don't have the right to distribute
 - Executable files (`.exe`, `.bat`, `.sh` scripts containing malware)
 - Personal or sensitive information
+
+> **Large files are welcome!** This repo uses Git LFS — files of any size in `docs/` are handled automatically. Just make sure you have [Git LFS installed](https://git-lfs.github.com/) (`git lfs install`).
 
 ## 📤 Upload Methods
 
