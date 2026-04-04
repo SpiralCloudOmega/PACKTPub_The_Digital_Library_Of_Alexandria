@@ -4,7 +4,24 @@
 
 A curated, community-friendly repository for storing and sharing PDFs, eBooks, presentations, spreadsheets, and all kinds of documents — along with a complete index of the **9,200+ PacktPublishing repositories**.
 
+## 🚀 Launch the Web App
+
+> **[▶ Open Library of Alexandria App](https://spiralcloudOmega.github.io/PDF-s_The_-Library_Of_-Alexandria/)** ← GitHub Pages web app
+
+The app is a **Filza File Manager-inspired** web interface with 4 built-in tools:
+
+| Tab | What it does |
+|-----|-------------|
+| 📁 **Files** | Browse, upload & download files in this repo |
+| 🔄 **Convert** | Convert documents to PDF, HTML, Markdown, EPUB, ODT, TXT, RTF |
+| ✏️ **Editor** | Full text editor with **line numbers** + syntax highlighting |
+| ⚙️ **Settings** | Set your GitHub token to enable uploads & saving |
+
+> **First time?** Go to ⚙️ Settings → paste your [GitHub Personal Access Token](https://github.com/settings/tokens) (needs `repo` scope) → start uploading.
+
+[![Deploy to GitHub Pages](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/pages.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/pages.yml)
 [![Update PacktPublishing Index](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml)
+
 ---
 
 ## 📂 Repository Structure
