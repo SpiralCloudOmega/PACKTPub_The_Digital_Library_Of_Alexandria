@@ -6,9 +6,9 @@ A curated, community-friendly repository for storing and sharing PDFs, eBooks, p
 
 ## 🚀 Launch the Web App
 
-> **[▶ Open Library of Alexandria App](https://spiralcloudOmega.github.io/PDF-s_The_-Library_Of_-Alexandria/)** ← GitHub Pages web app
+> **[▶ Open Library of Alexandria App](https://spiralcloudOmega.github.io/PACKTPub_The_Digital_Library_Of_Alexandria/)** ← GitHub Pages web app
 
-The app is a **Filza File Manager-inspired** web interface with 4 built-in tools:
+The app is a **Filza File Manager-inspired** web interface with 5 built-in tools:
 
 | Tab | What it does |
 |-----|-------------|
@@ -16,11 +16,12 @@ The app is a **Filza File Manager-inspired** web interface with 4 built-in tools
 | 🔄 **Convert** | Convert documents to PDF, HTML, Markdown, EPUB, ODT, TXT, RTF |
 | ✏️ **Editor** | Full text editor with **line numbers** + syntax highlighting |
 | ⚙️ **Settings** | Set your GitHub token to enable uploads & saving |
+| 📚 **Packt** | Search & browse all 9,200+ PacktPublishing repos with filters |
 
 > **First time?** Go to ⚙️ Settings → paste your [GitHub Personal Access Token](https://github.com/settings/tokens) (needs `repo` scope) → start uploading.
 
-[![Deploy to GitHub Pages](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/pages.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/pages.yml)
-[![Update PacktPublishing Index](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml/badge.svg)](https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria/actions/workflows/update_packt_index.yml)
+[![Deploy to GitHub Pages](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/pages.yml/badge.svg)](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/pages.yml)
+[![Update PacktPublishing Index](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/update_packt_index.yml/badge.svg)](https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria/actions/workflows/update_packt_index.yml)
 
 ---
 
@@ -37,14 +38,20 @@ The app is a **Filza File Manager-inspired** web interface with 4 built-in tools
 📁 scripts/
 ├── upload.py               — Python quick-upload helper
 ├── upload.sh               — Shell quick-upload helper
-└── generate_packt_index.py — Regenerate the PacktPublishing index
+├── generate_packt_index.py — Regenerate the PacktPublishing index
+└── packt_stats.py          — Index statistics & topic categorizer
 
 📁 .github/workflows/
-├── update_packt_index.yml  — Auto-update Packt index (scheduled weekly)
-└── quick_upload.yml        — Upload a document via GitHub Actions dispatch
+├── pages.yml               — Deploy web app to GitHub Pages
+├── update_packt_index.yml  — Auto-update Packt index (weekly)
+├── quick_upload.yml        — Upload a document via GitHub Actions dispatch
+├── auto-merge.yml          — Auto-merge Copilot agent PRs
+└── health-check.yml        — Weekly repo health & integrity check
 
 📄 PACKT_INDEX.md    — Complete clickable index of all PacktPublishing repos
+📄 PACKT_TOPICS.md   — Topic-organized view (AI/ML, Web Dev, DevOps, etc.)
 📄 CONTRIBUTING.md   — How to contribute documents
+📄 .gitattributes    — Git LFS tracking for large documents
 ```
 
 ---
@@ -87,8 +94,8 @@ chmod +x scripts/upload.sh
 
 ### Option 5 — Git Command Line
 ```bash
-git clone https://github.com/SpiralCloudOmega/PDF-s_The_-Library_Of_-Alexandria.git
-cd PDF-s_The_-Library_Of_-Alexandria
+git clone https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria.git
+cd PACKTPub_The_Digital_Library_Of_Alexandria
 cp /path/to/your/file.pdf docs/PDFs/
 git add docs/PDFs/file.pdf
 git commit -m "Add file.pdf"
@@ -99,11 +106,12 @@ git push
 
 ## 📚 PacktPublishing Index
 
-➡️ **[View the PacktPublishing Repository Index](PACKT_INDEX.md)**
+➡️ **[View the PacktPublishing Repository Index](PACKT_INDEX.md)** — 9,200+ repos, alphabetically organized
+➡️ **[View by Topic](PACKT_TOPICS.md)** — categorized by AI/ML, Web Dev, Cloud, Security, and more
 
 The [`PACKT_INDEX.md`](PACKT_INDEX.md) is an alphabetically-organized, clickable index of repositories in the [PacktPublishing GitHub organization](https://github.com/PacktPublishing) — a gold mine of code samples, notebooks, and documentation for hundreds of technical books covering 9,200+ repos total.
 
-> **Note:** The current index contains ~1,000 repositories fetched at setup time. Run the generator script or trigger the weekly workflow to regenerate the complete index of all 9,200+ repos.
+The [`PACKT_TOPICS.md`](PACKT_TOPICS.md) groups the same repos by **technology topic** — 18 categories with highlights, stats, and expandable full lists. Generated from the index by the stats script.
 
 ### Regenerating the Index
 The index is automatically updated weekly via GitHub Actions. To manually regenerate:
@@ -117,6 +125,45 @@ python scripts/generate_packt_index.py
 ```
 
 Or trigger it from the Actions tab → **Update PacktPublishing Index** → **Run workflow**.
+
+### Generating Stats & Topics
+
+```bash
+# Print statistics to console
+python scripts/packt_stats.py
+
+# Generate PACKT_TOPICS.md (repos grouped by technology area)
+python scripts/packt_stats.py --topics
+
+# Export stats as JSON
+python scripts/packt_stats.py --json
+```
+
+---
+
+## 📦 Git LFS — Large File Support
+
+This repo uses [Git LFS](https://git-lfs.github.com/) to handle documents larger than GitHub's 100 MB file size limit. All document types in `docs/` are tracked by default.
+
+### Setup
+```bash
+# Install Git LFS (one-time)
+git lfs install
+
+# Clone the repo (LFS files download automatically)
+git clone https://github.com/SpiralCloudOmega/PACKTPub_The_Digital_Library_Of_Alexandria.git
+```
+
+### Uploading Large Files (200 MB+)
+```bash
+# Files in docs/ are automatically tracked by LFS via .gitattributes
+cp ~/Downloads/massive-book-500mb.pdf docs/PDFs/
+git add docs/PDFs/massive-book-500mb.pdf
+git commit -m "Add massive-book-500mb.pdf"
+git push
+```
+
+> **No size limit worries** — LFS handles files of any size. The `.gitattributes` file automatically tracks PDFs, EPUBs, Office docs, archives, and more.
 
 ---
 

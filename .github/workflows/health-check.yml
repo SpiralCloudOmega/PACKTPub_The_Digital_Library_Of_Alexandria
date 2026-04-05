@@ -1,0 +1,123 @@
+name: Health Check
+
+on:
+  schedule:
+    # Run every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check repository structure
+        run: |
+          echo "## 📁 Repository Structure Check" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+
+          ERRORS=0
+          WARNINGS=0
+
+          # Check required directories
+          for dir in docs/PDFs docs/eBooks docs/Presentations docs/Spreadsheets docs/Other scripts .github/workflows; do
+            if [[ -d "$dir" ]]; then
+              COUNT=$(find "$dir" -maxdepth 1 -type f 2>/dev/null | wc -l)
+              echo "✅ \`$dir/\` exists ($COUNT files)" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "❌ \`$dir/\` **MISSING**" >> "$GITHUB_STEP_SUMMARY"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+
+          # Check required files
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          for file in README.md CONTRIBUTING.md LICENSE PACKT_INDEX.md index.html .gitattributes .gitignore; do
+            if [[ -f "$file" ]]; then
+              SIZE=$(du -sh "$file" | cut -f1)
+              echo "✅ \`$file\` ($SIZE)" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "❌ \`$file\` **MISSING**" >> "$GITHUB_STEP_SUMMARY"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+
+          # Check scripts are executable-ready
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "### 🔧 Scripts" >> "$GITHUB_STEP_SUMMARY"
+          for script in scripts/*.py scripts/*.sh; do
+            if [[ -f "$script" ]]; then
+              echo "✅ \`$script\`" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
+
+          # Check PACKT_INDEX.md repo count
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "### 📚 Packt Index" >> "$GITHUB_STEP_SUMMARY"
+          if [[ -f "PACKT_INDEX.md" ]]; then
+            REPO_COUNT=$(grep -c '](https://github.com/PacktPublishing/' PACKT_INDEX.md || echo "0")
+            echo "📦 **$REPO_COUNT** repositories indexed" >> "$GITHUB_STEP_SUMMARY"
+            if [[ "$REPO_COUNT" -lt 1000 ]]; then
+              echo "⚠️ Index seems small — consider running the update workflow" >> "$GITHUB_STEP_SUMMARY"
+              WARNINGS=$((WARNINGS + 1))
+            fi
+          fi
+
+          # Check for Git LFS
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "### 📦 Git LFS" >> "$GITHUB_STEP_SUMMARY"
+          if [[ -f ".gitattributes" ]]; then
+            LFS_PATTERNS=$(grep -c "filter=lfs" .gitattributes || echo "0")
+            echo "✅ LFS configured with **$LFS_PATTERNS** tracked patterns" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "⚠️ No .gitattributes — LFS not configured" >> "$GITHUB_STEP_SUMMARY"
+            WARNINGS=$((WARNINGS + 1))
+          fi
+
+          # Check workflows parse correctly
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "### ⚙️ Workflows" >> "$GITHUB_STEP_SUMMARY"
+          for wf in .github/workflows/*.yml; do
+            if python3 -c "import yaml; yaml.safe_load(open('$wf'))" 2>/dev/null; then
+              echo "✅ \`$(basename "$wf")\` — valid YAML" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "❌ \`$(basename "$wf")\` — **INVALID YAML**" >> "$GITHUB_STEP_SUMMARY"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+
+          # Summary
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "---" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$ERRORS" -gt 0 ]]; then
+            echo "### ❌ $ERRORS error(s), $WARNINGS warning(s)" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          elif [[ "$WARNINGS" -gt 0 ]]; then
+            echo "### ⚠️ $WARNINGS warning(s), 0 errors" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "### ✅ All checks passed!" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Validate document counts
+        run: |
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "### 📊 Document Inventory" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Folder | Files | Size |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|--------|------:|-----:|" >> "$GITHUB_STEP_SUMMARY"
+
+          TOTAL=0
+          for dir in docs/PDFs docs/eBooks docs/Presentations docs/Spreadsheets docs/Other; do
+            if [[ -d "$dir" ]]; then
+              COUNT=$(find "$dir" -maxdepth 1 -type f ! -name "*.md" ! -name ".gitkeep" 2>/dev/null | wc -l)
+              SIZE=$(du -sh "$dir" 2>/dev/null | cut -f1)
+              echo "| \`$dir/\` | $COUNT | $SIZE |" >> "$GITHUB_STEP_SUMMARY"
+              TOTAL=$((TOTAL + COUNT))
+            fi
+          done
+          echo "| **Total** | **$TOTAL** | |" >> "$GITHUB_STEP_SUMMARY"
