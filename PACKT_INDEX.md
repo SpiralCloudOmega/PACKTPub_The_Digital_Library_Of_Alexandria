@@ -1,14 +1,14 @@
 # 📚 PacktPublishing Complete Repository Index
 
-> Auto-generated on **2026-08-02 03:13 UTC**  
-> **9,735** public repositories indexed from [PacktPublishing](https://github.com/PacktPublishing)
+> Auto-generated on **2026-08-09 02:49 UTC**  
+> **9,752** public repositories indexed from [PacktPublishing](https://github.com/PacktPublishing)
 
 ---
 
 ## 🔍 Quick Navigation
 
-[#](##-71-repos) · [A](#a-958-repos) · [B](#b-595-repos) · [C](#c-591-repos) · [D](#d-567-repos) · [E](#e-259-repos) · [F](#f-196-repos) · [G](#g-344-repos) · [H](#h-764-repos) · [I](#i-283-repos) · [J](#j-211-repos) · [K](#k-86-repos) · [L](#l-815-repos)
-[M](#m-1242-repos) · [N](#n-127-repos) · [O](#o-120-repos) · [P](#p-647-repos) · [Q](#q-46-repos) · [R](#r-365-repos) · [S](#s-522-repos) · [T](#t-510-repos) · [U](#u-171-repos) · [V](#v-66-repos) · [W](#w-137-repos) · [X](#x-15-repos) · [Y](#y-11-repos)
+[#](##-71-repos) · [A](#a-961-repos) · [B](#b-595-repos) · [C](#c-593-repos) · [D](#d-567-repos) · [E](#e-260-repos) · [F](#f-196-repos) · [G](#g-344-repos) · [H](#h-764-repos) · [I](#i-283-repos) · [J](#j-212-repos) · [K](#k-86-repos) · [L](#l-815-repos)
+[M](#m-1242-repos) · [N](#n-127-repos) · [O](#o-120-repos) · [P](#p-649-repos) · [Q](#q-48-repos) · [R](#r-365-repos) · [S](#s-525-repos) · [T](#t-513-repos) · [U](#u-171-repos) · [V](#v-66-repos) · [W](#w-137-repos) · [X](#x-15-repos) · [Y](#y-11-repos)
 [Z](#z-16-repos)
 
 ---
@@ -40,7 +40,7 @@
 | [120-Quick-Stata-Tips](https://github.com/PacktPublishing/120-Quick-Stata-Tips) | 120 Quick Stata Tips, published by Packt | Stata | ⭐ 2 |
 | [14681_Part-2-AWS-Certified-Solutions-Architect-and-CD-SO---2018](https://github.com/PacktPublishing/14681_Part-2-AWS-Certified-Solutions-Architect-and-CD-SO---2018) | 14681_Part 2 AWS Certified Solutions Architect (and CD,SO), published by Packt |  | ⭐ 1 |
 | [15-Math-Concepts-Every-Data-Scientist-Should-Know](https://github.com/PacktPublishing/15-Math-Concepts-Every-Data-Scientist-Should-Know) | 15 Math Concepts Every Data Scientist Should Know, published by Packt | Jupyter Notebook | ⭐ 50 |
-| [20-Embedded-Patterns-Every-Engineer-Should-Know](https://github.com/PacktPublishing/20-Embedded-Patterns-Every-Engineer-Should-Know) | 20 Embedded Patterns Every Engineer Should Know,  published by Packt | C++ | ⭐ 1 |
+| [20-Embedded-Patterns-Every-Engineer-Should-Know](https://github.com/PacktPublishing/20-Embedded-Patterns-Every-Engineer-Should-Know) | 20 Embedded Patterns Every Engineer Should Know,  published by Packt | C++ | ⭐ 2 |
 | [20-Microsoft-Power-BI-Projects](https://github.com/PacktPublishing/20-Microsoft-Power-BI-Projects) |  |  | ⭐ 3 |
 | [20-Web-Projects-with-Vanilla-JavaScript](https://github.com/PacktPublishing/20-Web-Projects-with-Vanilla-JavaScript) |  | JavaScript | ⭐ 63 |
 | [2018-Python-Regular-Expressions---Real-World-Projects](https://github.com/PacktPublishing/2018-Python-Regular-Expressions---Real-World-Projects) | 2018 Python Regular Expressions - Real World Projects, published by Packt |  | ⭐ 6 |
@@ -53,15 +53,15 @@
 | [2D-Game-Development-with-Unity-5.x](https://github.com/PacktPublishing/2D-Game-Development-with-Unity-5.x) |  | C# | ⭐ 3 |
 | [2D-Game-Programming-in-Unity](https://github.com/PacktPublishing/2D-Game-Programming-in-Unity) | 2D Game Programming in Unity [Video], published by Packt | C# | ⭐ 2 |
 | [2D-Platformer-Game-Development-with-GameMaker](https://github.com/PacktPublishing/2D-Platformer-Game-Development-with-GameMaker) | 2D Platformer Game Development with GameMaker, Published by Packt Publishing |  |  |
-| [30-Agents-Every-AI-Engineer-Must-Build](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build) | 30 Agents Every AI Engineer Must Build, published by Packt | Jupyter Notebook | ⭐ 776 |
+| [30-Agents-Every-AI-Engineer-Must-Build](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build) | 30 Agents Every AI Engineer Must Build, published by Packt | Jupyter Notebook | ⭐ 793 |
 | [30-Projects-with-AJAX-JavaScript-and-JSON](https://github.com/PacktPublishing/30-Projects-with-AJAX-JavaScript-and-JSON) | 30 Projects with AJAX, JavaScript, and JSON, By Packt publishing |  | ⭐ 7 |
 | [30-Web-Projects-with-HTML-CSS-and-JavaScript](https://github.com/PacktPublishing/30-Web-Projects-with-HTML-CSS-and-JavaScript) | 30+ Web Projects with HTML, CSS, and JavaScript,  by Packt Publishing |  | ⭐ 120 |
 | [3D-Character-Rigging-in-Blender](https://github.com/PacktPublishing/3D-Character-Rigging-in-Blender) | 3D Character Rigging in Blender, Published by Packt |  | ⭐ 6 |
 | [3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) | 3D Deep Learning with Python, Published by Packt | Python | ⭐ 121 |
 | [3D-Environment-Design-with-Blender](https://github.com/PacktPublishing/3D-Environment-Design-with-Blender) | 3D Environment Design with Blender, published by Packt |  | ⭐ 27 |
 | [3D-Environment-Design-with-Blender-4-Second-Edition](https://github.com/PacktPublishing/3D-Environment-Design-with-Blender-4-Second-Edition) | 3D Environment Design with Blender 4 Second Edition, published by Packt |  |  |
-| [3D-Environment-Design-with-Blender-5-Second-Edition](https://github.com/PacktPublishing/3D-Environment-Design-with-Blender-5-Second-Edition) | 3D Environment Design with Blender 5 (2nd edn.) by Packt Publishing |  | ⭐ 4 |
-| [3D-Game-Development-with-Blender-5-and-Unity-6](https://github.com/PacktPublishing/3D-Game-Development-with-Blender-5-and-Unity-6) |  | Python |  |
+| [3D-Environment-Design-with-Blender-5-Second-Edition](https://github.com/PacktPublishing/3D-Environment-Design-with-Blender-5-Second-Edition) | 3D Environment Design with Blender 5 (2nd edn.) by Packt Publishing |  | ⭐ 5 |
+| [3D-Game-Development-with-Blender-5-and-Unity-6](https://github.com/PacktPublishing/3D-Game-Development-with-Blender-5-and-Unity-6) |  | Python | ⭐ 1 |
 | [3D-Game-Development-with-Unity-5.x](https://github.com/PacktPublishing/3D-Game-Development-with-Unity-5.x) |  |  | ⭐ 1 |
 | [3D-Graphics-Rendering-Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook) | 3D Graphics Rendering Cookbook, published by Packt. | C++ | ⭐ 1115 |
 | [3D-Graphics-Rendering-Cookbook-Second-Edition](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook-Second-Edition) | 3D-Graphics-Rendering-Cookbook, Second Edition | C++ | ⭐ 613 |
@@ -69,7 +69,7 @@
 | [3D-Neural-Network-Visualization-with-TensorSpace](https://github.com/PacktPublishing/3D-Neural-Network-Visualization-with-TensorSpace) | 3D Neural Network Visualization with TensorSpace [Video], by Packt Publishing | HTML | ⭐ 3 |
 | [3D-Printing-with-Fusion-360](https://github.com/PacktPublishing/3D-Printing-with-Fusion-360) | 3D Printing with Fusion 360, Published by Packt | G-code | ⭐ 21 |
 | [3ds-Max-Speed-Modeling-for-3D-Artists](https://github.com/PacktPublishing/3ds-Max-Speed-Modeling-for-3D-Artists) | 3ds Max Speed Modeling for 3D Artists, published by Packt | MAXScript | ⭐ 1 |
-| [40-Algorithms-Every-Programmer-Should-Know](https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know) | 40 Algorithms Every Programmer Should Know, published by Packt | Python | ⭐ 1029 |
+| [40-Algorithms-Every-Programmer-Should-Know](https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know) | 40 Algorithms Every Programmer Should Know, published by Packt | Python | ⭐ 1031 |
 | [50-Hours-of-Big-Data-PySpark-AWS-Scala-and-Scraping](https://github.com/PacktPublishing/50-Hours-of-Big-Data-PySpark-AWS-Scala-and-Scraping) |  | Python | ⭐ 27 |
 | [50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know](https://github.com/PacktPublishing/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know) | 50 Kubernetes Concepts Every DevOps Engineer Should Know, Published by Packt | HCL | ⭐ 42 |
 | [50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript) | 50 Projects In 50 Days - HTML, CSS & JavaScript, by Packt Publishing | CSS | ⭐ 775 |
@@ -79,7 +79,7 @@
 | [50-Things-You-ve-Been-Doing-Wrong-in-Python.](https://github.com/PacktPublishing/50-Things-You-ve-Been-Doing-Wrong-in-Python.) | 50 Things You've Been Doing Wrong in Python., published by Packt |  | ⭐ 1 |
 | [5G-and-Wireless-Communication-for-Beginners](https://github.com/PacktPublishing/5G-and-Wireless-Communication-for-Beginners) | 5G and Wireless Communication for Beginners, by Packt Publishing  |  | ⭐ 4 |
 | [5S-Become-a-Certified-5S-Specialist](https://github.com/PacktPublishing/5S-Become-a-Certified-5S-Specialist) |  |  |  |
-| [60-AutoCAD-2D-3D-Drawings-and-Practical-Projects](https://github.com/PacktPublishing/60-AutoCAD-2D-3D-Drawings-and-Practical-Projects) | Code Repository for 60 AutoCAD 2D & 3D Drawings and Practical Projects, Published by Packt |  | ⭐ 9 |
+| [60-AutoCAD-2D-3D-Drawings-and-Practical-Projects](https://github.com/PacktPublishing/60-AutoCAD-2D-3D-Drawings-and-Practical-Projects) | Code Repository for 60 AutoCAD 2D & 3D Drawings and Practical Projects, Published by Packt |  | ⭐ 10 |
 | [70-JavaScript-Challenges---Data-Structures-and-Algorithms](https://github.com/PacktPublishing/70-JavaScript-Challenges---Data-Structures-and-Algorithms) | 70+ JavaScript Challenges - Data Structures and Algorithms, by packt publishing | JavaScript | ⭐ 34 |
 | [77-727-Core-Excel-Practice-Tests-and-Video-Solutions](https://github.com/PacktPublishing/77-727-Core-Excel-Practice-Tests-and-Video-Solutions) | 77-727 Core Excel Practice Tests and Video Solutions, published by packt |  | ⭐ 1 |
 | [77-727-Microsoft-Excel-Certification---MOS-Excel-Core-Exam](https://github.com/PacktPublishing/77-727-Microsoft-Excel-Certification---MOS-Excel-Core-Exam) | Code Repository for 77-727 Microsoft Excel Certification - MOS Excel Core Exam, publish... |  | ⭐ 2 |
@@ -89,7 +89,7 @@
 | [77-729---MOS-PowerPoint-Certification-Practice-Tests-and-Video-Solutions](https://github.com/PacktPublishing/77-729---MOS-PowerPoint-Certification-Practice-Tests-and-Video-Solutions) | 77-729 - MOS PowerPoint Certification Practice Tests and Video Solutions, published by ... |  | ⭐ 1 |
 | [8D-Problem-Solving-Specialist-](https://github.com/PacktPublishing/8D-Problem-Solving-Specialist-) | This is the code repository for  8D Problem Solving Specialist, published by Packt |  |  |
 
-## A (958 repos)
+## A (961 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -136,7 +136,7 @@
 | [A-Certified-Kubernetes-Security-Specialist-CKS-Course](https://github.com/PacktPublishing/A-Certified-Kubernetes-Security-Specialist-CKS-Course) | A Certified Kubernetes Security Specialist (CKS) Course, by Packt Publishing | Shell | ⭐ 5 |
 | [A-Complete-Course-on-Linux-Bash-Shell-Scripting-with-Real-Life-Examples](https://github.com/PacktPublishing/A-Complete-Course-on-Linux-Bash-Shell-Scripting-with-Real-Life-Examples) | Code Repository for A Complete Course on Linux Bash Shell Scripting with Real Life Exam... |  | ⭐ 4 |
 | [A-Complete-Course-on-Linux-Bash-Shell-Scripting-with-Real-Life-Examples-](https://github.com/PacktPublishing/A-Complete-Course-on-Linux-Bash-Shell-Scripting-with-Real-Life-Examples-) | A Complete Course on Linux Bash Shell Scripting with Real-Life Examples, published by P... | Shell | ⭐ 43 |
-| [A-Complete-Course-on-Windows-Server-2016-Administration-](https://github.com/PacktPublishing/A-Complete-Course-on-Windows-Server-2016-Administration-) | Code Repository for A Complete Course on Windows Server 2016 Administration, published ... |  | ⭐ 14 |
+| [A-Complete-Course-on-Windows-Server-2016-Administration-](https://github.com/PacktPublishing/A-Complete-Course-on-Windows-Server-2016-Administration-) | Code Repository for A Complete Course on Windows Server 2016 Administration, published ... |  | ⭐ 15 |
 | [A-Complete-CSS-Flexbox-Course-and-a-Real-World-Website-Project](https://github.com/PacktPublishing/A-Complete-CSS-Flexbox-Course-and-a-Real-World-Website-Project) | Code Repository for A Complete CSS Flexbox Course and a Real World Website Project, pub... |  | ⭐ 1 |
 | [A-complete-Guide-To-Learning-ChatGPT-4-Midjourney-DALL-E-2-And-AI-Tools](https://github.com/PacktPublishing/A-complete-Guide-To-Learning-ChatGPT-4-Midjourney-DALL-E-2-And-AI-Tools) | A complete Guide To Learning ChatGPT 4, Midjourney, DALL-E 2 And AI Tools, by Packt Pub... | HTML | ⭐ 59 |
 | [A-Complete-jQuery-Course-for-Beginners-to-Advanced](https://github.com/PacktPublishing/A-Complete-jQuery-Course-for-Beginners-to-Advanced) | A Complete jQuery Course for Beginners to Advanced, published by Packt publishing |  |  |
@@ -260,11 +260,11 @@
 | [Advanced-Data-Visualization-v-Video-](https://github.com/PacktPublishing/Advanced-Data-Visualization-v-Video-) | Advanced Data Visualization (v)[Video],published by Packt |  | ⭐ 1 |
 | [Advanced-Decision-Making-for-Strategic-Leaders](https://github.com/PacktPublishing/Advanced-Decision-Making-for-Strategic-Leaders) |  Advanced Decision Making for Strategic Leaders, Published by Packt Publishing |  |  |
 | [advanced-deep-learning-for-computer-vision](https://github.com/PacktPublishing/advanced-deep-learning-for-computer-vision) |  | Jupyter Notebook | ⭐ 3 |
-| [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras) |  Advanced Deep Learning with Keras, published by Packt | Python | ⭐ 2017 |
+| [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras) |  Advanced Deep Learning with Keras, published by Packt | Python | ⭐ 2016 |
 | [Advanced-Deep-Learning-with-Keras-](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras-) | Advanced Deep Learning with Keras [Video], Published by Packt |  | ⭐ 1 |
 | [Advanced-Deep-Learning-with-Keras-V](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras-V) | Advanced Deep Learning with Keras, by Packt Publishing | Jupyter Notebook | ⭐ 8 |
 | [Advanced-Deep-Learning-with-Keras-V-](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras-V-) |  |  | ⭐ 1 |
-| [Advanced-Deep-Learning-with-Python](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Python) | Advanced Deep Learning with Python by Packt Publishing | Jupyter Notebook | ⭐ 120 |
+| [Advanced-Deep-Learning-with-Python](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Python) | Advanced Deep Learning with Python by Packt Publishing | Jupyter Notebook | ⭐ 119 |
 | [Advanced-Deep-Learning-with-Python-video](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Python-video) | Advanced Deep Learning with Python [video], published by Packt |  | ⭐ 1 |
 | [Advanced-Deep-Learning-with-R](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-R) | Advanced Deep Learning with R, published by Packt |  | ⭐ 24 |
 | [Advanced-Design-Patterns-with-React](https://github.com/PacktPublishing/Advanced-Design-Patterns-with-React) | Advanced Design Patterns with React, published by Packt | JavaScript | ⭐ 7 |
@@ -294,7 +294,7 @@
 | [Advanced-Laravel-and-Vuejs---Build-a-Youtube-clone](https://github.com/PacktPublishing/Advanced-Laravel-and-Vuejs---Build-a-Youtube-clone) | Advanced Laravel and Vuejs - Build a Youtube clone by Packt Publishing | JavaScript | ⭐ 14 |
 | [Advanced-Linux-Systems-Administration](https://github.com/PacktPublishing/Advanced-Linux-Systems-Administration) | Advanced Linux Systems Administration [Video] |  | ⭐ 1 |
 | [Advanced-Machine-Learning-at-Scale-with-H2O](https://github.com/PacktPublishing/Advanced-Machine-Learning-at-Scale-with-H2O) | Advanced Machine Learning at Scale with H2O, Published by Packt |  | ⭐ 1 |
-| [Advanced-Machine-Learning-with-Python](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-Python) | Code repository for Advanced Machine Learning with Python, published by Packt | Jupyter Notebook | ⭐ 233 |
+| [Advanced-Machine-Learning-with-Python](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-Python) | Code repository for Advanced Machine Learning with Python, published by Packt | Jupyter Notebook | ⭐ 234 |
 | [Advanced-Machine-Learning-with-R](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-R) | Tackle data analytics and machine learning challenges and build complex applications wi... | R | ⭐ 22 |
 | [Advanced-Machine-Learning-with-R-v-](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-R-v-) | Advanced Machine Learning with R [Video] , published by Packt |  | ⭐ 2 |
 | [Advanced-Machine-Learning-with-Spark-2.x](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-Spark-2.x) | Advanced Machine Learning with Spark 2.x [video], published by Packt | Scala | ⭐ 9 |
@@ -325,28 +325,28 @@
 | [Advanced-Statistics-and-Data-Mining-for-Data-Science](https://github.com/PacktPublishing/Advanced-Statistics-and-Data-Mining-for-Data-Science) |  |  | ⭐ 1 |
 | [Advanced-Techniques-for-Exploring-Data-Sets-with-Pandas-](https://github.com/PacktPublishing/Advanced-Techniques-for-Exploring-Data-Sets-with-Pandas-) |  |  | ⭐ 4 |
 | [Advanced-TypeScript-3-Programming-Projects](https://github.com/PacktPublishing/Advanced-TypeScript-3-Programming-Projects) | Advanced TypeScript 3 Programming Projects, published by Packt | TypeScript | ⭐ 222 |
-| [Advanced-TypeScript-Building-Production-Grade-Applications](https://github.com/PacktPublishing/Advanced-TypeScript-Building-Production-Grade-Applications) |  | TypeScript | ⭐ 1 |
+| [Advanced-TypeScript-Building-Production-Grade-Applications](https://github.com/PacktPublishing/Advanced-TypeScript-Building-Production-Grade-Applications) |  | TypeScript | ⭐ 3 |
 | [Advanced-Web-Development-with-Django-v-](https://github.com/PacktPublishing/Advanced-Web-Development-with-Django-v-) | Advanced Web Development with Django, published by Packt | Python | ⭐ 5 |
 | [Advanced-Web-Scraping-with-Python](https://github.com/PacktPublishing/Advanced-Web-Scraping-with-Python) | Advanced Web Scraping with Python, Published by Packt | Python | ⭐ 19 |
 | [AdvancedPythonProgramming](https://github.com/PacktPublishing/AdvancedPythonProgramming) | Build high performance, concurrent, and multi-threaded apps with Python using proven de... | Jupyter Notebook | ⭐ 92 |
 | [Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies](https://github.com/PacktPublishing/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies) | Adversarial AI - Attacks, Mitigations, and Defense Strategies, published by Packt | Jupyter Notebook | ⭐ 97 |
-| [Adversarial-Tradecraft-in-Cybersecurity](https://github.com/PacktPublishing/Adversarial-Tradecraft-in-Cybersecurity) | A repo to support the book | PowerShell | ⭐ 47 |
+| [Adversarial-Tradecraft-in-Cybersecurity](https://github.com/PacktPublishing/Adversarial-Tradecraft-in-Cybersecurity) | A repo to support the book | PowerShell | ⭐ 48 |
 | [After-Effects-Basics-Shape-Morphing-Animation](https://github.com/PacktPublishing/After-Effects-Basics-Shape-Morphing-Animation) | After Effects Basics – Shape Morphing Animation, published by packt publishing. |  |  |
 | [After-Effects-CC-2017-Make-Pr](https://github.com/PacktPublishing/After-Effects-CC-2017-Make-Pr) | Code Repository for After Effects CC 2017: Make Pr, published by Packt |  | ⭐ 1 |
 | [After-Effects-CC-2017-Make-Professional-Lower-Thirds-Titles](https://github.com/PacktPublishing/After-Effects-CC-2017-Make-Professional-Lower-Thirds-Titles) | After Effects CC 2017: Make Professional Lower Thirds Titles, Published by Packt |  | ⭐ 2 |
-| [Agentic-AI-Architectures-with-Patterns-Frameworks-and-MCP](https://github.com/PacktPublishing/Agentic-AI-Architectures-with-Patterns-Frameworks-and-MCP) |  |  | ⭐ 2 |
+| [Agentic-AI-Architectures-with-Patterns-Frameworks-and-MCP](https://github.com/PacktPublishing/Agentic-AI-Architectures-with-Patterns-Frameworks-and-MCP) |  |  | ⭐ 4 |
 | [Agentic-AI-Development-with-OpenCode](https://github.com/PacktPublishing/Agentic-AI-Development-with-OpenCode) | This is the code repository for Agentic AI Development with OpenCode, published by Packt | Python |  |
 | [Agentic-AI-Engineering](https://github.com/PacktPublishing/Agentic-AI-Engineering) | Agentic AI Engineering, published by Packt |  | ⭐ 3 |
-| [Agentic-AI-for-DevOps-Engineers](https://github.com/PacktPublishing/Agentic-AI-for-DevOps-Engineers) | GitHub repository for Generative AI for DevOps | C# | ⭐ 1 |
-| [Agentic-AI-for-Offensive-Cybersecurity](https://github.com/PacktPublishing/Agentic-AI-for-Offensive-Cybersecurity) | Agentic AI for Offensive Cybersecurity, published by Packt | JavaScript | ⭐ 26 |
+| [Agentic-AI-for-DevOps-Engineers](https://github.com/PacktPublishing/Agentic-AI-for-DevOps-Engineers) | GitHub repository for Generative AI for DevOps | C# | ⭐ 2 |
+| [Agentic-AI-for-Offensive-Cybersecurity](https://github.com/PacktPublishing/Agentic-AI-for-Offensive-Cybersecurity) | Agentic AI for Offensive Cybersecurity, published by Packt | JavaScript | ⭐ 27 |
 | [Agentic-AI-in-Action](https://github.com/PacktPublishing/Agentic-AI-in-Action) | Agentic AI in Action |  | ⭐ 5 |
-| [Agentic-AI-Made-Simple](https://github.com/PacktPublishing/Agentic-AI-Made-Simple) |  |  | ⭐ 3 |
-| [Agentic-AI-Systems-Build-Deploy-with-LangChain-LangGraph](https://github.com/PacktPublishing/Agentic-AI-Systems-Build-Deploy-with-LangChain-LangGraph) | Agentic AI Systems: Build & Deploy with LangChain/LangGraph, Published by Packt Publishing | Python | ⭐ 5 |
-| [Agentic-AI-Systems-Design-Build-and-Deploy-Intelligent-Agents-](https://github.com/PacktPublishing/Agentic-AI-Systems-Design-Build-and-Deploy-Intelligent-Agents-) | This is the code repository for Agentic AI Systems Design, Build, and Deploy Intelligen... | Jupyter Notebook | ⭐ 2 |
+| [Agentic-AI-Made-Simple](https://github.com/PacktPublishing/Agentic-AI-Made-Simple) |  |  | ⭐ 4 |
+| [Agentic-AI-Systems-Build-Deploy-with-LangChain-LangGraph](https://github.com/PacktPublishing/Agentic-AI-Systems-Build-Deploy-with-LangChain-LangGraph) | Agentic AI Systems: Build & Deploy with LangChain/LangGraph, Published by Packt Publishing | Python | ⭐ 6 |
+| [Agentic-AI-Systems-Design-Build-and-Deploy-Intelligent-Agents-](https://github.com/PacktPublishing/Agentic-AI-Systems-Design-Build-and-Deploy-Intelligent-Agents-) | This is the code repository for Agentic AI Systems Design, Build, and Deploy Intelligen... | Jupyter Notebook | ⭐ 3 |
 | [Agentic-AI-with-Claude-Code-MCP](https://github.com/PacktPublishing/Agentic-AI-with-Claude-Code-MCP) | Agentic AI with Claude Code & MCP, published by Packt Publishing |  | ⭐ 1 |
 | [Agentic-AI-with-Microsoft-Foundry](https://github.com/PacktPublishing/Agentic-AI-with-Microsoft-Foundry) | Generative AI with Azure AI Foundry, published by Packt | Python | ⭐ 5 |
-| [Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems](https://github.com/PacktPublishing/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems) | Agentic Architectural Patterns for Building Multi-Agent Systems, published by Packt | Jupyter Notebook | ⭐ 127 |
-| [Agentic-Coding-with-Claude-Code](https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code) | Agentic Coding with Claude Code, published by Packt | TypeScript | ⭐ 159 |
+| [Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems](https://github.com/PacktPublishing/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems) | Agentic Architectural Patterns for Building Multi-Agent Systems, published by Packt | Jupyter Notebook | ⭐ 129 |
+| [Agentic-Coding-with-Claude-Code](https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code) | Agentic Coding with Claude Code, published by Packt | TypeScript | ⭐ 170 |
 | [Agentic-iOS-App-Development-with-Claude](https://github.com/PacktPublishing/Agentic-iOS-App-Development-with-Claude) | Agentic iOS App Development with Claude, published by packt publishing |  |  |
 | [Agents-Over-The-Weekend](https://github.com/PacktPublishing/Agents-Over-The-Weekend) | Build AI Agents over the weekend with Packt Publishing | Jupyter Notebook | ⭐ 16 |
 | [Agile-Development-with-Java-EE](https://github.com/PacktPublishing/Agile-Development-with-Java-EE) | Code repository for Agile Development with Java EE, published by Packt | Java | ⭐ 3 |
@@ -365,14 +365,15 @@
 | [Agile-Scrum-Mastery-Certification-Prep-and-Project-Simulation](https://github.com/PacktPublishing/Agile-Scrum-Mastery-Certification-Prep-and-Project-Simulation) |  | Rich Text Format |  |
 | [AI-900---Azure-AI-Fundamentals-and-Two-Practice-Tests](https://github.com/PacktPublishing/AI-900---Azure-AI-Fundamentals-and-Two-Practice-Tests) |  |  | ⭐ 2 |
 | [AI-900-Microsoft-Azure-AI-Fundamentals-Video-Course-and-Ques](https://github.com/PacktPublishing/AI-900-Microsoft-Azure-AI-Fundamentals-Video-Course-and-Ques) |  |  | ⭐ 17 |
-| [AI-Agent-Project-with-Python-CrewAI](https://github.com/PacktPublishing/AI-Agent-Project-with-Python-CrewAI) | AI Agent Project with Python & CrewAI, published by Packt Publishing | Python | ⭐ 2 |
+| [AI-Agent-Project-with-Python-CrewAI](https://github.com/PacktPublishing/AI-Agent-Project-with-Python-CrewAI) | AI Agent Project with Python & CrewAI, published by Packt Publishing | Python | ⭐ 3 |
 | [AI-Agents-in-Finance](https://github.com/PacktPublishing/AI-Agents-in-Finance) | Applied AI in Finance: From Actionable Signals to Agentic Systems |  | ⭐ 3 |
 | [AI-Agents-in-Practice](https://github.com/PacktPublishing/AI-Agents-in-Practice) | AI Agents in Practice, published by Packt | Jupyter Notebook | ⭐ 114 |
-| [AI-Agents-on-AWS](https://github.com/PacktPublishing/AI-Agents-on-AWS) | This is a repository for Agentic with AWS, published by Packt | Jupyter Notebook | ⭐ 12 |
+| [AI-Agents-on-AWS](https://github.com/PacktPublishing/AI-Agents-on-AWS) | This is a repository for Agentic with AWS, published by Packt | Jupyter Notebook | ⭐ 13 |
 | [AI-and-Business-Rules-for-Excel-Power-Users](https://github.com/PacktPublishing/AI-and-Business-Rules-for-Excel-Power-Users) | Business Rule Engines and AI for Excel Power Users by Packt Publishing | Jupyter Notebook | ⭐ 20 |
 | [AI-and-ML-Engineering-with-Python-Third-Edition](https://github.com/PacktPublishing/AI-and-ML-Engineering-with-Python-Third-Edition) | AI and ML Engineering with Python - Third Edition, Published by Packt | Python |  |
 | [AI-and-Quantum-Computing-Mastery---From-Zero-to-Expert-Bootcamp](https://github.com/PacktPublishing/AI-and-Quantum-Computing-Mastery---From-Zero-to-Expert-Bootcamp) |  AI & Quantum Computing Mastery - From Zero to Expert Bootcamp, Published by Packt Publ... | Jupyter Notebook | ⭐ 18 |
 | [AI-Assisted-Development-with-Claude-Code](https://github.com/PacktPublishing/AI-Assisted-Development-with-Claude-Code) | AI-Assisted Development with Claude Code, Published by Packt Publishing | JavaScript | ⭐ 7 |
+| [AI-Assisted-QA-Automation-with-Claude-Code](https://github.com/PacktPublishing/AI-Assisted-QA-Automation-with-Claude-Code) | AI-Assisted QA Automation with Claude Code, published by Packt Publishing |  |  |
 | [AI-Assisted-Software-Development-with-GitHub-Copilot-and-ChatGPT](https://github.com/PacktPublishing/AI-Assisted-Software-Development-with-GitHub-Copilot-and-ChatGPT) | AI-Assisted Software Development with GitHub Copilot and ChatGPT | Jupyter Notebook | ⭐ 44 |
 | [AI-Augmented-Domain-Driven-Design](https://github.com/PacktPublishing/AI-Augmented-Domain-Driven-Design) | AI‑Augmented Domain‑Driven Design, published by Packt |  | ⭐ 2 |
 | [AI-Crash-Course](https://github.com/PacktPublishing/AI-Crash-Course) | AI-Crash-Course, published by Packt | Python | ⭐ 280 |
@@ -389,7 +390,7 @@
 | [AI-Engineer-Professional-Course](https://github.com/PacktPublishing/AI-Engineer-Professional-Course) | AI Engineer Professional Course, Published by Packt Publishing |  | ⭐ 1 |
 | [AI-Engineering-Masterclass-From-Zero-to-AI-Hero](https://github.com/PacktPublishing/AI-Engineering-Masterclass-From-Zero-to-AI-Hero) | This is the code repository for AI Engineering Masterclass: From Zero to AI Hero, publi... | Python | ⭐ 22 |
 | [AI-Enhancement-with-Knowledge-Graphs---Mastering-RAG-Systems](https://github.com/PacktPublishing/AI-Enhancement-with-Knowledge-Graphs---Mastering-RAG-Systems) |  | Python | ⭐ 29 |
-| [AI-Ethics-Governance-and-Risk---The-Complete-Guide](https://github.com/PacktPublishing/AI-Ethics-Governance-and-Risk---The-Complete-Guide) | This is the code repository for AI Ethics, Governance, and Risk - The Complete Guide, p... |  | ⭐ 1 |
+| [AI-Ethics-Governance-and-Risk---The-Complete-Guide](https://github.com/PacktPublishing/AI-Ethics-Governance-and-Risk---The-Complete-Guide) | This is the code repository for AI Ethics, Governance, and Risk - The Complete Guide, p... |  | ⭐ 2 |
 | [AI-Ethics-in-Action](https://github.com/PacktPublishing/AI-Ethics-in-Action) |  |  |  |
 | [AI-Ethics-in-Action.](https://github.com/PacktPublishing/AI-Ethics-in-Action.) |  |  |  |
 | [AI-Fluency-for-Healthcare-Managers-Leaders](https://github.com/PacktPublishing/AI-Fluency-for-Healthcare-Managers-Leaders) |  |  | ⭐ 1 |
@@ -409,7 +410,7 @@
 | [AI-LLM-Engineering-Mastery---GenAI-RAG-Complete-Guide](https://github.com/PacktPublishing/AI-LLM-Engineering-Mastery---GenAI-RAG-Complete-Guide) |  | Python | ⭐ 34 |
 | [AI-LLM-Fundamentals-Intro-to-Large-Language-Models-ChatGPT](https://github.com/PacktPublishing/AI-LLM-Fundamentals-Intro-to-Large-Language-Models-ChatGPT) |  |  | ⭐ 6 |
 | [AI-Networking-Cookbook](https://github.com/PacktPublishing/AI-Networking-Cookbook) | By Packt Publishing | Python | ⭐ 2 |
-| [AI-Networking-Cookbook-First-Edition](https://github.com/PacktPublishing/AI-Networking-Cookbook-First-Edition) | AI Networking Cookbook, First Edition, Published by Packt | Python | ⭐ 44 |
+| [AI-Networking-Cookbook-First-Edition](https://github.com/PacktPublishing/AI-Networking-Cookbook-First-Edition) | AI Networking Cookbook, First Edition, Published by Packt | Python | ⭐ 45 |
 | [AI-Platform-Foundation](https://github.com/PacktPublishing/AI-Platform-Foundation) | AI Platform Foundation |  | ⭐ 2 |
 | [AI-Powered-Analytics-in-Excel](https://github.com/PacktPublishing/AI-Powered-Analytics-in-Excel) | AI-Powered Analytics in Excel |  | ⭐ 5 |
 | [AI-Powered-Commerce](https://github.com/PacktPublishing/AI-Powered-Commerce) | AI-Powered Commerce, published by Packt | Jupyter Notebook | ⭐ 11 |
@@ -430,6 +431,7 @@
 | [AI-Risk-Profiling-for-GenAI-Systems](https://github.com/PacktPublishing/AI-Risk-Profiling-for-GenAI-Systems) | AI Risk Profiling for GenAI Systems, published by Packt |  | ⭐ 2 |
 | [AI-Security-Fundamentals---LLM-Threats-and-OWASP-Principles-2026](https://github.com/PacktPublishing/AI-Security-Fundamentals---LLM-Threats-and-OWASP-Principles-2026) | This is the code repository for AI Security Fundamentals - LLM Threats and OWASP Princi... |  | ⭐ 14 |
 | [AI-SEO-GEO---Rank-Higher-in-ChatGPT-Claude-Gemini-2026-](https://github.com/PacktPublishing/AI-SEO-GEO---Rank-Higher-in-ChatGPT-Claude-Gemini-2026-) | AI SEO (GEO) - Rank Higher in ChatGPT, Claude & Gemini (2026), published by Packt Publi... |  |  |
+| [AI-Software-Testing-ChatGPT-GitHub-Copilot-for-QA](https://github.com/PacktPublishing/AI-Software-Testing-ChatGPT-GitHub-Copilot-for-QA) | AI Software Testing: ChatGPT & GitHub Copilot for QA, published by Packt Publishing |  |  |
 | [AI-Strategies-for-Web-Development](https://github.com/PacktPublishing/AI-Strategies-for-Web-Development) | ​AI Strategies for Web Development, published by Packt | Jupyter Notebook | ⭐ 6 |
 | [AI-Strategy-for-Business-Leaders-with-ChatGPT-ML-DL](https://github.com/PacktPublishing/AI-Strategy-for-Business-Leaders-with-ChatGPT-ML-DL) |  |  | ⭐ 2 |
 | [AI-Strategy-Market-Reality-Executive-Insights](https://github.com/PacktPublishing/AI-Strategy-Market-Reality-Executive-Insights) | AI Strategy & Market Reality: Executive Insights |  |  |
@@ -445,11 +447,11 @@
 | [Alexa-Skills-Projects](https://github.com/PacktPublishing/Alexa-Skills-Projects) | Alexa Skills Projects, published by Packt | JavaScript | ⭐ 9 |
 | [Alfresco-for-Administrators](https://github.com/PacktPublishing/Alfresco-for-Administrators) | Code files for Alfresco-for-Administrators, Packt Publishing |  | ⭐ 2 |
 | [Alfresco-One-5x-Developers-Guide](https://github.com/PacktPublishing/Alfresco-One-5x-Developers-Guide) | Code repository for Alfresco One 5.x Developer's Guide, published by Packt | JavaScript | ⭐ 14 |
-| [Algorithmic-Short-Selling-with-Python](https://github.com/PacktPublishing/Algorithmic-Short-Selling-with-Python) | Algorithmic Short Selling with Python, Published by Packt | Jupyter Notebook | ⭐ 96 |
+| [Algorithmic-Short-Selling-with-Python](https://github.com/PacktPublishing/Algorithmic-Short-Selling-with-Python) | Algorithmic Short Selling with Python, Published by Packt | Jupyter Notebook | ⭐ 95 |
 | [Algorithmic-Short-Selling-with-Python-Published-by-Packt](https://github.com/PacktPublishing/Algorithmic-Short-Selling-with-Python-Published-by-Packt) |  Algorithmic Short-Selling with Python | Jupyter Notebook | ⭐ 121 |
 | [Algorithmic-Short-Selling-with-Python-Second-Edition](https://github.com/PacktPublishing/Algorithmic-Short-Selling-with-Python-Second-Edition) | Algorithmic Short-Selling with Python, Second Edition |  | ⭐ 1 |
-| [Algorithmic-Short-Selling-with-Python_Second-Edition](https://github.com/PacktPublishing/Algorithmic-Short-Selling-with-Python_Second-Edition) |  | Jupyter Notebook | ⭐ 6 |
-| [Algorithmic-Trading-for-Beginners](https://github.com/PacktPublishing/Algorithmic-Trading-for-Beginners) | Algorithmic Trading for Beginners | Jupyter Notebook | ⭐ 2 |
+| [Algorithmic-Short-Selling-with-Python_Second-Edition](https://github.com/PacktPublishing/Algorithmic-Short-Selling-with-Python_Second-Edition) |  | Jupyter Notebook | ⭐ 7 |
+| [Algorithmic-Trading-for-Beginners](https://github.com/PacktPublishing/Algorithmic-Trading-for-Beginners) | Algorithmic Trading for Beginners | Jupyter Notebook | ⭐ 3 |
 | [Algorithmic-Trading-with-Python](https://github.com/PacktPublishing/Algorithmic-Trading-with-Python) | Algorithmic Trading with Python, by Packt Publishing | Jupyter Notebook | ⭐ 11 |
 | [All-in-One-Introduction-to-Programming](https://github.com/PacktPublishing/All-in-One-Introduction-to-Programming) | All-in-One Introduction to Programming [Video], published by Packt |  | ⭐ 1 |
 | [Allen-Bradley-Micro850-PLC-with-IIoT](https://github.com/PacktPublishing/Allen-Bradley-Micro850-PLC-with-IIoT) |  |  | ⭐ 3 |
@@ -517,7 +519,7 @@
 | [Android-Jetpack-Compose---Build-Android-Native-UI-s-Fast](https://github.com/PacktPublishing/Android-Jetpack-Compose---Build-Android-Native-UI-s-Fast) | Android Jetpack Compose - Build Android Native UI's Fast, published by Packt | Rich Text Format | ⭐ 10 |
 | [Android-Programming-for-Beginners](https://github.com/PacktPublishing/Android-Programming-for-Beginners) | Android Programming for Beginners, published by Packt | Java | ⭐ 29 |
 | [Android-Programming-for-Beginners-Fourth-Edition](https://github.com/PacktPublishing/Android-Programming-for-Beginners-Fourth-Edition) | Android Programming for Beginners, Fourth Edition, published by Packt | Kotlin | ⭐ 2 |
-| [Android-Programming-for-Beginners-Third-Edition](https://github.com/PacktPublishing/Android-Programming-for-Beginners-Third-Edition) | Android Programming for Beginners - Third Edition, published by Packt | Java | ⭐ 66 |
+| [Android-Programming-for-Beginners-Third-Edition](https://github.com/PacktPublishing/Android-Programming-for-Beginners-Third-Edition) | Android Programming for Beginners - Third Edition, published by Packt | Java | ⭐ 67 |
 | [Android-Programming-for-Developers](https://github.com/PacktPublishing/Android-Programming-for-Developers) | Code repository for Android Programming for Developers, published by Packt | Java | ⭐ 7 |
 | [Android-Programming-with-Kotlin-for-Beginners](https://github.com/PacktPublishing/Android-Programming-with-Kotlin-for-Beginners) | Android Programming with Kotlin for Beginners, published by Packt | Kotlin | ⭐ 77 |
 | [Android-Sensor-Programming-By-Example](https://github.com/PacktPublishing/Android-Sensor-Programming-By-Example) | Android-Sensor-Programming-By-Example Code | Java | ⭐ 15 |
@@ -531,7 +533,7 @@
 | [Android_Studio_2_Essentials_Second_Edition_Code](https://github.com/PacktPublishing/Android_Studio_2_Essentials_Second_Edition_Code) | Android_Studio_2_Essentials_Second_Edition_Code | Java | ⭐ 3 |
 | [Angular---The-Complete-Guide---2023-Edition](https://github.com/PacktPublishing/Angular---The-Complete-Guide---2023-Edition) | Find the code bundle for "Angular - The Complete Guide [2023 Edition]" course here |  | ⭐ 32 |
 | [Angular---The-Complete-Guide-2021-Edition](https://github.com/PacktPublishing/Angular---The-Complete-Guide-2021-Edition) | Code Repository for Angular 8 - The Complete Guide, published by Packt |  | ⭐ 83 |
-| [Angular---The-Complete-Guide-2024-Edition](https://github.com/PacktPublishing/Angular---The-Complete-Guide-2024-Edition) | Find the code bundle for "Angular - The Complete Guide [2024 Edition]" course here.  |  | ⭐ 22 |
+| [Angular---The-Complete-Guide-2024-Edition](https://github.com/PacktPublishing/Angular---The-Complete-Guide-2024-Edition) | Find the code bundle for "Angular - The Complete Guide [2024 Edition]" course here.  |  | ⭐ 23 |
 | [Angular---The-Complete-Guide-for-Angular-16-17](https://github.com/PacktPublishing/Angular---The-Complete-Guide-for-Angular-16-17) | Find the code bundle for "Angular - The Complete Guide for Angular 16/17" course here. |  | ⭐ 1 |
 | [Angular-2-Application-Development](https://github.com/PacktPublishing/Angular-2-Application-Development) | Code repository for Angular 2: Application Development by Packt | TypeScript | ⭐ 5 |
 | [Angular-2-Components](https://github.com/PacktPublishing/Angular-2-Components) | Code repository for Angular 2 Components, published by Packt  | TypeScript | ⭐ 4 |
@@ -558,8 +560,8 @@
 | [Angular-and-Node.js---The-MEAN-Stack-Guide](https://github.com/PacktPublishing/Angular-and-Node.js---The-MEAN-Stack-Guide) | Angular and Node.js - The MEAN Stack Guide, published by Packt | TypeScript | ⭐ 24 |
 | [Angular-by-Example](https://github.com/PacktPublishing/Angular-by-Example) | Angular by Example, published by Packt |  | ⭐ 2 |
 | [Angular-CLI-Recipes](https://github.com/PacktPublishing/Angular-CLI-Recipes) |  | TypeScript | ⭐ 5 |
-| [Angular-Cookbook](https://github.com/PacktPublishing/Angular-Cookbook) |  Angular Cookbook, published by Packt | TypeScript | ⭐ 134 |
-| [Angular-Cookbook-2E](https://github.com/PacktPublishing/Angular-Cookbook-2E) |  | JavaScript | ⭐ 77 |
+| [Angular-Cookbook](https://github.com/PacktPublishing/Angular-Cookbook) |  Angular Cookbook, published by Packt | TypeScript | ⭐ 135 |
+| [Angular-Cookbook-2E](https://github.com/PacktPublishing/Angular-Cookbook-2E) |  | JavaScript | ⭐ 78 |
 | [Angular-Design-Patterns](https://github.com/PacktPublishing/Angular-Design-Patterns) | Angular Design Patterns published by Packt | TypeScript | ⭐ 34 |
 | [Angular-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) | Angular Design Patterns and Best Practices, Published by Packt | TypeScript | ⭐ 68 |
 | [Angular-for-Enterprise-Applications](https://github.com/PacktPublishing/Angular-for-Enterprise-Applications) |  |  |  |
@@ -569,7 +571,7 @@
 | [Angular-Full-App-with-Angular-Material-Angularfire-and-NgRx](https://github.com/PacktPublishing/Angular-Full-App-with-Angular-Material-Angularfire-and-NgRx) | Angular (Full App) with Angular Material, Angularfire and NgRx, published by Packt |  | ⭐ 26 |
 | [Angular-Fundamentals-with-TypeScript](https://github.com/PacktPublishing/Angular-Fundamentals-with-TypeScript) | Angular Fundamentals with TypeScript [Video], by Packt Publishing |  | ⭐ 1 |
 | [Angular-Projects](https://github.com/PacktPublishing/Angular-Projects) | Angular Projects, Published by Packt | TypeScript | ⭐ 145 |
-| [Angular-Projects-4E](https://github.com/PacktPublishing/Angular-Projects-4E) | Angular Projects, 4E, Published by Packt | TypeScript | ⭐ 8 |
+| [Angular-Projects-4E](https://github.com/PacktPublishing/Angular-Projects-4E) | Angular Projects, 4E, Published by Packt | TypeScript | ⭐ 9 |
 | [Angular-Projects-Second-Edition](https://github.com/PacktPublishing/Angular-Projects-Second-Edition) | Angular Projects - Second Edition, published by Packt | TypeScript | ⭐ 143 |
 | [Angular-Projects-Third-Edition](https://github.com/PacktPublishing/Angular-Projects-Third-Edition) |  | TypeScript | ⭐ 82 |
 | [Angular-Router](https://github.com/PacktPublishing/Angular-Router) | Angular Router, published by Packt | TypeScript | ⭐ 3 |
@@ -660,6 +662,7 @@
 | [API-Security-for-White-Hat-Hackers](https://github.com/PacktPublishing/API-Security-for-White-Hat-Hackers) | GitHub repository for the API Security for White Hat Hackers book | JavaScript | ⭐ 16 |
 | [API-Testing-and-Development-with-Postman](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman) | API Testing and Development with Postman, published by Packt | HTML | ⭐ 84 |
 | [API-Testing-and-Development-with-Postman-Second-Edition](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition) | API Testing and Development with Postman, Second Edition | JavaScript | ⭐ 18 |
+| [API-Testing-Masterclass-Postman-AI-Supertest-CI-CD](https://github.com/PacktPublishing/API-Testing-Masterclass-Postman-AI-Supertest-CI-CD) | API Testing Masterclass: Postman, AI, Supertest & CI/CD, published by Packt Publishing |  |  |
 | [Apigee-API-Management](https://github.com/PacktPublishing/Apigee-API-Management) | Apigee API Management, published by Packt | Java | ⭐ 1 |
 | [App-Monetization-A-Deep-Dive](https://github.com/PacktPublishing/App-Monetization-A-Deep-Dive) | Code repository for App Monetization: A Deep Dive, published by Packt |  | ⭐ 1 |
 | [Appium-Selenium--Mobile-Automation-Testing-from-Scratch](https://github.com/PacktPublishing/Appium-Selenium--Mobile-Automation-Testing-from-Scratch) | Code Repository for Appium(Selenium)-Mobile Automation Testing from Scratch, Published ... |  | ⭐ 7 |
@@ -703,9 +706,9 @@
 | [Architect-Android-apps-with-MVP-Dagger-Retrofit-RxJava](https://github.com/PacktPublishing/Architect-Android-apps-with-MVP-Dagger-Retrofit-RxJava) | Architect Android apps with MVP, Dagger, Retrofit & RxJava, published by Packt |  | ⭐ 1 |
 | [Architecting-AI-Solutions---Scalable-GenAI-Systems-for-the-Future](https://github.com/PacktPublishing/Architecting-AI-Solutions---Scalable-GenAI-Systems-for-the-Future) |  Architecting AI Solutions - Scalable GenAI Systems for the Future, Published by Packt ... | Python | ⭐ 8 |
 | [Architecting-AI-Solutions-on-Salesforce](https://github.com/PacktPublishing/Architecting-AI-Solutions-on-Salesforce) | Architecting AI Solutions on Salesforce, published by Packt | Jupyter Notebook | ⭐ 4 |
-| [Architecting-and-Building-High-Speed-SoCs](https://github.com/PacktPublishing/Architecting-and-Building-High-Speed-SoCs) | Architecting and Building High Speed SoCs, published by Packt | Verilog | ⭐ 31 |
+| [Architecting-and-Building-High-Speed-SoCs](https://github.com/PacktPublishing/Architecting-and-Building-High-Speed-SoCs) | Architecting and Building High Speed SoCs, published by Packt | Verilog | ⭐ 32 |
 | [Architecting-Angular-Applications-with-Redux-RxJS-and-NgRx](https://github.com/PacktPublishing/Architecting-Angular-Applications-with-Redux-RxJS-and-NgRx) | Architecting Angular Applications with Redux, RxJS, and NgRx, published by Packt | TypeScript | ⭐ 59 |
-| [Architecting-ASP.NET-Core-Applications-3E](https://github.com/PacktPublishing/Architecting-ASP.NET-Core-Applications-3E) | Architecting ASP.NET Core Applications, 3E_published by Packt | C# | ⭐ 111 |
+| [Architecting-ASP.NET-Core-Applications-3E](https://github.com/PacktPublishing/Architecting-ASP.NET-Core-Applications-3E) | Architecting ASP.NET Core Applications, 3E_published by Packt | C# | ⭐ 112 |
 | [Architecting-AWS-with-Terraform](https://github.com/PacktPublishing/Architecting-AWS-with-Terraform) | Architecting AWS with Terraform, published by Packt | HCL | ⭐ 9 |
 | [Architecting-Azure-Solutions-for-PaaS](https://github.com/PacktPublishing/Architecting-Azure-Solutions-for-PaaS) | Code repository for Architecting Azure Solutions for PaaS, Published by Packt | JavaScript | ⭐ 2 |
 | [Architecting-Cloud-Native-Applications](https://github.com/PacktPublishing/Architecting-Cloud-Native-Applications) | Design high-performing and cost-effective applications for the cloud | JavaScript | ⭐ 8 |
@@ -759,7 +762,7 @@
 | [Artificial-General-Intelligence-AGI-](https://github.com/PacktPublishing/Artificial-General-Intelligence-AGI-) | Artificial General Intelligence (AGI), published by Packt Publishing |  |  |
 | [Artificial-Intelligence-AI-Market-Analysis-Essentials-](https://github.com/PacktPublishing/Artificial-Intelligence-AI-Market-Analysis-Essentials-) | Artificial Intelligence(AI) Market Analysis Essentials , Published by Packt Publishing |  |  |
 | [Artificial-Intelligence-and-Deep-Learning-for-Decision-Makers-](https://github.com/PacktPublishing/Artificial-Intelligence-and-Deep-Learning-for-Decision-Makers-) | Artificial Intelligence and Deep Learning for Decision Makers, published by Packt |  | ⭐ 1 |
-| [Artificial-Intelligence-By-Example](https://github.com/PacktPublishing/Artificial-Intelligence-By-Example) | Artificial Intelligence By Example, published by Packt | Python | ⭐ 107 |
+| [Artificial-Intelligence-By-Example](https://github.com/PacktPublishing/Artificial-Intelligence-By-Example) | Artificial Intelligence By Example, published by Packt | Python | ⭐ 109 |
 | [Artificial-Intelligence-By-Example-Second-Edition](https://github.com/PacktPublishing/Artificial-Intelligence-By-Example-Second-Edition) | Artificial Intelligence By Example Second Edition, published by Packt | Jupyter Notebook | ⭐ 52 |
 | [Artificial-Intelligence-for-Big-Data](https://github.com/PacktPublishing/Artificial-Intelligence-for-Big-Data) | Artificial Intelligence for Big Data, published by Packt | Java | ⭐ 17 |
 | [Artificial-Intelligence-for-Cybersecurity](https://github.com/PacktPublishing/Artificial-Intelligence-for-Cybersecurity) | Artificial Intelligence for Cybersecurity, published by Packt | Python | ⭐ 28 |
@@ -769,7 +772,7 @@
 | [Artificial-Intelligence-for-Robotics-2e](https://github.com/PacktPublishing/Artificial-Intelligence-for-Robotics-2e) | Artificial Intelligence for Robotics - Second Edition, published by Packt | Python | ⭐ 71 |
 | [Artificial-intelligence-in-Game-development---Tic-Tac-Toe-AI](https://github.com/PacktPublishing/Artificial-intelligence-in-Game-development---Tic-Tac-Toe-AI) | Artificial intelligence in Game development - Tic Tac Toe AI, published by Packt |  | ⭐ 4 |
 | [Artificial-Intelligence-in-Power-BI](https://github.com/PacktPublishing/Artificial-Intelligence-in-Power-BI) |  |  | ⭐ 2 |
-| [Artificial-Intelligence-in-Unreal-Engine-5](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5) | Artificial Intelligence in Unreal Engine 5, published by Packt |  | ⭐ 33 |
+| [Artificial-Intelligence-in-Unreal-Engine-5](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5) | Artificial Intelligence in Unreal Engine 5, published by Packt |  | ⭐ 34 |
 | [Artificial-Intelligence-with-Power-BI](https://github.com/PacktPublishing/Artificial-Intelligence-with-Power-BI) | Artificial Intelligence with Power BI, published by Packt | Python | ⭐ 23 |
 | [Artificial-Intelligence-with-Python](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python) | Code repository for Artificial Intelligence with Python, published by Packt  | Python | ⭐ 483 |
 | [Artificial-Intelligence-with-Python-Cookbook](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python-Cookbook) |  Artificial Intelligence with Python Cookbook, published by Packt | Jupyter Notebook | ⭐ 79 |
@@ -784,7 +787,7 @@
 | [ASP-NET-Core-Cloud-ready-Enterprise-Web-Application-Development](https://github.com/PacktPublishing/ASP-NET-Core-Cloud-ready-Enterprise-Web-Application-Development) | ASP.NET Core: Cloud-ready, Enterprise Web Application Development, published by Packt | C# | ⭐ 10 |
 | [ASP.NET-6.0---Build-Hands-On-Web-Projects](https://github.com/PacktPublishing/ASP.NET-6.0---Build-Hands-On-Web-Projects) | ASP.NET 6.0 - Build Hands-On Web Projects, by Packt Publishing | C# | ⭐ 2 |
 | [ASP.NET-8-Best-Practices](https://github.com/PacktPublishing/ASP.NET-8-Best-Practices) | ASP.NET-8-Best-Practices, Published by Packt | SCSS | ⭐ 23 |
-| [ASP.NET-9-Web-API-Cookbook](https://github.com/PacktPublishing/ASP.NET-9-Web-API-Cookbook) |  | C# | ⭐ 41 |
+| [ASP.NET-9-Web-API-Cookbook](https://github.com/PacktPublishing/ASP.NET-9-Web-API-Cookbook) |  | C# | ⭐ 42 |
 | [ASP.NET-Core---SOLID-and-Clean-Architecture-.NET-5-and-up-](https://github.com/PacktPublishing/ASP.NET-Core---SOLID-and-Clean-Architecture-.NET-5-and-up-) | Educational Project to demonstrate MediatR, CQRS & Onion/Clean Architecture in ASP.NET ... | C# | ⭐ 16 |
 | [ASP.NET-Core-1.0-High-Performance](https://github.com/PacktPublishing/ASP.NET-Core-1.0-High-Performance) | ASP.NET Core 1.0 High Performance by Packt Publishing | C# | ⭐ 18 |
 | [ASP.NET-Core-2-and-Angular-5](https://github.com/PacktPublishing/ASP.NET-Core-2-and-Angular-5) | ASP.NET Core 2 and Angular 5, published by Packt | C# | ⭐ 80 |
@@ -797,9 +800,9 @@
 | [ASP.NET-Core-5-Design-Patterns](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns) | An Atypical ASP.NET Core 5 Design Patterns Guide, published by Packt | C# | ⭐ 61 |
 | [ASP.NET-Core-5-for-Beginners](https://github.com/PacktPublishing/ASP.NET-Core-5-for-Beginners) | ASP.NET Core 5 for Beginners, published by Packt | C# | ⭐ 57 |
 | [ASP.NET-Core-6-and-Angular](https://github.com/PacktPublishing/ASP.NET-Core-6-and-Angular) | ASP.NET-Core-6-and-Angular, published by Packt | C# | ⭐ 104 |
-| [ASP.NET-Core-8-and-Angular](https://github.com/PacktPublishing/ASP.NET-Core-8-and-Angular) | ASP.NET Core 8 and Angular, published by Packt | C# | ⭐ 85 |
+| [ASP.NET-Core-8-and-Angular](https://github.com/PacktPublishing/ASP.NET-Core-8-and-Angular) | ASP.NET Core 8 and Angular, published by Packt | C# | ⭐ 86 |
 | [ASP.NET-Core-9.0-Essentials](https://github.com/PacktPublishing/ASP.NET-Core-9.0-Essentials) | ASP.NET Core 9.0 Essentials, published by Packt | C# | ⭐ 19 |
-| [ASP.NET-Core-and-Vue.js](https://github.com/PacktPublishing/ASP.NET-Core-and-Vue.js) | ASP.NET Core and Vue.js, published by Packt | C# | ⭐ 77 |
+| [ASP.NET-Core-and-Vue.js](https://github.com/PacktPublishing/ASP.NET-Core-and-Vue.js) | ASP.NET Core and Vue.js, published by Packt | C# | ⭐ 76 |
 | [ASP.NET-Core-API-and-Blazor-Development](https://github.com/PacktPublishing/ASP.NET-Core-API-and-Blazor-Development) | ASP.NET Core API and Blazor Development, published by Packt | C# | ⭐ 5 |
 | [ASP.NET-Core-Full-Stack-Development-Projects-](https://github.com/PacktPublishing/ASP.NET-Core-Full-Stack-Development-Projects-) | ASP.NET Core Full-Stack Development Projects[video], published by Packt |  | ⭐ 28 |
 | [ASP.NET-Core-Identity---Authentication-and-Authorization](https://github.com/PacktPublishing/ASP.NET-Core-Identity---Authentication-and-Authorization) | ASP.NET Core Identity - Authentication and Authorization, by Packt Publishing |  | ⭐ 6 |
@@ -808,7 +811,7 @@
 | [ASP.NET-Core-MVC-Up-and-Running-.NET-5](https://github.com/PacktPublishing/ASP.NET-Core-MVC-Up-and-Running-.NET-5) |  | C# | ⭐ 9 |
 | [ASP.NET-Core-Razor-Pages---The-Complete-Guide-.NET-6-](https://github.com/PacktPublishing/ASP.NET-Core-Razor-Pages---The-Complete-Guide-.NET-6-) |  | CSS | ⭐ 4 |
 | [ASP.NET-Core-Secure-Coding](https://github.com/PacktPublishing/ASP.NET-Core-Secure-Coding) | ASP.NET Core Secure Coding, Published by Packt Publishing | C# |  |
-| [ASP.NET-Core-Secure-Coding-Cookbook](https://github.com/PacktPublishing/ASP.NET-Core-Secure-Coding-Cookbook) | ASP.NET Core 5 Secure Coding Cookbook, published by Packt | C# | ⭐ 51 |
+| [ASP.NET-Core-Secure-Coding-Cookbook](https://github.com/PacktPublishing/ASP.NET-Core-Secure-Coding-Cookbook) | ASP.NET Core 5 Secure Coding Cookbook, published by Packt | C# | ⭐ 52 |
 | [ASP.NET-Core-SOLID-and-Clean-Architecture-.NET-5-and-up-](https://github.com/PacktPublishing/ASP.NET-Core-SOLID-and-Clean-Architecture-.NET-5-and-up-) | ASP.NET Core - SOLID and Clean Architecture (.NET 5 and up), published by Packt | C# | ⭐ 34 |
 | [ASP.NET-MVC-Core-2.0-Cookbook](https://github.com/PacktPublishing/ASP.NET-MVC-Core-2.0-Cookbook) | Published by Packt | HTML | ⭐ 11 |
 | [ASPdotNET-Core-and-Angular-2](https://github.com/PacktPublishing/ASPdotNET-Core-and-Angular-2) | Code Repository for ASP.NET Core and Angular 2, Published by Packt | C# | ⭐ 33 |
@@ -820,10 +823,10 @@
 | [Asynchronous-JavaScript-Deep-Dive](https://github.com/PacktPublishing/Asynchronous-JavaScript-Deep-Dive) | Asynchronous JavaScript Deep Dive by Packt Publishing |  | ⭐ 4 |
 | [Asynchronous-Programming-in-.NET-Core](https://github.com/PacktPublishing/Asynchronous-Programming-in-.NET-Core) | Published by Packt |  | ⭐ 1 |
 | [Asynchronous-Programming-in-JavaScript---Complete-Course](https://github.com/PacktPublishing/Asynchronous-Programming-in-JavaScript---Complete-Course) | Asynchronous Programming in JavaScript - Complete Course, by Packt Publishing | JavaScript | ⭐ 4 |
-| [Asynchronous-Programming-in-Python](https://github.com/PacktPublishing/Asynchronous-Programming-in-Python) | published by Packt | Jupyter Notebook | ⭐ 23 |
-| [Asynchronous-Programming-in-Rust](https://github.com/PacktPublishing/Asynchronous-Programming-in-Rust) | Asynchronous Programming in Rust, published by Packt | Rust | ⭐ 322 |
+| [Asynchronous-Programming-in-Python](https://github.com/PacktPublishing/Asynchronous-Programming-in-Python) | published by Packt | Jupyter Notebook | ⭐ 24 |
+| [Asynchronous-Programming-in-Rust](https://github.com/PacktPublishing/Asynchronous-Programming-in-Rust) | Asynchronous Programming in Rust, published by Packt | Rust | ⭐ 323 |
 | [Asynchronous-Programming-with-CPP](https://github.com/PacktPublishing/Asynchronous-Programming-with-CPP) | Asynchronous Programming with C++, Published by Packt | C++ | ⭐ 91 |
-| [Asynchronous-Programming-with-CPP-Second-Edition](https://github.com/PacktPublishing/Asynchronous-Programming-with-CPP-Second-Edition) |  | C++ | ⭐ 1 |
+| [Asynchronous-Programming-with-CPP-Second-Edition](https://github.com/PacktPublishing/Asynchronous-Programming-with-CPP-Second-Edition) |  | C++ | ⭐ 2 |
 | [Atlassian-DevOps-Toolchain-Cookbook](https://github.com/PacktPublishing/Atlassian-DevOps-Toolchain-Cookbook) | DevOps with Atlassian Toolchain Cookbook, published by Packt | JavaScript | ⭐ 5 |
 | [Attacking-and-Exploiting-Modern-Web-Applications](https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications) | Attacking and Exploiting Modern Web Applications, published by Packt | Python | ⭐ 53 |
 | [ATtiny-microcontroller-development-for-Arduino-programmers](https://github.com/PacktPublishing/ATtiny-microcontroller-development-for-Arduino-programmers) |  |  | ⭐ 3 |
@@ -928,7 +931,7 @@
 | [AWS-Certified-Solutions-Architect--Associate-SAA-C03-Exam-Guide-First-Edition](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect--Associate-SAA-C03-Exam-Guide-First-Edition) |  |  | ⭐ 5 |
 | [AWS-Certified-Solutions-Architect-_Associate-Tutorial---Step-1](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-_Associate-Tutorial---Step-1) | AWS Certified Solutions Architect _Associate Tutorial - Step 1, by Packt Publishing |  | ⭐ 7 |
 | [AWS-Certified-Solutions-Architect-Asso-ciate-SAA-C02-exam](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-Asso-ciate-SAA-C02-exam) | AWS Certified Solutions Architect Associate: SAA-C02 exam, published by Packt |  | ⭐ 6 |
-| [AWS-Certified-Solutions-Architect-Associate-Guide](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-Associate-Guide) | Code files for AWS Certified Solutions Architect – Associate Guide, published by Packt | Shell | ⭐ 34 |
+| [AWS-Certified-Solutions-Architect-Associate-Guide](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-Associate-Guide) | Code files for AWS Certified Solutions Architect – Associate Guide, published by Packt | Shell | ⭐ 33 |
 | [AWS-Certified-Solutions-Architect-Associate-SAA-C02-Exam-Prep-Course](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-Associate-SAA-C02-Exam-Prep-Course) | AWS Certified Solutions Architect Associate (SAA-C02) Exam Prep Course, by Packt Publis... |  | ⭐ 10 |
 | [AWS-Certified-Solutions-Architect-Associate-SAA-C03-](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-Associate-SAA-C03-) | AWS Certified Solutions Architect Associate (SAA-C03), by Packt Publishing |  | ⭐ 18 |
 | [AWS-Certified-Solutions-Architect-Associate-Tutorial---Step-2-](https://github.com/PacktPublishing/AWS-Certified-Solutions-Architect-Associate-Tutorial---Step-2-) | AWS Certified Solutions Architect ???Associate Tutorial - Step 2[Video], published by P... | HTML | ⭐ 3 |
@@ -942,7 +945,7 @@
 | [AWS-Certified-SysOps-Administrator-Associate.](https://github.com/PacktPublishing/AWS-Certified-SysOps-Administrator-Associate.) | Code Repository for AWS Certified SysOps Administrator Associate, Published by Packt |  | ⭐ 1 |
 | [AWS-Cloud-Formation-Basics](https://github.com/PacktPublishing/AWS-Cloud-Formation-Basics) | AWS Cloud Formation Basics. by Packt Publishing |  | ⭐ 6 |
 | [AWS-Cloud-Practitioner-Exam-Prep-Course-2021](https://github.com/PacktPublishing/AWS-Cloud-Practitioner-Exam-Prep-Course-2021) |  |  | ⭐ 7 |
-| [AWS-Cloud-Projects](https://github.com/PacktPublishing/AWS-Cloud-Projects) | AWS Cloud Projects, published by Packt | TypeScript | ⭐ 98 |
+| [AWS-Cloud-Projects](https://github.com/PacktPublishing/AWS-Cloud-Projects) | AWS Cloud Projects, published by Packt | TypeScript | ⭐ 99 |
 | [AWS-CloudFormation-Master-Class](https://github.com/PacktPublishing/AWS-CloudFormation-Master-Class) | AWS CloudFormation Master Class, published by Packt |  | ⭐ 17 |
 | [AWS-CloudFormation-Master-Class-](https://github.com/PacktPublishing/AWS-CloudFormation-Master-Class-) | AWS CloudFormation Master Class by Packt Publishing |  | ⭐ 2 |
 | [AWS-CloudFormation-Master-Class-V-](https://github.com/PacktPublishing/AWS-CloudFormation-Master-Class-V-) | AWS CloudFormation Master Class [V], published by Packt |  | ⭐ 8 |
@@ -1004,13 +1007,13 @@
 | [Azure-Cognitive-Services-for-Developers](https://github.com/PacktPublishing/Azure-Cognitive-Services-for-Developers) | Published by Packt, Azure Cognitive Services for Developers |  | ⭐ 3 |
 | [Azure-Containers-Explained](https://github.com/PacktPublishing/Azure-Containers-Explained) | Azure Containers Explained, Published by Packt | Smarty | ⭐ 6 |
 | [Azure-Data-Architect-Handbook](https://github.com/PacktPublishing/Azure-Data-Architect-Handbook) | Azure Data Architect Handbook, published by Packt | HCL | ⭐ 6 |
-| [Azure-Data-Engineering-Cookbook](https://github.com/PacktPublishing/Azure-Data-Engineering-Cookbook) | Azure Data Engineering Cookbook, published by Packt | PowerShell | ⭐ 59 |
+| [Azure-Data-Engineering-Cookbook](https://github.com/PacktPublishing/Azure-Data-Engineering-Cookbook) | Azure Data Engineering Cookbook, published by Packt | PowerShell | ⭐ 60 |
 | [Azure-Data-Engineering-Cookbook-2nd-edition](https://github.com/PacktPublishing/Azure-Data-Engineering-Cookbook-2nd-edition) | Azure Data Engineering Cookbook 2nd-edition, published by Packt | Jupyter Notebook | ⭐ 35 |
 | [Azure-Data-Engineering-Cookbook.](https://github.com/PacktPublishing/Azure-Data-Engineering-Cookbook.) | Azure Data Engineering Cookbook, Published by Packt |  | ⭐ 1 |
 | [Azure-Data-Factory-Best-Practices](https://github.com/PacktPublishing/Azure-Data-Factory-Best-Practices) | Azure Data Factory Best Practices, published by Packt |  | ⭐ 1 |
 | [Azure-Data-Factory-Cookbook](https://github.com/PacktPublishing/Azure-Data-Factory-Cookbook) | Azure Data Factory Cookbook, published by Packt | Jupyter Notebook | ⭐ 39 |
 | [Azure-Data-Factory-Cookbook-Second-Edition](https://github.com/PacktPublishing/Azure-Data-Factory-Cookbook-Second-Edition) | Azure Data Factory Cookbook_Second Edition, published by Packt | Jupyter Notebook | ⭐ 19 |
-| [Azure-Data-Factory-for-Beginners---Build-Data-Ingestion](https://github.com/PacktPublishing/Azure-Data-Factory-for-Beginners---Build-Data-Ingestion) | Azure Data Factory for Beginners - Build Data Ingestion, published by Packt |  | ⭐ 7 |
+| [Azure-Data-Factory-for-Beginners---Build-Data-Ingestion](https://github.com/PacktPublishing/Azure-Data-Factory-for-Beginners---Build-Data-Ingestion) | Azure Data Factory for Beginners - Build Data Ingestion, published by Packt |  | ⭐ 8 |
 | [Azure-Data-Scientist-Associate-Certification-Guide](https://github.com/PacktPublishing/Azure-Data-Scientist-Associate-Certification-Guide) | Microsoft Certified: Azure Data Scientist Associate Certification Guide, published by P... | Jupyter Notebook | ⭐ 60 |
 | [Azure-Data-Scientist-Associate-DP-100-Certification-Guide](https://github.com/PacktPublishing/Azure-Data-Scientist-Associate-DP-100-Certification-Guide) | Azure Data Scientist Associate DP-100 Certification Guide, published by Packt |  |  |
 | [Azure-Databricks-Cookbook](https://github.com/PacktPublishing/Azure-Databricks-Cookbook) | Azure Databricks Cookbook, Published by Packt | Jupyter Notebook | ⭐ 56 |
@@ -1084,7 +1087,7 @@
 | [Back-End-Web-Development-using-Go](https://github.com/PacktPublishing/Back-End-Web-Development-using-Go) | Back-End Web Development using Go [Video], published by Packt | Go | ⭐ 21 |
 | [Back-End-Web-Development-using-Go-](https://github.com/PacktPublishing/Back-End-Web-Development-using-Go-) | Code files |  | ⭐ 1 |
 | [Backup-and-Disaster-Recovery-Administration---Practical-Skills-for-IT-Professionals](https://github.com/PacktPublishing/Backup-and-Disaster-Recovery-Administration---Practical-Skills-for-IT-Professionals) | Backup and Disaster Recovery Administration - Practical Skills for IT Professionals, pu... |  |  |
-| [Bare-Metal-Embedded-C-Programming](https://github.com/PacktPublishing/Bare-Metal-Embedded-C-Programming) | Bare-Metal Embedded C Programming by Packt Publishing | C | ⭐ 300 |
+| [Bare-Metal-Embedded-C-Programming](https://github.com/PacktPublishing/Bare-Metal-Embedded-C-Programming) | Bare-Metal Embedded C Programming by Packt Publishing | C | ⭐ 304 |
 | [Baselines-and-Updating-a-Project-with-Oracle-Primavera-P6-PPM](https://github.com/PacktPublishing/Baselines-and-Updating-a-Project-with-Oracle-Primavera-P6-PPM) | Baselines and Updating a Project with Oracle Primavera P6 PPM, published by Packt |  | ⭐ 5 |
 | [Bash-Cookbook](https://github.com/PacktPublishing/Bash-Cookbook) | Bash Cookbook, published by Packt | Shell | ⭐ 70 |
 | [Bash-Quick-Start-Guide](https://github.com/PacktPublishing/Bash-Quick-Start-Guide) | Bash Quick Start Guide, published by Packt | Shell | ⭐ 30 |
@@ -1149,9 +1152,9 @@
 | [Beginning-C-Game-Programming](https://github.com/PacktPublishing/Beginning-C-Game-Programming) | Beginning C++ Game Programming., published by Packt |  | ⭐ 2 |
 | [Beginning-C-Game-Programming--Part-1](https://github.com/PacktPublishing/Beginning-C-Game-Programming--Part-1) | Beginning C++ Game Programming- Part 1, published by Packt | C++ | ⭐ 6 |
 | [Beginning-C-Game-Programming--Part-2](https://github.com/PacktPublishing/Beginning-C-Game-Programming--Part-2) | Beginning C++ Game Programming- Part 2, Packt Publishing | C++ | ⭐ 6 |
-| [Beginning-C-Game-Programming-Third-Edition](https://github.com/PacktPublishing/Beginning-C-Game-Programming-Third-Edition) | Beginning C++ Game Programming, Third Edition | C++ | ⭐ 131 |
+| [Beginning-C-Game-Programming-Third-Edition](https://github.com/PacktPublishing/Beginning-C-Game-Programming-Third-Edition) | Beginning C++ Game Programming, Third Edition | C++ | ⭐ 133 |
 | [Beginning-Cpp-Game-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming) |  | C++ | ⭐ 51 |
-| [Beginning-Cpp-Game-Programming-Second-Edition](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming-Second-Edition) | Beginning C++ Game Programming - Second Edition, published by Packt | C++ | ⭐ 315 |
+| [Beginning-Cpp-Game-Programming-Second-Edition](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming-Second-Edition) | Beginning C++ Game Programming - Second Edition, published by Packt | C++ | ⭐ 314 |
 | [Beginning-Cpp-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Programming) | Beginning C++ Programming, by Packt | C++ | ⭐ 49 |
 | [Beginning-CSharp-7-Hands-On-Advanced-Language-Features](https://github.com/PacktPublishing/Beginning-CSharp-7-Hands-On-Advanced-Language-Features) | Beginning C# 7 Hands-On – Advanced Language Features, published by Packt | C# | ⭐ 5 |
 | [Beginning-CSharp-Hands-On-The-Core-Language](https://github.com/PacktPublishing/Beginning-CSharp-Hands-On-The-Core-Language) |  |  | ⭐ 2 |
@@ -1199,7 +1202,7 @@
 | [Binary-Analysis-Cookbook](https://github.com/PacktPublishing/Binary-Analysis-Cookbook) | Binary Analysis Cookbook, published by Packt | Assembly | ⭐ 45 |
 | [Bioinformatics-with-Python-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Fourth-Edition) | Bioinformatics with Python Cookbook - Fourth Edition, published by Packt | Jupyter Notebook | ⭐ 50 |
 | [Bioinformatics-with-Python-Cookbook-Second-Edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition) | Bioinformatics with Python Cookbook Second Edition, published by Packt | OpenEdge ABL | ⭐ 321 |
-| [Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | Bioinformatics with Python Cookbook, Third Edition | Python | ⭐ 214 |
+| [Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | Bioinformatics with Python Cookbook, Third Edition | Python | ⭐ 215 |
 | [Biostatistics-with-Python](https://github.com/PacktPublishing/Biostatistics-with-Python) | Biostatistics with Python, published by Packt | Jupyter Notebook | ⭐ 29 |
 | [Bitcoin-For-Beginners---A-Crash-Course-Buy-and-Trade-Bitcoin](https://github.com/PacktPublishing/Bitcoin-For-Beginners---A-Crash-Course-Buy-and-Trade-Bitcoin) | Code Repository for Bitcoin For Beginners - A Crash Course: Buy and Trade Bitcoin, publ... |  | ⭐ 2 |
 | [Black-Hat-Python-for-Pentesters-Hackers](https://github.com/PacktPublishing/Black-Hat-Python-for-Pentesters-Hackers) | Black Hat Python for Pentesters & Hackers, published by Packt |  | ⭐ 27 |
@@ -1319,7 +1322,7 @@
 | [Build-a-Slack-Chat-App-with-React-Redux-and-Firebase](https://github.com/PacktPublishing/Build-a-Slack-Chat-App-with-React-Redux-and-Firebase) | Code Repository for Build a Slack Chat App with React, Redux, and Firebase, Published b... |  | ⭐ 10 |
 | [Build-a-Social-Network-with-Flutter-and-Firebase](https://github.com/PacktPublishing/Build-a-Social-Network-with-Flutter-and-Firebase) | Build a Social Network with Flutter and Firebase, published by Packt |  | ⭐ 28 |
 | [Build-a-Stock-Market-Web-App-With-Python-and-Django](https://github.com/PacktPublishing/Build-a-Stock-Market-Web-App-With-Python-and-Django) | Code Repository for Build a Stock Market Web App With Python and Django, published by P... |  | ⭐ 3 |
-| [Build-a-Super-Advanced-Trading-Bot-on-DYDX-Hosted-on-AWS-with-Python](https://github.com/PacktPublishing/Build-a-Super-Advanced-Trading-Bot-on-DYDX-Hosted-on-AWS-with-Python) |  | Python | ⭐ 22 |
+| [Build-a-Super-Advanced-Trading-Bot-on-DYDX-Hosted-on-AWS-with-Python](https://github.com/PacktPublishing/Build-a-Super-Advanced-Trading-Bot-on-DYDX-Hosted-on-AWS-with-Python) |  | Python | ⭐ 21 |
 | [Build-a-Tic-Tac-Toe-Online-Multiplayer-Game-for-iOS-using-SwiftUI](https://github.com/PacktPublishing/Build-a-Tic-Tac-Toe-Online-Multiplayer-Game-for-iOS-using-SwiftUI) | Build a Tic Tac Toe Online Multiplayer Game for iOS using SwiftUI, by Packt Publishing |  | ⭐ 4 |
 | [Build-a-Transit-App-using-JavaScript-and-jQuery-](https://github.com/PacktPublishing/Build-a-Transit-App-using-JavaScript-and-jQuery-) | Build a Transit App using JavaScript and jQuery by Packt Publishing | JavaScript | ⭐ 2 |
 | [Build-a-User-Authentication-Web-App-With-Python-and-Django](https://github.com/PacktPublishing/Build-a-User-Authentication-Web-App-With-Python-and-Django) | Build a User Authentication Web App With Python and DjangoAll the code files are placed at | Python | ⭐ 12 |
@@ -1351,7 +1354,7 @@
 | [Build-GDPR-Compliance-for-Huma](https://github.com/PacktPublishing/Build-GDPR-Compliance-for-Huma) | Code Repository for Build GDPR Compliance for Huma, published by Packt |  | ⭐ 1 |
 | [Build-GDPR-Compliance-in-Relation-to-Cloud-Service-Providers](https://github.com/PacktPublishing/Build-GDPR-Compliance-in-Relation-to-Cloud-Service-Providers) | Code Repository for Build GDPR Compliance in Relation to Cloud Service Providers, publi... |  | ⭐ 1 |
 | [Build-Incredible-Chatbots](https://github.com/PacktPublishing/Build-Incredible-Chatbots) | Code Repository for Build Incredible Chatbots, published by Packt | JavaScript | ⭐ 5 |
-| [Build-Intelligent-Products-with-RAG-and-AI-Agents](https://github.com/PacktPublishing/Build-Intelligent-Products-with-RAG-and-AI-Agents) | Build Intelligent Products with RAG and AI Agents, published by Packt |  |  |
+| [Build-Intelligent-Products-with-RAG-and-AI-Agents](https://github.com/PacktPublishing/Build-Intelligent-Products-with-RAG-and-AI-Agents) | Build Intelligent Products with RAG and AI Agents, published by Packt |  | ⭐ 1 |
 | [Build-Multi-Modal-AI-Apps-with-Ollama](https://github.com/PacktPublishing/Build-Multi-Modal-AI-Apps-with-Ollama) | Build Multi-Modal AI Apps with Ollama, published by Packt. It contains all the supporti... | Python | ⭐ 1 |
 | [Build-Real-world-End-to-End-AI-Agents-using-AWS-Bedrock](https://github.com/PacktPublishing/Build-Real-world-End-to-End-AI-Agents-using-AWS-Bedrock) | Build Real world End-to-End AI Agents using AWS Bedrock, Published by Packt Publishing | Python | ⭐ 7 |
 | [Build-Real-World-Websites-using-HTML5-CSS3-Flexbox-Grid-and-SASS](https://github.com/PacktPublishing/Build-Real-World-Websites-using-HTML5-CSS3-Flexbox-Grid-and-SASS) | Build Real World Websites from Scratch using HTML5 and CSS3, published by Packt | HTML | ⭐ 9 |
@@ -1367,7 +1370,7 @@
 | [Build-Word-Scramble-Game-from-Scratch-with-JavaScript](https://github.com/PacktPublishing/Build-Word-Scramble-Game-from-Scratch-with-JavaScript) | Code Repository for Build Word Scramble Game from Scratch with JavaScript, published by... |  | ⭐ 3 |
 | [Build-Your-Own-Metaverse-with-Unity](https://github.com/PacktPublishing/Build-Your-Own-Metaverse-with-Unity) | Build Your Own Metaverse with Unity, published by Packt | C# | ⭐ 23 |
 | [Build-Your-Own-PaaS-With-Docker](https://github.com/PacktPublishing/Build-Your-Own-PaaS-With-Docker) | Build Your Own PaaS with Docker_Code |  | ⭐ 12 |
-| [Build-Your-Own-Programming-Language](https://github.com/PacktPublishing/Build-Your-Own-Programming-Language) | Build Your Own Programming Language, published by Packt | Java | ⭐ 249 |
+| [Build-Your-Own-Programming-Language](https://github.com/PacktPublishing/Build-Your-Own-Programming-Language) | Build Your Own Programming Language, published by Packt | Java | ⭐ 250 |
 | [Build-your-own-Programming-Language-Second-Edition](https://github.com/PacktPublishing/Build-your-own-Programming-Language-Second-Edition) | Code Repository for Build your own Programming Language Second Edition, Published by Packt | Java | ⭐ 43 |
 | [Build-Your-Own-Web-Framework-in-Elixir](https://github.com/PacktPublishing/Build-Your-Own-Web-Framework-in-Elixir) | Build Your Own Web Framework in Elixir, published by Packt | Elixir | ⭐ 41 |
 | [Build-Your-Swift-App-Using-Protocols](https://github.com/PacktPublishing/Build-Your-Swift-App-Using-Protocols) | Build Your Swift App Using Protocols, published by Packt | Swift | ⭐ 3 |
@@ -1405,16 +1408,16 @@
 | [Building-a-Web-Application-with-Spring-and-Angular-](https://github.com/PacktPublishing/Building-a-Web-Application-with-Spring-and-Angular-) | Building a Web Application with Spring and Angular[video], published by Packt |  | ⭐ 1 |
 | [Building-a-Website-with-Drupal](https://github.com/PacktPublishing/Building-a-Website-with-Drupal) | Building a Website with Drupal, Published by Packt |  | ⭐ 3 |
 | [Building-Advanced-OpenCV3-Projects-with-Python-](https://github.com/PacktPublishing/Building-Advanced-OpenCV3-Projects-with-Python-) | Building Advanced OpenCV3 Projects with Python, published by Packt | Jupyter Notebook | ⭐ 1 |
-| [Building-Agent-Powered-Applications](https://github.com/PacktPublishing/Building-Agent-Powered-Applications) | Building Agent-Powered Applications, Published by Packt | Jupyter Notebook | ⭐ 26 |
-| [Building-Agentic-AI-Systems](https://github.com/PacktPublishing/Building-Agentic-AI-Systems) | Building Agentic AI Systems, published by Packt | Jupyter Notebook | ⭐ 520 |
+| [Building-Agent-Powered-Applications](https://github.com/PacktPublishing/Building-Agent-Powered-Applications) | Building Agent-Powered Applications, Published by Packt | Jupyter Notebook | ⭐ 27 |
+| [Building-Agentic-AI-Systems](https://github.com/PacktPublishing/Building-Agentic-AI-Systems) | Building Agentic AI Systems, published by Packt | Jupyter Notebook | ⭐ 525 |
 | [Building-Agentic-AI-Systems-Second-Edition](https://github.com/PacktPublishing/Building-Agentic-AI-Systems-Second-Edition) | Building Agentic AI Systems, Second Edition, Published by Packt | Jupyter Notebook | ⭐ 6 |
 | [Building-Agents-with-OpenAI-Agents-SDK](https://github.com/PacktPublishing/Building-Agents-with-OpenAI-Agents-SDK) | Building Agents with OpenAI SDK, Published by Packt | Python | ⭐ 28 |
-| [Building-AI-Agents-for-Finance-](https://github.com/PacktPublishing/Building-AI-Agents-for-Finance-) | Building AI Agents for Finance, published by Packt  | Jupyter Notebook | ⭐ 10 |
-| [Building-AI-Agents-for-Network-Operations](https://github.com/PacktPublishing/Building-AI-Agents-for-Network-Operations) | by Packt Publishing | Python | ⭐ 9 |
+| [Building-AI-Agents-for-Finance-](https://github.com/PacktPublishing/Building-AI-Agents-for-Finance-) | Building AI Agents for Finance, published by Packt  | Jupyter Notebook | ⭐ 14 |
+| [Building-AI-Agents-for-Network-Operations](https://github.com/PacktPublishing/Building-AI-Agents-for-Network-Operations) | by Packt Publishing | Python | ⭐ 13 |
 | [Building-AI-Agents-with-C-and-.NET](https://github.com/PacktPublishing/Building-AI-Agents-with-C-and-.NET) | Building AI Agents with C# and .NET, published by Packt |  |  |
 | [Building-AI-Agents-with-Google-ADK](https://github.com/PacktPublishing/Building-AI-Agents-with-Google-ADK) | Building AI Agents with Google ADK, published by Packt |  |  |
-| [Building-AI-Agents-with-Python-and-LangChain](https://github.com/PacktPublishing/Building-AI-Agents-with-Python-and-LangChain) | Building AI Agents with Python and LangChain, Published by Packt publishing | Python | ⭐ 2 |
-| [Building-AI-Applications-with-ChatGPT-APIs](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs) | Building AI Applications with ChatGPT APIs, published by Packt | Python | ⭐ 110 |
+| [Building-AI-Agents-with-Python-and-LangChain](https://github.com/PacktPublishing/Building-AI-Agents-with-Python-and-LangChain) | Building AI Agents with Python and LangChain, Published by Packt publishing | Python | ⭐ 3 |
+| [Building-AI-Applications-with-ChatGPT-APIs](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs) | Building AI Applications with ChatGPT APIs, published by Packt | Python | ⭐ 109 |
 | [Building-AI-Applications-With-ChatGPT-APIs-Second-Edition](https://github.com/PacktPublishing/Building-AI-Applications-With-ChatGPT-APIs-Second-Edition) |  |  |  |
 | [Building-AI-Applications-with-Microsoft-Semantic-Kernel](https://github.com/PacktPublishing/Building-AI-Applications-with-Microsoft-Semantic-Kernel) | Building AI Applications with Microsoft Semantic Kernel, published by Packt | C# | ⭐ 40 |
 | [Building-AI-Intensive-Python-Applications](https://github.com/PacktPublishing/Building-AI-Intensive-Python-Applications) | Building AI Intensive Python Applications, published by Packt | Jupyter Notebook | ⭐ 28 |
@@ -1456,8 +1459,8 @@
 | [Building-Apps-Using-XAML-UWP-and-.NET-Core-V-](https://github.com/PacktPublishing/Building-Apps-Using-XAML-UWP-and-.NET-Core-V-) | Building Apps Using XAML, UWP, and .NET Core[V], published by Packt | C# | ⭐ 1 |
 | [Building-apps-with-ChatGPT-and-Python](https://github.com/PacktPublishing/Building-apps-with-ChatGPT-and-Python) | Building apps with ChatGPT and Python, Published by Packt Publishing |  |  |
 | [Building-ArcGIS-Cross-Platform-Applications-with-JavaScript](https://github.com/PacktPublishing/Building-ArcGIS-Cross-Platform-Applications-with-JavaScript) | Building ArcGIS Cross-Platform Applications with JavaScript by Packt Publishing |  | ⭐ 2 |
-| [Building-Autonomous-Agentic-AI-Systems-for-Beginners-HandsOn](https://github.com/PacktPublishing/Building-Autonomous-Agentic-AI-Systems-for-Beginners-HandsOn) | Building Autonomous Agentic AI Systems for Beginners HandsOn, Published by Packt Publis... | Jupyter Notebook | ⭐ 13 |
-| [Building-Autonomous-AI-Agents-with-LangGraph](https://github.com/PacktPublishing/Building-Autonomous-AI-Agents-with-LangGraph) |  | Python | ⭐ 75 |
+| [Building-Autonomous-Agentic-AI-Systems-for-Beginners-HandsOn](https://github.com/PacktPublishing/Building-Autonomous-Agentic-AI-Systems-for-Beginners-HandsOn) | Building Autonomous Agentic AI Systems for Beginners HandsOn, Published by Packt Publis... | Jupyter Notebook | ⭐ 15 |
+| [Building-Autonomous-AI-Agents-with-LangGraph](https://github.com/PacktPublishing/Building-Autonomous-AI-Agents-with-LangGraph) |  | Python | ⭐ 76 |
 | [Building-Big-Data-Pipelines-with-Apache-Beam](https://github.com/PacktPublishing/Building-Big-Data-Pipelines-with-Apache-Beam) | Building Big Data Pipelines with Apache Beam, published by Packt | Java | ⭐ 90 |
 | [Building-Blazor-WebAssembly-Applications-with-gRPC](https://github.com/PacktPublishing/Building-Blazor-WebAssembly-Applications-with-gRPC) | Building Blazor WebAssembly Applications with gRPC, Published by Packt | C# | ⭐ 14 |
 | [Building-Blockchain-Projects](https://github.com/PacktPublishing/Building-Blockchain-Projects) | Code repository for Building Blockchain Projects, published by Packt | JavaScript | ⭐ 222 |
@@ -1510,7 +1513,7 @@
 | [Building-High-Performance-Data-Team](https://github.com/PacktPublishing/Building-High-Performance-Data-Team) | Building High Performance Data Team, published by Packt |  |  |
 | [Building-Highly-Scalable-Applications-with-Go](https://github.com/PacktPublishing/Building-Highly-Scalable-Applications-with-Go) | Building Highly Scalable Applications with Go by Packt Publishing | Go | ⭐ 12 |
 | [Building-Hybrid-Clouds-with-Azure-Stack](https://github.com/PacktPublishing/Building-Hybrid-Clouds-with-Azure-Stack) | Building Hybrid Clouds with Azure Stack, published by Packt |  | ⭐ 5 |
-| [Building-Industrial-Digital-Twin](https://github.com/PacktPublishing/Building-Industrial-Digital-Twin) | Building Industrial Digital Twin - Packt Publishing |  | ⭐ 29 |
+| [Building-Industrial-Digital-Twin](https://github.com/PacktPublishing/Building-Industrial-Digital-Twin) | Building Industrial Digital Twin - Packt Publishing |  | ⭐ 30 |
 | [Building-Industrial-Digital-Twins-Audiobook](https://github.com/PacktPublishing/Building-Industrial-Digital-Twins-Audiobook) | Building Industrial Digital Twins Audiobook, Published by Packt |  |  |
 | [Building-Intelligent-Applications-With-Spring-AI](https://github.com/PacktPublishing/Building-Intelligent-Applications-With-Spring-AI) | Building Intelligent Applications With Spring AI, published by Packt | Java | ⭐ 1 |
 | [Building-Intelligent-Cloud-Applications-with-Azure-Cosmos-DB](https://github.com/PacktPublishing/Building-Intelligent-Cloud-Applications-with-Azure-Cosmos-DB) | Building Intelligent Cloud Applications with Azure Cosmos DB, published by Packt |  |  |
@@ -1524,12 +1527,12 @@
 | [Building-iOS-Games-with-SpriteKit---From-Zero-to-Hero](https://github.com/PacktPublishing/Building-iOS-Games-with-SpriteKit---From-Zero-to-Hero) | This is the code repository for Building iOS Games with SpriteKit - From Zero to Hero, ... | Swift | ⭐ 4 |
 | [Building-Iot-Projects-Using-Raspberry-Pi-3](https://github.com/PacktPublishing/Building-Iot-Projects-Using-Raspberry-Pi-3) | Code repository for Building Iot Projects Using Raspberry Pi 3, Published by Packt |  | ⭐ 3 |
 | [Building-LLM-applications-with-Dify.AI](https://github.com/PacktPublishing/Building-LLM-applications-with-Dify.AI) | B31563 - Building LLM applications with Dify.AI |  | ⭐ 1 |
-| [Building-LLM-Powered-Applications](https://github.com/PacktPublishing/Building-LLM-Powered-Applications) | Building Large Language Model Applications, Published by Packt | Jupyter Notebook | ⭐ 414 |
+| [Building-LLM-Powered-Applications](https://github.com/PacktPublishing/Building-LLM-Powered-Applications) | Building Large Language Model Applications, Published by Packt | Jupyter Notebook | ⭐ 415 |
 | [Building-Low-Code-Applications-with-Mendix](https://github.com/PacktPublishing/Building-Low-Code-Applications-with-Mendix) | Building Low-Code Applications with Mendix, published by Packt |  | ⭐ 18 |
-| [Building-Low-Latency-Applications-with-CPP](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-CPP) | Building Low Latency Applications with CPP by Packt Publishing | HTML | ⭐ 690 |
+| [Building-Low-Latency-Applications-with-CPP](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-CPP) | Building Low Latency Applications with CPP by Packt Publishing | HTML | ⭐ 694 |
 | [Building-Low-Latency-Applications-with-Rust](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-Rust) | Building Low Latency Applications with Rust, published by Packt |  | ⭐ 5 |
 | [Building-Machine-Learning-Projects-with-TensorFlow](https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-TensorFlow) | Building Machine Learning Projects with TensorFlow by Packt | Jupyter Notebook | ⭐ 270 |
-| [Building-Machine-Learning-Systems-With-Python-Second-Edition](https://github.com/PacktPublishing/Building-Machine-Learning-Systems-With-Python-Second-Edition) | Building Machine Learning Systems with Python by Packt Publishing | Python | ⭐ 52 |
+| [Building-Machine-Learning-Systems-With-Python-Second-Edition](https://github.com/PacktPublishing/Building-Machine-Learning-Systems-With-Python-Second-Edition) | Building Machine Learning Systems with Python by Packt Publishing | Python | ⭐ 53 |
 | [Building-Machine-Learning-Systems-with-Python-Third-edition](https://github.com/PacktPublishing/Building-Machine-Learning-Systems-with-Python-Third-edition) | Code repository for Building Machine Learning Systems with Python Third Edition, by Packt | Jupyter Notebook | ⭐ 97 |
 | [Building-Medieval-Worlds---Unreal-Engine-5-Modular-Kitbash](https://github.com/PacktPublishing/Building-Medieval-Worlds---Unreal-Engine-5-Modular-Kitbash) |  |  | ⭐ 2 |
 | [Building-Micro-Frontends-with-React-18](https://github.com/PacktPublishing/Building-Micro-Frontends-with-React-18) | Building Micro Frontends with React 18, Published by Packt | TypeScript | ⭐ 40 |
@@ -1549,7 +1552,7 @@
 | [Building-Modern-CLI-Applications-in-Go](https://github.com/PacktPublishing/Building-Modern-CLI-Applications-in-Go) | Building Modern CLI Applications in Go, published by Packt | Go | ⭐ 97 |
 | [Building-Modern-Computers-in-2026---A-Practical-PC-Assembly-Course](https://github.com/PacktPublishing/Building-Modern-Computers-in-2026---A-Practical-PC-Assembly-Course) | Building Modern Computers in 2026 - A Practical PC Assembly Course, Published by Packt ... |  |  |
 | [Building-Modern-Data-Applications-Using-Databricks-Lakehouse](https://github.com/PacktPublishing/Building-Modern-Data-Applications-Using-Databricks-Lakehouse) | Building Modern Data Applications Using Databricks Lakehouse, published by Packt | Python | ⭐ 25 |
-| [Building-Modern-Data-Applications-with-MongoDB-and-.NET](https://github.com/PacktPublishing/Building-Modern-Data-Applications-with-MongoDB-and-.NET) | Building Modern Data Applications with MongoDB and .NET, Published by Packt |  | ⭐ 1 |
+| [Building-Modern-Data-Applications-with-MongoDB-and-.NET](https://github.com/PacktPublishing/Building-Modern-Data-Applications-with-MongoDB-and-.NET) | Building Modern Data Applications with MongoDB and .NET, Published by Packt | C# | ⭐ 1 |
 | [Building-Modern-Distributed-Systems-with-Java](https://github.com/PacktPublishing/Building-Modern-Distributed-Systems-with-Java) | Building Modern Distributed Systems with Java, published by Packt |  | ⭐ 21 |
 | [Building-Modern-SaaS-Applications-with-C-and-.NET](https://github.com/PacktPublishing/Building-Modern-SaaS-Applications-with-C-and-.NET) | Building Modern SaaS Applications with C# and .NET, published by Packt | C# | ⭐ 44 |
 | [Building-Modern-Web-Applications-Using-Angular](https://github.com/PacktPublishing/Building-Modern-Web-Applications-Using-Angular) | Building Modern Web Application using Angular, published by Packt | TypeScript | ⭐ 23 |
@@ -1570,7 +1573,7 @@
 | [Building-Production-Ready-Rust-Applications](https://github.com/PacktPublishing/Building-Production-Ready-Rust-Applications) | Building Production Ready Rust Applications, published by Packt | Rust | ⭐ 4 |
 | [Building-Professional-Android-Applications](https://github.com/PacktPublishing/Building-Professional-Android-Applications) | Building Professional Android Applications [video], published by Packt | Java | ⭐ 15 |
 | [Building-Programming-Language-Interpreters](https://github.com/PacktPublishing/Building-Programming-Language-Interpreters) | Building Programming Language Interpreters by Packt Publishing | C++ | ⭐ 26 |
-| [Building-Python-Microservices-with-FastAPI](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) | Building Python Microservices with FastAPI, published by Packt | Python | ⭐ 406 |
+| [Building-Python-Microservices-with-FastAPI](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) | Building Python Microservices with FastAPI, published by Packt | Python | ⭐ 408 |
 | [Building-Python-Microservices-with-Flask](https://github.com/PacktPublishing/Building-Python-Microservices-with-Flask) | Building Python Microservices with Flask, published by Packt | Python | ⭐ 5 |
 | [Building-Python-Web-APIs-with-FastAPI](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI) | Building Python Web APIs with FastAPI, published by Packt | Python | ⭐ 242 |
 | [Building-Real-time-Communication-Applications-Using-Twilio-](https://github.com/PacktPublishing/Building-Real-time-Communication-Applications-Using-Twilio-) |  |  | ⭐ 1 |
@@ -1652,7 +1655,7 @@
 | [Business-Intelligence-with-Looker-Cookbook](https://github.com/PacktPublishing/Business-Intelligence-with-Looker-Cookbook) | Business Intelligence with Looker Cookbook, published by Packt. |  | ⭐ 5 |
 | [Business-Intelligence-with-Microsoft-Power-BI---with-Material](https://github.com/PacktPublishing/Business-Intelligence-with-Microsoft-Power-BI---with-Material) | Business Intelligence with Microsoft Power BI - with Material, published by Packt |  | ⭐ 8 |
 
-## C (591 repos)
+## C (593 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -1667,7 +1670,7 @@
 | [-Create-Game-Assets-with-Blender-and-Substance-Painter](https://github.com/PacktPublishing/-Create-Game-Assets-with-Blender-and-Substance-Painter) | Create Game Assets with Blender and Substance Painter, published by Packt |  | ⭐ 1 |
 | [-Creating-a-Game-with-Blender-Game-Engine](https://github.com/PacktPublishing/-Creating-a-Game-with-Blender-Game-Engine) |  Creating a Game with Blender Game Engine [Video] by Packt Publishing |  | ⭐ 1 |
 | [-Creating-Actionable-Insights-Using-TableauCRM](https://github.com/PacktPublishing/-Creating-Actionable-Insights-Using-TableauCRM) | Creating Actionable Insights Using TableauCRM, Published by Packt |  | ⭐ 1 |
-| [C-20-2a-New-Features](https://github.com/PacktPublishing/C-20-2a-New-Features) | C++ 20 (2a) New Features published by [Packt] | C++ | ⭐ 16 |
+| [C-20-2a-New-Features](https://github.com/PacktPublishing/C-20-2a-New-Features) | C++ 20 (2a) New Features published by [Packt] | C++ | ⭐ 17 |
 | [C-20-STL-Programming-Cookbook](https://github.com/PacktPublishing/C-20-STL-Programming-Cookbook) | C++20 STL Programming Cookbook, published by Packt | C++ | ⭐ 12 |
 | [C-23-STL-Cookbook-Second-Edition](https://github.com/PacktPublishing/C-23-STL-Cookbook-Second-Edition) | C++23 STL Cookbook, Second Edition, Published by Packt | C++ | ⭐ 9 |
 | [C-7-and-.NET-Core-2.0-Recipes](https://github.com/PacktPublishing/C-7-and-.NET-Core-2.0-Recipes) | C# 7 and .NET Core 2.0 Recipes [Video] | C# | ⭐ 8 |
@@ -1687,7 +1690,7 @@
 | [C-Development-Tutorial-Series---The-Complete-Coding-Guide](https://github.com/PacktPublishing/C-Development-Tutorial-Series---The-Complete-Coding-Guide) | C++ Development Tutorial Series - The Complete Coding Guide, published by Packt | Roff | ⭐ 1 |
 | [C-From-Beginner-to-Expert](https://github.com/PacktPublishing/C-From-Beginner-to-Expert) | C++: From Beginner to Expert, published by Packt |  | ⭐ 3 |
 | [C-Game-Development-Projects](https://github.com/PacktPublishing/C-Game-Development-Projects) | C++ Game Development Projects, published by Packt |  | ⭐ 2 |
-| [C-High-Performance-for-Financial-Systems-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) |  | C++ | ⭐ 175 |
+| [C-High-Performance-for-Financial-Systems-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) |  | C++ | ⭐ 176 |
 | [C-Lambda-Expressions---From-C-98-to-C-23](https://github.com/PacktPublishing/C-Lambda-Expressions---From-C-98-to-C-23) |  | C++ | ⭐ 2 |
 | [C-MASTERY-Course-Build-Extraordinary-Apps-Step-by-step-](https://github.com/PacktPublishing/C-MASTERY-Course-Build-Extraordinary-Apps-Step-by-step-) | C++ MASTERY Course – Build Extraordinary Apps (Step-by-step), by Packt Publishing | C++ | ⭐ 2 |
 | [C-Microservices-Development-on-Azure](https://github.com/PacktPublishing/C-Microservices-Development-on-Azure) | C# Microservices Development on Azure, published by [Packt] | C# | ⭐ 5 |
@@ -1698,14 +1701,14 @@
 | [C-plusplus-Programming-By-Example](https://github.com/PacktPublishing/C-plusplus-Programming-By-Example) | C++ Programming By Example, published by Packt | C++ | ⭐ 24 |
 | [C-Programming-Bootcamp---The-Complete-C-Language-Course-](https://github.com/PacktPublishing/C-Programming-Bootcamp---The-Complete-C-Language-Course-) | This is the code repository for C Programming Bootcamp - The Complete C Language Course... |  | ⭐ 5 |
 | [C-Programming-for-Beginners-on-Windows](https://github.com/PacktPublishing/C-Programming-for-Beginners-on-Windows) |  |  | ⭐ 3 |
-| [C-Programming-for-Linux-Systems](https://github.com/PacktPublishing/C-Programming-for-Linux-Systems) |  | C++ | ⭐ 47 |
+| [C-Programming-for-Linux-Systems](https://github.com/PacktPublishing/C-Programming-for-Linux-Systems) |  | C++ | ⭐ 48 |
 | [C-quick-start-guide](https://github.com/PacktPublishing/C-quick-start-guide) | C++ quick start guide, published by Packt |  | ⭐ 1 |
 | [C-sharp-14-and-.NET-10-Mastery-for-2026-Build-the-Next-Generation-of-Apps](https://github.com/PacktPublishing/C-sharp-14-and-.NET-10-Mastery-for-2026-Build-the-Next-Generation-of-Apps) |  |  | ⭐ 2 |
 | [C-Sharp-7](https://github.com/PacktPublishing/C-Sharp-7) | C Sharp 7, by Packt |  | ⭐ 1 |
 | [C-Sharp-7-and-.NET-Core-Solutions](https://github.com/PacktPublishing/C-Sharp-7-and-.NET-Core-Solutions) | C Sharp 7 and .NET Core Solutions published by packt. | C# | ⭐ 2 |
 | [C-Sharp-7-and-NET-Core-2-High-Performance](https://github.com/PacktPublishing/C-Sharp-7-and-NET-Core-2-High-Performance) | C# 7 and .NET Core 2.0 High Performance, published by Packt | C# | ⭐ 13 |
 | [C-Sharp-and-Unity-by-Example-20-Mini-Game-Development-Projects](https://github.com/PacktPublishing/C-Sharp-and-Unity-by-Example-20-Mini-Game-Development-Projects) | C# and Unity by Example: 20+ Mini Game Development Projects by Packt Publishing |  | ⭐ 19 |
-| [C-sharp-Basics-for-Absolute-Beginners-in-C-Sharp-and-dot-NET](https://github.com/PacktPublishing/C-sharp-Basics-for-Absolute-Beginners-in-C-Sharp-and-dot-NET) |  | C# | ⭐ 65 |
+| [C-sharp-Basics-for-Absolute-Beginners-in-C-Sharp-and-dot-NET](https://github.com/PacktPublishing/C-sharp-Basics-for-Absolute-Beginners-in-C-Sharp-and-dot-NET) |  | C# | ⭐ 66 |
 | [C-Sharp-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/C-Sharp-Data-Structures-and-Algorithms) | C Sharp Data Structures and Algorithms, published by Packt | C# | ⭐ 102 |
 | [C-Sharp-Data-Structures-and-Algorithms---Second-Edition](https://github.com/PacktPublishing/C-Sharp-Data-Structures-and-Algorithms---Second-Edition) | C# Data Structures and Algorithms - Second Edition by Packt Publishing | C# | ⭐ 76 |
 | [C-Standard-Template-Library-in-Practice](https://github.com/PacktPublishing/C-Standard-Template-Library-in-Practice) | C++ Standard Template Library in Practice, published by [Packt] | C++ | ⭐ 24 |
@@ -1796,7 +1799,7 @@
 | [Cisco-CCENT-ICND1-100-105-Bonus-The-Complete-Course](https://github.com/PacktPublishing/Cisco-CCENT-ICND1-100-105-Bonus-The-Complete-Course) | Cisco CCENT / ICND1 (100-105) + Bonus: The Complete Course by Packt Publishing |  | ⭐ 2 |
 | [Cisco-CCENT-Packet-Tracer-Ultimate-Labs-ICND1-Exam-Preparation-Labs](https://github.com/PacktPublishing/Cisco-CCENT-Packet-Tracer-Ultimate-Labs-ICND1-Exam-Preparation-Labs) | Code repository for Cisco CCENT Packet Tracer Ultimate Labs: ICND1 Exam Preparation Lab... |  | ⭐ 26 |
 | [Cisco-CCNA-200-125-The-Complete-Guide-to-Getting-Certified](https://github.com/PacktPublishing/Cisco-CCNA-200-125-The-Complete-Guide-to-Getting-Certified) | Code Repository for Cisco CCNA 200-125 – The Complete Guide to Getting Certified, Publi... |  | ⭐ 60 |
-| [Cisco-CCNA-200-301-The-Complete-Guide-to-Getting-Certified](https://github.com/PacktPublishing/Cisco-CCNA-200-301-The-Complete-Guide-to-Getting-Certified) | Cisco CCNA 200-301: The Complete Guide to Getting Certified, published by Packt |  | ⭐ 244 |
+| [Cisco-CCNA-200-301-The-Complete-Guide-to-Getting-Certified](https://github.com/PacktPublishing/Cisco-CCNA-200-301-The-Complete-Guide-to-Getting-Certified) | Cisco CCNA 200-301: The Complete Guide to Getting Certified, published by Packt |  | ⭐ 248 |
 | [Cisco-CCNA-GNS3-Ultimate-Labs-CCNA-Exam-Preparation-Labs](https://github.com/PacktPublishing/Cisco-CCNA-GNS3-Ultimate-Labs-CCNA-Exam-Preparation-Labs) | Code repository for Cisco CCNA GNS3 Ultimate Labs: CCNA Exam Preparation Labs, Publishe... |  | ⭐ 10 |
 | [Cisco-CCNA-Packet-Tracer-Ultimate-Labs-CCNA-Exam-Preparation-Labs---Part-1](https://github.com/PacktPublishing/Cisco-CCNA-Packet-Tracer-Ultimate-Labs-CCNA-Exam-Preparation-Labs---Part-1) | Cisco CCNA Packet Tracer Ultimate Labs: CCNA Exam Preparation Labs - Part 1 [Video], Pu... |  | ⭐ 3 |
 | [Cisco-CCNA-Packet-Tracer-Ultimate-Labs-CCNA-Exam-Preparation-Labs---Part-2](https://github.com/PacktPublishing/Cisco-CCNA-Packet-Tracer-Ultimate-Labs-CCNA-Exam-Preparation-Labs---Part-2) | Code Repository for Cisco CCNA Packet Tracer Ultimate Labs: CCNA Exam Preparation Labs ... |  | ⭐ 2 |
@@ -1832,6 +1835,7 @@
 | [Claude-Claude-Projects-and-Claude-Code-for-Non-Coders](https://github.com/PacktPublishing/Claude-Claude-Projects-and-Claude-Code-for-Non-Coders) |  |  | ⭐ 2 |
 | [Claude-Code---Agentic-Coding](https://github.com/PacktPublishing/Claude-Code---Agentic-Coding) | Claude Code - Agentic Coding, published by Packt Publishing |  | ⭐ 2 |
 | [Claude-Code-in-Action](https://github.com/PacktPublishing/Claude-Code-in-Action) | From zero to deployed apps with AI-assisted development | JavaScript | ⭐ 2 |
+| [Claude-Code-Masterclass---The-Complete-Guide-to-Agentic-Development](https://github.com/PacktPublishing/Claude-Code-Masterclass---The-Complete-Guide-to-Agentic-Development) | Claude Code Masterclass - The Complete Guide to Agentic Development, published by Packt... |  |  |
 | [Claude-Code-Masterclass-Code-faster-with-Agentic-AI](https://github.com/PacktPublishing/Claude-Code-Masterclass-Code-faster-with-Agentic-AI) |  |  | ⭐ 5 |
 | [Claude-Cowork-Legal-Plugin-AI-for-Contract-NDA-Workflows](https://github.com/PacktPublishing/Claude-Cowork-Legal-Plugin-AI-for-Contract-NDA-Workflows) |  |  |  |
 | [CLAUDE-COWORK-MASTERCLASS-for-Professional-Claude-AI-No-Code](https://github.com/PacktPublishing/CLAUDE-COWORK-MASTERCLASS-for-Professional-Claude-AI-No-Code) | This is the code repository for CLAUDE COWORK MASTERCLASS for Professional+Claude AI No... |  | ⭐ 1 |
@@ -1843,15 +1847,15 @@
 | [Clean-Android-Architecture](https://github.com/PacktPublishing/Clean-Android-Architecture) | Clean Android Architecture, published by Packt | Kotlin | ⭐ 80 |
 | [Clean-Architecture-with-.NET](https://github.com/PacktPublishing/Clean-Architecture-with-.NET) | Clean Architecture with .NET by Packt Publishing | C# | ⭐ 60 |
 | [Clean-Architecture-with-Python](https://github.com/PacktPublishing/Clean-Architecture-with-Python) | Clean Architecture with Python, Published by Packt | Python | ⭐ 159 |
-| [Clean-Code-in-C-](https://github.com/PacktPublishing/Clean-Code-in-C-) | Clean Code in C#, published by Packt | JavaScript | ⭐ 111 |
+| [Clean-Code-in-C-](https://github.com/PacktPublishing/Clean-Code-in-C-) | Clean Code in C#, published by Packt | JavaScript | ⭐ 112 |
 | [Clean-Code-in-C-_Ryan](https://github.com/PacktPublishing/Clean-Code-in-C-_Ryan) |  |  |  |
 | [Clean-Code-in-Java](https://github.com/PacktPublishing/Clean-Code-in-Java) | Clean Code in Java by Packt Publishing |  | ⭐ 2 |
 | [Clean-Code-in-JavaScript](https://github.com/PacktPublishing/Clean-Code-in-JavaScript) | Clean Code in JavaScript, published by Packt | JavaScript | ⭐ 85 |
 | [Clean-Code-in-Mobile-Development](https://github.com/PacktPublishing/Clean-Code-in-Mobile-Development) | Clean Code in Mobile Development, published by Packt |  | ⭐ 1 |
 | [Clean-Code-in-PHP](https://github.com/PacktPublishing/Clean-Code-in-PHP) | Clean Code in PHP, published by Packt | PHP | ⭐ 50 |
 | [Clean-Code-in-PHP-Audiobook](https://github.com/PacktPublishing/Clean-Code-in-PHP-Audiobook) | Clean Code in PHP Audiobook, Published by Packt |  |  |
-| [Clean-Code-in-Python](https://github.com/PacktPublishing/Clean-Code-in-Python) | Clean Code in Python, published by Packt | Python | ⭐ 590 |
-| [Clean-Code-in-Python-Second-Edition](https://github.com/PacktPublishing/Clean-Code-in-Python-Second-Edition) | Clean Code in Python, Second Edition, published by [Packt] | Python | ⭐ 174 |
+| [Clean-Code-in-Python](https://github.com/PacktPublishing/Clean-Code-in-Python) | Clean Code in Python, published by Packt | Python | ⭐ 591 |
+| [Clean-Code-in-Python-Second-Edition](https://github.com/PacktPublishing/Clean-Code-in-Python-Second-Edition) | Clean Code in Python, Second Edition, published by [Packt] | Python | ⭐ 175 |
 | [Clean-Code-with-CSharp-Second-Edition](https://github.com/PacktPublishing/Clean-Code-with-CSharp-Second-Edition) | Clean Code with C# Second Edition, published by Packt | LLVM | ⭐ 22 |
 | [Clean-Code-with-Typescript](https://github.com/PacktPublishing/Clean-Code-with-Typescript) | Clean Code with Typescript, Published by Packt | TypeScript | ⭐ 6 |
 | [Clean-Data-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Clean-Data-Tips-Tricks-and-Techniques) | Clean Data: Tips, Tricks, and Techniques [video], published by Packt | Python | ⭐ 10 |
@@ -1906,10 +1910,10 @@
 | [Cloudera-Administration-Handbook](https://github.com/PacktPublishing/Cloudera-Administration-Handbook) | Cloudera Administration Handbook, published by Packt |  | ⭐ 2 |
 | [Clustering-and-Classification-with-Machine-Learning-in-R](https://github.com/PacktPublishing/Clustering-and-Classification-with-Machine-Learning-in-R) | Code Repository for Clustering and Classification with Machine Learning in R, published... |  | ⭐ 2 |
 | [CMake-Best-Practices](https://github.com/PacktPublishing/CMake-Best-Practices) | CMake Best Practices, by Packt Publishing | CMake | ⭐ 213 |
-| [CMake-Best-Practices---2nd-Edition](https://github.com/PacktPublishing/CMake-Best-Practices---2nd-Edition) | CMake Best Practices - 2nd Edition, published by Packt | CMake | ⭐ 33 |
-| [CMake-Cookbook](https://github.com/PacktPublishing/CMake-Cookbook) | CMake Cookbook, by Packt | C++ | ⭐ 204 |
+| [CMake-Best-Practices---2nd-Edition](https://github.com/PacktPublishing/CMake-Best-Practices---2nd-Edition) | CMake Best Practices - 2nd Edition, published by Packt | CMake | ⭐ 34 |
+| [CMake-Cookbook](https://github.com/PacktPublishing/CMake-Cookbook) | CMake Cookbook, by Packt | C++ | ⭐ 205 |
 | [Code-a-Dynamic-File-Transfer-App-using-WebRTC-Tailored-for-2026-and-Beyond](https://github.com/PacktPublishing/Code-a-Dynamic-File-Transfer-App-using-WebRTC-Tailored-for-2026-and-Beyond) |  | JavaScript | ⭐ 1 |
-| [Code-the-Future---AI-Powered-App-Building-with-No-Code-Full-Stack-Tools](https://github.com/PacktPublishing/Code-the-Future---AI-Powered-App-Building-with-No-Code-Full-Stack-Tools) | This is the code repository for Code the Future - AI-Powered App Building with No-Code ... | JavaScript | ⭐ 4 |
+| [Code-the-Future---AI-Powered-App-Building-with-No-Code-Full-Stack-Tools](https://github.com/PacktPublishing/Code-the-Future---AI-Powered-App-Building-with-No-Code-Full-Stack-Tools) | This is the code repository for Code the Future - AI-Powered App Building with No-Code ... | JavaScript | ⭐ 5 |
 | [CodeIgniter-Web-Application-Blueprints](https://github.com/PacktPublishing/CodeIgniter-Web-Application-Blueprints) | CodeIgniter Web Application Blueprints by Packt Publishing | PHP | ⭐ 18 |
 | [Codeless-Deep-Learning-with-KNIME](https://github.com/PacktPublishing/Codeless-Deep-Learning-with-KNIME) | Codeless Deep Learning with KNIME |  | ⭐ 16 |
 | [Codeless-Time-Series-Analysis-with-KNIME](https://github.com/PacktPublishing/Codeless-Time-Series-Analysis-with-KNIME) | Codeless Time series analysis with KNIME, published by Packt |  | ⭐ 9 |
@@ -1936,8 +1940,8 @@
 | [Complete-Ethical-Hacking-and-Penetration-Testing-for-Web-Apps](https://github.com/PacktPublishing/Complete-Ethical-Hacking-and-Penetration-Testing-for-Web-Apps) | Complete Ethical Hacking and Penetration Testing for Web Apps, published by Packt |  | ⭐ 2 |
 | [Complete-Ethical-Hacking-Penetration-Testing-for-Web-Apps](https://github.com/PacktPublishing/Complete-Ethical-Hacking-Penetration-Testing-for-Web-Apps) | Complete Ethical Hacking & Penetration Testing for Web Apps, published by Packt |  | ⭐ 7 |
 | [Complete-Ethical-Hacking-Series-Pen-Testing-the-Right-Way](https://github.com/PacktPublishing/Complete-Ethical-Hacking-Series-Pen-Testing-the-Right-Way) | Code Repository for Complete Ethical Hacking Series: Pen Testing the Right Way, publish... |  | ⭐ 2 |
-| [Complete-Git-and-GitHub-Masterclass-Beginner-to-Git-Expert](https://github.com/PacktPublishing/Complete-Git-and-GitHub-Masterclass-Beginner-to-Git-Expert) | Code Repository for Complete Git and GitHub Masterclass : Beginner to Git Expert, Publi... |  | ⭐ 23 |
-| [Complete-Git-Guide-Understand-and-Master-Git-and-GitHub](https://github.com/PacktPublishing/Complete-Git-Guide-Understand-and-Master-Git-and-GitHub) | Complete Git Guide: Understand and Master Git and GitHub, by Packt Publishing |  | ⭐ 26 |
+| [Complete-Git-and-GitHub-Masterclass-Beginner-to-Git-Expert](https://github.com/PacktPublishing/Complete-Git-and-GitHub-Masterclass-Beginner-to-Git-Expert) | Code Repository for Complete Git and GitHub Masterclass : Beginner to Git Expert, Publi... |  | ⭐ 24 |
+| [Complete-Git-Guide-Understand-and-Master-Git-and-GitHub](https://github.com/PacktPublishing/Complete-Git-Guide-Understand-and-Master-Git-and-GitHub) | Complete Git Guide: Understand and Master Git and GitHub, by Packt Publishing |  | ⭐ 27 |
 | [Complete-Guide-to-ASP.NET-Core-MVC-dotNET-5](https://github.com/PacktPublishing/Complete-Guide-to-ASP.NET-Core-MVC-dotNET-5) |  | C# | ⭐ 7 |
 | [Complete-Guide-to-Designing-a-Mobile-App](https://github.com/PacktPublishing/Complete-Guide-to-Designing-a-Mobile-App) | Code Repository for Complete Guide to Designing a Mobile App, Published by Packt |  | ⭐ 6 |
 | [Complete-Guide-to-Node.js-Development](https://github.com/PacktPublishing/Complete-Guide-to-Node.js-Development) | Complete Guide to Node.js Development, published by Packt |  | ⭐ 2 |
@@ -1957,6 +1961,7 @@
 | [Complete-Python-Developer-in-2026-Zero-to-Mastery](https://github.com/PacktPublishing/Complete-Python-Developer-in-2026-Zero-to-Mastery) |  |  | ⭐ 1 |
 | [Complete-Python-Scripting-for-Automation](https://github.com/PacktPublishing/Complete-Python-Scripting-for-Automation) | Complete Python Scripting for Automation by Packt Publishing | Python | ⭐ 29 |
 | [Complete-Python-Web-Course-Build-8-Python-Web-Apps](https://github.com/PacktPublishing/Complete-Python-Web-Course-Build-8-Python-Web-Apps) | Code Repository for Complete Python Web Course: Build 8 Python Web Apps, published by P... |  | ⭐ 7 |
+| [Complete-Salesforce-Headless-360---The-Next-Evolution-of-Salesforce](https://github.com/PacktPublishing/Complete-Salesforce-Headless-360---The-Next-Evolution-of-Salesforce) | This is the code repository for Complete Salesforce Headless 360 - The Next Evolution o... | Apex |  |
 | [Complete-Salesforce-Lightning-Application-Development](https://github.com/PacktPublishing/Complete-Salesforce-Lightning-Application-Development) | Code repository for Complete Salesforce Lightning Application Development, published by... | JavaScript | ⭐ 2 |
 | [Complete-Salesforce-Lightning-Application-Development-V-](https://github.com/PacktPublishing/Complete-Salesforce-Lightning-Application-Development-V-) | Code repository for Complete Salesforce Lightning Application Development(V), Published... |  | ⭐ 3 |
 | [Complete-Unity-2018-Game-Development](https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development) | Explore techniques to build 2D/3D applications using real-world examples | C# | ⭐ 20 |
@@ -1975,7 +1980,7 @@
 | [CompTIA-A-Certification-220-1002-The-Total-Course](https://github.com/PacktPublishing/CompTIA-A-Certification-220-1002-The-Total-Course) |  |  | ⭐ 6 |
 | [CompTIA-A-Certification-901.](https://github.com/PacktPublishing/CompTIA-A-Certification-901.) | Code Repository for CompTIA A+ Certification 901, Published by Packt |  | ⭐ 1 |
 | [CompTIA-A-Certification-901.-The-Total-Course](https://github.com/PacktPublishing/CompTIA-A-Certification-901.-The-Total-Course) | Code Repository for CompTIA A+ Certification 901. The Total Course, Published by Packt |  | ⭐ 1 |
-| [CompTIA-A-Certification-Core-1---220-1101](https://github.com/PacktPublishing/CompTIA-A-Certification-Core-1---220-1101) |  |  | ⭐ 282 |
+| [CompTIA-A-Certification-Core-1---220-1101](https://github.com/PacktPublishing/CompTIA-A-Certification-Core-1---220-1101) |  |  | ⭐ 283 |
 | [CompTIA-A-Certification-Core-2-220-1102-](https://github.com/PacktPublishing/CompTIA-A-Certification-Core-2-220-1102-) | CompTIA A+ Certification Core 2 (220-1102), by Packt Publishing |  | ⭐ 101 |
 | [CompTIA-A-Core-1-220-1201-Certification-Training-Exam-Prep](https://github.com/PacktPublishing/CompTIA-A-Core-1-220-1201-Certification-Training-Exam-Prep) | This is the code repository forCompTIA A+ Core 1 (220-1201) Certification Training & Ex... |  | ⭐ 1 |
 | [CompTIA-CASP-CAS-004-](https://github.com/PacktPublishing/CompTIA-CASP-CAS-004-) | CompTIA CASP+ (CAS-004), by Packt Publishing |  | ⭐ 1 |
@@ -1994,15 +1999,15 @@
 | [CompTIA-IT-Fundamentals-ITF-FCO-U61-Exam-Prep-Course](https://github.com/PacktPublishing/CompTIA-IT-Fundamentals-ITF-FCO-U61-Exam-Prep-Course) | CompTIA IT Fundamentals ITF+ (FCO-U61) Exam Prep Course, published by Packt |  | ⭐ 13 |
 | [CompTIA-Linux-XK0-005-](https://github.com/PacktPublishing/CompTIA-Linux-XK0-005-) | CompTIA Linux+ (XK0-005), by Packt Publishing |  |  |
 | [CompTIA-Linux-XK0-006---The-Total-Course](https://github.com/PacktPublishing/CompTIA-Linux-XK0-006---The-Total-Course) | CompTIA Linux+ (XK0-006) - The Total Course,Published by Packt Publishing |  | ⭐ 2 |
-| [CompTIA-Network-Cert-N10-007-Full-Course-and-Practice-Exam](https://github.com/PacktPublishing/CompTIA-Network-Cert-N10-007-Full-Course-and-Practice-Exam) | Code Repository for CompTIA Network+ Cert (N10-007): Full Course and Practice Exam, Pub... |  | ⭐ 143 |
+| [CompTIA-Network-Cert-N10-007-Full-Course-and-Practice-Exam](https://github.com/PacktPublishing/CompTIA-Network-Cert-N10-007-Full-Course-and-Practice-Exam) | Code Repository for CompTIA Network+ Cert (N10-007): Full Course and Practice Exam, Pub... |  | ⭐ 144 |
 | [CompTIA-Network-Certification-N10-007-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Network-Certification-N10-007-The-Total-Course) | Code Repository for CompTIA Network Certification N10-007: The Total Course, published ... |  | ⭐ 1 |
 | [CompTIA-Network-Certification-N10-008-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Network-Certification-N10-008-The-Total-Course) | CompTIA Network+ Certification (N10-008): The Total Course, by Packt Publishing |  | ⭐ 96 |
-| [CompTIA-Network-Certification-N10-009-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Network-Certification-N10-009-The-Total-Course) |  |  | ⭐ 26 |
+| [CompTIA-Network-Certification-N10-009-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Network-Certification-N10-009-The-Total-Course) |  |  | ⭐ 27 |
 | [CompTIA-Network-N10-009-Certification-Guide](https://github.com/PacktPublishing/CompTIA-Network-N10-009-Certification-Guide) | CompTIA Network+ N10-009 Certification Guide, published by Packt |  | ⭐ 8 |
 | [CompTIA-Network-N10-009-Crash-Course](https://github.com/PacktPublishing/CompTIA-Network-N10-009-Crash-Course) |  |  | ⭐ 19 |
 | [CompTIA-Network-N10-009-Crash-Course-Video](https://github.com/PacktPublishing/CompTIA-Network-N10-009-Crash-Course-Video) | CompTIA Network+ (N10-009) Crash Course, Published by Packt Publishing |  | ⭐ 2 |
 | [CompTIA-Pentest-Certification-PT0-001-](https://github.com/PacktPublishing/CompTIA-Pentest-Certification-PT0-001-) |  |  | ⭐ 2 |
-| [CompTIA-Pentest-Ethical-Hacking-Course-and-Practice-Exam](https://github.com/PacktPublishing/CompTIA-Pentest-Ethical-Hacking-Course-and-Practice-Exam) | CompTIA Pentest+ (Ethical Hacking) Course and Practice Exam, published by Packt | Shell | ⭐ 123 |
+| [CompTIA-Pentest-Ethical-Hacking-Course-and-Practice-Exam](https://github.com/PacktPublishing/CompTIA-Pentest-Ethical-Hacking-Course-and-Practice-Exam) | CompTIA Pentest+ (Ethical Hacking) Course and Practice Exam, published by Packt | Shell | ⭐ 124 |
 | [CompTIA-PenTest-Exam-Guide-PT0-001](https://github.com/PacktPublishing/CompTIA-PenTest-Exam-Guide-PT0-001) |  |  | ⭐ 2 |
 | [CompTIA-PenTest-PT0-002-](https://github.com/PacktPublishing/CompTIA-PenTest-PT0-002-) | CompTIA PenTest + (PT0-002), by Packt Publishing |  | ⭐ 1 |
 | [CompTIA-Project-Certification-Guide](https://github.com/PacktPublishing/CompTIA-Project-Certification-Guide) | CompTIA Project+ Certification Guide, published by Packt |  | ⭐ 1 |
@@ -2015,7 +2020,7 @@
 | [CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) | CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing |  | ⭐ 105 |
 | [CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam](https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam) | CompTIA Security+ (SY0-501): Complete Course and Practice Exam, published by Packt |  | ⭐ 437 |
 | [CompTIA-Security-SY0-701-](https://github.com/PacktPublishing/CompTIA-Security-SY0-701-) | CompTIA Security + (SY0-701), by Packt Publishing |  | ⭐ 7 |
-| [CompTIA-Security-SY0-701-Full-Training-Guide](https://github.com/PacktPublishing/CompTIA-Security-SY0-701-Full-Training-Guide) | CompTIA Security+ (SY0-701) Full Training Guide, by Packt Publishing |  | ⭐ 461 |
+| [CompTIA-Security-SY0-701-Full-Training-Guide](https://github.com/PacktPublishing/CompTIA-Security-SY0-701-Full-Training-Guide) | CompTIA Security+ (SY0-701) Full Training Guide, by Packt Publishing |  | ⭐ 464 |
 | [CompTIA-Security-SY0-701-Practice-Tests](https://github.com/PacktPublishing/CompTIA-Security-SY0-701-Practice-Tests) |  |  |  |
 | [CompTIA-SecurityX-CAS-005-Certification-Guide](https://github.com/PacktPublishing/CompTIA-SecurityX-CAS-005-Certification-Guide) | CompTIA SecurityX CAS-005  Certification Guide, published by Packt |  | ⭐ 3 |
 | [CompTIA-Tech-FC0-U71-CertMike-s-Complete-Certification-Course](https://github.com/PacktPublishing/CompTIA-Tech-FC0-U71-CertMike-s-Complete-Certification-Course) |  |  |  |
@@ -2072,16 +2077,16 @@
 | [Copilot-in-Microsoft-365-for-Beginners](https://github.com/PacktPublishing/Copilot-in-Microsoft-365-for-Beginners) |  |  | ⭐ 1 |
 | [CosmosDB](https://github.com/PacktPublishing/CosmosDB) | CosmosDB |  |  |
 | [CPlusPlus17-STL-Solutions](https://github.com/PacktPublishing/CPlusPlus17-STL-Solutions) | C++17 STL Solutions , published by Packt | C++ | ⭐ 28 |
-| [CPP-20-STL-Cookbook](https://github.com/PacktPublishing/CPP-20-STL-Cookbook) | C++ 20 STL Cookbook, published by Packt | C++ | ⭐ 158 |
+| [CPP-20-STL-Cookbook](https://github.com/PacktPublishing/CPP-20-STL-Cookbook) | C++ 20 STL Cookbook, published by Packt | C++ | ⭐ 159 |
 | [CPP-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/CPP-Data-Structures-and-Algorithms) | C++ Data Structures and Algorithms, published by Packt | C++ | ⭐ 333 |
 | [CPP-for-Data-Intensive-Applications](https://github.com/PacktPublishing/CPP-for-Data-Intensive-Applications) | C++ for Data Intensive Applications, Published by Packt |  |  |
 | [Cpp-for-game-developers](https://github.com/PacktPublishing/Cpp-for-game-developers) | code files | C++ | ⭐ 8 |
-| [Cpp-Game-Animation-Programming-Second-Edition](https://github.com/PacktPublishing/Cpp-Game-Animation-Programming-Second-Edition) | C++ Game Animation Programming - Second Edition, published by Packt | C++ | ⭐ 145 |
+| [Cpp-Game-Animation-Programming-Second-Edition](https://github.com/PacktPublishing/Cpp-Game-Animation-Programming-Second-Edition) | C++ Game Animation Programming - Second Edition, published by Packt | C++ | ⭐ 146 |
 | [CPP-Game-Development-By-Example](https://github.com/PacktPublishing/CPP-Game-Development-By-Example) | C++ Game Development By Example, published by Packt | HTML | ⭐ 130 |
 | [CPP-Game-Development-Cookbook](https://github.com/PacktPublishing/CPP-Game-Development-Cookbook) | CPP Game Development Cookbook by Packt Publishing | C++ | ⭐ 34 |
 | [CPP-Game-Development-Projects](https://github.com/PacktPublishing/CPP-Game-Development-Projects) | C++ Game Development Projects, published by Packt |  | ⭐ 3 |
 | [Cpp-High-Performance](https://github.com/PacktPublishing/Cpp-High-Performance) | C++ High Performance, published by Packt | C++ | ⭐ 268 |
-| [Cpp-High-Performance-Second-Edition](https://github.com/PacktPublishing/Cpp-High-Performance-Second-Edition) | C++ High Performance Second Edition, published by Packt | C++ | ⭐ 305 |
+| [Cpp-High-Performance-Second-Edition](https://github.com/PacktPublishing/Cpp-High-Performance-Second-Edition) | C++ High Performance Second Edition, published by Packt | C++ | ⭐ 307 |
 | [Cpp-in-Embedded-Systems](https://github.com/PacktPublishing/Cpp-in-Embedded-Systems) | C++ in Embedded Systems, published by Packt  | C | ⭐ 97 |
 | [CPP-Memory-Management-Masterclass](https://github.com/PacktPublishing/CPP-Memory-Management-Masterclass) | CPP Memory Management Masterclass | C++ | ⭐ 14 |
 | [CPP-Reactive-Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) | C++ Reactive Programming, published by Packt | C++ | ⭐ 143 |
@@ -2283,7 +2288,7 @@
 | [Data-Acquisition-Using-LabVIEW](https://github.com/PacktPublishing/Data-Acquisition-Using-LabVIEW) | Data Acquisition Using LabVIEW by Packt | LabVIEW | ⭐ 9 |
 | [Data-Analysis-and-Exploration-with-Pandas](https://github.com/PacktPublishing/Data-Analysis-and-Exploration-with-Pandas) | Data Analysis and Exploration with Pandas, published by Packt | Jupyter Notebook | ⭐ 17 |
 | [Data-Analysis-with-IBM-SPSS-Statistics](https://github.com/PacktPublishing/Data-Analysis-with-IBM-SPSS-Statistics) | Data Analysis with IBM SPSS Statistics, published by Packt | Scheme | ⭐ 18 |
-| [Data-Analysis-with-Pandas-and-Python](https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python) | Code Repository for Data Analysis with Pandas and Python(v), Published by Packt | Jupyter Notebook | ⭐ 68 |
+| [Data-Analysis-with-Pandas-and-Python](https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python) | Code Repository for Data Analysis with Pandas and Python(v), Published by Packt | Jupyter Notebook | ⭐ 69 |
 | [Data-Analysis-with-Pandas-and-Python-2026](https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python-2026) | Data Analysis with Pandas and Python, Published by Packt Publishing | Jupyter Notebook | ⭐ 1 |
 | [Data-Analysis-with-Polars](https://github.com/PacktPublishing/Data-Analysis-with-Polars) | Data Analysis with Polars, Published by Packt | Jupyter Notebook | ⭐ 33 |
 | [Data-Analysis-with-Polars-and-Python](https://github.com/PacktPublishing/Data-Analysis-with-Polars-and-Python) |  | Jupyter Notebook | ⭐ 4 |
@@ -2316,17 +2321,17 @@
 | [Data-Engineering-Vol2-AWS-Data-Processing---Spark-Kafka](https://github.com/PacktPublishing/Data-Engineering-Vol2-AWS-Data-Processing---Spark-Kafka) |  | Python |  |
 | [Data-Engineering-with-Alteryx](https://github.com/PacktPublishing/Data-Engineering-with-Alteryx) |  Data Engineering with Alteryx, published by Packt | Batchfile | ⭐ 9 |
 | [Data-Engineering-with-Apache-Spark-Delta-Lake-and-Lakehouse](https://github.com/PacktPublishing/Data-Engineering-with-Apache-Spark-Delta-Lake-and-Lakehouse) | Data Engineering with Spark and Delta Lake | TSQL | ⭐ 107 |
-| [Data-Engineering-with-AWS](https://github.com/PacktPublishing/Data-Engineering-with-AWS) | Data Engineering with AWS, Published by Packt | Python | ⭐ 342 |
+| [Data-Engineering-with-AWS](https://github.com/PacktPublishing/Data-Engineering-with-AWS) | Data Engineering with AWS, Published by Packt | Python | ⭐ 341 |
 | [Data-Engineering-with-AWS-2nd-edition](https://github.com/PacktPublishing/Data-Engineering-with-AWS-2nd-edition) | Data Engineering with AWS, 2nd edition - Published by Packt | Python | ⭐ 176 |
 | [Data-Engineering-with-AWS-Cookbook](https://github.com/PacktPublishing/Data-Engineering-with-AWS-Cookbook) | Data Engineering with AWS Cookbook, published by Packt | Jupyter Notebook | ⭐ 28 |
 | [Data-Engineering-with-AWS-Third-Edition](https://github.com/PacktPublishing/Data-Engineering-with-AWS-Third-Edition) | Data Engineering with AWS, Third Edition, published by Packt |  |  |
 | [Data-Engineering-with-Azure-Databricks](https://github.com/PacktPublishing/Data-Engineering-with-Azure-Databricks) | This is the code repository for Data Engineering with Azure Databricks, published by Pa... | Python | ⭐ 8 |
 | [Data-Engineering-with-Databricks](https://github.com/PacktPublishing/Data-Engineering-with-Databricks) |  | Python |  |
-| [Data-Engineering-with-Databricks-Cookbook](https://github.com/PacktPublishing/Data-Engineering-with-Databricks-Cookbook) | Data Engineering with Databricks Cookbook, published by Packt | Jupyter Notebook | ⭐ 152 |
+| [Data-Engineering-with-Databricks-Cookbook](https://github.com/PacktPublishing/Data-Engineering-with-Databricks-Cookbook) | Data Engineering with Databricks Cookbook, published by Packt | Jupyter Notebook | ⭐ 154 |
 | [Data-engineering-with-dbt](https://github.com/PacktPublishing/Data-engineering-with-dbt) | Data engineering with dbt, published by Packt |  | ⭐ 110 |
-| [Data-Engineering-with-Google-Cloud-Platform](https://github.com/PacktPublishing/Data-Engineering-with-Google-Cloud-Platform) | Data Engineering with Google Cloud Platform, published by Packt | Python | ⭐ 125 |
+| [Data-Engineering-with-Google-Cloud-Platform](https://github.com/PacktPublishing/Data-Engineering-with-Google-Cloud-Platform) | Data Engineering with Google Cloud Platform, published by Packt | Python | ⭐ 124 |
 | [Data-Engineering-with-Google-Cloud-Platform-Second-Edition](https://github.com/PacktPublishing/Data-Engineering-with-Google-Cloud-Platform-Second-Edition) | Data Engineering with Google Cloud Platform - Second Edition, published by Packt | Python | ⭐ 46 |
-| [Data-Engineering-with-Python](https://github.com/PacktPublishing/Data-Engineering-with-Python) | Data Engineering with Python, published by Packt | Python | ⭐ 822 |
+| [Data-Engineering-with-Python](https://github.com/PacktPublishing/Data-Engineering-with-Python) | Data Engineering with Python, published by Packt | Python | ⭐ 823 |
 | [Data-Engineering-with-Python-Cookbook](https://github.com/PacktPublishing/Data-Engineering-with-Python-Cookbook) | Data Engineering with Python Cookbook, published by Packt |  | ⭐ 4 |
 | [Data-Engineering-with-Rust](https://github.com/PacktPublishing/Data-Engineering-with-Rust) | Data Engineering with Rust |  |  |
 | [Data-Engineering-with-Scala-and-Spark](https://github.com/PacktPublishing/Data-Engineering-with-Scala-and-Spark) | Data Engineering with Scala, published by Packt | Scala | ⭐ 28 |
@@ -2395,11 +2400,11 @@
 | [Data-Strategy-for-LLMs](https://github.com/PacktPublishing/Data-Strategy-for-LLMs) | Data Strategy for LLMs, Published by Packt | Jupyter Notebook | ⭐ 7 |
 | [Data-Structures-Algorithms-in-Java-150-Leetcode-Problems](https://github.com/PacktPublishing/Data-Structures-Algorithms-in-Java-150-Leetcode-Problems) | Data Structures & Algorithms in Java + 150 Leetcode Problems, Published by Packt Publis... | Java | ⭐ 4 |
 | [Data-Structures-Algorithms-in-Java-SECRETS-to-Ace-LeetCode](https://github.com/PacktPublishing/Data-Structures-Algorithms-in-Java-SECRETS-to-Ace-LeetCode) |  | Java | ⭐ 5 |
-| [Data-Structures-and-Algorithms-for-Game-Programming-in-CPP](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-for-Game-Programming-in-CPP) | Data Structures and Algorithms for Game Programming in CPP by Packt Publishing | C++ | ⭐ 113 |
+| [Data-Structures-and-Algorithms-for-Game-Programming-in-CPP](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-for-Game-Programming-in-CPP) | Data Structures and Algorithms for Game Programming in CPP by Packt Publishing | C++ | ⭐ 115 |
 | [Data-Structures-and-Algorithms-in-JavaScript-100-LEETCODE-Problems](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-in-JavaScript-100-LEETCODE-Problems) |  | JavaScript | ⭐ 5 |
-| [Data-Structures-and-Algorithms-The-Complete-Masterclass](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-The-Complete-Masterclass) | Data Structures and Algorithms: The Complete Masterclass, by Packt Publishing  | Python | ⭐ 115 |
+| [Data-Structures-and-Algorithms-The-Complete-Masterclass](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-The-Complete-Masterclass) | Data Structures and Algorithms: The Complete Masterclass, by Packt Publishing  | Python | ⭐ 116 |
 | [Data-Structures-and-Algorithms-with-Go](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-with-Go) | Data Structures and Algorithms with Go, published by Packt |  | ⭐ 2 |
-| [Data-Structures-and-Algorithms-with-the-CPP-STL](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-with-the-CPP-STL) | Data Structures and Algorithms with the C++ STL, Published by Packt | C++ | ⭐ 61 |
+| [Data-Structures-and-Algorithms-with-the-CPP-STL](https://github.com/PacktPublishing/Data-Structures-and-Algorithms-with-the-CPP-STL) | Data Structures and Algorithms with the C++ STL, Published by Packt | C++ | ⭐ 62 |
 | [Data-Structures-in-JavaScript](https://github.com/PacktPublishing/Data-Structures-in-JavaScript) | Data Structures in JavaScript, published by Packt |  | ⭐ 1 |
 | [Data-Structures-in-JavaScript-Master-the-Fundamentals](https://github.com/PacktPublishing/Data-Structures-in-JavaScript-Master-the-Fundamentals) | Data Structures in JavaScript: Master the Fundamentals [Video], published by Packt | JavaScript | ⭐ 3 |
 | [Data-Structures-Using-Python-2024](https://github.com/PacktPublishing/Data-Structures-Using-Python-2024) |  |  | ⭐ 11 |
@@ -2428,9 +2433,9 @@
 | [Database-Programming-with-knex.js](https://github.com/PacktPublishing/Database-Programming-with-knex.js) | Database Programming with knex.js, Published by Packt | TypeScript | ⭐ 3 |
 | [Databases-Core-Data](https://github.com/PacktPublishing/Databases-Core-Data) | Code repository for Databases: Core Data, published by Packt |  | ⭐ 2 |
 | [Databases-Realm](https://github.com/PacktPublishing/Databases-Realm) | Code repository for Databases: Realm, published by Packt |  | ⭐ 2 |
-| [Databricks-Certified-Associate-Developer-for-Apache-Spark-Using-Python](https://github.com/PacktPublishing/Databricks-Certified-Associate-Developer-for-Apache-Spark-Using-Python) | Databricks Certified Associate Developer for Apache Spark Using Python, Published by Packt | Jupyter Notebook | ⭐ 15 |
-| [Databricks-Certified-Data-Analyst-Associate-Exam-Prep](https://github.com/PacktPublishing/Databricks-Certified-Data-Analyst-Associate-Exam-Prep) |  |  | ⭐ 4 |
-| [Databricks-Certified-Data-Engineer-Associate---Practical-Guide](https://github.com/PacktPublishing/Databricks-Certified-Data-Engineer-Associate---Practical-Guide) | Databricks Certified Data Engineer Associate - Practical Guide , Published by Packt Pub... | Jupyter Notebook | ⭐ 2 |
+| [Databricks-Certified-Associate-Developer-for-Apache-Spark-Using-Python](https://github.com/PacktPublishing/Databricks-Certified-Associate-Developer-for-Apache-Spark-Using-Python) | Databricks Certified Associate Developer for Apache Spark Using Python, Published by Packt | Jupyter Notebook | ⭐ 16 |
+| [Databricks-Certified-Data-Analyst-Associate-Exam-Prep](https://github.com/PacktPublishing/Databricks-Certified-Data-Analyst-Associate-Exam-Prep) |  |  | ⭐ 5 |
+| [Databricks-Certified-Data-Engineer-Associate---Practical-Guide](https://github.com/PacktPublishing/Databricks-Certified-Data-Engineer-Associate---Practical-Guide) | Databricks Certified Data Engineer Associate - Practical Guide , Published by Packt Pub... | Jupyter Notebook | ⭐ 3 |
 | [Databricks-ML-In-Action](https://github.com/PacktPublishing/Databricks-ML-In-Action) | Databricks ML in Action, Published by Packt | Python | ⭐ 35 |
 | [Datadog-Cloud-Monitoring-Quick-Start-Guide](https://github.com/PacktPublishing/Datadog-Cloud-Monitoring-Quick-Start-Guide) | Datadog Cloud Monitoring Quick Start Guide, Published by Packt | Python | ⭐ 18 |
 | [Datasets-of-Master-Data-Science-with-Python](https://github.com/PacktPublishing/Datasets-of-Master-Data-Science-with-Python) | Visit: https://github.com/TrainingByPackt/Master-Data-Science-with-Python |  | ⭐ 3 |
@@ -2498,7 +2503,7 @@
 | [Deep-Learning-with-R](https://github.com/PacktPublishing/Deep-Learning-with-R) |  |  | ⭐ 2 |
 | [Deep-Learning-with-R-Cookbook](https://github.com/PacktPublishing/Deep-Learning-with-R-Cookbook) | Deep Learning with R Cookbook, published by Packt | Jupyter Notebook | ⭐ 10 |
 | [Deep-Learning-with-Real-World-Projects](https://github.com/PacktPublishing/Deep-Learning-with-Real-World-Projects) | Code Repository for Deep Learning with Real World Projects, Published by Packt | Jupyter Notebook | ⭐ 20 |
-| [Deep-Learning-with-TensorFlow](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow) | Deep Learning with TensorFlow by Packt | Python | ⭐ 180 |
+| [Deep-Learning-with-TensorFlow](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow) | Deep Learning with TensorFlow by Packt | Python | ⭐ 179 |
 | [Deep-Learning-with-TensorFlow-2-and-Keras](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras) | Deep Learning with TensorFlow 2 and Keras, published by Packt | Jupyter Notebook | ⭐ 321 |
 | [Deep-Learning-with-TensorFlow-2.0-in-7-Steps](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2.0-in-7-Steps) | Learn image classification and language modeling | Jupyter Notebook | ⭐ 32 |
 | [Deep-Learning-with-TensorFlow-and-Keras-3rd-edition](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-and-Keras-3rd-edition) | Deep Learning with TensorFlow and Keras – 3rd edition, Published by Packt | Jupyter Notebook | ⭐ 223 |
@@ -2506,9 +2511,9 @@
 | [Deep-Learning-with-TensorFlow-v-](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-v-) | Deep Learning with TensorFlow [Video] , published by Packt |  | ⭐ 1 |
 | [Deep-Learning-with-TensorFlow-video-](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-video-) | Deep Learning with TensorFlow (video), by Packt Publishing |  | ⭐ 3 |
 | [Deep-Learning-with-Theano](https://github.com/PacktPublishing/Deep-Learning-with-Theano) | Deep Learning with Theano, published  by Packt | Python | ⭐ 22 |
-| [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On) |  Hands-on Deep Reinforcement Learning, published by Packt | Python | ⭐ 3102 |
+| [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On) |  Hands-on Deep Reinforcement Learning, published by Packt | Python | ⭐ 3103 |
 | [Deep-Reinforcement-Learning-Hands-On-Second-Edition](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition) | Deep-Reinforcement-Learning-Hands-On-Second-Edition, published by Packt | Jupyter Notebook | ⭐ 1288 |
-| [Deep-Reinforcement-Learning-Hands-On-Third-Edition](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Third-Edition) | Deep Reinforcement Learning Hands-On, 3E_Published by Packt | Jupyter Notebook | ⭐ 475 |
+| [Deep-Reinforcement-Learning-Hands-On-Third-Edition](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Third-Edition) | Deep Reinforcement Learning Hands-On, 3E_Published by Packt | Jupyter Notebook | ⭐ 478 |
 | [Deep-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-with-Python) | Deep Reinforcement Learning with Python, Second Edition, published by Packt | Jupyter Notebook | ⭐ 215 |
 | [Deep-Reinforcement-with-PyTorch-and-TensorFlow](https://github.com/PacktPublishing/Deep-Reinforcement-with-PyTorch-and-TensorFlow) | Published by Packt | Jupyter Notebook | ⭐ 11 |
 | [DeepSeek-in-Practice](https://github.com/PacktPublishing/DeepSeek-in-Practice) | DeepSeek Essentials, published by Packt | Python | ⭐ 35 |
@@ -2562,9 +2567,9 @@
 | [Design-Innovative-Robots-with-LEGO-SPIKE-Prime](https://github.com/PacktPublishing/Design-Innovative-Robots-with-LEGO-SPIKE-Prime) | Design Innovative Robots with LEGO SPIKE Prime, Published by Packt |  | ⭐ 12 |
 | [Design-Made-Easy-with-Inkscape](https://github.com/PacktPublishing/Design-Made-Easy-with-Inkscape) |  |  | ⭐ 21 |
 | [Design-Microservices-Architecture-with-Patterns-and-Principles](https://github.com/PacktPublishing/Design-Microservices-Architecture-with-Patterns-and-Principles) | Design Microservices Architecture with Patterns and Principles, by Packt Publishing |  | ⭐ 36 |
-| [Design-Multi-Agent-AI-Systems-Using-MCP-and-A2A](https://github.com/PacktPublishing/Design-Multi-Agent-AI-Systems-Using-MCP-and-A2A) | Design Multi-Agent AI Systems Using MCP and A2A, by Packt Publishing | Python | ⭐ 79 |
+| [Design-Multi-Agent-AI-Systems-Using-MCP-and-A2A](https://github.com/PacktPublishing/Design-Multi-Agent-AI-Systems-Using-MCP-and-A2A) | Design Multi-Agent AI Systems Using MCP and A2A, by Packt Publishing | Python | ⭐ 84 |
 | [Design-Patterns-and-Best-Practices-in-Java](https://github.com/PacktPublishing/Design-Patterns-and-Best-Practices-in-Java) | Design Patterns and Best Practices in Java, published by Packt | C | ⭐ 56 |
-| [Design-Patterns-and-Best-Practices-in-Rust](https://github.com/PacktPublishing/Design-Patterns-and-Best-Practices-in-Rust) | Design Patterns and Best Practices in Rust by Packt Publishing | Rust | ⭐ 42 |
+| [Design-Patterns-and-Best-Practices-in-Rust](https://github.com/PacktPublishing/Design-Patterns-and-Best-Practices-in-Rust) | Design Patterns and Best Practices in Rust by Packt Publishing | Rust | ⭐ 43 |
 | [Design-Patterns-and-SOLID-Principles-with-Java](https://github.com/PacktPublishing/Design-Patterns-and-SOLID-Principles-with-Java) | Design Patterns and SOLID Principles with Java, Published by Packt | Java | ⭐ 38 |
 | [Design-Patterns-in-TypeScript](https://github.com/PacktPublishing/Design-Patterns-in-TypeScript) | Design Patterns in TypeScript [Video], published by Packt |  | ⭐ 9 |
 | [Design-Patterns-using-C-and-.NET-Core](https://github.com/PacktPublishing/Design-Patterns-using-C-and-.NET-Core) | Design Patterns using C# and .NET Core [Video], published by Packt | C# | ⭐ 27 |
@@ -2588,7 +2593,7 @@
 | [Designing-Hexagonal-Architecture-with-Java](https://github.com/PacktPublishing/Designing-Hexagonal-Architecture-with-Java) | Designing Hexagonal Architecture with Java, published by Packt | Java | ⭐ 232 |
 | [Designing-Information-Architecture](https://github.com/PacktPublishing/Designing-Information-Architecture) | Designing Information Architecture, published by Packt |  | ⭐ 7 |
 | [Designing-LLM-Patterns](https://github.com/PacktPublishing/Designing-LLM-Patterns) | Designing LLM Patterns, by Packt Publishing |  | ⭐ 6 |
-| [Designing-Microservices-Platforms-with-NATS](https://github.com/PacktPublishing/Designing-Microservices-Platforms-with-NATS) | Designing Microservices Platforms with NATS, published by Packt | Go | ⭐ 86 |
+| [Designing-Microservices-Platforms-with-NATS](https://github.com/PacktPublishing/Designing-Microservices-Platforms-with-NATS) | Designing Microservices Platforms with NATS, published by Packt | Go | ⭐ 87 |
 | [Designing-Models-for-Responsible-AI](https://github.com/PacktPublishing/Designing-Models-for-Responsible-AI) | Designing Models for Responsible AI | Jupyter Notebook | ⭐ 5 |
 | [Designing-React-Hooks-the-Right-Way](https://github.com/PacktPublishing/Designing-React-Hooks-the-Right-Way) | Designing React Hooks the Right Way, Published by Packt | JavaScript | ⭐ 5 |
 | [Detecting-and-Defending-Against-LLM-Abuse](https://github.com/PacktPublishing/Detecting-and-Defending-Against-LLM-Abuse) | Detecting and Defending Against LLM Abuse, published by Packt |  | ⭐ 1 |
@@ -2603,7 +2608,7 @@
 | [Develop-and-Operate-Microservices-on-Kubernetes](https://github.com/PacktPublishing/Develop-and-Operate-Microservices-on-Kubernetes) | Develop and Operate Microservices on Kubernetes [Video], Published by Packt | Mustache | ⭐ 17 |
 | [Develop-your-Decision-Making-with-Emotional-Intelligence](https://github.com/PacktPublishing/Develop-your-Decision-Making-with-Emotional-Intelligence) | Develop your Decision Making with Emotional Intelligence, Published by Packt Publishing |  |  |
 | [Developing-Advanced-Plots-with-Matplotlib](https://github.com/PacktPublishing/Developing-Advanced-Plots-with-Matplotlib) | Developing Advanced Plots with Matplotlib [Video], Published by Packt |  | ⭐ 1 |
-| [Developing-AI-ML-Solutions-on-AWS](https://github.com/PacktPublishing/Developing-AI-ML-Solutions-on-AWS) | Developing AI/ML Solutions on AWS, published by Packt | Python | ⭐ 1 |
+| [Developing-AI-ML-Solutions-on-AWS](https://github.com/PacktPublishing/Developing-AI-ML-Solutions-on-AWS) | Developing AI/ML Solutions on AWS, published by Packt | Python | ⭐ 2 |
 | [Developing-an-App-from-Scratch-with-ThingWorx](https://github.com/PacktPublishing/Developing-an-App-from-Scratch-with-ThingWorx) | Code repository for Developing an App from Scratch with Thingworx, Published by Packt | C++ | ⭐ 5 |
 | [Developing-Blockchain-Solutions-in-the-Cloud](https://github.com/PacktPublishing/Developing-Blockchain-Solutions-in-the-Cloud) | Developing Blockchain Solutions in the Cloud, published by Packt |  |  |
 | [Developing-Cross-Platform-Apps-with-Avalonia-and-.NET](https://github.com/PacktPublishing/Developing-Cross-Platform-Apps-with-Avalonia-and-.NET) | Developing Cross-Platform Apps with Avalonia and .NET, Published by Packt |  | ⭐ 1 |
@@ -2611,7 +2616,7 @@
 | [Developing-Embedded-Systems-with-RTOS](https://github.com/PacktPublishing/Developing-Embedded-Systems-with-RTOS) | Developing Embedded Systems with RTOS, published by Packt | C | ⭐ 2 |
 | [Developing-Extensions-for-Joomla-5](https://github.com/PacktPublishing/Developing-Extensions-for-Joomla-5) | Developing Extensions for Joomla! 5, published by Packt | PHP | ⭐ 13 |
 | [Developing-iOS-11-Applications-Using-Swift-4](https://github.com/PacktPublishing/Developing-iOS-11-Applications-Using-Swift-4) | Developing iOS 11 Applications Using Swift 4 [video], published by Packt | Swift | ⭐ 4 |
-| [Developing-IoT-Projects-with-ESP32-2nd-edition](https://github.com/PacktPublishing/Developing-IoT-Projects-with-ESP32-2nd-edition) | Developing IoT Projects with ESP32, 2nd edition - Published by Packt | C | ⭐ 171 |
+| [Developing-IoT-Projects-with-ESP32-2nd-edition](https://github.com/PacktPublishing/Developing-IoT-Projects-with-ESP32-2nd-edition) | Developing IoT Projects with ESP32, 2nd edition - Published by Packt | C | ⭐ 173 |
 | [Developing-Java-Applications-with-Spring-and-Spring-Boot](https://github.com/PacktPublishing/Developing-Java-Applications-with-Spring-and-Spring-Boot) | Developing Java Applications with Spring and Spring Boot, published by Packt | Java | ⭐ 20 |
 | [Developing-Joomla-4-Extensions](https://github.com/PacktPublishing/Developing-Joomla-4-Extensions) | Developing Joomla 4 Extensions, published by Packt |  |  |
 | [Developing-Kaggle-Notebooks](https://github.com/PacktPublishing/Developing-Kaggle-Notebooks) |  | Jupyter Notebook | ⭐ 154 |
@@ -2651,7 +2656,7 @@
 | [DevOps-MasterClass-CI-CD-with-Jenkins-Pipelines-Groovy-DSL](https://github.com/PacktPublishing/DevOps-MasterClass-CI-CD-with-Jenkins-Pipelines-Groovy-DSL) | DevOps MasterClass: CI/CD with Jenkins Pipelines Groovy DSL, published by Packt |  | ⭐ 5 |
 | [DevOps-Project---2022-CI-CD-with-Jenkins-Ansible-Kubernetes](https://github.com/PacktPublishing/DevOps-Project---2022-CI-CD-with-Jenkins-Ansible-Kubernetes) |  | Java | ⭐ 1 |
 | [DevOps-Puppet-Docker-and-Kubernetes](https://github.com/PacktPublishing/DevOps-Puppet-Docker-and-Kubernetes) | Code repository for DevOps: Puppet, Docker, and Kubernetes, published by Packt | HTML | ⭐ 15 |
-| [DevOps-to-MLOps-Bootcamp-Build-Deploy-ML-Systems-End-to-End](https://github.com/PacktPublishing/DevOps-to-MLOps-Bootcamp-Build-Deploy-ML-Systems-End-to-End) | DevOps to MLOps Bootcamp: Build & Deploy ML Systems End-to-End, Published by Packt Publ... | Python | ⭐ 23 |
+| [DevOps-to-MLOps-Bootcamp-Build-Deploy-ML-Systems-End-to-End](https://github.com/PacktPublishing/DevOps-to-MLOps-Bootcamp-Build-Deploy-ML-Systems-End-to-End) | DevOps to MLOps Bootcamp: Build & Deploy ML Systems End-to-End, Published by Packt Publ... | Python | ⭐ 24 |
 | [DevOps-Unleashed-with-Git-and-GitHub](https://github.com/PacktPublishing/DevOps-Unleashed-with-Git-and-GitHub) | DevOps Unleashed with Git and GitHub | TypeScript | ⭐ 8 |
 | [DevOps-with-AWS-CodePipeline-Jenkins-and-AWS-CodeDeploy](https://github.com/PacktPublishing/DevOps-with-AWS-CodePipeline-Jenkins-and-AWS-CodeDeploy) | DevOps with AWS CodePipeline, Jenkins and AWS CodeDeploy, published by Packt |  | ⭐ 1 |
 | [DevOps-with-Azure](https://github.com/PacktPublishing/DevOps-with-Azure) | Code repository for DevOps with Azure, Published by Packt |  | ⭐ 6 |
@@ -2686,7 +2691,7 @@
 | [Discover-Algorithms-for-Reward-Based-Learning-in-R-V-](https://github.com/PacktPublishing/Discover-Algorithms-for-Reward-Based-Learning-in-R-V-) | Code repository for Discover Algorithms for Reward-Based Learning in R, published by Packt | R | ⭐ 1 |
 | [Disney-Plus-Clone-in-SwiftUI-with-Remote-Url-Video-Player](https://github.com/PacktPublishing/Disney-Plus-Clone-in-SwiftUI-with-Remote-Url-Video-Player) | Disney Plus Clone in SwiftUI with Remote Url Video Player, published by Packt Publishing |  |  |
 | [Distributed-.NET-with-Microsoft-Orleans](https://github.com/PacktPublishing/Distributed-.NET-with-Microsoft-Orleans) | Distributed .NET with Microsoft Orleans, published by Packt | C# | ⭐ 26 |
-| [Distributed-AI-Systems](https://github.com/PacktPublishing/Distributed-AI-Systems) | Distributed-AI-Systems | Python | ⭐ 9 |
+| [Distributed-AI-Systems](https://github.com/PacktPublishing/Distributed-AI-Systems) | Distributed-AI-Systems | Python | ⭐ 31 |
 | [Distributed-Computing-in-Java-9](https://github.com/PacktPublishing/Distributed-Computing-in-Java-9) | Distributed Computing in Java 9, published by Packt |  | ⭐ 18 |
 | [Distributed-Computing-with-Go](https://github.com/PacktPublishing/Distributed-Computing-with-Go) | Distributed Computing with Go, published by Packt | Go | ⭐ 76 |
 | [Distributed-Data-Systems-with-Azure-Databricks](https://github.com/PacktPublishing/Distributed-Data-Systems-with-Azure-Databricks) | Distributed Data Systems with Azure Databricks, published by Packt | Jupyter Notebook | ⭐ 12 |
@@ -2702,22 +2707,22 @@
 | [Dive-into-Orchestration-with-Docker-Swarm](https://github.com/PacktPublishing/Dive-into-Orchestration-with-Docker-Swarm) |  |  | ⭐ 2 |
 | [Diving-Deeper-with-Swift](https://github.com/PacktPublishing/Diving-Deeper-with-Swift) | Code repository for Diving Deeper with Swift, published by Packt |  | ⭐ 2 |
 | [Diving-into-JSF-API-](https://github.com/PacktPublishing/Diving-into-JSF-API-) | Code Repository for Diving into JSF API, published by Packt | Java | ⭐ 1 |
-| [DIY-Microcontroller-Projects-for-Hobbyists](https://github.com/PacktPublishing/DIY-Microcontroller-Projects-for-Hobbyists) | DIY Microcontroller Projects for Hobbyists, published by Packt | C++ | ⭐ 31 |
+| [DIY-Microcontroller-Projects-for-Hobbyists](https://github.com/PacktPublishing/DIY-Microcontroller-Projects-for-Hobbyists) | DIY Microcontroller Projects for Hobbyists, published by Packt | C++ | ⭐ 32 |
 | [dj-events-frontend](https://github.com/PacktPublishing/dj-events-frontend) | Next.js website to list DJ and other musical events |  | ⭐ 1 |
-| [Django-2-by-Example](https://github.com/PacktPublishing/Django-2-by-Example) | Django 2 by Example (2nd Edition) published by Packt | Python | ⭐ 556 |
+| [Django-2-by-Example](https://github.com/PacktPublishing/Django-2-by-Example) | Django 2 by Example (2nd Edition) published by Packt | Python | ⭐ 555 |
 | [Django-2-Web-Development-Cookbook-Third-Edition](https://github.com/PacktPublishing/Django-2-Web-Development-Cookbook-Third-Edition) | Django 2 Web Development Cookbook - Third Edition, by Packt | Python | ⭐ 65 |
 | [Django-2.2-and-Python---The-Ultimate-Web-Development-Bootcamp](https://github.com/PacktPublishing/Django-2.2-and-Python---The-Ultimate-Web-Development-Bootcamp) | Code Repository for Django 2.2 and Python - The Ultimate Web Development Bootcamp, publ... |  | ⭐ 4 |
 | [Django-3---Full-Stack-Websites-with-Python-Web-Development](https://github.com/PacktPublishing/Django-3---Full-Stack-Websites-with-Python-Web-Development) |  | Python | ⭐ 1 |
-| [Django-3-by-Example](https://github.com/PacktPublishing/Django-3-by-Example) | Django 3 by Example (3rd Edition) published by Packt | Python | ⭐ 701 |
+| [Django-3-by-Example](https://github.com/PacktPublishing/Django-3-by-Example) | Django 3 by Example (3rd Edition) published by Packt | Python | ⭐ 700 |
 | [Django-3-Full-Stack-Websites-with-Python-Web-Development](https://github.com/PacktPublishing/Django-3-Full-Stack-Websites-with-Python-Web-Development) |  | Python | ⭐ 26 |
 | [Django-3-Web-Development-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Django-3-Web-Development-Cookbook-Fourth-Edition) | Django 3 Web Development Cookbook Published by Packt | Python | ⭐ 179 |
-| [Django-4-by-example](https://github.com/PacktPublishing/Django-4-by-example) | Django 4 by example (4th Edition) published by Packt | Python | ⭐ 851 |
+| [Django-4-by-example](https://github.com/PacktPublishing/Django-4-by-example) | Django 4 by example (4th Edition) published by Packt | Python | ⭐ 852 |
 | [Django-4-for-the-Impatient](https://github.com/PacktPublishing/Django-4-for-the-Impatient) | Django 4 for the Impatient, published by Packt | Python | ⭐ 67 |
 | [Django-4-Web-Development-Cookbook-Fifth-Edition](https://github.com/PacktPublishing/Django-4-Web-Development-Cookbook-Fifth-Edition) | Django 4 Web Development Cookbook, published by Packt |  | ⭐ 4 |
-| [Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) | Django 5 By Example (5th Edition) published by Packt | CSS | ⭐ 535 |
+| [Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) | Django 5 By Example (5th Edition) published by Packt | CSS | ⭐ 538 |
 | [Django-5-for-the-Impatient-Second-Edition](https://github.com/PacktPublishing/Django-5-for-the-Impatient-Second-Edition) | Django 5 for the Impatient - Second Edition, published by Packt | Python | ⭐ 32 |
 | [Django-5-Web-Development-Cookbook-](https://github.com/PacktPublishing/Django-5-Web-Development-Cookbook-) |  | JavaScript | ⭐ 8 |
-| [Django-6-By-Example](https://github.com/PacktPublishing/Django-6-By-Example) | Django 6 By Example, Published by Packt | Python | ⭐ 2 |
+| [Django-6-By-Example](https://github.com/PacktPublishing/Django-6-By-Example) | Django 6 By Example, Published by Packt | Python | ⭐ 3 |
 | [Django-A-Z-Build-and-Deploy-Web-Application-with-Python-and-Django](https://github.com/PacktPublishing/Django-A-Z-Build-and-Deploy-Web-Application-with-Python-and-Django) | Django A-Z: Build and Deploy Web Application with Python and Django, published by Packt |  | ⭐ 7 |
 | [Django-A-Z-Learn-Django-2-by-building-and-deploying-project](https://github.com/PacktPublishing/Django-A-Z-Learn-Django-2-by-building-and-deploying-project) | Code Repository for Django A-Z Learn Django 2 by building and deploying project, publis... |  | ⭐ 1 |
 | [Django-Anti-patterns](https://github.com/PacktPublishing/Django-Anti-patterns) |  | Python | ⭐ 1 |
@@ -2725,7 +2730,7 @@
 | [Django-Crash-Course-with-Examples](https://github.com/PacktPublishing/Django-Crash-Course-with-Examples) | Django Crash Course with Examples, by Packt Publishing | Python | ⭐ 3 |
 | [Django-Design-Patterns-and-Best-Practices-Second-Edition](https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition) | Django Design Patterns and Best Practices Second Edition, published by Packt | Python | ⭐ 63 |
 | [Django-for-Python-Developers](https://github.com/PacktPublishing/Django-for-Python-Developers) | Code Repository for Django for Python Developers, Published by Packt | Python | ⭐ 4 |
-| [Django-in-Production](https://github.com/PacktPublishing/Django-in-Production) | Django in Production, published by Packt | Python | ⭐ 52 |
+| [Django-in-Production](https://github.com/PacktPublishing/Django-in-Production) | Django in Production, published by Packt | Python | ⭐ 54 |
 | [Django-Projects-Blueprints](https://github.com/PacktPublishing/Django-Projects-Blueprints) | Code Bundle for Django-Project-Blueprints, published by Packt Publishing | Python | ⭐ 27 |
 | [Django-Projects-E-Learning-Portal](https://github.com/PacktPublishing/Django-Projects-E-Learning-Portal) | Code Repository for Django Projects: E-Learning Portal, Published by Packt |  | ⭐ 5 |
 | [Django-Python-Web-Framework---The-Comprehensive-Guide](https://github.com/PacktPublishing/Django-Python-Web-Framework---The-Comprehensive-Guide) |  | JavaScript | ⭐ 6 |
@@ -2741,7 +2746,7 @@
 | [Docker---Swarm-Services-and-Stack---Hands-On_](https://github.com/PacktPublishing/Docker---Swarm-Services-and-Stack---Hands-On_) | Docker - Swarm, Services and Stack - Hands On, published by Packt |  | ⭐ 2 |
 | [Docker-and-Kubernetes-for-ASP.NET-Development](https://github.com/PacktPublishing/Docker-and-Kubernetes-for-ASP.NET-Development) |  |  | ⭐ 1 |
 | [Docker-and-Kubernetes-for-Java-Developers](https://github.com/PacktPublishing/Docker-and-Kubernetes-for-Java-Developers) | Docker and Kubernetes for Java Developers, published by Packt | Java | ⭐ 57 |
-| [Docker-and-Kubernetes-Masterclass-From-Beginner-to-Advanced](https://github.com/PacktPublishing/Docker-and-Kubernetes-Masterclass-From-Beginner-to-Advanced) |  | JavaScript | ⭐ 133 |
+| [Docker-and-Kubernetes-Masterclass-From-Beginner-to-Advanced](https://github.com/PacktPublishing/Docker-and-Kubernetes-Masterclass-From-Beginner-to-Advanced) |  | JavaScript | ⭐ 134 |
 | [Docker-and-Kubernetes-Security](https://github.com/PacktPublishing/Docker-and-Kubernetes-Security) | Docker and Kubernetes Security |  |  |
 | [Docker-Apache-Mesos-DCOS-Run-and-manage-cloud-datacenter](https://github.com/PacktPublishing/Docker-Apache-Mesos-DCOS-Run-and-manage-cloud-datacenter) | Code Repository for Docker, Apache Mesos & DCOS: Run and manage cloud datacenter, publi... |  | ⭐ 1 |
 | [Docker-Bootcamp](https://github.com/PacktPublishing/Docker-Bootcamp) | Code repository for Docker Bootcamp, published By Packt | Dockerfile | ⭐ 12 |
@@ -2776,10 +2781,10 @@
 | [DOM-Commander---A-JavaScript-Project-Course](https://github.com/PacktPublishing/DOM-Commander---A-JavaScript-Project-Course) | code repository for DOM Commander - A JavaScript Project Course, Published by Packt | HTML | ⭐ 2 |
 | [Domain-Driven-Design-in-Django](https://github.com/PacktPublishing/Domain-Driven-Design-in-Django) | Domain Driven Design in Django, published by Packt |  | ⭐ 1 |
 | [Domain-Driven-Design-with-Go](https://github.com/PacktPublishing/Domain-Driven-Design-with-Go) | Domain-Driven Design with Go, published by Packt | Go | ⭐ 6 |
-| [Domain-Driven-Design-with-GoLang](https://github.com/PacktPublishing/Domain-Driven-Design-with-GoLang) | Domain-Driven Design With Golang, published by Packt | Go | ⭐ 318 |
+| [Domain-Driven-Design-with-GoLang](https://github.com/PacktPublishing/Domain-Driven-Design-with-GoLang) | Domain-Driven Design With Golang, published by Packt | Go | ⭐ 319 |
 | [Domain-Driven-Design-with-Java-A-Practitioner-s-Guide](https://github.com/PacktPublishing/Domain-Driven-Design-with-Java-A-Practitioner-s-Guide) | Domain-Driven Design with Java - A Practitioner’s Guide, published by Packt | Java | ⭐ 92 |
 | [Domain-Driven-Design-with-Python](https://github.com/PacktPublishing/Domain-Driven-Design-with-Python) | , published by Packt |  |  |
-| [Domain-driven-Refactoring](https://github.com/PacktPublishing/Domain-driven-Refactoring) | Domain-driven Refactoring, published by Packt |  | ⭐ 27 |
+| [Domain-driven-Refactoring](https://github.com/PacktPublishing/Domain-driven-Refactoring) | Domain-driven Refactoring, published by Packt |  | ⭐ 28 |
 | [DotNET-Standard-2-Cookbook](https://github.com/PacktPublishing/DotNET-Standard-2-Cookbook) | .NET Standard 2.0 Cookbook, published by Packt | Java | ⭐ 3 |
 | [DOUBLE-Your-Web-Hacking-Rewards-with-Fuzzing](https://github.com/PacktPublishing/DOUBLE-Your-Web-Hacking-Rewards-with-Fuzzing) | DOUBLE Your Web Hacking Rewards with Fuzzing, published by Packt |  | ⭐ 1 |
 | [DP-100-Azure-Data-Scientist-Associate-Certification-Guide-Second-Edition](https://github.com/PacktPublishing/DP-100-Azure-Data-Scientist-Associate-Certification-Guide-Second-Edition) |  |  |  |
@@ -2809,7 +2814,7 @@
 | [Drupal-8-Module-Development-Second-Edition](https://github.com/PacktPublishing/Drupal-8-Module-Development-Second-Edition) | Drupal 8 Module Development - Second Edition, published by Packt | PHP | ⭐ 16 |
 | [Drupal-8-Theming-with-Twig](https://github.com/PacktPublishing/Drupal-8-Theming-with-Twig) | Drupal 8 Theming with Twig, published by Packt | PHP | ⭐ 4 |
 | [Drupal-9-Module-Development-Third-Edition](https://github.com/PacktPublishing/Drupal-9-Module-Development-Third-Edition) | Drupal 9 Module Development, published by Packt | PHP | ⭐ 72 |
-| [DSA-In-Python-Top-130-Leetcode-Problems-for-MAANG](https://github.com/PacktPublishing/DSA-In-Python-Top-130-Leetcode-Problems-for-MAANG) | This is the code repository for DSA In Python + Top 130 Leetcode Problems for MAANG , p... | Python | ⭐ 43 |
+| [DSA-In-Python-Top-130-Leetcode-Problems-for-MAANG](https://github.com/PacktPublishing/DSA-In-Python-Top-130-Leetcode-Problems-for-MAANG) | This is the code repository for DSA In Python + Top 130 Leetcode Problems for MAANG , p... | Python | ⭐ 44 |
 | [Dummies-Guide-to-Practical-Quantum-Computing-with-IBM-Qiskit](https://github.com/PacktPublishing/Dummies-Guide-to-Practical-Quantum-Computing-with-IBM-Qiskit) | Dummies Guide to Practical Quantum Computing with IBM Qiskit, published by Packt | Jupyter Notebook | ⭐ 25 |
 | [dummy](https://github.com/PacktPublishing/dummy) |  |  | ⭐ 1 |
 | [dummy2](https://github.com/PacktPublishing/dummy2) |  |  | ⭐ 1 |
@@ -2820,7 +2825,7 @@
 | [Dynamics-365-Business-Central-Development-Quick-Start-Guide](https://github.com/PacktPublishing/Dynamics-365-Business-Central-Development-Quick-Start-Guide) | Dynamics 365 Business Central Development Quick Start Guide, published by Packt | C# | ⭐ 23 |
 | [Dynamics-365-for-Finance-and-Operations-Development-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Dynamics-365-for-Finance-and-Operations-Development-Cookbook-Fourth-Edition) | Dynamics 365 for Finance and Operations Development Cookbook, Fourth Edition, published... | C# | ⭐ 42 |
 
-## E (259 repos)
+## E (260 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -2895,7 +2900,7 @@
 | [Elevate-SwiftUI-Skills-by-Building-Projects](https://github.com/PacktPublishing/Elevate-SwiftUI-Skills-by-Building-Projects) |  | Swift | ⭐ 14 |
 | [Elevate-your-audio-production-with-Reaper](https://github.com/PacktPublishing/Elevate-your-audio-production-with-Reaper) | Elevate Your Audio Production with REAPER, published by Packt |  | ⭐ 10 |
 | [Elevating-Game-Experiences-with-Unreal-Engine-5](https://github.com/PacktPublishing/Elevating-Game-Experiences-with-Unreal-Engine-5) |  | C++ | ⭐ 7 |
-| [Elevating-Game-Experiences-with-Unreal-Engine-5-Second-Edition](https://github.com/PacktPublishing/Elevating-Game-Experiences-with-Unreal-Engine-5-Second-Edition) | Elevating Game Experiences with Unreal Engine 5 - Second Edition, published by Packt | C++ | ⭐ 148 |
+| [Elevating-Game-Experiences-with-Unreal-Engine-5-Second-Edition](https://github.com/PacktPublishing/Elevating-Game-Experiences-with-Unreal-Engine-5-Second-Edition) | Elevating Game Experiences with Unreal Engine 5 - Second Edition, published by Packt | C++ | ⭐ 147 |
 | [Elevating-React-Web-Development-with-Gatsby-4](https://github.com/PacktPublishing/Elevating-React-Web-Development-with-Gatsby-4) | Elevating React Web Development with Gatsby, published by Packt | JavaScript | ⭐ 23 |
 | [Eleventy-by-Example](https://github.com/PacktPublishing/Eleventy-by-Example) | Eleventy by Example, published by Packt | HTML | ⭐ 29 |
 | [Elixir-and-Phoenix-Real-World-Functional-Programming](https://github.com/PacktPublishing/Elixir-and-Phoenix-Real-World-Functional-Programming) | Elixir and Phoenix: Real World Functional Programming, published by Packt |  | ⭐ 12 |
@@ -2909,7 +2914,7 @@
 | [Embedded-Programming-with-Modern-CPP-Cookbook](https://github.com/PacktPublishing/Embedded-Programming-with-Modern-CPP-Cookbook) | Embedded Programming with Modern C++ Cookbook, published by Packt | C++ | ⭐ 80 |
 | [Embedded-Systems-Architecture](https://github.com/PacktPublishing/Embedded-Systems-Architecture) | Embedded Systems Architecture, published by Packt | C | ⭐ 62 |
 | [Embedded-Systems-Architecture-Second-Edition](https://github.com/PacktPublishing/Embedded-Systems-Architecture-Second-Edition) | Embedded Systems Architecture - Second Edition, published by Packt | C | ⭐ 79 |
-| [Embedded-Systems-Object-Oriented-Programming-in-C-and-C--](https://github.com/PacktPublishing/Embedded-Systems-Object-Oriented-Programming-in-C-and-C--) | A licensed video course that shows how to develop embedded systems using C and C++ |  | ⭐ 46 |
+| [Embedded-Systems-Object-Oriented-Programming-in-C-and-C--](https://github.com/PacktPublishing/Embedded-Systems-Object-Oriented-Programming-in-C-and-C--) | A licensed video course that shows how to develop embedded systems using C and C++ |  | ⭐ 47 |
 | [Embedded-Systems-Programming-with-Cxx](https://github.com/PacktPublishing/Embedded-Systems-Programming-with-Cxx) |  | C++ | ⭐ 1 |
 | [Ember.js-3.x-Web-Development-Recipes](https://github.com/PacktPublishing/Ember.js-3.x-Web-Development-Recipes) | Ember.js 3.x Web Development Recipes, published by Packt | JavaScript | ⭐ 1 |
 | [Ember.js-Solutions-v-](https://github.com/PacktPublishing/Ember.js-Solutions-v-) | Ember.js Solutions by Packt Publishing | JavaScript | ⭐ 1 |
@@ -2976,7 +2981,7 @@
 | [Essential-Angular](https://github.com/PacktPublishing/Essential-Angular) | Essential Angular, published by Packt | TypeScript | ⭐ 12 |
 | [Essential-Concepts-of-Vector-Databases](https://github.com/PacktPublishing/Essential-Concepts-of-Vector-Databases) |  | Python | ⭐ 8 |
 | [Essential-Cryptography-for-JavaScript-Developers](https://github.com/PacktPublishing/Essential-Cryptography-for-JavaScript-Developers) | Essential Cryptography for JavaScript Developers, published by Packt | JavaScript | ⭐ 36 |
-| [Essential-Data-Structures-and-Algorithms-in-Java](https://github.com/PacktPublishing/Essential-Data-Structures-and-Algorithms-in-Java) | Data Structures and Algorithms in Java, Published by Packt | Java |  |
+| [Essential-Data-Structures-and-Algorithms-in-Java](https://github.com/PacktPublishing/Essential-Data-Structures-and-Algorithms-in-Java) | Data Structures and Algorithms in Java, Published by Packt | Java | ⭐ 1 |
 | [Essential-Guide-to-LLM-Fine-Tuning](https://github.com/PacktPublishing/Essential-Guide-to-LLM-Fine-Tuning) |  | Jupyter Notebook | ⭐ 3 |
 | [Essential-Guide-to-LLMOps](https://github.com/PacktPublishing/Essential-Guide-to-LLMOps) | published by Packt |  | ⭐ 2 |
 | [Essential-Leadership-Management-Training-for-New-Tech-Managers](https://github.com/PacktPublishing/Essential-Leadership-Management-Training-for-New-Tech-Managers) |  |  | ⭐ 8 |
@@ -3007,6 +3012,7 @@
 | [Event-Driven-Architecture-in-Python](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Python) | Event-Driven Architecture in Python, published by Packt |  |  |
 | [Event-Driven-Architecture-with-Golang-2E](https://github.com/PacktPublishing/Event-Driven-Architecture-with-Golang-2E) |  |  |  |
 | [Event-Driven-Microservice-Architectures-with-Java](https://github.com/PacktPublishing/Event-Driven-Microservice-Architectures-with-Java) | Event Driven Microservice Architectures with Java, Published by Packt |  |  |
+| [Event-Driven_Architecture_in_Python](https://github.com/PacktPublishing/Event-Driven_Architecture_in_Python) | Event-Driven_Architecture_in_Python, published by Packt |  |  |
 | [Everyday-Data-Structures](https://github.com/PacktPublishing/Everyday-Data-Structures) | Everyday Data Structures, published by Packt | Objective-C | ⭐ 29 |
 | [Everyone-is-a-Programmer](https://github.com/PacktPublishing/Everyone-is-a-Programmer) | Everyone is a Programmer, published by Packt | TypeScript | ⭐ 9 |
 | [Exam-70-535-Architecting-Microsoft-Azure-Solutions](https://github.com/PacktPublishing/Exam-70-535-Architecting-Microsoft-Azure-Solutions) | Code repository for Exam 70-535: Architecting Microsoft Azure Solutions, Published by P... |  | ⭐ 3 |
@@ -3034,7 +3040,7 @@
 | [Expert-Data-Visualization](https://github.com/PacktPublishing/Expert-Data-Visualization) | Code Repository for Expert Data Visualization by Packt | JavaScript | ⭐ 7 |
 | [Expert-Delphi](https://github.com/PacktPublishing/Expert-Delphi) | Expert Delphi, published by Packt | Pascal | ⭐ 34 |
 | [Expert-Delphi_Second-edition](https://github.com/PacktPublishing/Expert-Delphi_Second-edition) | , published by Packt | Pascal | ⭐ 20 |
-| [Expert-GeoServer](https://github.com/PacktPublishing/Expert-GeoServer) | Expert GeoServer, published by Packt | JavaScript | ⭐ 9 |
+| [Expert-GeoServer](https://github.com/PacktPublishing/Expert-GeoServer) | Expert GeoServer, published by Packt | JavaScript | ⭐ 8 |
 | [expert-insight](https://github.com/PacktPublishing/expert-insight) |  | HTML | ⭐ 1 |
 | [Expert-Leadership-and-Management-in-Agile-Project-Management](https://github.com/PacktPublishing/Expert-Leadership-and-Management-in-Agile-Project-Management) |  |  | ⭐ 3 |
 | [Expert-Microsoft-Teams-Solutions](https://github.com/PacktPublishing/Expert-Microsoft-Teams-Solutions) | Expert Microsoft Teams Solutions, published by Packt. |  | ⭐ 2 |
@@ -3078,8 +3084,8 @@
 | [Extending-OpenStack](https://github.com/PacktPublishing/Extending-OpenStack) | Extending OpenStack, published by Packt | Python | ⭐ 1 |
 | [Extending-Power-BI-with-Python-and-R](https://github.com/PacktPublishing/Extending-Power-BI-with-Python-and-R) | Extending Power BI with Python and R | HTML | ⭐ 71 |
 | [Extending-Power-BI-with-Python-and-R-2nd-edition](https://github.com/PacktPublishing/Extending-Power-BI-with-Python-and-R-2nd-edition) | Extending Power BI with Python and R, 2nd edition, published by Packt | HTML | ⭐ 23 |
-| [ExtendingDocker](https://github.com/PacktPublishing/ExtendingDocker) | Extending Docker by PacktPublishing | JavaScript | ⭐ 44 |
-| [Extreme-C](https://github.com/PacktPublishing/Extreme-C) | Extreme C, published by Packt | C++ | ⭐ 408 |
+| [ExtendingDocker](https://github.com/PacktPublishing/ExtendingDocker) | Extending Docker by PacktPublishing | JavaScript | ⭐ 46 |
+| [Extreme-C](https://github.com/PacktPublishing/Extreme-C) | Extreme C, published by Packt | C++ | ⭐ 409 |
 | [Extreme-C-Second-Edition](https://github.com/PacktPublishing/Extreme-C-Second-Edition) | Code Repository for Extreme C Second Edition, Published by Packt | C |  |
 | [Extreme-Dax](https://github.com/PacktPublishing/Extreme-Dax) | Extreme Dax-Published by Packt |  | ⭐ 50 |
 | [Extreme-DAX-Second-Edition](https://github.com/PacktPublishing/Extreme-DAX-Second-Edition) | Extreme DAX, Second Edition, Published by Packt |  | ⭐ 4 |
@@ -3149,7 +3155,7 @@
 | [Flutter-Cookbook-Second-Edition](https://github.com/PacktPublishing/Flutter-Cookbook-Second-Edition) | Flutter Cookbook, Second Edition | C++ | ⭐ 64 |
 | [Flutter-Cookbook-Third-Edition](https://github.com/PacktPublishing/Flutter-Cookbook-Third-Edition) | Flutter Cookbook, Third Edition, published by Packt | Dart | ⭐ 2 |
 | [Flutter-Dart-Complete-App-Development-Course](https://github.com/PacktPublishing/Flutter-Dart-Complete-App-Development-Course) |  | C++ | ⭐ 41 |
-| [Flutter-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/Flutter-Design-Patterns-and-Best-Practices) | Flutter Design Patterns and Best Practices, published by Packt | Dart | ⭐ 231 |
+| [Flutter-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/Flutter-Design-Patterns-and-Best-Practices) | Flutter Design Patterns and Best Practices, published by Packt | Dart | ⭐ 232 |
 | [Flutter-for-Beginners](https://github.com/PacktPublishing/Flutter-for-Beginners) | Flutter for Beginners, published by Packt | Dart | ⭐ 109 |
 | [Flutter-for-Beginners-Fourth-edition](https://github.com/PacktPublishing/Flutter-for-Beginners-Fourth-edition) | Flutter for Beginners, Fourth edition, published by Packt | Dart | ⭐ 8 |
 | [Flutter-for-Beginners-Second-Edition](https://github.com/PacktPublishing/Flutter-for-Beginners-Second-Edition) | Flutter for Beginners - Second Edition, published by Packt | Dart | ⭐ 48 |
@@ -3198,7 +3204,7 @@
 | [Full-Stack-Development-with-React-and-ASP.NET-Core-2](https://github.com/PacktPublishing/Full-Stack-Development-with-React-and-ASP.NET-Core-2) |  | JavaScript | ⭐ 13 |
 | [Full-Stack-Development-with-Spring-Boot-3-and-React-Fourth-Edition](https://github.com/PacktPublishing/Full-Stack-Development-with-Spring-Boot-3-and-React-Fourth-Edition) |  | TypeScript | ⭐ 169 |
 | [Full-Stack-Development-with-Spring-Boot-and-React](https://github.com/PacktPublishing/Full-Stack-Development-with-Spring-Boot-and-React) | Full Stack Development with Spring Boot and React, published by Packt | JavaScript | ⭐ 94 |
-| [Full-stack-Django-and-React](https://github.com/PacktPublishing/Full-stack-Django-and-React) | Full-stack Django and React, published by Packt | JavaScript | ⭐ 175 |
+| [Full-stack-Django-and-React](https://github.com/PacktPublishing/Full-stack-Django-and-React) | Full-stack Django and React, published by Packt | JavaScript | ⭐ 176 |
 | [Full-Stack-FastAPI-React-and-MongoDB](https://github.com/PacktPublishing/Full-Stack-FastAPI-React-and-MongoDB) | Full Stack FastAPI, React, and MongoDB, published by Packt | JavaScript | ⭐ 138 |
 | [Full-Stack-FastAPI-React-and-MongoDB-2nd-Edition](https://github.com/PacktPublishing/Full-Stack-FastAPI-React-and-MongoDB-2nd-Edition) | Full Stack FastAPI, React, and MongoDB 2nd Edition published by Packt | JavaScript | ⭐ 38 |
 | [Full-Stack-Flask-and-React](https://github.com/PacktPublishing/Full-Stack-Flask-and-React) | Full-Stack Flask and React, published by Packt | Python | ⭐ 57 |
@@ -3236,7 +3242,7 @@
 | [Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition](https://github.com/PacktPublishing/Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition) | Full-Stack Web Development with GraphQL and React - Second Edition, Published by Packt.  | JavaScript | ⭐ 61 |
 | [Full-Stack-Web-Development-with-Raspberry-Pi-3](https://github.com/PacktPublishing/Full-Stack-Web-Development-with-Raspberry-Pi-3) | Full Stack Web Development with Raspberry Pi 3, published by Packt | JavaScript | ⭐ 12 |
 | [Full-Stack-Web-Development-with-Remix](https://github.com/PacktPublishing/Full-Stack-Web-Development-with-Remix) | Full Stack Web Development with Remix, published by Packt | TypeScript | ⭐ 145 |
-| [Full-Stack-Web-Development-with-TypeScript-5](https://github.com/PacktPublishing/Full-Stack-Web-Development-with-TypeScript-5) | Full-Stack Web Development with TypeScript 5, published by Packt | TypeScript | ⭐ 38 |
+| [Full-Stack-Web-Development-with-TypeScript-5](https://github.com/PacktPublishing/Full-Stack-Web-Development-with-TypeScript-5) | Full-Stack Web Development with TypeScript 5, published by Packt | TypeScript | ⭐ 39 |
 | [Full-Stack-Web-Development-with-Vue.js-and-Node](https://github.com/PacktPublishing/Full-Stack-Web-Development-with-Vue.js-and-Node) | Full-Stack Web Development with Vue.js and Node, by Pack |  | ⭐ 56 |
 | [Full-Stack-Web-Development-With-Vue.js-and-Node.js](https://github.com/PacktPublishing/Full-Stack-Web-Development-With-Vue.js-and-Node.js) | Full-Stack-Web-Development-With-Vue.js-and-Node.js [video], published by Packt | Vue | ⭐ 16 |
 | [Full-Stack-with-Vue.js-and-Node](https://github.com/PacktPublishing/Full-Stack-with-Vue.js-and-Node) | Full-Stack with Vue.js and Node, by Packt publishing |  | ⭐ 1 |
@@ -3263,13 +3269,13 @@
 | [Functional-Python-Programming-Second-Edition](https://github.com/PacktPublishing/Functional-Python-Programming-Second-Edition) | Functional Python Programming Second Edition, published by Packt | Python | ⭐ 87 |
 | [Fundamentals-for-Self-Taught-Programmers](https://github.com/PacktPublishing/Fundamentals-for-Self-Taught-Programmers) | Computer Science for Self-Taught Developers, published by Packt | C# | ⭐ 21 |
 | [Fundamentals-in-Neural-Networks](https://github.com/PacktPublishing/Fundamentals-in-Neural-Networks) | Fundamentals in Neural Networks, by Packt Publishing | Jupyter Notebook | ⭐ 5 |
-| [Fundamentals-of-Analytics-Engineering](https://github.com/PacktPublishing/Fundamentals-of-Analytics-Engineering) | "Fundamentals of Analytics Engineering, published by Packt" |  | ⭐ 30 |
+| [Fundamentals-of-Analytics-Engineering](https://github.com/PacktPublishing/Fundamentals-of-Analytics-Engineering) | "Fundamentals of Analytics Engineering, published by Packt" |  | ⭐ 31 |
 | [Fundamentals-of-Apache-Flink](https://github.com/PacktPublishing/Fundamentals-of-Apache-Flink) | Fundamentals of Apache Flink [video], published by Packt |  | ⭐ 12 |
 | [Fundamentals-of-Data-Science-and-Machine-Learning-with-Python](https://github.com/PacktPublishing/Fundamentals-of-Data-Science-and-Machine-Learning-with-Python) | Fundamentals of Data Science and Machine Learning with Python, published by Packt |  | ⭐ 1 |
 | [Fundamentals-of-Data-Science-with-Python-](https://github.com/PacktPublishing/Fundamentals-of-Data-Science-with-Python-) | Fundamentals of Data Science with Python [video], published by Packt | Python | ⭐ 1 |
 | [Fundamentals-of-Geoserver](https://github.com/PacktPublishing/Fundamentals-of-Geoserver) | Code Repository for Fundamentals of Geoserver, Published by Packt |  | ⭐ 1 |
 | [Fundamentals-of-Java-with-NetBeans](https://github.com/PacktPublishing/Fundamentals-of-Java-with-NetBeans) | Code Repository for Fundamentals of Java with NetBeans, published by Packt |  | ⭐ 1 |
-| [Fundamentals-of-Machine-Learning](https://github.com/PacktPublishing/Fundamentals-of-Machine-Learning) | Fundamentals of Machine Learning, by Packt Publishing | Jupyter Notebook | ⭐ 24 |
+| [Fundamentals-of-Machine-Learning](https://github.com/PacktPublishing/Fundamentals-of-Machine-Learning) | Fundamentals of Machine Learning, by Packt Publishing | Jupyter Notebook | ⭐ 25 |
 | [Fundamentals-of-Machine-Learning-with-scikit-learn](https://github.com/PacktPublishing/Fundamentals-of-Machine-Learning-with-scikit-learn) | Fundamentals of Machine Learning with Scikit-Learn | Python | ⭐ 16 |
 | [Fundamentals-of-Malware-Analysis](https://github.com/PacktPublishing/Fundamentals-of-Malware-Analysis) | Fundamentals of Malware Analysis [video], published by Packt | Assembly | ⭐ 15 |
 | [Fundamentals-of-Object-Oriented-Programing---C-Plus-Plus](https://github.com/PacktPublishing/Fundamentals-of-Object-Oriented-Programing---C-Plus-Plus) |  |  | ⭐ 15 |
@@ -3283,7 +3289,7 @@
 | [Fundamentals-of-Unix-and-Linux-System_Administration](https://github.com/PacktPublishing/Fundamentals-of-Unix-and-Linux-System_Administration) | Code Repository for Fundamentals of Unix and Linux System Administration, published by ... |  | ⭐ 12 |
 | [Funtional-Programming-in-Python](https://github.com/PacktPublishing/Funtional-Programming-in-Python) | Funtional Programming in Python | Jupyter Notebook | ⭐ 3 |
 | [Future-Ready-Data-Foundation-with-MongoDB](https://github.com/PacktPublishing/Future-Ready-Data-Foundation-with-MongoDB) | Future-Ready Data Foundation with MongoDB, published by Packt |  |  |
-| [Fuzzing-Against-the-Machine](https://github.com/PacktPublishing/Fuzzing-Against-the-Machine) |  | C | ⭐ 128 |
+| [Fuzzing-Against-the-Machine](https://github.com/PacktPublishing/Fuzzing-Against-the-Machine) |  | C | ⭐ 127 |
 
 ## G (344 repos)
 
@@ -3293,24 +3299,24 @@
 | [-Getting-Started-with-Ansible-2-Security-Automation](https://github.com/PacktPublishing/-Getting-Started-with-Ansible-2-Security-Automation) |  Getting Started with Ansible 2 Security Automation, Published by Packt |  | ⭐ 2 |
 | [-Getting-Started-with-Object-Oriented-Programming-in-Python-3](https://github.com/PacktPublishing/-Getting-Started-with-Object-Oriented-Programming-in-Python-3) |  Getting Started with Object-Oriented Programming in Python 3 [video], published by Packt | Python | ⭐ 9 |
 | [-Go-Projects](https://github.com/PacktPublishing/-Go-Projects) |  Go Projects {Video] by Packt Publishing |  | ⭐ 1 |
-| [-Go-Standard-Library-Solutions](https://github.com/PacktPublishing/-Go-Standard-Library-Solutions) |  | Go | ⭐ 6 |
+| [-Go-Standard-Library-Solutions](https://github.com/PacktPublishing/-Go-Standard-Library-Solutions) |  | Go | ⭐ 7 |
 | [-Google-Cloud-Spanner-Essentials](https://github.com/PacktPublishing/-Google-Cloud-Spanner-Essentials) |  Google Cloud Spanner Essentials [ Video], published by Packt |  | ⭐ 1 |
 | [-gRPC-Golang-Master-Class-Build-Modern-API-and-Microservices](https://github.com/PacktPublishing/-gRPC-Golang-Master-Class-Build-Modern-API-and-Microservices) |  gRPC [Golang] Master Class: Build Modern API and Microservices, published by Packt |  | ⭐ 32 |
 | [Game-Asset-Creation-with-Blender-and-Substance-Painter](https://github.com/PacktPublishing/Game-Asset-Creation-with-Blender-and-Substance-Painter) |  | Python |  |
 | [Game-Audio-Development-with-Unity-5X](https://github.com/PacktPublishing/Game-Audio-Development-with-Unity-5X) | Game Audio Development with Unity 5.X, published by Packt | C# | ⭐ 20 |
 | [Game-Design-with-Unity-2019](https://github.com/PacktPublishing/Game-Design-with-Unity-2019) |  |  | ⭐ 1 |
 | [Game-Development-Patterns-and-Best-Practices](https://github.com/PacktPublishing/Game-Development-Patterns-and-Best-Practices) | Code files for Game Development Patterns and Best Practices, by Packt | C | ⭐ 26 |
-| [Game-Development-Patterns-with-Godot-4](https://github.com/PacktPublishing/Game-Development-Patterns-with-Godot-4) |  | GDScript | ⭐ 219 |
+| [Game-Development-Patterns-with-Godot-4](https://github.com/PacktPublishing/Game-Development-Patterns-with-Godot-4) |  | GDScript | ⭐ 221 |
 | [Game-Development-Patterns-with-Unity-2019-Video](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unity-2019-Video) |  |  | ⭐ 14 |
 | [Game-Development-Patterns-with-Unity-2021-Second-Edition](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unity-2021-Second-Edition) | Game Development Patterns with Unity 2021 - Second Edition, published by Packt | C# | ⭐ 198 |
 | [Game-Development-Patterns-with-Unity-Third-Edition](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unity-Third-Edition) |  | C# | ⭐ 4 |
-| [Game-Development-Patterns-with-Unreal-Engine-5](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unreal-Engine-5) | Game Development Patterns with Unreal Engine 5, published by Packt | C++ | ⭐ 91 |
+| [Game-Development-Patterns-with-Unreal-Engine-5](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unreal-Engine-5) | Game Development Patterns with Unreal Engine 5, published by Packt | C++ | ⭐ 92 |
 | [Game-Development-Projects-with-Godot-3](https://github.com/PacktPublishing/Game-Development-Projects-with-Godot-3) | Game Development Projects with Godot 3 [Video], by Packt Publishing | GDScript | ⭐ 8 |
 | [Game-Development-Projects-with-Unreal-Engine](https://github.com/PacktPublishing/Game-Development-Projects-with-Unreal-Engine) | Learn to build your first games and bring your ideas to life using UE4 and C++ | C++ | ⭐ 180 |
 | [Game-Development-using-Unreal-Engine](https://github.com/PacktPublishing/Game-Development-using-Unreal-Engine) | Code repository for Game Development using Unreal Engine, published by Packt  | C++ | ⭐ 10 |
 | [Game-Development-with-Blender-and-Godot](https://github.com/PacktPublishing/Game-Development-with-Blender-and-Godot) | Game Development with Blender and Godot, published by Packt | GDScript | ⭐ 86 |
-| [Game-Development-with-Godot-4-and-C-Sharp](https://github.com/PacktPublishing/Game-Development-with-Godot-4-and-C-Sharp) | Game Development with Godot 4 and C#, published by Packt | C# | ⭐ 16 |
-| [Game-Development-with-Rust-and-WebAssembly](https://github.com/PacktPublishing/Game-Development-with-Rust-and-WebAssembly) | Game Development with Rust and WebAssembly, Published by Packt | Rust | ⭐ 243 |
+| [Game-Development-with-Godot-4-and-C-Sharp](https://github.com/PacktPublishing/Game-Development-with-Godot-4-and-C-Sharp) | Game Development with Godot 4 and C#, published by Packt | C# | ⭐ 17 |
+| [Game-Development-with-Rust-and-WebAssembly](https://github.com/PacktPublishing/Game-Development-with-Rust-and-WebAssembly) | Game Development with Rust and WebAssembly, Published by Packt | Rust | ⭐ 244 |
 | [Game-Development-with-Unity-and-C-Build-a-2D-Target-Shooting-Game-in-One-Hour](https://github.com/PacktPublishing/Game-Development-with-Unity-and-C-Build-a-2D-Target-Shooting-Game-in-One-Hour) | Code Repository for Game Development with Unity and C# – Build a 2D Target Shooting Gam... |  | ⭐ 2 |
 | [Game-Development-with-Unity-and-C-Build-a-3D-Endless-Game-with-Unity](https://github.com/PacktPublishing/Game-Development-with-Unity-and-C-Build-a-3D-Endless-Game-with-Unity) | Code Repository for Game Development with Unity and C# – Build a 3D Endless Game with U... |  | ⭐ 1 |
 | [Game-Development-with-Unity-and-C-Build-a-Santa-Run-Game](https://github.com/PacktPublishing/Game-Development-with-Unity-and-C-Build-a-Santa-Run-Game) | Code Repository for Game Development with Unity and C# – Build a Santa Run Game, publis... |  | ⭐ 1 |
@@ -3366,10 +3372,10 @@
 | [Generative-AI-on-Google-Cloud-with-LangChain](https://github.com/PacktPublishing/Generative-AI-on-Google-Cloud-with-LangChain) | Generative AI on Google Cloud with LangChain, Published by Packt | Jupyter Notebook | ⭐ 48 |
 | [Generative-AI-with-Amazon-Bedrock](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock) | Generative AI with Amazon Bedrock, published by Packt | Jupyter Notebook | ⭐ 27 |
 | [Generative-AI-with-Python](https://github.com/PacktPublishing/Generative-AI-with-Python) | Generative AI with Python, Published by Packt Publishing | Python | ⭐ 12 |
-| [Generative-AI-with-Python-and-PyTorch-Second-Edition](https://github.com/PacktPublishing/Generative-AI-with-Python-and-PyTorch-Second-Edition) | Generative AI with Python and PyTorch , Second Edition - Published by Packt | Jupyter Notebook | ⭐ 223 |
+| [Generative-AI-with-Python-and-PyTorch-Second-Edition](https://github.com/PacktPublishing/Generative-AI-with-Python-and-PyTorch-Second-Edition) | Generative AI with Python and PyTorch , Second Edition - Published by Packt | Jupyter Notebook | ⭐ 226 |
 | [Generative-Music-Box-Project-Using-JavaScript](https://github.com/PacktPublishing/Generative-Music-Box-Project-Using-JavaScript) |  | Rich Text Format | ⭐ 8 |
 | [Generic-Programming-in-CPP](https://github.com/PacktPublishing/Generic-Programming-in-CPP) | Generic Programming in CPP |  |  |
-| [GeoServer-Beginners-Guide-Second-Edition](https://github.com/PacktPublishing/GeoServer-Beginners-Guide-Second-Edition) | GeoServer-Beginners-Guide-Second-Edition, published by Packt | HTML | ⭐ 18 |
+| [GeoServer-Beginners-Guide-Second-Edition](https://github.com/PacktPublishing/GeoServer-Beginners-Guide-Second-Edition) | GeoServer-Beginners-Guide-Second-Edition, published by Packt | HTML | ⭐ 17 |
 | [Geospatial-Analysis-with-SQL](https://github.com/PacktPublishing/Geospatial-Analysis-with-SQL) |  | PLpgSQL | ⭐ 42 |
 | [Geospatial-Data-Analytics-on-AWS](https://github.com/PacktPublishing/Geospatial-Data-Analytics-on-AWS) | Geospatial Data Analytics on AWS, published by Packt |  |  |
 | [Geospatial-Data-Science-Quick-Start-Guide](https://github.com/PacktPublishing/Geospatial-Data-Science-Quick-Start-Guide) | Geospatial Data Science Quick Start Guide, published by Packt | Jupyter Notebook | ⭐ 38 |
@@ -3494,7 +3500,7 @@
 | [Getting_Started_with_Hedera](https://github.com/PacktPublishing/Getting_Started_with_Hedera) |  |  |  |
 | [GettingStartedwithPythonfortheInternetofThings](https://github.com/PacktPublishing/GettingStartedwithPythonfortheInternetofThings) | Leverage the full potential of Python to prototype and build IoT projects using the Ras... | Python | ⭐ 8 |
 | [Ghidra-Software-Reverse-Engineering-for-Beginners](https://github.com/PacktPublishing/Ghidra-Software-Reverse-Engineering-for-Beginners) | Software Reverse Engineering with Ghidra, published by Packt | Java | ⭐ 170 |
-| [Ghidra-Software-Reverse-Engineering-for-Beginners---Second-Edition](https://github.com/PacktPublishing/Ghidra-Software-Reverse-Engineering-for-Beginners---Second-Edition) | Ghidra Software Reverse Engineering for Beginners - Second Edition, published by Packt | Java | ⭐ 54 |
+| [Ghidra-Software-Reverse-Engineering-for-Beginners---Second-Edition](https://github.com/PacktPublishing/Ghidra-Software-Reverse-Engineering-for-Beginners---Second-Edition) | Ghidra Software Reverse Engineering for Beginners - Second Edition, published by Packt | Java | ⭐ 55 |
 | [Git-and-GitHub-Masterclass---The-Practical-Bootcamp](https://github.com/PacktPublishing/Git-and-GitHub-Masterclass---The-Practical-Bootcamp) | Git an GitHub Masterclass - The Practical Bootcamp, by Packt Publishing |  | ⭐ 4 |
 | [Git-and-GitHub-Masterclass-Fast-Track-Your-Journey-to-Git](https://github.com/PacktPublishing/Git-and-GitHub-Masterclass-Fast-Track-Your-Journey-to-Git) | Git and GitHub Masterclass – Fast-Track Your Journey to Git, by Packt Publishing |  | ⭐ 9 |
 | [Git-and-GitHub-The-Complete-Git-and-GitHub-Course](https://github.com/PacktPublishing/Git-and-GitHub-The-Complete-Git-and-GitHub-Course) | Git and GitHub: The Complete Git and GitHub Course by Packt Publishing |  | ⭐ 8 |
@@ -3523,7 +3529,7 @@
 | [GitHub-Essentials-Second-Edition](https://github.com/PacktPublishing/GitHub-Essentials-Second-Edition) | GitHub Essentials Second Edition, published by Packt |  | ⭐ 10 |
 | [GitHub-for-Next-Generation-Coders](https://github.com/PacktPublishing/GitHub-for-Next-Generation-Coders) | GitHub for Next-Generation Coders, published by Packt | JavaScript | ⭐ 8 |
 | [GitHub-for-Pro-Developers](https://github.com/PacktPublishing/GitHub-for-Pro-Developers) | GitHub for Pro developers, published by Packt |  | ⭐ 3 |
-| [GitHub-Foundations-Certification-Guide](https://github.com/PacktPublishing/GitHub-Foundations-Certification-Guide) | GitHub Foundations Certification Guide, published by Packt | JavaScript | ⭐ 15 |
+| [GitHub-Foundations-Certification-Guide](https://github.com/PacktPublishing/GitHub-Foundations-Certification-Guide) | GitHub Foundations Certification Guide, published by Packt | JavaScript | ⭐ 17 |
 | [Github_Training-Test](https://github.com/PacktPublishing/Github_Training-Test) | This has been created for training pruposes. |  |  |
 | [GitLab-Quick-Start-Guide](https://github.com/PacktPublishing/GitLab-Quick-Start-Guide) | Published by Packt | PHP | ⭐ 10 |
 | [GitOps-in-Practice-with-Argo-CD-and-Argo-Rollouts-The-Complete-Guide](https://github.com/PacktPublishing/GitOps-in-Practice-with-Argo-CD-and-Argo-Rollouts-The-Complete-Guide) |  | Shell | ⭐ 1 |
@@ -3554,13 +3560,13 @@
 | [Go-Programming-From-Beginner-to-Professional-Second-Edition-](https://github.com/PacktPublishing/Go-Programming-From-Beginner-to-Professional-Second-Edition-) | Go Programming From Beginners to Professional - Second Edition, by Packt Publishing | Go | ⭐ 130 |
 | [Go-Recipes-for-Developers](https://github.com/PacktPublishing/Go-Recipes-for-Developers) | Go Recipes for Developers, published by Packt | Go | ⭐ 15 |
 | [Go-Standard-Library-Cookbook](https://github.com/PacktPublishing/Go-Standard-Library-Cookbook) | Go Standard Library Cookbook, published by Packt | Go | ⭐ 117 |
-| [Go-Systems-Programming](https://github.com/PacktPublishing/Go-Systems-Programming) | Go Systems Programming, published by Packt | Go | ⭐ 157 |
+| [Go-Systems-Programming](https://github.com/PacktPublishing/Go-Systems-Programming) | Go Systems Programming, published by Packt | Go | ⭐ 158 |
 | [Go-Web-Development-Cookbook](https://github.com/PacktPublishing/Go-Web-Development-Cookbook) | Go Web Development Cookbook, published by Packt | Go | ⭐ 65 |
 | [Go-Web-Scraping-Quick-Start-Guide](https://github.com/PacktPublishing/Go-Web-Scraping-Quick-Start-Guide) | Go Web Scraping Quick Start Guide, published by Packt | Go | ⭐ 49 |
 | [Godot-3-Game-Development-Cookbook](https://github.com/PacktPublishing/Godot-3-Game-Development-Cookbook) | Godot 3 Game Development Cookbook, Published by Packt |  | ⭐ 5 |
 | [Godot-3.2-Game-Development-Cookbook](https://github.com/PacktPublishing/Godot-3.2-Game-Development-Cookbook) | Godot 3.2 Game Development Cookbook, published by Packt |  | ⭐ 3 |
-| [Godot-4-Best-Practices](https://github.com/PacktPublishing/Godot-4-Best-Practices) | Godot 4 Best Practices by Packt  | GDScript | ⭐ 7 |
-| [Godot-4-for-Beginners](https://github.com/PacktPublishing/Godot-4-for-Beginners) | Godot 4 for Beginners, published by Packt | GDScript | ⭐ 28 |
+| [Godot-4-Best-Practices](https://github.com/PacktPublishing/Godot-4-Best-Practices) | Godot 4 Best Practices by Packt  | GDScript | ⭐ 8 |
+| [Godot-4-for-Beginners](https://github.com/PacktPublishing/Godot-4-for-Beginners) | Godot 4 for Beginners, published by Packt | GDScript | ⭐ 29 |
 | [Godot-4-Game-Development-Cookbook](https://github.com/PacktPublishing/Godot-4-Game-Development-Cookbook) | Godot 4 Game Development Cookbook, published by Packt | GDScript | ⭐ 93 |
 | [Godot-4-Game-Development-Projects-Second-Edition](https://github.com/PacktPublishing/Godot-4-Game-Development-Projects-Second-Edition) | Godot Engine Game Development Projects Second Edition, published by Packt | GDScript | ⭐ 268 |
 | [Godot-Engine-Game-Development-Projects](https://github.com/PacktPublishing/Godot-Engine-Game-Development-Projects) |  |  |  |
@@ -3605,10 +3611,10 @@
 | [Google-Sheet-Data-with-AJAX-featuring-API-and-JSON-](https://github.com/PacktPublishing/Google-Sheet-Data-with-AJAX-featuring-API-and-JSON-) | Google Sheet Data with AJAX (featuring API and JSON), published by Packt | HTML | ⭐ 1 |
 | [Google-Sites---A-Getting-Started-Guide-to-Quick-Websites](https://github.com/PacktPublishing/Google-Sites---A-Getting-Started-Guide-to-Quick-Websites) | Code Repository for Google Sites - A Getting Started Guide to Quick Websites, published... |  | ⭐ 1 |
 | [GPT-Hub](https://github.com/PacktPublishing/GPT-Hub) |  | Python | ⭐ 4 |
-| [GPU-Accelerated-Computing-with-Python-3-and-CUDA](https://github.com/PacktPublishing/GPU-Accelerated-Computing-with-Python-3-and-CUDA) | GPU Computing with Python 3 and CUDA, Published by Packt | Jupyter Notebook | ⭐ 16 |
+| [GPU-Accelerated-Computing-with-Python-3-and-CUDA](https://github.com/PacktPublishing/GPU-Accelerated-Computing-with-Python-3-and-CUDA) | GPU Computing with Python 3 and CUDA, Published by Packt | Jupyter Notebook | ⭐ 17 |
 | [GPU-Computing-with-Python-3-and-CUDA](https://github.com/PacktPublishing/GPU-Computing-with-Python-3-and-CUDA) | GPU Computing with Python 3 and CUDA, published by Packt |  |  |
 | [GPU-Engineering-for-AI-Systems](https://github.com/PacktPublishing/GPU-Engineering-for-AI-Systems) | GPU Engineering for AI Systems, published by Packt |  | ⭐ 2 |
-| [GPU-Programming-with-CPP-and-CUDA](https://github.com/PacktPublishing/GPU-Programming-with-CPP-and-CUDA) | GPU Programming with C++ and CUDA, published by Packt | Cuda | ⭐ 97 |
+| [GPU-Programming-with-CPP-and-CUDA](https://github.com/PacktPublishing/GPU-Programming-with-CPP-and-CUDA) | GPU Programming with C++ and CUDA, published by Packt | Cuda | ⭐ 105 |
 | [Gradient-Boosting-with-XGBoost-and-scikit-learn](https://github.com/PacktPublishing/Gradient-Boosting-with-XGBoost-and-scikit-learn) | Gradient Boosting with XGBoost and scikit-learn, published by Packt |  |  |
 | [Gradle-Effective-Implementations-Guide-Second-Edition](https://github.com/PacktPublishing/Gradle-Effective-Implementations-Guide-Second-Edition) |  | Java | ⭐ 9 |
 | [Graph-Algorithms-for-AI-in-Games](https://github.com/PacktPublishing/Graph-Algorithms-for-AI-in-Games) | Graph Algorithms for AI in Games by Packt Publishing |  | ⭐ 2 |
@@ -3713,9 +3719,9 @@
 | [Hands-On-Artificial-Intelligence-Algorithms-with-Python](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-Algorithms-with-Python) | Hands-On Artificial Intelligence Algorithms with Python, published by Packt | Jupyter Notebook | ⭐ 4 |
 | [Hands-On-Artificial-Intelligence-for-Angular-Developers.](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Angular-Developers.) | Published by Packt |  | ⭐ 1 |
 | [Hands-On-Artificial-Intelligence-for-Banking](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Banking) | Hands-On Artificial Intelligence for Banking, published by Packt | Python | ⭐ 154 |
-| [Hands-On-Artificial-Intelligence-for-Beginners](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Beginners) | Hands-On Artificial Intelligence for Beginners, published by Packt | Jupyter Notebook | ⭐ 43 |
+| [Hands-On-Artificial-Intelligence-for-Beginners](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Beginners) | Hands-On Artificial Intelligence for Beginners, published by Packt | Jupyter Notebook | ⭐ 45 |
 | [Hands-On-Artificial-Intelligence-for-Blockchain](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Blockchain) | Practical Artificial Intelligence and Blockchain, published by Packt | Python | ⭐ 19 |
-| [Hands-On-Artificial-Intelligence-for-Cybersecurity](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity) | Hands-On Artificial Intelligence for Cybersecurity, publised by Packt | Jupyter Notebook | ⭐ 189 |
+| [Hands-On-Artificial-Intelligence-for-Cybersecurity](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity) | Hands-On Artificial Intelligence for Cybersecurity, publised by Packt | Jupyter Notebook | ⭐ 190 |
 | [Hands-On-Artificial-Intelligence-for-Finance](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Finance) | Hands-On Artificial Intelligence for Finance, By Packt |  | ⭐ 2 |
 | [Hands-On-Artificial-Intelligence-for-IoT](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-IoT) | Hands-On Artificial Intelligence for IoT, published by Packt | Jupyter Notebook | ⭐ 151 |
 | [Hands-On-Artificial-Intelligence-for-IoT-Second-Edition](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-IoT-Second-Edition) | Artificial Intelligence for IoT, Published by Packt | Jupyter Notebook | ⭐ 19 |
@@ -3724,7 +3730,7 @@
 | [Hands-On-Artificial-Intelligence-for-Web-Development](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Web-Development) | Hands-On Artificial Intelligence for Web Development |  | ⭐ 2 |
 | [Hands-On-Artificial-Intelligence-on-Amazon-Web-Services](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-on-Amazon-Web-Services) | Hands-On Artificial Intelligence on Amazon Web Services, published by Packt | Jupyter Notebook | ⭐ 34 |
 | [Hands-On-Artificial-Intelligence-on-Google-Cloud-Platform](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-on-Google-Cloud-Platform) | Hands-On Artificial Intelligence on Google Cloud Platform published by Packt. | Python | ⭐ 5 |
-| [Hands-On-Artificial-Intelligence-with-Java-for-Beginners](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-with-Java-for-Beginners) | Hands-On Artificial Intelligence with Java for Beginners, published by Packt | Java | ⭐ 25 |
+| [Hands-On-Artificial-Intelligence-with-Java-for-Beginners](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-with-Java-for-Beginners) | Hands-On Artificial Intelligence with Java for Beginners, published by Packt | Java | ⭐ 26 |
 | [Hands-on-Artificial-Intelligence-with-Keras-and-Python](https://github.com/PacktPublishing/Hands-on-Artificial-Intelligence-with-Keras-and-Python) |  | Jupyter Notebook | ⭐ 11 |
 | [Hands-on-Artificial-Intelligence-with-TensorFlow](https://github.com/PacktPublishing/Hands-on-Artificial-Intelligence-with-TensorFlow) | Hands-on Artificial Intelligence with TensorFlow, published by Packt | Jupyter Notebook | ⭐ 16 |
 | [Hands-On-Artificial-Intelligence-with-TensorFlow-2.0](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-with-TensorFlow-2.0) | Hands-On Artificial Intelligence with TensorFlow 2.0, published by Packt |  | ⭐ 2 |
@@ -3786,7 +3792,7 @@
 | [Hands-On-Computer-Vision-with-Julia](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Julia) | Hands-On Computer Vision with Julia, published by Packt | Julia | ⭐ 59 |
 | [Hands-On-Computer-Vision-with-OpenCV-4-Keras-and-TensorFlow-2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-OpenCV-4-Keras-and-TensorFlow-2) | Hands-On Computer Vision with OpenCV 4, Keras, and TensorFlow 2 [Video], published by P... | Jupyter Notebook | ⭐ 67 |
 | [Hands-On-Computer-Vision-with-PyTorch-1.x](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-PyTorch-1.x) | Hands-On Computer Vision with PyTorch 1.x by Packt | Python | ⭐ 7 |
-| [Hands-On-Computer-Vision-with-TensorFlow-2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2) | Hands-On Computer Vision with TensorFlow 2, published by Packt | Jupyter Notebook | ⭐ 381 |
+| [Hands-On-Computer-Vision-with-TensorFlow-2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2) | Hands-On Computer Vision with TensorFlow 2, published by Packt | Jupyter Notebook | ⭐ 382 |
 | [Hands-On-Computer-Vision-with-TensorFlow-2.0](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2.0) | Hands-On Computer Vision with TensorFlow 2.0 [Video], published by Packt |  | ⭐ 1 |
 | [Hands-On-Computer-Vision-with-TensorFlow-Lite](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-Lite) | Hands-On Computer Vision with TensorFlow Lite, published by Packt |  | ⭐ 2 |
 | [Hands-On-Concurrency-with-C-](https://github.com/PacktPublishing/Hands-On-Concurrency-with-C-) | Hands-On Concurrency with C++, published by Packt |  | ⭐ 1 |
@@ -3817,7 +3823,7 @@
 | [Hands-On-Data-Analytics-with-R--V-](https://github.com/PacktPublishing/Hands-On-Data-Analytics-with-R--V-) |  | R | ⭐ 3 |
 | [Hands-On-Data-Exploration-with-R-](https://github.com/PacktPublishing/Hands-On-Data-Exploration-with-R-) | Hands On Data Exploration with R, published by Packt |  | ⭐ 1 |
 | [Hands-On-Data-Exploration-with-R-V-](https://github.com/PacktPublishing/Hands-On-Data-Exploration-with-R-V-) | Code Repository for Hands-On Data Exploration with R[V], published by Packt | R | ⭐ 2 |
-| [Hands-On-Data-Preprocessing-in-Python](https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python) | Hands-On Data Preprocessing in Python, published by Packt | Jupyter Notebook | ⭐ 221 |
+| [Hands-On-Data-Preprocessing-in-Python](https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python) | Hands-On Data Preprocessing in Python, published by Packt | Jupyter Notebook | ⭐ 222 |
 | [Hands-On-Data-Preprocessing-in-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python-Second-Edition) | published by Packt |  | ⭐ 1 |
 | [Hands-On-Data-Science-and-Python-Machine-Learning](https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning) | Hands-On Data Science and Python Machine Learning, published by Packt | Roff | ⭐ 151 |
 | [Hands-On-Data-Science-for-Marketing](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) | Hands-On Data Science for Marketing, published by Packt | Jupyter Notebook | ⭐ 259 |
@@ -3836,7 +3842,7 @@
 | [Hands-On-Data-Structures-and-Algorithms-with-Kotlin](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Kotlin) | Hands-On Data Structures and Algorithms with Kotlin, published by Packt | Kotlin | ⭐ 201 |
 | [Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Python-Second-Edition) | Hands-On Data Structures and Algorithms with Python Second Edition, published by Packt | Python | ⭐ 270 |
 | [Hands-On-Data-Structures-and-Algorithms-with-Python-Third-Edition](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Python-Third-Edition) | Data Structures and Algorithms with Python – Third Edition | Python | ⭐ 168 |
-| [Hands-On-Data-Structures-and-Algorithms-with-Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust) | Hands-On Data Structures and Algorithms with Rust, published by Packt | Rust | ⭐ 543 |
+| [Hands-On-Data-Structures-and-Algorithms-with-Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust) | Hands-On Data Structures and Algorithms with Rust, published by Packt | Rust | ⭐ 545 |
 | [Hands-on-Data-Visualization-with-Bokeh](https://github.com/PacktPublishing/Hands-on-Data-Visualization-with-Bokeh) | Hands-On Data Visualization with Bokeh, published by Packt | Python | ⭐ 52 |
 | [Hands-On-Data-Visualization-with-D3.js-5.0](https://github.com/PacktPublishing/Hands-On-Data-Visualization-with-D3.js-5.0) | Hands-On Data Visualization with D3.js 5.0 [Video], published by Packt | JavaScript | ⭐ 8 |
 | [Hands-on-Data-Visualization-with-Microsoft-Power-BI](https://github.com/PacktPublishing/Hands-on-Data-Visualization-with-Microsoft-Power-BI) | Hands-on Data Visualization with Microsoft Power BI, published by Packt | R | ⭐ 4 |
@@ -3868,7 +3874,7 @@
 | [Hands-on-Design-Patterns-and-Best-Practices-with-Julia](https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia) | Hands-On Design Patterns with Julia, published by Packt | Julia | ⭐ 271 |
 | [Hands-On-Design-Patterns-with-C-and-.NET-Core](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-C-and-.NET-Core) | Hands-On Design Patterns with C# and .NET Core, published by Packt | C# | ⭐ 164 |
 | [Hands-On-Design-Patterns-with-CPP](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP) | Hands-On Design Patterns with C++, published by Packt | C | ⭐ 384 |
-| [Hands-On-Design-Patterns-with-CPP-Second-Edition](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP-Second-Edition) |  Hands-On Design Patterns with C++ (Second Edition), published by Packt | C | ⭐ 133 |
+| [Hands-On-Design-Patterns-with-CPP-Second-Edition](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP-Second-Edition) |  Hands-On Design Patterns with C++ (Second Edition), published by Packt | C | ⭐ 134 |
 | [Hands-On-Design-Patterns-with-Delphi](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-Delphi) | Hands-On-Design-Patterns-with-Delphi, published by Packt | Pascal | ⭐ 62 |
 | [Hands-On-Design-Patterns-with-GO](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-GO) | Hands-On Design Patterns with GO, published by Packt | Go | ⭐ 3 |
 | [Hands-On-Design-Patterns-with-Java](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-Java) | Hands-On Design Patterns with Java, published by Packt | Java | ⭐ 112 |
@@ -3889,7 +3895,7 @@
 | [Hands-On-Docker-for-Microservices-with-Go](https://github.com/PacktPublishing/Hands-On-Docker-for-Microservices-with-Go) | Hands-On Docker for Microservices with Go published by Packt |  | ⭐ 2 |
 | [Hands-On-Docker-for-Microservices-with-Python](https://github.com/PacktPublishing/Hands-On-Docker-for-Microservices-with-Python) | Hands-On Docker for Microservices with Python, published by Packt | Python | ⭐ 209 |
 | [Hands-On-Docker-on-Azure](https://github.com/PacktPublishing/Hands-On-Docker-on-Azure) | Hands-On Docker on Azure published by Packt Publishing | Dockerfile | ⭐ 2 |
-| [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) | Hands-On Domain-Driven Design with .NET Core, published by Packt | C# | ⭐ 665 |
+| [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) | Hands-On Domain-Driven Design with .NET Core, published by Packt | C# | ⭐ 664 |
 | [Hands-On-Domain-driven-design-with-Python](https://github.com/PacktPublishing/Hands-On-Domain-driven-design-with-Python) | Hands-On Domain-driven design with Python, published by Packt |  | ⭐ 3 |
 | [Hands-On-Dynamics-365-AI-for-Business-Insights](https://github.com/PacktPublishing/Hands-On-Dynamics-365-AI-for-Business-Insights) | Hands-On Dynamics 365 AI for Business Insights, Packt Publishing |  | ⭐ 1 |
 | [Hands-On-Edge-Analytics-with-Azure-IoT](https://github.com/PacktPublishing/Hands-On-Edge-Analytics-with-Azure-IoT) | Hands-On Edge Analytics with Azure IoT, published by Packt | Python | ⭐ 8 |
@@ -3900,7 +3906,7 @@
 | [Hands-On-Ensemble-Learning-with-R](https://github.com/PacktPublishing/Hands-On-Ensemble-Learning-with-R) | Hands-On Ensemble Learning with R, Published by Packt  | HTML | ⭐ 10 |
 | [Hands-On-Enterprise-application-development-with-.Net-Core-3.0](https://github.com/PacktPublishing/Hands-On-Enterprise-application-development-with-.Net-Core-3.0) | Hands-On Enterprise application development with .Net Core 3.0, published by Packt | C# | ⭐ 6 |
 | [Hands-On-Enterprise-Application-Development-with-Java-9](https://github.com/PacktPublishing/Hands-On-Enterprise-Application-Development-with-Java-9) | Hands-On Enterprise Application Development with Java 9 [Video], Published by Packt |  | ⭐ 2 |
-| [Hands-On-Enterprise-Application-Development-with-Python](https://github.com/PacktPublishing/Hands-On-Enterprise-Application-Development-with-Python) | Hands-On Enterprise Application Development with Python, published by Packt | Python | ⭐ 47 |
+| [Hands-On-Enterprise-Application-Development-with-Python](https://github.com/PacktPublishing/Hands-On-Enterprise-Application-Development-with-Python) | Hands-On Enterprise Application Development with Python, published by Packt | Python | ⭐ 48 |
 | [Hands-On-Enterprise-Architecture-with-Microsoft-Dynamics-365](https://github.com/PacktPublishing/Hands-On-Enterprise-Architecture-with-Microsoft-Dynamics-365) | Hands-On Enterprise Architecture with Microsoft Dynamics 365, published by Packt |  | ⭐ 2 |
 | [Hands-On-Enterprise-Automation-on-Linux](https://github.com/PacktPublishing/Hands-On-Enterprise-Automation-on-Linux) | Code files for Hands-On Enterprise Automation on Linux, published by Packt | Shell | ⭐ 33 |
 | [Hands-On-Enterprise-Automation-with-Python](https://github.com/PacktPublishing/Hands-On-Enterprise-Automation-with-Python) | Hands-On Enterprise Automation with Python, published by Packt | Python | ⭐ 84 |
@@ -3908,18 +3914,18 @@
 | [Hands-On-Ethical-Hacking-Tactics](https://github.com/PacktPublishing/Hands-On-Ethical-Hacking-Tactics) | Ethical Hacking techniques | Shell | ⭐ 29 |
 | [Hands-On-Ethical-Password-Hacking](https://github.com/PacktPublishing/Hands-On-Ethical-Password-Hacking) | Hands-On Ethical Password Hacking, published by Packt |  | ⭐ 1 |
 | [Hands-On-Explainable-AI-XAI-with-Python](https://github.com/PacktPublishing/Hands-On-Explainable-AI-XAI-with-Python) | Explainable AI with Python, published by Packt | Jupyter Notebook | ⭐ 170 |
-| [Hands-on-Exploratory-Data-Analysis-with-Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python) | Hands-on Exploratory Data Analysis with Python, published by Packt | Jupyter Notebook | ⭐ 898 |
+| [Hands-on-Exploratory-Data-Analysis-with-Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python) | Hands-on Exploratory Data Analysis with Python, published by Packt | Jupyter Notebook | ⭐ 900 |
 | [Hands-On-Exploratory-Data-Analysis-with-R](https://github.com/PacktPublishing/Hands-On-Exploratory-Data-Analysis-with-R) | Hands-On-Exploratory-Data-Analysis-with-R, published by Packt | R | ⭐ 22 |
 | [Hands-On-Feature-Engineering-with-Python](https://github.com/PacktPublishing/Hands-On-Feature-Engineering-with-Python) |  | Jupyter Notebook | ⭐ 23 |
 | [Hands-On-Financial-Modeling-with-Excel-for-Microsoft-365](https://github.com/PacktPublishing/Hands-On-Financial-Modeling-with-Excel-for-Microsoft-365) | Hands On Financial Modeling with Excel for Microsoft 365, Published by Packt |  | ⭐ 5 |
 | [Hands-On-Financial-Modeling-with-Microsoft-Excel-2019](https://github.com/PacktPublishing/Hands-On-Financial-Modeling-with-Microsoft-Excel-2019) | Hands-On Financial Modeling with Microsoft Excel 2019, Published by Packt |  | ⭐ 25 |
 | [Hands-On-Financial-Trading-with-Python](https://github.com/PacktPublishing/Hands-On-Financial-Trading-with-Python) | Hands-On Financial Trading with Python, published by Packt | Jupyter Notebook | ⭐ 407 |
-| [Hands-on-Financial-Trading-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-on-Financial-Trading-with-Python-Second-Edition) | Hands on Financial Trading with Python Second Edition, Published by Packt | Jupyter Notebook | ⭐ 8 |
+| [Hands-on-Financial-Trading-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-on-Financial-Trading-with-Python-Second-Edition) | Hands on Financial Trading with Python Second Edition, Published by Packt | Jupyter Notebook | ⭐ 9 |
 | [Hands-On-Flutter-Design-Patterns-and-Best-Practices-](https://github.com/PacktPublishing/Hands-On-Flutter-Design-Patterns-and-Best-Practices-) | Flutter Design Patterns and Best Practices, published by Packt |  | ⭐ 3 |
 | [Hands-On-Full-Stack-Development-with-Angular-5-and-Firebase](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Angular-5-and-Firebase) | Hands-On Full Stack Development with Angular 5 and Firebase,  published by Packt | TypeScript | ⭐ 17 |
 | [Hands-On-Full-Stack-Development-with-Go](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Go) | Hands-On Full-Stack Development with Go, published by Packt Publishing | JavaScript | ⭐ 95 |
 | [Hands-On-Full-Stack-Development-with-Java-EE-and-Angular-9](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Java-EE-and-Angular-9) | Hands-On Full Stack Development with Java EE and Angular 9 | HTML | ⭐ 2 |
-| [Hands-On-Full-Stack-Development-with-Spring-Boot-2-and-React-Second-Edition](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Spring-Boot-2-and-React-Second-Edition) | Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition, publishe... | JavaScript | ⭐ 86 |
+| [Hands-On-Full-Stack-Development-with-Spring-Boot-2-and-React-Second-Edition](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Spring-Boot-2-and-React-Second-Edition) | Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition, publishe... | JavaScript | ⭐ 85 |
 | [Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-Angular-8](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-Angular-8) | Hands-On Full Stack Development with Spring Boot 2.0 and Angular 8 by Packt Publishing | Java | ⭐ 8 |
 | [Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-React](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-React) | Hands-On Full-Stack Development with Spring 5 and React, published by Packt | JavaScript | ⭐ 117 |
 | [Hands-On-Full-Stack-Development-with-Swift](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Swift) | Hands-On Full-Stack Development with Swift, published by Packt | Swift | ⭐ 18 |
@@ -3954,7 +3960,7 @@
 | [Hands-On-Generative-Adversarial-Networks-with-PyTorch-2.x_Second-Edition](https://github.com/PacktPublishing/Hands-On-Generative-Adversarial-Networks-with-PyTorch-2.x_Second-Edition) |  |  | ⭐ 2 |
 | [Hands-On-Generative-Adversarial-Networks-with-TensorFlow-2.x-](https://github.com/PacktPublishing/Hands-On-Generative-Adversarial-Networks-with-TensorFlow-2.x-) | Hands-On Generative Adversarial Networks with TensorFlow 2.x, published by Packt |  | ⭐ 2 |
 | [Hands-On-Generative-AI-with-Python-and-TensorFlow-2](https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2) | Hands-On Generative AI with Python and TensorFlow 2, published by Packt | Jupyter Notebook | ⭐ 133 |
-| [Hands-On-Genetic-Algorithms-with-Python](https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python) | Hands-On Genetic Algorithms with Python, Published by Packt | Python | ⭐ 287 |
+| [Hands-On-Genetic-Algorithms-with-Python](https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python) | Hands-On Genetic Algorithms with Python, Published by Packt | Python | ⭐ 288 |
 | [Hands-On-Genetic-Algorithms-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python-Second-Edition) | Hands-On Genetic Algorithms with Python, Second Edition, published by Packt | Python | ⭐ 58 |
 | [Hands-On-Geospatial-Analysis-with-QGIS-3.10-and-Python](https://github.com/PacktPublishing/Hands-On-Geospatial-Analysis-with-QGIS-3.10-and-Python) |  | Python | ⭐ 21 |
 | [Hands-On-Geospatial-Analysis-with-R-and-QGIS](https://github.com/PacktPublishing/Hands-On-Geospatial-Analysis-with-R-and-QGIS) | Hands On Geospatial Analysis with R and QGIS, published by Packt | R | ⭐ 38 |
@@ -3963,14 +3969,14 @@
 | [Hands-on-Google-Cloud-Platform](https://github.com/PacktPublishing/Hands-on-Google-Cloud-Platform) | Hands-on Google Cloud Platform, published by Packt |  | ⭐ 1 |
 | [Hands-on-Google-Cloud-Platform-GCP---Cloud-Architect](https://github.com/PacktPublishing/Hands-on-Google-Cloud-Platform-GCP---Cloud-Architect) | Hands-on Google Cloud Platform (GCP) - Cloud Architect, published by Packt |  | ⭐ 1 |
 | [Hands-on-Google-Cloud-Platform-GCP---Data-Engineer](https://github.com/PacktPublishing/Hands-on-Google-Cloud-Platform-GCP---Data-Engineer) | Code Repository for Hands-on Google Cloud Platform (GCP) - Data Engineer, published by ... |  | ⭐ 2 |
-| [Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA](https://github.com/PacktPublishing/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA) | Hands-On GPU Accelerated Computer Vision with OpenCV and CUDA, published by Packt | C++ | ⭐ 665 |
+| [Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA](https://github.com/PacktPublishing/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA) | Hands-On GPU Accelerated Computer Vision with OpenCV and CUDA, published by Packt | C++ | ⭐ 663 |
 | [Hands-On-GPU-Computing-with-Python](https://github.com/PacktPublishing/Hands-On-GPU-Computing-with-Python) | Hands-On GPU Computing with Python, published by Packt | Jupyter Notebook | ⭐ 33 |
 | [Hands-On-GPU-Programming-with-CUDA-C-and-Python-3.x-Second-Edition](https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-CUDA-C-and-Python-3.x-Second-Edition) | Hands-On GPU Programming with Python and CUDA, Second Edition, published by Packt | Python | ⭐ 38 |
 | [Hands-On-GPU-Programming-with-Python-and-CUDA](https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA) | Hands-On GPU Programming with Python and CUDA, published by Packt | Python | ⭐ 417 |
 | [Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn](https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn) | Hands-On Gradient Boosting with XGBoost and Scikit-learn Published by Packt | Jupyter Notebook | ⭐ 228 |
 | [Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn2](https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn2) | Hands-On Gradient Boosting with XGBoost and Scikit-learn, Published by Packt |  | ⭐ 1 |
 | [Hands-On-Graph-Analytics-with-Neo4j](https://github.com/PacktPublishing/Hands-On-Graph-Analytics-with-Neo4j) | Hands-On Graph Analytics with Neo4j, Published by Packt  | Jupyter Notebook | ⭐ 96 |
-| [Hands-On-Graph-Neural-Networks-Using-Python](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python) | Hands-On Graph Neural Networks Using Python, published by Packt | Jupyter Notebook | ⭐ 1050 |
+| [Hands-On-Graph-Neural-Networks-Using-Python](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python) | Hands-On Graph Neural Networks Using Python, published by Packt | Jupyter Notebook | ⭐ 1051 |
 | [Hands-On-Graph-Neural-Networks-Using-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python-Second-Edition) | Hands-On Graph Neural Networks Using Python, Second Edition, published by Packt | Python |  |
 | [Hands-on-GraphQL-for-better-restful-services](https://github.com/PacktPublishing/Hands-on-GraphQL-for-better-restful-services) | Hands-on-GraphQL-for-better-restful-services |  | ⭐ 1 |
 | [Hands-on-GraphQL-for-better-restful-services-V-](https://github.com/PacktPublishing/Hands-on-GraphQL-for-better-restful-services-V-) | Hands-on-GraphQL-for-better-restful-services, Published By Packt Publishing |  | ⭐ 1 |
@@ -3987,7 +3993,7 @@
 | [Hands-On-Image-Processing-and-Computer-Vision-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Image-Processing-and-Computer-Vision-with-Python-Second-Edition) | Hands-On Image Processing and Computer Vision with Python, Second Edition, Published by... | Jupyter Notebook | ⭐ 36 |
 | [Hands-On-Image-Processing-with-Python](https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python) |  | Jupyter Notebook | ⭐ 324 |
 | [Hands-On-Industrial-Internet-of-Things](https://github.com/PacktPublishing/Hands-On-Industrial-Internet-of-Things) | Hands-On Industrial Internet of Things, published by Packt | Jupyter Notebook | ⭐ 67 |
-| [Hands-On-Industrial-Internet-of-Things-Second-Edition](https://github.com/PacktPublishing/Hands-On-Industrial-Internet-of-Things-Second-Edition) | Hands-On Industrial Internet of Things Second Edition, published by Packt | Jupyter Notebook | ⭐ 12 |
+| [Hands-On-Industrial-Internet-of-Things-Second-Edition](https://github.com/PacktPublishing/Hands-On-Industrial-Internet-of-Things-Second-Edition) | Hands-On Industrial Internet of Things Second Edition, published by Packt | Jupyter Notebook | ⭐ 14 |
 | [Hands-on-Infrastructure-Automation-with-Ansible](https://github.com/PacktPublishing/Hands-on-Infrastructure-Automation-with-Ansible) |  |  | ⭐ 16 |
 | [Hands-On-Infrastructure-Automation-with-Puppet-6-V-](https://github.com/PacktPublishing/Hands-On-Infrastructure-Automation-with-Puppet-6-V-) | Hands-On Infrastructure Automation with Puppet 6 (V), published by Packt  | Puppet | ⭐ 4 |
 | [Hands-on-Infrastructure-Automation-with-Terraform-on-AWS](https://github.com/PacktPublishing/Hands-on-Infrastructure-Automation-with-Terraform-on-AWS) | Hands-on Infrastructure Automation with Terraform on AWS by Packt Publishing | HCL | ⭐ 49 |
@@ -4027,7 +4033,7 @@
 | [Hands-On-Low-Code-Application-Development-with-Salesforce](https://github.com/PacktPublishing/Hands-On-Low-Code-Application-Development-with-Salesforce) | Hands-On Low-Code Application Development with Salesforce, published by Packt |  | ⭐ 11 |
 | [Hands-On-Low-Power-Embedded-Systems](https://github.com/PacktPublishing/Hands-On-Low-Power-Embedded-Systems) |  | C |  |
 | [Hands-On-Machine-Learning-for-.NET-Developers-V](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-.NET-Developers-V) |  | C# | ⭐ 21 |
-| [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) | Hands-On Machine Learning for Algorithmic Trading, published by Packt | Jupyter Notebook | ⭐ 1900 |
+| [Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading) | Hands-On Machine Learning for Algorithmic Trading, published by Packt | Jupyter Notebook | ⭐ 1903 |
 | [Hands-On-Machine-Learning-for-Algorithmic-Trading-sample](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading-sample) | Hands-On Machine Learning for Algorithmic Trading, published by Packt | Jupyter Notebook | ⭐ 28 |
 | [hands-on-machine-learning-for-blockchain](https://github.com/PacktPublishing/hands-on-machine-learning-for-blockchain) |  |  | ⭐ 2 |
 | [Hands-on-Machine-Learning-for-Cyber-Security](https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security) | Hands-On Machine Learning for Cybersecurity, published by Packt | Jupyter Notebook | ⭐ 207 |
@@ -4083,9 +4089,9 @@
 | [Hands-on-Microservices-with-Python-Order-Service](https://github.com/PacktPublishing/Hands-on-Microservices-with-Python-Order-Service) | Repositry for Order Services | Python | ⭐ 18 |
 | [Hands-on-Microservices-with-Python-Product-Service](https://github.com/PacktPublishing/Hands-on-Microservices-with-Python-Product-Service) |  Hands-on Microservices with Python [ video], published by Packt | Python | ⭐ 16 |
 | [Hands-on-Microservices-with-Python-User-Service](https://github.com/PacktPublishing/Hands-on-Microservices-with-Python-User-Service) | Repository for Product Service | Python | ⭐ 17 |
-| [Hands-On-Microservices-with-Rust](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust) | Hands-On Microservices with Rust 2018, published by Packt | Rust | ⭐ 371 |
+| [Hands-On-Microservices-with-Rust](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust) | Hands-On Microservices with Rust 2018, published by Packt | Rust | ⭐ 372 |
 | [Hands-On-Microservices-with-Spring-Boot-2.0](https://github.com/PacktPublishing/Hands-On-Microservices-with-Spring-Boot-2.0) |  Hands-On Microservices with Spring Boot 2.0 [video] by Packt Publishing | Java | ⭐ 16 |
-| [Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud](https://github.com/PacktPublishing/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud) | Hands-On Microservices with Spring Boot and Spring Cloud, published by Packt | Java | ⭐ 476 |
+| [Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud](https://github.com/PacktPublishing/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud) | Hands-On Microservices with Spring Boot and Spring Cloud, published by Packt | Java | ⭐ 475 |
 | [Hands-on-Microservices-with-TypeScript-3](https://github.com/PacktPublishing/Hands-on-Microservices-with-TypeScript-3) | Hands-on Microservices with TypeScript 3 by Amit Bezalel, published by [Packt] | TypeScript | ⭐ 33 |
 | [Hands-On-Microsoft-Access-2019](https://github.com/PacktPublishing/Hands-On-Microsoft-Access-2019) | Hands-On Microsoft Access 2019 |  | ⭐ 2 |
 | [Hands-On-Microsoft-Lists](https://github.com/PacktPublishing/Hands-On-Microsoft-Lists) | Hands-On Microsoft Lists, published by Packt  | TypeScript | ⭐ 10 |
@@ -4103,7 +4109,7 @@
 | [Hands-On-Natural-Language-Processing-with-Pytorch](https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-Pytorch) | Hands-On Natural Language Processing with Pytorch [Video], by Packt Publishing | Jupyter Notebook | ⭐ 51 |
 | [Hands-On-Natural-Language-Processing-with-PyTorch-1.x](https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-PyTorch-1.x) | Hands-On Natural Language Processing with PyTorch 1.x, published by Packt | Jupyter Notebook | ⭐ 46 |
 | [Hands-On-Natural-Language-Processing-with-R](https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-R) | Hands-On Natural Language Processing with R, Published by Packt |  | ⭐ 1 |
-| [Hands-On-Network-Programming-with-C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C) | Hands-On Network Programming with C, published by Packt | C | ⭐ 361 |
+| [Hands-On-Network-Programming-with-C](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-C) | Hands-On Network Programming with C, published by Packt | C | ⭐ 362 |
 | [Hands-On-Network-Programming-with-CPP](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-CPP) | Hands-On Network Programming with C++, published by Packt |  | ⭐ 3 |
 | [Hands-On-Network-Programming-with-CSharp-and-.NET-Core](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-CSharp-and-.NET-Core) | Hands-On Network Programming with C# and .NET Core, published by Packt | C# | ⭐ 55 |
 | [Hands-On-Network-Programming-with-Python](https://github.com/PacktPublishing/Hands-On-Network-Programming-with-Python) | Hands-On Network Programming with Python, published by Packt |  | ⭐ 1 |
@@ -4139,7 +4145,7 @@
 | [Hands-On-Python-Deep-Learning](https://github.com/PacktPublishing/Hands-On-Python-Deep-Learning) |  | Jupyter Notebook | ⭐ 9 |
 | [Hands-On-Python-Deep-Learning-for-Web](https://github.com/PacktPublishing/Hands-On-Python-Deep-Learning-for-Web) | Hands-On Python Deep Learning for Web by Anubhav Singh and Sayak Paul | Jupyter Notebook | ⭐ 79 |
 | [Hands-On-Python-for-Business-Process-Automation](https://github.com/PacktPublishing/Hands-On-Python-for-Business-Process-Automation) | Hands-On Python for Business Process Automation [Video], published by Packt |  | ⭐ 1 |
-| [Hands-On-Python-for-DevOps](https://github.com/PacktPublishing/Hands-On-Python-for-DevOps) | Hands-on Python for DevOps, published by Packt | Python | ⭐ 45 |
+| [Hands-On-Python-for-DevOps](https://github.com/PacktPublishing/Hands-On-Python-for-DevOps) | Hands-on Python for DevOps, published by Packt | Python | ⭐ 44 |
 | [Hands-on-Python-for-Finance](https://github.com/PacktPublishing/Hands-on-Python-for-Finance) | Hands-on Python for Finance published by Packt. | Jupyter Notebook | ⭐ 348 |
 | [Hands-on-Python-for-Finance-V](https://github.com/PacktPublishing/Hands-on-Python-for-Finance-V) | Hands-on Python for Finance [Video], Published by Packt | Jupyter Notebook | ⭐ 33 |
 | [Hands-On-Python-Natural-Language-Processing](https://github.com/PacktPublishing/Hands-On-Python-Natural-Language-Processing) |  | Jupyter Notebook | ⭐ 92 |
@@ -4154,7 +4160,7 @@
 | [Hands-On-React-Router](https://github.com/PacktPublishing/Hands-On-React-Router) | Hands-On React Router [video], published by Packt |  | ⭐ 3 |
 | [Hands-On-Reactive-Microservices](https://github.com/PacktPublishing/Hands-On-Reactive-Microservices) | Hands-On-Reactive-Microservices, published by Packt |  | ⭐ 1 |
 | [Hands-On-Reactive-Microservices-in-.NET-Core-3](https://github.com/PacktPublishing/Hands-On-Reactive-Microservices-in-.NET-Core-3) | Hands-On Reactive Microservices in .NET Core 3, published by Packt | C# | ⭐ 18 |
-| [Hands-On-Reactive-Programming-in-Spring-5](https://github.com/PacktPublishing/Hands-On-Reactive-Programming-in-Spring-5) | Hands-On Reactive Programming in Spring 5, published by Packt | Java | ⭐ 334 |
+| [Hands-On-Reactive-Programming-in-Spring-5](https://github.com/PacktPublishing/Hands-On-Reactive-Programming-in-Spring-5) | Hands-On Reactive Programming in Spring 5, published by Packt | Java | ⭐ 335 |
 | [Hands-On-Reactive-Programming-with-Clojure-Second-Edition](https://github.com/PacktPublishing/Hands-On-Reactive-Programming-with-Clojure-Second-Edition) | Hands-On Reactive Programming with Clojure – Second Edition, published by Packt | JavaScript | ⭐ 20 |
 | [Hands-On-Reactive-Programming-with-Java-12](https://github.com/PacktPublishing/Hands-On-Reactive-Programming-with-Java-12) | Hands-On Reactive Programming with Java 12 [Video], published by Packt | Java | ⭐ 5 |
 | [Hands-On-Reactive-Programming-with-Kotlin](https://github.com/PacktPublishing/Hands-On-Reactive-Programming-with-Kotlin) | Hands-On Reactive Programming with Kotlin, published by Packt | Kotlin | ⭐ 3 |
@@ -4167,7 +4173,7 @@
 | [Hands-On-Reinforcement-Learning-for-Games](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-for-Games) | Hands-On Reinforcement Learning for Games, published by Packt | Python | ⭐ 62 |
 | [Hands-On-Reinforcement-Learning-for-Natural-Language-Processing](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-for-Natural-Language-Processing) | Hands-On Reinforcement Learning for Natural Language Processing, published by Packt |  | ⭐ 1 |
 | [Hands-On-Reinforcement-Learning-with-Java](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Java) | Hands-On Reinforcement Learning with Java [Video], published by Packt  | Java | ⭐ 10 |
-| [Hands-On-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python) | Hands-On Reinforcement Learning with Python, published by Packt | Jupyter Notebook | ⭐ 852 |
+| [Hands-On-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python) | Hands-On Reinforcement Learning with Python, published by Packt | Jupyter Notebook | ⭐ 853 |
 | [Hands-On-Reinforcement-Learning-with-Python-](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python-) | Hands On Reinforcement Learning with Python[Video], Published by Packt |  | ⭐ 13 |
 | [Hands-on-Reinforcement-Learning-with-PyTorch](https://github.com/PacktPublishing/Hands-on-Reinforcement-Learning-with-PyTorch) | Hands-on Reinforcement Learning with PyTorch, published by [Packt] | Jupyter Notebook | ⭐ 59 |
 | [Hands-On-Reinforcement-Learning-with-PyTorch-1.0](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-PyTorch-1.0) | Hands-On Reinforcement Learning with PyTorch 1.0, By Packt | Jupyter Notebook | ⭐ 10 |
@@ -4217,7 +4223,7 @@
 | [Hands-On-Software-Architecture-with-Java](https://github.com/PacktPublishing/Hands-On-Software-Architecture-with-Java) | Hands-On Software Architecture with Java, published by Packt | HTML | ⭐ 31 |
 | [Hands-On-Software-Engineering-with-Golang](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Golang) | Hands-On Software Engineering with Golang, published by Packt | Go | ⭐ 441 |
 | [Hands-On-Software-Engineering-with-Python](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Python) | Hands-On-Software-Engineering-with-Python, published by Packt | Python | ⭐ 75 |
-| [Hands-On-Software-Engineering-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Python-Second-Edition) | Hands On Software Engineering with Python Second Edition, Published by Packt | Python | ⭐ 12 |
+| [Hands-On-Software-Engineering-with-Python-Second-Edition](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Python-Second-Edition) | Hands On Software Engineering with Python Second Edition, Published by Packt | Python | ⭐ 14 |
 | [Hands-On-Solution-Architecture-with-Java](https://github.com/PacktPublishing/Hands-On-Solution-Architecture-with-Java) | Hands-On Solution Architecture with Java by Packt Publishing |  | ⭐ 1 |
 | [Hands-on-Spring-Cloud-for-Building-Microservices](https://github.com/PacktPublishing/Hands-on-Spring-Cloud-for-Building-Microservices) |  |  | ⭐ 1 |
 | [Hands-On-Spring-Security-5-for-Reactive-Applications](https://github.com/PacktPublishing/Hands-On-Spring-Security-5-for-Reactive-Applications) | Hands-On Spring Security 5 for Reactive Applications, published by Packt | CSS | ⭐ 95 |
@@ -4234,7 +4240,7 @@
 | [Hands-On-System-Programming-with-CPP](https://github.com/PacktPublishing/Hands-On-System-Programming-with-CPP) | Hands-On System Programming with C++, published by Packt | C++ | ⭐ 158 |
 | [Hands-On-System-Programming-with-Go](https://github.com/PacktPublishing/Hands-On-System-Programming-with-Go) | Published by Packt | Go | ⭐ 143 |
 | [Hands-on-System-Programming-with-Linux](https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux) | Hands-On System Programming with Linux, Kaiwan N Billimoria, published by Packt | C | ⭐ 283 |
-| [Hands-On-Systems-Programming-with-Rust](https://github.com/PacktPublishing/Hands-On-Systems-Programming-with-Rust) |  Hands-On Systems Programming with Rust, Published by Packt | Rust | ⭐ 72 |
+| [Hands-On-Systems-Programming-with-Rust](https://github.com/PacktPublishing/Hands-On-Systems-Programming-with-Rust) |  Hands-On Systems Programming with Rust, Published by Packt | Rust | ⭐ 73 |
 | [Hands-on-TDD-with-NodeJS](https://github.com/PacktPublishing/Hands-on-TDD-with-NodeJS) | Hands-on TDD with NodeJS, published by Packt |  | ⭐ 1 |
 | [Hands-On-TensorBoard-for-PyTorch-Developers](https://github.com/PacktPublishing/Hands-On-TensorBoard-for-PyTorch-Developers) | Hands-On TensorBoard for PyTorch Developers, Published by Packt | Jupyter Notebook | ⭐ 11 |
 | [Hands-on-TensorFlow-for-Smart-Application-Development](https://github.com/PacktPublishing/Hands-on-TensorFlow-for-Smart-Application-Development) | Code Repository for Hands-on TensorFlow for Smart Application Development, by Packt Pub... |  | ⭐ 1 |
@@ -4324,7 +4330,7 @@
 | [hello-world](https://github.com/PacktPublishing/hello-world) |  | Java | ⭐ 8 |
 | [HELM---Package-Manager-for-Kubernetes-Complete-Master-Course](https://github.com/PacktPublishing/HELM---Package-Manager-for-Kubernetes-Complete-Master-Course) |  |  | ⭐ 5 |
 | [Helm-Cookbook](https://github.com/PacktPublishing/Helm-Cookbook) | Helm Cookbook, published by Packt |  | ⭐ 1 |
-| [Helm-Masterclass-From-Beginner-to-Advanced](https://github.com/PacktPublishing/Helm-Masterclass-From-Beginner-to-Advanced) |  | Smarty | ⭐ 12 |
+| [Helm-Masterclass-From-Beginner-to-Advanced](https://github.com/PacktPublishing/Helm-Masterclass-From-Beginner-to-Advanced) |  | Smarty | ⭐ 13 |
 | [High-Availability-and-Disaster-Recovery-with-SQL-Server-2022](https://github.com/PacktPublishing/High-Availability-and-Disaster-Recovery-with-SQL-Server-2022) | High Availability and Disaster Recovery with SQL Server 2022, published by Packt | PowerShell | ⭐ 1 |
 | [High-Availability-for-the-LAMP-Stack-Step-by-Step](https://github.com/PacktPublishing/High-Availability-for-the-LAMP-Stack-Step-by-Step) | High Availability for the LAMP Stack, Step-by-Step, published by Packt |  | ⭐ 2 |
 | [High-Frequency-Trading](https://github.com/PacktPublishing/High-Frequency-Trading) | High Frequency Trading published by Packt Publishing |  | ⭐ 1 |
@@ -4420,7 +4426,7 @@
 | [-IT-Help-Desk-Essentials---Beginner-Support-Skills-for-New-Technicians](https://github.com/PacktPublishing/-IT-Help-Desk-Essentials---Beginner-Support-Skills-for-New-Technicians) |  IT Help Desk Essentials - Beginner Support Skills for New Technicians, published by pa... |  |  |
 | [IaaS-Cloud-Computing-With-OpenStack-MasterClass---Part-1](https://github.com/PacktPublishing/IaaS-Cloud-Computing-With-OpenStack-MasterClass---Part-1) | Code Repository for IaaS Cloud Computing With OpenStack MasterClass - Part 1, published... |  | ⭐ 1 |
 | [IaaS-Cloud-Computing-With-OpenStack-MasterClass---Part-2](https://github.com/PacktPublishing/IaaS-Cloud-Computing-With-OpenStack-MasterClass---Part-2) | Code Repository for IaaS Cloud Computing With OpenStack MasterClass - Part 2, published... |  | ⭐ 1 |
-| [IAPP-Artificial-Intelligence-Governance-Professional-AIGP-Complete-Course](https://github.com/PacktPublishing/IAPP-Artificial-Intelligence-Governance-Professional-AIGP-Complete-Course) | This is the code repository for IAPP Artificial Intelligence Governance Professional (A... |  | ⭐ 17 |
+| [IAPP-Artificial-Intelligence-Governance-Professional-AIGP-Complete-Course](https://github.com/PacktPublishing/IAPP-Artificial-Intelligence-Governance-Professional-AIGP-Complete-Course) | This is the code repository for IAPP Artificial Intelligence Governance Professional (A... |  | ⭐ 18 |
 | [IBM-Cloud-Pak-for-Data](https://github.com/PacktPublishing/IBM-Cloud-Pak-for-Data) | IBM Cloud Pak for Data, published by Packt |  | ⭐ 2 |
 | [IBM-Cognos-Framework-Manager](https://github.com/PacktPublishing/IBM-Cognos-Framework-Manager) | IBM Cognos Framework Manager[V], By Packt Publishing  |  | ⭐ 1 |
 | [IBM-SPSS-Modeler-Essentials](https://github.com/PacktPublishing/IBM-SPSS-Modeler-Essentials) |  |  | ⭐ 11 |
@@ -4437,7 +4443,7 @@
 | [Image-Classifier-with-Django-and-React](https://github.com/PacktPublishing/Image-Classifier-with-Django-and-React) |  | Python | ⭐ 7 |
 | [Image-Processing-with-PyTorch-1st-Edition](https://github.com/PacktPublishing/Image-Processing-with-PyTorch-1st-Edition) |  |  |  |
 | [Imbalanced-Datasets-in-Machine-Learning](https://github.com/PacktPublishing/Imbalanced-Datasets-in-Machine-Learning) | Imbalanced Datasets in Machine Learning, Published by Packt |  | ⭐ 2 |
-| [Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide](https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide) | Implementing Analytics Solutions Using Microsoft Fabric Exam DP600 StudyGuide, publishe... | Python | ⭐ 9 |
+| [Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide](https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide) | Implementing Analytics Solutions Using Microsoft Fabric Exam DP600 StudyGuide, publishe... | Python | ⭐ 10 |
 | [Implementing-and-Administering-Cisco-Solutions](https://github.com/PacktPublishing/Implementing-and-Administering-Cisco-Solutions) | Implementing and Administering Cisco Solutions: CCNA 200-301 Exam Guide, published by P... |  | ⭐ 39 |
 | [Implementing-and-Administering-Cisco-Solutions-200-301-CCNA-Exam-Guide-Second-Edition](https://github.com/PacktPublishing/Implementing-and-Administering-Cisco-Solutions-200-301-CCNA-Exam-Guide-Second-Edition) |  |  | ⭐ 9 |
 | [Implementing-Apollo-GraphQL](https://github.com/PacktPublishing/Implementing-Apollo-GraphQL) |  | TypeScript | ⭐ 4 |
@@ -4549,9 +4555,9 @@
 | [Internet-of-Things-Programming-with-Javascript](https://github.com/PacktPublishing/Internet-of-Things-Programming-with-Javascript) | Code reposiory for Internet of Things Programming with Javascript, published by Packt  | Java | ⭐ 14 |
 | [Internet-of-Things-Projects-with-ESP32](https://github.com/PacktPublishing/Internet-of-Things-Projects-with-ESP32) | Hands-On Internet of things with ESP32, published by Packt | C | ⭐ 58 |
 | [Internet-of-Things-with-Arduino-Cookbook](https://github.com/PacktPublishing/Internet-of-Things-with-Arduino-Cookbook) | Code repository for Internet of Things with Arduino Cookbook, published by Packt | C++ | ⭐ 25 |
-| [Internet-of-Things-with-ESP32](https://github.com/PacktPublishing/Internet-of-Things-with-ESP32) | Developing IoT Projects with ESP32, published by Packt | C | ⭐ 222 |
+| [Internet-of-Things-with-ESP32](https://github.com/PacktPublishing/Internet-of-Things-with-ESP32) | Developing IoT Projects with ESP32, published by Packt | C | ⭐ 223 |
 | [Internet-of-Things-with-ESP8266](https://github.com/PacktPublishing/Internet-of-Things-with-ESP8266) | Code repository for Internet of Things with ESP8266, published by Packt | C++ | ⭐ 9 |
-| [Internet-of-Things-with-Python](https://github.com/PacktPublishing/Internet-of-Things-with-Python) | Code Repository for Internet of Things with Python, Published by Packt Publishing | Python | ⭐ 36 |
+| [Internet-of-Things-with-Python](https://github.com/PacktPublishing/Internet-of-Things-with-Python) | Code Repository for Internet of Things with Python, Published by Packt Publishing | Python | ⭐ 37 |
 | [Internet-of-Things-with-Raspberry-Pi-3](https://github.com/PacktPublishing/Internet-of-Things-with-Raspberry-Pi-3) | Internet of Things with Raspberry Pi 3 by Packt | JavaScript | ⭐ 9 |
 | [Interpretable-Machine-Learning-with-Python](https://github.com/PacktPublishing/Interpretable-Machine-Learning-with-Python) | Interpretable Machine Learning with Python, published by Packt | Jupyter Notebook | ⭐ 486 |
 | [Interpretable-Machine-Learning-with-Python-2E](https://github.com/PacktPublishing/Interpretable-Machine-Learning-with-Python-2E) | Interpretable ML with Python, 2E - published by Packt | Jupyter Notebook | ⭐ 111 |
@@ -4590,7 +4596,7 @@
 | [Introduction-to-Exam-Preparation-for-CISSP-Certification](https://github.com/PacktPublishing/Introduction-to-Exam-Preparation-for-CISSP-Certification) | Code repository for Introduction to Exam Preparation for CISSP®️ Certification, publish... |  | ⭐ 2 |
 | [Introduction-to-FinTech-Using-R](https://github.com/PacktPublishing/Introduction-to-FinTech-Using-R) | Introduction to FinTech Using R, by Packt Publishing | R | ⭐ 1 |
 | [Introduction-to-Firebase](https://github.com/PacktPublishing/Introduction-to-Firebase) | Code Repository for Introduction to Firebase, published by Packt |  | ⭐ 1 |
-| [Introduction-to-Generative-AI-with-Amazon-Bedrock](https://github.com/PacktPublishing/Introduction-to-Generative-AI-with-Amazon-Bedrock) | Introduction to Generative AI with Amazon Bedrock, Published by Packt Publishing | Rich Text Format | ⭐ 1 |
+| [Introduction-to-Generative-AI-with-Amazon-Bedrock](https://github.com/PacktPublishing/Introduction-to-Generative-AI-with-Amazon-Bedrock) | Introduction to Generative AI with Amazon Bedrock, Published by Packt Publishing | Rich Text Format | ⭐ 2 |
 | [Introduction-to-Go-Classical-Patterns](https://github.com/PacktPublishing/Introduction-to-Go-Classical-Patterns) | Introduction to Go Classical Patterns, published by Packt | Go | ⭐ 6 |
 | [Introduction-to-HTML-A-Complete-Beginner-to-Expert-Course](https://github.com/PacktPublishing/Introduction-to-HTML-A-Complete-Beginner-to-Expert-Course) | Code repository for Introduction to HTML: A Complete Beginner to Expert Course, Publish... | HTML | ⭐ 2 |
 | [Introduction-to-In-App-Purchases-and-Ads](https://github.com/PacktPublishing/Introduction-to-In-App-Purchases-and-Ads) | Code repository for Introduction to In-App Purchases and Ads, published by Packt |  | ⭐ 1 |
@@ -4691,7 +4697,7 @@
 | [ITIL-v4-Revision-Guide](https://github.com/PacktPublishing/ITIL-v4-Revision-Guide) | ITIL v4 Revision Guide, published by [Packt] |  | ⭐ 12 |
 | [ITSM-v5-Foundation-Master-IT-Service-Management-for-2026-Certification-Success](https://github.com/PacktPublishing/ITSM-v5-Foundation-Master-IT-Service-Management-for-2026-Certification-Success) |  |  |  |
 
-## J (211 repos)
+## J (212 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -4715,7 +4721,7 @@
 | [Java-18.9-Cookbook](https://github.com/PacktPublishing/Java-18.9-Cookbook) |  | Java | ⭐ 1 |
 | [Java-21-Exploring-the-Latest-Innovations-for-2024](https://github.com/PacktPublishing/Java-21-Exploring-the-Latest-Innovations-for-2024) |  | Java | ⭐ 6 |
 | [Java-9-Building-Robust-Modular-Applications](https://github.com/PacktPublishing/Java-9-Building-Robust-Modular-Applications) | Java9  Building Robust Modular Applications, published by Packt | Java | ⭐ 6 |
-| [Java-9-Concurrency-Cookbook-Second-Edition](https://github.com/PacktPublishing/Java-9-Concurrency-Cookbook-Second-Edition) | Java 9 Concurrency Cookbook, Second Edition by Packt | Java | ⭐ 88 |
+| [Java-9-Concurrency-Cookbook-Second-Edition](https://github.com/PacktPublishing/Java-9-Concurrency-Cookbook-Second-Edition) | Java 9 Concurrency Cookbook, Second Edition by Packt | Java | ⭐ 92 |
 | [Java-9-Cookbook](https://github.com/PacktPublishing/Java-9-Cookbook) | Java 9 Cookbook, published by Packt | Java | ⭐ 20 |
 | [Java-9-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Java-9-Data-Structures-and-Algorithms) | A step-by-step guide to data structures and algorithms | Java | ⭐ 10 |
 | [Java-9-Dependency-Injection](https://github.com/PacktPublishing/Java-9-Dependency-Injection) | Java 9 Dependency Injection, published by Packt. |  | ⭐ 10 |
@@ -4771,7 +4777,7 @@
 | [Java-Programming](https://github.com/PacktPublishing/Java-Programming) |  | Java | ⭐ 3 |
 | [Java-Programming-for-Beginners](https://github.com/PacktPublishing/Java-Programming-for-Beginners) | Java Programming for Beginners, published by Packt | Java | ⭐ 41 |
 | [Java-Programming-for-Complete-Beginners](https://github.com/PacktPublishing/Java-Programming-for-Complete-Beginners) | Java Programming for Complete Beginners, by Packt Publishing | Java | ⭐ 11 |
-| [Java-Projects-Second-Edition](https://github.com/PacktPublishing/Java-Projects-Second-Edition) | Java Projects - Second Edition, published by Packt | HTML | ⭐ 60 |
+| [Java-Projects-Second-Edition](https://github.com/PacktPublishing/Java-Projects-Second-Edition) | Java Projects - Second Edition, published by Packt | HTML | ⭐ 59 |
 | [Java-SE-9-Road-to-Concurrent-and-High-Performance-Programming](https://github.com/PacktPublishing/Java-SE-9-Road-to-Concurrent-and-High-Performance-Programming) |  Java SE 9: Road to Concurrent and High Performance Programming, published by Packt | Java | ⭐ 3 |
 | [Java-SE-New-Features-Covers-Versions-9-10-11-and-12](https://github.com/PacktPublishing/Java-SE-New-Features-Covers-Versions-9-10-11-and-12) | Java SE New Features: Covers Versions 9, 10, 11, and 12, published by Packt | Java | ⭐ 7 |
 | [Java-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Java-Tips-Tricks-and-Techniques) | Java: Tips, Tricks and Techniques, Published by Packt | Java | ⭐ 9 |
@@ -4821,10 +4827,11 @@
 | [JavaScript-for-Beginners---A-Complete-Guide](https://github.com/PacktPublishing/JavaScript-for-Beginners---A-Complete-Guide) | Code Repository for JavaScript for Beginners - A Complete Guide, Published by Packt | CSS | ⭐ 1 |
 | [JavaScript-for-Beginners-Get-to-Grips-with-Fundamental-JavaScript-Concepts](https://github.com/PacktPublishing/JavaScript-for-Beginners-Get-to-Grips-with-Fundamental-JavaScript-Concepts) | Code Repository for JavaScript for Beginners: Get to Grips with Fundamental JavaScript ... |  | ⭐ 4 |
 | [JavaScript-for-Beginners-Learn-with-6-Main-Projects](https://github.com/PacktPublishing/JavaScript-for-Beginners-Learn-with-6-Main-Projects) | JavaScript for Beginners: Learn with 6 Main Projects by Packt Publishing | HTML | ⭐ 3 |
+| [JavaScript-for-QA-Engineers-and-SDETs](https://github.com/PacktPublishing/JavaScript-for-QA-Engineers-and-SDETs) | JavaScript for QA Engineers and SDETs, published by Packt Publishing |  |  |
 | [JavaScript-for-WordPress](https://github.com/PacktPublishing/JavaScript-for-WordPress) | JavaScript for WordPress[video], published by Packt |  | ⭐ 1 |
 | [JavaScript-Foundations-Course](https://github.com/PacktPublishing/JavaScript-Foundations-Course) | JavaScript Foundations Course, published by Packt | HTML | ⭐ 2 |
 | [JavaScript-from-Beginner-to-Expert](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Expert) | Code Repository for JavaScript from Beginner to Expert, published by Packt | JavaScript | ⭐ 11 |
-| [JavaScript-from-Beginner-to-Professional](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional) | JavaScript from Beginner to Professional, Published by Packt | HTML | ⭐ 367 |
+| [JavaScript-from-Beginner-to-Professional](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional) | JavaScript from Beginner to Professional, Published by Packt | HTML | ⭐ 369 |
 | [JavaScript-from-Frontend-to-Backend](https://github.com/PacktPublishing/JavaScript-from-Frontend-to-Backend) | JavaScript from Frontend to Backend, published by Packt |  | ⭐ 49 |
 | [JavaScript-Fundamentals-2018-ES6-for-Beginners](https://github.com/PacktPublishing/JavaScript-Fundamentals-2018-ES6-for-Beginners) | Code repository for JavaScript Fundamentals 2018 ES6 for Beginners, Published by Packt | JavaScript | ⭐ 2 |
 | [JavaScript-Game-Exercise---Quick-Click-Popper-Game](https://github.com/PacktPublishing/JavaScript-Game-Exercise---Quick-Click-Popper-Game) | Code repository for JavaScript Game Exercise - Quick Click Popper Game, Published by Packt | HTML | ⭐ 2 |
@@ -4936,7 +4943,7 @@
 | [Keras-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Keras-Tips-Tricks-and-Techniques) |  | Jupyter Notebook | ⭐ 7 |
 | [Key-LLMOps-Principles-for-Deploying-Reliable-AI-Systems](https://github.com/PacktPublishing/Key-LLMOps-Principles-for-Deploying-Reliable-AI-Systems) | Key LLMOps Principles for Deploying Reliable AI Systems |  |  |
 | [Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition) | Keycloak - Identity and Access Management for Modern Applications, 2nd Edition | JavaScript | ⭐ 132 |
-| [Keycloak-Identity-and-Access-Management-for-Modern-Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications) | Keycloak: Identity and Access Management for Modern Applications, published by Packt | HTML | ⭐ 274 |
+| [Keycloak-Identity-and-Access-Management-for-Modern-Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications) | Keycloak: Identity and Access Management for Modern Applications, published by Packt | HTML | ⭐ 275 |
 | [Kibana-7-Quick-Start-Guide](https://github.com/PacktPublishing/Kibana-7-Quick-Start-Guide) | Published by Packt |  | ⭐ 12 |
 | [Kibana-8.x-A-Quick-Start-Guide-to-Data-Analysis](https://github.com/PacktPublishing/Kibana-8.x-A-Quick-Start-Guide-to-Data-Analysis) | Kibana 8.x – A Quick Start Guide to Data Analysis, published by Packt |  | ⭐ 2 |
 | [KiCad-like-a-Pro](https://github.com/PacktPublishing/KiCad-like-a-Pro) | Code Repository for KiCad like a Pro, published by Packt |  | ⭐ 1 |
@@ -5039,7 +5046,7 @@
 | [LaTeX-A-Z-from-beginner-to-advanced-in-less-than-3-hours](https://github.com/PacktPublishing/LaTeX-A-Z-from-beginner-to-advanced-in-less-than-3-hours) | Code Repository for LaTeX A-Z: from beginner to advanced in less than 3 hours, publishe... |  | ⭐ 4 |
 | [LaTeX-Beginner-s-Guide](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide) | LaTeX Beginner's Guide, published by packt | TeX | ⭐ 28 |
 | [LaTeX-Beginner-s-Guide-Second-Edition](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition) | LaTeX Beginner's Guide - Second Edition, published by Packt | TeX | ⭐ 126 |
-| [LaTeX-Beginner-s-Guide-Third-Edition](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Third-Edition) |  | TeX | ⭐ 22 |
+| [LaTeX-Beginner-s-Guide-Third-Edition](https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Third-Edition) |  | TeX | ⭐ 23 |
 | [LaTeX-Cookbook](https://github.com/PacktPublishing/LaTeX-Cookbook) | LaTeX Cookbook, published by Packt  | TeX | ⭐ 69 |
 | [LaTeX-For-Everyone-and-Everything](https://github.com/PacktPublishing/LaTeX-For-Everyone-and-Everything) | LaTeX For Everyone and Everything, published by Packt |  | ⭐ 4 |
 | [LaTeX-graphics-with-TikZ](https://github.com/PacktPublishing/LaTeX-graphics-with-TikZ) | LaTeX graphics with TikZ, by Packt Publishing | TeX | ⭐ 208 |
@@ -5055,7 +5062,7 @@
 | [Lean-Mobile-App-Development](https://github.com/PacktPublishing/Lean-Mobile-App-Development) | Lean Mobile App Development, published by Packt |  | ⭐ 7 |
 | [Lean-Project-Management---Eliminate-Waste-Deliver-More-with-Less](https://github.com/PacktPublishing/Lean-Project-Management---Eliminate-Waste-Deliver-More-with-Less) | Lean Project Management - Eliminate Waste & Deliver More with Less, published by Packt ... |  |  |
 | [Lean-Six-Sigma-Professional-Track---From-Green-to-Black-Belt-](https://github.com/PacktPublishing/Lean-Six-Sigma-Professional-Track---From-Green-to-Black-Belt-) | This is the code repository for Lean Six Sigma Professional Track - From Green to Black... |  | ⭐ 1 |
-| [Learn-Algorithmic-Trading](https://github.com/PacktPublishing/Learn-Algorithmic-Trading) | Learn Algorithmic Trading, Published by Packt | Python | ⭐ 964 |
+| [Learn-Algorithmic-Trading](https://github.com/PacktPublishing/Learn-Algorithmic-Trading) | Learn Algorithmic Trading, Published by Packt | Python | ⭐ 965 |
 | [Learn-Algorithms-and-Data-Structures-in-Java-for-Day-to-Day-Applications](https://github.com/PacktPublishing/Learn-Algorithms-and-Data-Structures-in-Java-for-Day-to-Day-Applications) | Learn Algorithms and Data Structures in Java for Day-to-Day Applications, published by ... |  | ⭐ 2 |
 | [Learn-Amazon-SageMaker](https://github.com/PacktPublishing/Learn-Amazon-SageMaker) | Learn Amazon SageMaker | Jupyter Notebook | ⭐ 105 |
 | [Learn-Amazon-SageMaker-second-edition](https://github.com/PacktPublishing/Learn-Amazon-SageMaker-second-edition) | Learn Amazon SageMaker - Second Edition, published by Packt | Jupyter Notebook | ⭐ 60 |
@@ -5082,7 +5089,7 @@
 | [Learn-Azure-Storage-SDK](https://github.com/PacktPublishing/Learn-Azure-Storage-SDK) | Learn Azure Storage SDK, published by Packt | C# | ⭐ 1 |
 | [Learn-Azure-Synapse-Data-Explorer](https://github.com/PacktPublishing/Learn-Azure-Synapse-Data-Explorer) | Learn Azure Synapse Data Explorer, published by Packt | Jupyter Notebook | ⭐ 1 |
 | [Learn-Bash-Shell-Scripting-For-Automation](https://github.com/PacktPublishing/Learn-Bash-Shell-Scripting-For-Automation) | Learn Bash Shell Scripting For Automation, by Packt Publishing | Shell | ⭐ 4 |
-| [Learn-Blender-4-Simulations-the-Right-Way](https://github.com/PacktPublishing/Learn-Blender-4-Simulations-the-Right-Way) | Learn Blender 4 Simulations the Right Way, published by Packt |  | ⭐ 5 |
+| [Learn-Blender-4-Simulations-the-Right-Way](https://github.com/PacktPublishing/Learn-Blender-4-Simulations-the-Right-Way) | Learn Blender 4 Simulations the Right Way, published by Packt |  | ⭐ 6 |
 | [Learn-Blender-Simulations-the-Right-Way](https://github.com/PacktPublishing/Learn-Blender-Simulations-the-Right-Way) | Learn Blender Simulations the RIght Way, published  by Packt |  | ⭐ 24 |
 | [Learn-Blockchain-Programming-with-JavaScript](https://github.com/PacktPublishing/Learn-Blockchain-Programming-with-JavaScript) | Learn Blockchain Programming with JavaScript, published by Packt | JavaScript | ⭐ 72 |
 | [Learn-Bootstrap-4-Responsive-Web-Development](https://github.com/PacktPublishing/Learn-Bootstrap-4-Responsive-Web-Development) | Code Repository for Learn Bootstrap 4 Responsive Web Development, published by Packt1 | HTML | ⭐ 1 |
@@ -5103,8 +5110,8 @@
 | [Learn-C-By-Building-Applications](https://github.com/PacktPublishing/Learn-C-By-Building-Applications) | Learn C# By Building Applications [Video], published by Packt | C# | ⭐ 3 |
 | [Learn-C-by-Building-Applications-Updated-2024-](https://github.com/PacktPublishing/Learn-C-by-Building-Applications-Updated-2024-) | Learn C# by Building Applications, Published by Packt Publishing |  | ⭐ 1 |
 | [Learn-C-in-7-days](https://github.com/PacktPublishing/Learn-C-in-7-days) |  |  | ⭐ 1 |
-| [Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) | Learn C Programming, published by Packt | C | ⭐ 375 |
-| [Learn-C-Programming-Second-Edition](https://github.com/PacktPublishing/Learn-C-Programming-Second-Edition) | Learn C Programming, Second Edition, published by Packt | C | ⭐ 85 |
+| [Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) | Learn C Programming, published by Packt | C | ⭐ 377 |
+| [Learn-C-Programming-Second-Edition](https://github.com/PacktPublishing/Learn-C-Programming-Second-Edition) | Learn C Programming, Second Edition, published by Packt | C | ⭐ 86 |
 | [Learn-C-Sharp-in-7-days](https://github.com/PacktPublishing/Learn-C-Sharp-in-7-days) | Learn-C-Sharp-in-7-days | C# | ⭐ 7 |
 | [Learn-C-Sharp-Programming](https://github.com/PacktPublishing/Learn-C-Sharp-Programming) | Learn C# Programming, published by Packt | C# | ⭐ 53 |
 | [Learn-C-Templates](https://github.com/PacktPublishing/Learn-C-Templates) | Learn C++ Templates, published by Packt |  | ⭐ 1 |
@@ -5126,7 +5133,7 @@
 | [Learn-Concurrency-with-C-](https://github.com/PacktPublishing/Learn-Concurrency-with-C-) | Learn Concurrency with C++, published by Packt | C++ | ⭐ 4 |
 | [Learn-CSharp-By-Building-Applications](https://github.com/PacktPublishing/Learn-CSharp-By-Building-Applications) | All code contents used for the course called - Learn C# By Building Applications. | C# | ⭐ 1 |
 | [Learn-CSharp-in-7-days](https://github.com/PacktPublishing/Learn-CSharp-in-7-days) | Learn C# in 7 days, published by Packt | C# | ⭐ 28 |
-| [Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) | Learn CUDA Programming, published by Packt | Cuda | ⭐ 1261 |
+| [Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) | Learn CUDA Programming, published by Packt | Cuda | ⭐ 1262 |
 | [Learn-Cypher-Querying-](https://github.com/PacktPublishing/Learn-Cypher-Querying-) | Learn Cypher Querying, published by Packt |  | ⭐ 1 |
 | [Learn-D3.js](https://github.com/PacktPublishing/Learn-D3.js) | published by Packt | HTML | ⭐ 88 |
 | [Learn-D3.js-2nd-Edition](https://github.com/PacktPublishing/Learn-D3.js-2nd-Edition) | Learn D3.js, Published by Packt |  |  |
@@ -5207,13 +5214,13 @@
 | [Learn-Linux-in-5-Days-and-Level-Up-Your-Career](https://github.com/PacktPublishing/Learn-Linux-in-5-Days-and-Level-Up-Your-Career) | Learn Linux in 5 Days and Level Up Your Career [Video], published by packt |  | ⭐ 3 |
 | [Learn-Linux-Shell-Scripting-Fundamentals-of-Bash-4.4](https://github.com/PacktPublishing/Learn-Linux-Shell-Scripting-Fundamentals-of-Bash-4.4) | Learn Linux Shell Scripting Fundamentals of Bash 4.4, published by Packt | Shell | ⭐ 44 |
 | [Learn-LLVM-12](https://github.com/PacktPublishing/Learn-LLVM-12) | Learn LLVM 12, published by Packt | C++ | ⭐ 498 |
-| [Learn-LLVM-17](https://github.com/PacktPublishing/Learn-LLVM-17) | Learn LLVM 17, published by Packt | C++ | ⭐ 218 |
+| [Learn-LLVM-17](https://github.com/PacktPublishing/Learn-LLVM-17) | Learn LLVM 17, published by Packt | C++ | ⭐ 217 |
 | [Learn-LLVM-Core-Libraries-Second-Edition](https://github.com/PacktPublishing/Learn-LLVM-Core-Libraries-Second-Edition) | Learn LLVM Core Libraries, Second Edition, published by Packt | C++ | ⭐ 12 |
 | [Learn-LLVM-Third-Edition](https://github.com/PacktPublishing/Learn-LLVM-Third-Edition) | Learn-LLVM-Third-Edition |  |  |
 | [Learn-Machine-Learning-in-3-Hours](https://github.com/PacktPublishing/Learn-Machine-Learning-in-3-Hours) | Learn Machine Learning in 3 Hours, published by packt | Python | ⭐ 8 |
 | [Learn-MEAN-Stack](https://github.com/PacktPublishing/Learn-MEAN-Stack) | Learn MEAN Stack, published by Packt | TypeScript | ⭐ 1 |
 | [Learn-MeteorJS-By-Building-10-Real-World-Projects](https://github.com/PacktPublishing/Learn-MeteorJS-By-Building-10-Real-World-Projects) | Code Repository for Learn MeteorJS By Building 10 Real World Projects, published by Packt |  | ⭐ 1 |
-| [Learn-Microsoft-Fabric](https://github.com/PacktPublishing/Learn-Microsoft-Fabric) | Learn Microsoft Fabric, published by Packt | Jupyter Notebook | ⭐ 36 |
+| [Learn-Microsoft-Fabric](https://github.com/PacktPublishing/Learn-Microsoft-Fabric) | Learn Microsoft Fabric, published by Packt | Jupyter Notebook | ⭐ 37 |
 | [Learn-Microsoft-Office-2019](https://github.com/PacktPublishing/Learn-Microsoft-Office-2019) | Learn Microsoft Office 2019, published by Packt | HTML | ⭐ 12 |
 | [Learn-Microsoft-Office-2021-Second-Edition](https://github.com/PacktPublishing/Learn-Microsoft-Office-2021-Second-Edition) | Learn Microsoft Office 2021 - Second Edition, published by Packt | Rich Text Format | ⭐ 5 |
 | [Learn-Microsoft-Power-Apps-2E](https://github.com/PacktPublishing/Learn-Microsoft-Power-Apps-2E) | Code Repository for Learn Microsoft Power Apps Second Edition, Published by Packt |  | ⭐ 11 |
@@ -5239,11 +5246,11 @@
 | [Learn-Netsuite-2019](https://github.com/PacktPublishing/Learn-Netsuite-2019) | Learn Netsuite 2019, Published by Packt |  | ⭐ 1 |
 | [Learn-Network-Hacking-From-Scratch-WiFi-and-Wired-](https://github.com/PacktPublishing/Learn-Network-Hacking-From-Scratch-WiFi-and-Wired-) | Learn Network Hacking From Scratch (WiFi and Wired), published by Packt |  | ⭐ 13 |
 | [Learn-Node.js-by-Building-6-Projects](https://github.com/PacktPublishing/Learn-Node.js-by-Building-6-Projects) |  | JavaScript | ⭐ 30 |
-| [Learn-Nodejs-by-building-12-projects](https://github.com/PacktPublishing/Learn-Nodejs-by-building-12-projects) | Learn Nodejs by building 12 projects, published by Packt | JavaScript | ⭐ 23 |
+| [Learn-Nodejs-by-building-12-projects](https://github.com/PacktPublishing/Learn-Nodejs-by-building-12-projects) | Learn Nodejs by building 12 projects, published by Packt | JavaScript | ⭐ 22 |
 | [Learn-Odoo](https://github.com/PacktPublishing/Learn-Odoo) | Learn Odoo, published by Packt |  | ⭐ 5 |
 | [Learn-OpenAI-Assistants-API](https://github.com/PacktPublishing/Learn-OpenAI-Assistants-API) | Learn OpenAI Assistants API, published by Packt |  | ⭐ 1 |
 | [Learn-OpenAI-Whisper](https://github.com/PacktPublishing/Learn-OpenAI-Whisper) | Learn OpenAI Whisper, published by Packt | Jupyter Notebook | ⭐ 29 |
-| [Learn-OpenCV-4-By-Building-Projects-Second-Edition](https://github.com/PacktPublishing/Learn-OpenCV-4-By-Building-Projects-Second-Edition) | Learn OpenCV 4 By Building Projects, Second Edition, published by Packt | C++ | ⭐ 392 |
+| [Learn-OpenCV-4-By-Building-Projects-Second-Edition](https://github.com/PacktPublishing/Learn-OpenCV-4-By-Building-Projects-Second-Edition) | Learn OpenCV 4 By Building Projects, Second Edition, published by Packt | C++ | ⭐ 391 |
 | [Learn-OpenGL](https://github.com/PacktPublishing/Learn-OpenGL) | Learn OpenGL, published by Packt | C | ⭐ 64 |
 | [Learn-OpenShift](https://github.com/PacktPublishing/Learn-OpenShift) | Learn OpenShift, published by Packt | Dockerfile | ⭐ 30 |
 | [Learn-OpenShift-Second-Edition](https://github.com/PacktPublishing/Learn-OpenShift-Second-Edition) | Learn OpenShift, Second Edition, Published by Packt | Go Template | ⭐ 3 |
@@ -5252,7 +5259,7 @@
 | [learn-pl-sql-programming](https://github.com/PacktPublishing/learn-pl-sql-programming) |  |  | ⭐ 1 |
 | [Learn-PostgreSQL](https://github.com/PacktPublishing/Learn-PostgreSQL) | Learn PostgreSQL, published by Packt | PLpgSQL | ⭐ 137 |
 | [Learn-PostgreSQL-12](https://github.com/PacktPublishing/Learn-PostgreSQL-12) | Learn PostgreSQL 12, published by Packt |  | ⭐ 2 |
-| [Learn-PostgreSQL-Second-Edition](https://github.com/PacktPublishing/Learn-PostgreSQL-Second-Edition) | Learn PostgreSQL, Second Edition | Shell | ⭐ 159 |
+| [Learn-PostgreSQL-Second-Edition](https://github.com/PacktPublishing/Learn-PostgreSQL-Second-Edition) | Learn PostgreSQL, Second Edition | Shell | ⭐ 160 |
 | [Learn-PostgreSQL-Third-Edition](https://github.com/PacktPublishing/Learn-PostgreSQL-Third-Edition) | Learn PostgreSQL, Third Edition |  |  |
 | [Learn-Power-BI](https://github.com/PacktPublishing/Learn-Power-BI) | Learn Power BI, published by Packt |  | ⭐ 55 |
 | [Learn-Power-BI-Audiobook](https://github.com/PacktPublishing/Learn-Power-BI-Audiobook) |  |  | ⭐ 4 |
@@ -5278,7 +5285,7 @@
 | [Learn-Python-Requests](https://github.com/PacktPublishing/Learn-Python-Requests) | Code Repository for Learn Python Requests, published by packt |  | ⭐ 1 |
 | [Learn-Q-Programming---Fundamentals-of-Q-](https://github.com/PacktPublishing/Learn-Q-Programming---Fundamentals-of-Q-) | Learn Q# Programming - Fundamentals of Q# | C# | ⭐ 14 |
 | [Learn-QGIS](https://github.com/PacktPublishing/Learn-QGIS) | Learn-QGIS, published by Packt |  | ⭐ 3 |
-| [Learn-QGIS-Fifth-Edition](https://github.com/PacktPublishing/Learn-QGIS-Fifth-Edition) | Learn QGIS, Fifth Edition | Python | ⭐ 2 |
+| [Learn-QGIS-Fifth-Edition](https://github.com/PacktPublishing/Learn-QGIS-Fifth-Edition) | Learn QGIS, Fifth Edition | Python | ⭐ 3 |
 | [Learn-QGIS-Fourth-Edition](https://github.com/PacktPublishing/Learn-QGIS-Fourth-Edition) | Learn QGIS Fourth Edition, published by Packt | Python | ⭐ 19 |
 | [Learn-Qlik-Sense-Dashboard-Development](https://github.com/PacktPublishing/Learn-Qlik-Sense-Dashboard-Development) | Code repository for Learn Qlik Sense Dashboard Development published by Packt |  | ⭐ 5 |
 | [Learn-Qt-5](https://github.com/PacktPublishing/Learn-Qt-5) | Learn Qt 5, published by Packt | C++ | ⭐ 87 |
@@ -5290,9 +5297,9 @@
 | [Learn-React-Hooks](https://github.com/PacktPublishing/Learn-React-Hooks) | Learn React Hooks, published by Packt | JavaScript | ⭐ 153 |
 | [Learn-React-Hooks-Second-Edition](https://github.com/PacktPublishing/Learn-React-Hooks-Second-Edition) |  | JavaScript | ⭐ 16 |
 | [Learn-React-JS-and-Web-API-by-Creating-a-Full-Stack-Web-App](https://github.com/PacktPublishing/Learn-React-JS-and-Web-API-by-Creating-a-Full-Stack-Web-App) | Learn React JS and Web API by Creating a Full Stack Web App, published by Packt |  | ⭐ 2 |
-| [Learn-React-with-TypeScript-2nd-Edition](https://github.com/PacktPublishing/Learn-React-with-TypeScript-2nd-Edition) | Learn React with TypeScript (2nd Edition), published by Packt | TypeScript | ⭐ 164 |
-| [Learn-React-with-TypeScript-3](https://github.com/PacktPublishing/Learn-React-with-TypeScript-3) | Learn React with TypeScript 3, published by Packt | TypeScript | ⭐ 97 |
-| [Learn-React-with-TypeScript-Third-Edition](https://github.com/PacktPublishing/Learn-React-with-TypeScript-Third-Edition) |  | TypeScript | ⭐ 67 |
+| [Learn-React-with-TypeScript-2nd-Edition](https://github.com/PacktPublishing/Learn-React-with-TypeScript-2nd-Edition) | Learn React with TypeScript (2nd Edition), published by Packt | TypeScript | ⭐ 165 |
+| [Learn-React-with-TypeScript-3](https://github.com/PacktPublishing/Learn-React-with-TypeScript-3) | Learn React with TypeScript 3, published by Packt | TypeScript | ⭐ 98 |
+| [Learn-React-with-TypeScript-Third-Edition](https://github.com/PacktPublishing/Learn-React-with-TypeScript-Third-Edition) |  | TypeScript | ⭐ 68 |
 | [Learn-Red-Fundamentals-of-Red](https://github.com/PacktPublishing/Learn-Red-Fundamentals-of-Red) | Learn Red - Fundamentals of Red, published by Packt | HTML | ⭐ 13 |
 | [Learn-REST-API-Automation-Using-REST-Assured](https://github.com/PacktPublishing/Learn-REST-API-Automation-Using-REST-Assured) | Learn REST API Automation Using REST Assured, published by Packt |  | ⭐ 5 |
 | [Learn-Robotics-Programming](https://github.com/PacktPublishing/Learn-Robotics-Programming) | Learn Robotics - Fundamentals of Robotics Programming, published by Packt | Python | ⭐ 44 |
@@ -5301,7 +5308,7 @@
 | [Learn-Ruby-on-Rails-by-Building-Projects](https://github.com/PacktPublishing/Learn-Ruby-on-Rails-by-Building-Projects) | Learn Ruby on Rails by Building Projects, published by Packt | Ruby | ⭐ 1 |
 | [Learn-Rust](https://github.com/PacktPublishing/Learn-Rust) | Learn Rust by Packt Publishing | Makefile | ⭐ 5 |
 | [Learn-Rust-Programming---Fundamentals-of-Rust](https://github.com/PacktPublishing/Learn-Rust-Programming---Fundamentals-of-Rust) | Learn Rust Programming - Fundamentals of Rust by Packt Publishing | Rust | ⭐ 6 |
-| [Learn-S7-1200-PLC-and-HMI-from-Scratch-Basic-](https://github.com/PacktPublishing/Learn-S7-1200-PLC-and-HMI-from-Scratch-Basic-) |  |  | ⭐ 35 |
+| [Learn-S7-1200-PLC-and-HMI-from-Scratch-Basic-](https://github.com/PacktPublishing/Learn-S7-1200-PLC-and-HMI-from-Scratch-Basic-) |  |  | ⭐ 39 |
 | [Learn-Salesforce](https://github.com/PacktPublishing/Learn-Salesforce) | Learn Salesforce, published by Packt |  | ⭐ 1 |
 | [Learn-SASS-and-improve-your-CSS](https://github.com/PacktPublishing/Learn-SASS-and-improve-your-CSS) | Code Repository for Learn SASS and improve your CSS, published by Packt | SCSS | ⭐ 1 |
 | [Learn-SASS-and-SCSS](https://github.com/PacktPublishing/Learn-SASS-and-SCSS) | Learn SASS and SCSS, published by Packt |  | ⭐ 1 |
@@ -5315,7 +5322,7 @@
 | [Learn-SOLIDWORKS-2020](https://github.com/PacktPublishing/Learn-SOLIDWORKS-2020) | Learn SOLIDWORKS 2020, published by Packt |  | ⭐ 10 |
 | [Learn-SOLIDWORKS-2025-Third-Edition](https://github.com/PacktPublishing/Learn-SOLIDWORKS-2025-Third-Edition) | Learn SOLIDWORKS 2025 - Third Edition, published by Packt |  | ⭐ 7 |
 | [Learn-SOLIDWORKS-Second-Edition](https://github.com/PacktPublishing/Learn-SOLIDWORKS-Second-Edition) | Learn SOLIDWORKS - Second Edition, published by Packt |  | ⭐ 11 |
-| [Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert](https://github.com/PacktPublishing/Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert) | Code Repository for Learn Spring Boot in 100 Steps - Beginner to Expert, Published by P... | Java | ⭐ 90 |
+| [Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert](https://github.com/PacktPublishing/Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert) | Code Repository for Learn Spring Boot in 100 Steps - Beginner to Expert, Published by P... | Java | ⭐ 93 |
 | [Learn-Spring-Core-Framework-the-Easy-Way-](https://github.com/PacktPublishing/Learn-Spring-Core-Framework-the-Easy-Way-) | Learn Spring Core Framework the Easy Way!, by Packt Publishing | Rich Text Format | ⭐ 5 |
 | [Learn-Spring-for-Android-Application-Development](https://github.com/PacktPublishing/Learn-Spring-for-Android-Application-Development) | Learn Spring for Android Application Development, published by Packt | Kotlin | ⭐ 15 |
 | [Learn-Spring-Security-5](https://github.com/PacktPublishing/Learn-Spring-Security-5) | Learn Spring Security 5, published by Packt |  | ⭐ 1 |
@@ -5337,7 +5344,7 @@
 | [Learn-Terraform-for-Cloud-Infrastructures](https://github.com/PacktPublishing/Learn-Terraform-for-Cloud-Infrastructures) | Learn Terraform for Cloud Infrastructures [video], published by Packt | HCL | ⭐ 15 |
 | [Learn-the-Art-and-Science-of-PCB-Design-with-Eagle](https://github.com/PacktPublishing/Learn-the-Art-and-Science-of-PCB-Design-with-Eagle) |  |  | ⭐ 4 |
 | [Learn-the-Foundations-of-Blender](https://github.com/PacktPublishing/Learn-the-Foundations-of-Blender) | Learn the Foundations of Blender, published by Packt |  | ⭐ 2 |
-| [Learn-Three.js-Fourth-edition](https://github.com/PacktPublishing/Learn-Three.js-Fourth-edition) | Learn Three.js, Fourth edition, published by Packt | G-code | ⭐ 268 |
+| [Learn-Three.js-Fourth-edition](https://github.com/PacktPublishing/Learn-Three.js-Fourth-edition) | Learn Three.js, Fourth edition, published by Packt | G-code | ⭐ 269 |
 | [Learn-Three.js-Third-Edition](https://github.com/PacktPublishing/Learn-Three.js-Third-Edition) | Learn Three.js Third Edition, published by Packt | JavaScript | ⭐ 149 |
 | [Learn-to-Build-Alexa-Flash-Briefing-Skills-With-No-Coding](https://github.com/PacktPublishing/Learn-to-Build-Alexa-Flash-Briefing-Skills-With-No-Coding) | Code repository for Learn to Build Alexa Flash Briefing Skills With No Coding, publishe... |  | ⭐ 4 |
 | [Learn-to-Build-Amazon-Alexa-Skills-and-Converse-with-Machines](https://github.com/PacktPublishing/Learn-to-Build-Amazon-Alexa-Skills-and-Converse-with-Machines) | Learn to Build Amazon Alexa Skills and Converse with Machines, published by Packt | JavaScript | ⭐ 2 |
@@ -5444,7 +5451,7 @@
 | [Learning-Concurrent-Programming-In-Scala-Second-Edition](https://github.com/PacktPublishing/Learning-Concurrent-Programming-In-Scala-Second-Edition) | This is a code repository for the book, Learning Concurrent Programming in Scala - Seco... |  | ⭐ 25 |
 | [Learning-Continuous-Integration-with-Jenkins](https://github.com/PacktPublishing/Learning-Continuous-Integration-with-Jenkins) | Learning Continuous Integration with Jenkins by Packt Publishing | Java | ⭐ 18 |
 | [Learning-Continuous-Integration-with-Jenkins-Second-Edition](https://github.com/PacktPublishing/Learning-Continuous-Integration-with-Jenkins-Second-Edition) | Learning Continuous Integration with Jenkins – Second Edition, published by Packt |  | ⭐ 24 |
-| [Learning-Continuous-Integration-with-Jenkins_Third-Edition](https://github.com/PacktPublishing/Learning-Continuous-Integration-with-Jenkins_Third-Edition) | Learning Continuous Integration with Jenkins - Third Edition, published by Packt | JavaScript | ⭐ 19 |
+| [Learning-Continuous-Integration-with-Jenkins_Third-Edition](https://github.com/PacktPublishing/Learning-Continuous-Integration-with-Jenkins_Third-Edition) | Learning Continuous Integration with Jenkins - Third Edition, published by Packt | JavaScript | ⭐ 20 |
 | [Learning-Cpp-by-Building-Games-with-Unreal-Engine-4-Second-Edition](https://github.com/PacktPublishing/Learning-Cpp-by-Building-Games-with-Unreal-Engine-4-Second-Edition) | Learning C++ by Building Games with Unreal Engine 4 - Second Edition, published by Packt | C++ | ⭐ 48 |
 | [Learning-Crystal-Programming](https://github.com/PacktPublishing/Learning-Crystal-Programming) | Learning Crystal Programming, published by Packt |  | ⭐ 2 |
 | [Learning-CSS](https://github.com/PacktPublishing/Learning-CSS) |  |  | ⭐ 1 |
@@ -5492,9 +5499,9 @@
 | [Learning-GDScript-by-Developing-a-Game-with-Godot-4](https://github.com/PacktPublishing/Learning-GDScript-by-Developing-a-Game-with-Godot-4) | Learning GDScript by Developing a Game with Godot 4, published by Packt | JavaScript | ⭐ 78 |
 | [Learning-Generative-Adversarial-Networks](https://github.com/PacktPublishing/Learning-Generative-Adversarial-Networks) | Learning-Generative-Adversarial-Networks, published by Packt | Python | ⭐ 35 |
 | [Learning-Generative-Adversarial-Networks-V-](https://github.com/PacktPublishing/Learning-Generative-Adversarial-Networks-V-) | Learning Generative Adversarial Networks by Packt Publishing | Python | ⭐ 3 |
-| [Learning-Geospatial-Analysis-with-Python-Fourth-Edition](https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Fourth-Edition) | Learning Geospatial Analysis with Python - Fourth Edition, published by Packt | Python | ⭐ 52 |
-| [Learning-Geospatial-Analysis-with-Python-Third-Edition](https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition) | Learning Geospatial Analysis with Python – Third Edition, published by Packt | Python | ⭐ 211 |
-| [Learning-GitHub-Actions-for-DevOps-CI-CD](https://github.com/PacktPublishing/Learning-GitHub-Actions-for-DevOps-CI-CD) | Learning GitHub Actions for DevOps CI/CD, published by Packt | Shell | ⭐ 39 |
+| [Learning-Geospatial-Analysis-with-Python-Fourth-Edition](https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Fourth-Edition) | Learning Geospatial Analysis with Python - Fourth Edition, published by Packt | Python | ⭐ 53 |
+| [Learning-Geospatial-Analysis-with-Python-Third-Edition](https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition) | Learning Geospatial Analysis with Python – Third Edition, published by Packt | Python | ⭐ 210 |
+| [Learning-GitHub-Actions-for-DevOps-CI-CD](https://github.com/PacktPublishing/Learning-GitHub-Actions-for-DevOps-CI-CD) | Learning GitHub Actions for DevOps CI/CD, published by Packt | Shell | ⭐ 40 |
 | [Learning-GitLab](https://github.com/PacktPublishing/Learning-GitLab) |  Learning GitLab, published by Packt | Shell | ⭐ 14 |
 | [Learning-GitLab-](https://github.com/PacktPublishing/Learning-GitLab-) | Code files |  | ⭐ 2 |
 | [Learning-Go-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Learning-Go-Data-Structures-and-Algorithms) | Learning Go Data Structures and Algorithms, published by Packt | Go | ⭐ 30 |
@@ -5584,8 +5591,8 @@
 | [Learning-Node.js-with-Azure](https://github.com/PacktPublishing/Learning-Node.js-with-Azure) | Learning Node.js with Azure, published by Packt | JavaScript | ⭐ 8 |
 | [Learning-Object-Oriented-Programming-with-C-sharp-7](https://github.com/PacktPublishing/Learning-Object-Oriented-Programming-with-C-sharp-7) |  | C# | ⭐ 1 |
 | [Learning-OpenCV-3-Application-Development](https://github.com/PacktPublishing/Learning-OpenCV-3-Application-Development) | Learning OpenCV 3 Application Development by Packt | C++ | ⭐ 27 |
-| [Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition) | Learning OpenCV 4 Computer Vision with Python 3 – Third Edition, published by Packt | Python | ⭐ 760 |
-| [Learning-OpenCV-5-Computer-Vision-with-Python-Fourth-Edition](https://github.com/PacktPublishing/Learning-OpenCV-5-Computer-Vision-with-Python-Fourth-Edition) | Learning OpenCV 5 Computer Vision with Python, Fourth Edition, Published by Packt | Python | ⭐ 127 |
+| [Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition) | Learning OpenCV 4 Computer Vision with Python 3 – Third Edition, published by Packt | Python | ⭐ 762 |
+| [Learning-OpenCV-5-Computer-Vision-with-Python-Fourth-Edition](https://github.com/PacktPublishing/Learning-OpenCV-5-Computer-Vision-with-Python-Fourth-Edition) | Learning OpenCV 5 Computer Vision with Python, Fourth Edition, Published by Packt | Python | ⭐ 128 |
 | [Learning-OpenDaylight](https://github.com/PacktPublishing/Learning-OpenDaylight) | Learning OpenDaylight, published by Packt | Java | ⭐ 6 |
 | [Learning-OpenShift-3.x](https://github.com/PacktPublishing/Learning-OpenShift-3.x) |  |  | ⭐ 1 |
 | [Learning-OpenStack](https://github.com/PacktPublishing/Learning-OpenStack) | Learning OpenStack, published by Packt |  | ⭐ 3 |
@@ -5627,7 +5634,7 @@
 | [Learning-Probabilistic-Graphical-Models-in-R](https://github.com/PacktPublishing/Learning-Probabilistic-Graphical-Models-in-R) | Learning Probabilistic Graphical Models in R | R | ⭐ 32 |
 | [Learning-Programmatic-Access-to-MongoDB](https://github.com/PacktPublishing/Learning-Programmatic-Access-to-MongoDB) | Code Repository for Learning Programmatic Access to MongoDB, published by Packt | PHP | ⭐ 1 |
 | [Learning-Puppet-for-Windows-Server](https://github.com/PacktPublishing/Learning-Puppet-for-Windows-Server) | Code files for Learning-Puppet-for-Windows-Server | Ruby | ⭐ 6 |
-| [Learning-PySpark](https://github.com/PacktPublishing/Learning-PySpark) | Code repository for Learning PySpark by Packt | Jupyter Notebook | ⭐ 345 |
+| [Learning-PySpark](https://github.com/PacktPublishing/Learning-PySpark) | Code repository for Learning PySpark by Packt | Jupyter Notebook | ⭐ 344 |
 | [Learning-Python](https://github.com/PacktPublishing/Learning-Python) |  | Python | ⭐ 16 |
 | [Learning-Python-Application-Development](https://github.com/PacktPublishing/Learning-Python-Application-Development) | Code repository for Learning Python Application Development, published by Packt | Python | ⭐ 84 |
 | [Learning-Python-Artificial-Intelligence-by-Example](https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example) | Learning Python Artificial Intelligence by Example [Video], Published By Packt | Jupyter Notebook | ⭐ 22 |
@@ -5646,7 +5653,7 @@
 | [Learning-Qlikview-12](https://github.com/PacktPublishing/Learning-Qlikview-12) | Learning Qlikview 12 [Video] , published by Packt |  | ⭐ 1 |
 | [Learning-Qt-5-](https://github.com/PacktPublishing/Learning-Qt-5-) | code files |  | ⭐ 3 |
 | [Learning-Quantitative-Finance-with-R](https://github.com/PacktPublishing/Learning-Quantitative-Finance-with-R) | Code repository of Learning Quantitative Finance with R by Packt |  | ⭐ 54 |
-| [Learning-Quantum-Computing-with-Python-and-IBM-Quantum-Second-Edition](https://github.com/PacktPublishing/Learning-Quantum-Computing-with-Python-and-IBM-Quantum-Second-Edition) | Learning Quantum Computing with Python and IBM Quantum, Second Edition, Published by Packt | Jupyter Notebook | ⭐ 44 |
+| [Learning-Quantum-Computing-with-Python-and-IBM-Quantum-Second-Edition](https://github.com/PacktPublishing/Learning-Quantum-Computing-with-Python-and-IBM-Quantum-Second-Edition) | Learning Quantum Computing with Python and IBM Quantum, Second Edition, Published by Packt | Jupyter Notebook | ⭐ 46 |
 | [Learning-R-for-Data-Visualization](https://github.com/PacktPublishing/Learning-R-for-Data-Visualization) | Learning R for Data Visualization [Video] by Packt Publishing |  | ⭐ 2 |
 | [Learning-R-Programming](https://github.com/PacktPublishing/Learning-R-Programming) | Code repository for Learning R Programming, published by Packt | R | ⭐ 26 |
 | [Learning-React](https://github.com/PacktPublishing/Learning-React) | Learning React [ video] , published by Packt | JavaScript | ⭐ 18 |
@@ -5703,7 +5710,7 @@
 | [Learning-Tableau-2022](https://github.com/PacktPublishing/Learning-Tableau-2022) |  | JavaScript | ⭐ 63 |
 | [Learning-Tableau-2022-Audiobook](https://github.com/PacktPublishing/Learning-Tableau-2022-Audiobook) |  |  |  |
 | [Learning-Tableau-2024-6E](https://github.com/PacktPublishing/Learning-Tableau-2024-6E) | Code Repository for Learning Tableau 2024 Sixth Edition, Published by Packt |  | ⭐ 1 |
-| [Learning-Tableau-2025-6E](https://github.com/PacktPublishing/Learning-Tableau-2025-6E) |  Code Repository for Learning Tableau 2025 Sixth Edition, Published by Packt | JavaScript | ⭐ 15 |
+| [Learning-Tableau-2025-6E](https://github.com/PacktPublishing/Learning-Tableau-2025-6E) |  Code Repository for Learning Tableau 2025 Sixth Edition, Published by Packt | JavaScript | ⭐ 16 |
 | [Learning-TensorFlow-2.0](https://github.com/PacktPublishing/Learning-TensorFlow-2.0) |  |  | ⭐ 6 |
 | [Learning-the-Cisco-Application-Centric-Infrastructure-ACI-](https://github.com/PacktPublishing/Learning-the-Cisco-Application-Centric-Infrastructure-ACI-) | Learning the Cisco Application-Centric Infrastructure (ACI), Published by Packt | Python | ⭐ 6 |
 | [Learning-the-FOSS4G-Stack-Enterprise-GIS-with-Postgres-PostGIS](https://github.com/PacktPublishing/Learning-the-FOSS4G-Stack-Enterprise-GIS-with-Postgres-PostGIS) | Learning the FOSS4G Stack: Enterprise GIS with Postgres/PostGIS by Packt Publishing |  | ⭐ 1 |
@@ -5762,17 +5769,17 @@
 | [Linux-Crash-Course-for-Beginners](https://github.com/PacktPublishing/Linux-Crash-Course-for-Beginners) |  |  | ⭐ 14 |
 | [Linux-Device-Driver-Development-Cookbook](https://github.com/PacktPublishing/Linux-Device-Driver-Development-Cookbook) | Linux Device Driver Development Cookbook, published by Packt | C | ⭐ 44 |
 | [Linux-Device-Driver-Development-Projects](https://github.com/PacktPublishing/Linux-Device-Driver-Development-Projects) |  |  |  |
-| [Linux-Device-Driver-Development-Second-Edition](https://github.com/PacktPublishing/Linux-Device-Driver-Development-Second-Edition) | Linux Device Driver Development - Second Edition, published by Packt | C | ⭐ 236 |
-| [Linux-Device-Drivers-Development](https://github.com/PacktPublishing/Linux-Device-Drivers-Development) | Linux Device Drivers Development, published by Packt | C | ⭐ 618 |
+| [Linux-Device-Driver-Development-Second-Edition](https://github.com/PacktPublishing/Linux-Device-Driver-Development-Second-Edition) | Linux Device Driver Development - Second Edition, published by Packt | C | ⭐ 239 |
+| [Linux-Device-Drivers-Development](https://github.com/PacktPublishing/Linux-Device-Drivers-Development) | Linux Device Drivers Development, published by Packt | C | ⭐ 621 |
 | [Linux-Essentials-for-Pentesting-Bug-Bounty-Hunting-2026-](https://github.com/PacktPublishing/Linux-Essentials-for-Pentesting-Bug-Bounty-Hunting-2026-) | Linux Essentials for Pentesting & Bug Bounty Hunting (2026) Published by Packt publishing |  |  |
 | [Linux-for-Cloud-and-DevOps-Engineers](https://github.com/PacktPublishing/Linux-for-Cloud-and-DevOps-Engineers) | Linux for Cloud and DevOps Engineers, published by Packt |  | ⭐ 18 |
 | [Linux-for-Networking-Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals) | Linux for Networking Professionals, published by Packt |  | ⭐ 225 |
-| [Linux-for-Networking-Professionals_Second-Edition](https://github.com/PacktPublishing/Linux-for-Networking-Professionals_Second-Edition) |  |  |  |
+| [Linux-for-Networking-Professionals_Second-Edition](https://github.com/PacktPublishing/Linux-for-Networking-Professionals_Second-Edition) |  |  | ⭐ 1 |
 | [Linux-Foundation-Certified-System-Administrator-LFCS](https://github.com/PacktPublishing/Linux-Foundation-Certified-System-Administrator-LFCS) | Linux Foundation Certified System Administrator (LFCS), Published by Packt Publishing |  | ⭐ 1 |
 | [Linux-Kernel-Debugging](https://github.com/PacktPublishing/Linux-Kernel-Debugging) | Linux Kernel Debugging, published by Packt | Makefile | ⭐ 197 |
 | [Linux-Kernel-Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming) | Linux Kernel Programming, published by Packt | Makefile | ⭐ 941 |
-| [Linux-Kernel-Programming-Part-2](https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2) | Linux Kernel Programming (Part 2), published by Packt | Makefile | ⭐ 148 |
-| [Linux-Kernel-Programming_2E](https://github.com/PacktPublishing/Linux-Kernel-Programming_2E) | Linux Kernel Programming 2E - published by Packt | Makefile | ⭐ 513 |
+| [Linux-Kernel-Programming-Part-2](https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2) | Linux Kernel Programming (Part 2), published by Packt | Makefile | ⭐ 149 |
+| [Linux-Kernel-Programming_2E](https://github.com/PacktPublishing/Linux-Kernel-Programming_2E) | Linux Kernel Programming 2E - published by Packt | Makefile | ⭐ 516 |
 | [Linux-Logical-Volume-Manager-LVM-](https://github.com/PacktPublishing/Linux-Logical-Volume-Manager-LVM-) | Code Repository for Linux Logical Volume Manager (LVM), published by Packt |  | ⭐ 1 |
 | [Linux-Network-Administration](https://github.com/PacktPublishing/Linux-Network-Administration) | Linux Network Administration, by Packt Publishing |  | ⭐ 10 |
 | [Linux-Operating-System-A-Complete-Linux-Guide-for-Beginners](https://github.com/PacktPublishing/Linux-Operating-System-A-Complete-Linux-Guide-for-Beginners) |  |  | ⭐ 17 |
@@ -5785,7 +5792,7 @@
 | [Linux-Shell-Scripting-A-Project-Based-Approach-to-Learning](https://github.com/PacktPublishing/Linux-Shell-Scripting-A-Project-Based-Approach-to-Learning) | Linux Shell Scripting: A Project-Based Approach to Learning, published by Packt |  | ⭐ 22 |
 | [Linux-Shell-Scripting-Bootcamp](https://github.com/PacktPublishing/Linux-Shell-Scripting-Bootcamp) | Enterprise PowerShell Scripting Bootcamp, published by Packt | Shell | ⭐ 18 |
 | [Linux-Shell-Scripting-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Fourth-Edition) | Linux Shell Scripting Cookbook Fourth Edition, published by Packt |  | ⭐ 1 |
-| [Linux-Shell-Scripting-Cookbook-Third-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition) | Linux Shell Scripting Cookbook Third Edition, published by Packt | Shell | ⭐ 245 |
+| [Linux-Shell-Scripting-Cookbook-Third-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition) | Linux Shell Scripting Cookbook Third Edition, published by Packt | Shell | ⭐ 246 |
 | [Linux-Shell-Scripting-for-Hackers](https://github.com/PacktPublishing/Linux-Shell-Scripting-for-Hackers) | Linux-Shell-Scripting-for-Hackers, published by Packt | Shell | ⭐ 18 |
 | [Linux-System-Programming-Cookbook](https://github.com/PacktPublishing/Linux-System-Programming-Cookbook) | Linux System Programming Cookbook, published by Packt | C | ⭐ 4 |
 | [Linux-System-Programming-Techniques](https://github.com/PacktPublishing/Linux-System-Programming-Techniques) |  Linux System Programming Techniques, published by Packt | C | ⭐ 127 |
@@ -5795,7 +5802,7 @@
 | [List-and-Recycler-Views-in-Android](https://github.com/PacktPublishing/List-and-Recycler-Views-in-Android) | List and Recycler Views in Android, published by Packt |  | ⭐ 4 |
 | [LLM-Data-Strategy_First-Edition](https://github.com/PacktPublishing/LLM-Data-Strategy_First-Edition) | LLM Data Strategy_First Edition, Published by Packt |  |  |
 | [LLM-Engineering-with-AWS-1E](https://github.com/PacktPublishing/LLM-Engineering-with-AWS-1E) | LLM Engineering with AWS, 1E_Published by Packt |  |  |
-| [LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps... | Python | ⭐ 5262 |
+| [LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps... | Python | ⭐ 5271 |
 | [LLM-Evaluation-and-Optimisation-First-Edition](https://github.com/PacktPublishing/LLM-Evaluation-and-Optimisation-First-Edition) | LLM Evaluation and Optimisation, First Edition_Published by Packt |  | ⭐ 1 |
 | [LLM-Lifecycle-Mastery](https://github.com/PacktPublishing/LLM-Lifecycle-Mastery) | LLM Lifecycle Mastery |  |  |
 | [LLM-Monitoring-Tracing-AI-Observability-with-Datadog](https://github.com/PacktPublishing/LLM-Monitoring-Tracing-AI-Observability-with-Datadog) |  | Python | ⭐ 2 |
@@ -5803,9 +5810,9 @@
 | [LLM-Security-Handbook](https://github.com/PacktPublishing/LLM-Security-Handbook) | LLM Security Handbook, published by Packt |  | ⭐ 2 |
 | [LLMs-for-Modern-Software-Delivery-and-DevOps](https://github.com/PacktPublishing/LLMs-for-Modern-Software-Delivery-and-DevOps) | LLMs for Modern Software Delivery and DevOps |  | ⭐ 1 |
 | [LLMs-in-Enterprise](https://github.com/PacktPublishing/LLMs-in-Enterprise) | LLM Development, Design Patterns and Best Practices, First Edition - Published by Packt | Jupyter Notebook | ⭐ 70 |
-| [LLMs-in-Finance](https://github.com/PacktPublishing/LLMs-in-Finance) | LLMs in Finance, published by Packt |  |  |
+| [LLMs-in-Finance](https://github.com/PacktPublishing/LLMs-in-Finance) | LLMs in Finance, published by Packt | Jupyter Notebook |  |
 | [LLMs-Unlocked-Open-Source-and-ChatGPT-No-Code-Low-Code](https://github.com/PacktPublishing/LLMs-Unlocked-Open-Source-and-ChatGPT-No-Code-Low-Code) |  | Python |  |
-| [LLVM-Code-Generation](https://github.com/PacktPublishing/LLVM-Code-Generation) | LLVM Code Generation, published by Packt | C++ | ⭐ 274 |
+| [LLVM-Code-Generation](https://github.com/PacktPublishing/LLVM-Code-Generation) | LLVM Code Generation, published by Packt | C++ | ⭐ 278 |
 | [LLVM-Code-Generation-by-example](https://github.com/PacktPublishing/LLVM-Code-Generation-by-example) | This is the second repo for the book "LLVM Code Generation". This will be linked to the... | LLVM | ⭐ 46 |
 | [LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries](https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries) | LLVM Techniques, Tips, and Best Practices Clang and Middle-End Libraries, published by ... | C++ | ⭐ 191 |
 | [Lodash-4---The-Master-Guide](https://github.com/PacktPublishing/Lodash-4---The-Master-Guide) | Lodash 4 - The Master Guide, published by Packt |  | ⭐ 1 |
@@ -5824,7 +5831,7 @@
 |------------|-------------|----------|----|
 | [-Machine-Learning-using-Advanced-Algorithms-and-Visualization-in-R](https://github.com/PacktPublishing/-Machine-Learning-using-Advanced-Algorithms-and-Visualization-in-R) |  Machine Learning using Advanced Algorithms and Visualization in R [Video] by Packt Pub... |  | ⭐ 1 |
 | [-Making-Your-First-iPhone-App-with-Swift-v3.0](https://github.com/PacktPublishing/-Making-Your-First-iPhone-App-with-Swift-v3.0) |  Making Your First iPhone App with Swift v3.0 [Video] by Packt Publishing |  | ⭐ 1 |
-| [-Master-Data-Structures-and-Algorithms-Interviews---Ace-Leetcode-Blind-75-](https://github.com/PacktPublishing/-Master-Data-Structures-and-Algorithms-Interviews---Ace-Leetcode-Blind-75-) |  | Python | ⭐ 46 |
+| [-Master-Data-Structures-and-Algorithms-Interviews---Ace-Leetcode-Blind-75-](https://github.com/PacktPublishing/-Master-Data-Structures-and-Algorithms-Interviews---Ace-Leetcode-Blind-75-) |  | Python | ⭐ 47 |
 | [-Master-Google-NotebookLM-Your-Personal-AI-Chief-of-Staff](https://github.com/PacktPublishing/-Master-Google-NotebookLM-Your-Personal-AI-Chief-of-Staff) |  |  | ⭐ 1 |
 | [-Mastering-Android-Development-with-Kotlin](https://github.com/PacktPublishing/-Mastering-Android-Development-with-Kotlin) |  Mastering Android Development with Kotlin, by Packt | Kotlin | ⭐ 30 |
 | [-Mastering-AWS-Administration-Video-](https://github.com/PacktPublishing/-Mastering-AWS-Administration-Video-) | Mastering AWS Administration (Video), Published by Packt |  | ⭐ 1 |
@@ -5865,7 +5872,7 @@
 | [Mac-Linux-Command-Line-Kick-Start-in-4-hours-for-Beginners-](https://github.com/PacktPublishing/Mac-Linux-Command-Line-Kick-Start-in-4-hours-for-Beginners-) | Code Repository for Mac Linux Command Line Kick Start in 4 hours (for Beginners), publi... |  | ⭐ 1 |
 | [Machine-Learning-101-with-Scikit-learn-and-StatsModels](https://github.com/PacktPublishing/Machine-Learning-101-with-Scikit-learn-and-StatsModels) | Code Repository for Machine Learning 101 with Scikit-learn and StatsModels, Published b... |  | ⭐ 9 |
 | [Machine-Learning-A-Z-Support-Vector-Machine-with-Python-](https://github.com/PacktPublishing/Machine-Learning-A-Z-Support-Vector-Machine-with-Python-) | Machine Learning A-Z: Support Vector Machine with Python ©, by Packt Publishing | Jupyter Notebook | ⭐ 10 |
-| [Machine-Learning-Algorithms](https://github.com/PacktPublishing/Machine-Learning-Algorithms) | Machine Learning Algorithms, published by Packt | Python | ⭐ 95 |
+| [Machine-Learning-Algorithms](https://github.com/PacktPublishing/Machine-Learning-Algorithms) | Machine Learning Algorithms, published by Packt | Python | ⭐ 96 |
 | [Machine-Learning-Algorithms-in-7-Days](https://github.com/PacktPublishing/Machine-Learning-Algorithms-in-7-Days) | Machine Learning Algorithms in 7 Days, published by Packt | Jupyter Notebook | ⭐ 28 |
 | [Machine-Learning-Algorithms-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-Algorithms-Second-Edition) | Machine Learning Algorithms Second Edition, published by Packt | Python | ⭐ 70 |
 | [Machine-Learning-and-Data-Analysis-with-Dask](https://github.com/PacktPublishing/Machine-Learning-and-Data-Analysis-with-Dask) | Machine Learning and Data Analysis with Dask | Jupyter Notebook | ⭐ 4 |
@@ -5877,21 +5884,21 @@
 | [Machine-Learning-Career-Master-Plan](https://github.com/PacktPublishing/Machine-Learning-Career-Master-Plan) | B21292 - Machine Learning Career Master Plan |  |  |
 | [Machine-Learning-Classification-Algorithms-using-MATLAB](https://github.com/PacktPublishing/Machine-Learning-Classification-Algorithms-using-MATLAB) | Code Repository for Machine Learning Classification Algorithms using MATLAB, published ... | Rich Text Format | ⭐ 3 |
 | [Machine-Learning-Data-Science-and-AI-Engineering-with-Python](https://github.com/PacktPublishing/Machine-Learning-Data-Science-and-AI-Engineering-with-Python) | Machine Learning Data Science and AI Engineering with Python | Jupyter Notebook | ⭐ 11 |
-| [Machine-Learning-Data-Science-and-Generative-AI-with-Python](https://github.com/PacktPublishing/Machine-Learning-Data-Science-and-Generative-AI-with-Python) | Code Repository for Machine Learning, Data Science and Generative AI with Python, Publi... | Jupyter Notebook | ⭐ 52 |
+| [Machine-Learning-Data-Science-and-Generative-AI-with-Python](https://github.com/PacktPublishing/Machine-Learning-Data-Science-and-Generative-AI-with-Python) | Code Repository for Machine Learning, Data Science and Generative AI with Python, Publi... | Jupyter Notebook | ⭐ 53 |
 | [Machine-Learning-Deep-Learning-models-to-Production](https://github.com/PacktPublishing/Machine-Learning-Deep-Learning-models-to-Production) |  |  | ⭐ 1 |
 | [Machine-Learning-End-to-Endguide-for-Java-developers](https://github.com/PacktPublishing/Machine-Learning-End-to-Endguide-for-Java-developers) | Code repository forMachine-Learning-End-to-Endguide-for-Java-developers, Published By P... | Java | ⭐ 22 |
 | [Machine-Learning-Engineering-on-AWS](https://github.com/PacktPublishing/Machine-Learning-Engineering-on-AWS) | Machine Learning Engineering on AWS, published by Packt | Jupyter Notebook | ⭐ 73 |
 | [Machine-Learning-Engineering-on-AWS-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-Engineering-on-AWS-Second-Edition) | Machine Learning Engineering on AWS – Second Edition, published by Packt | Python | ⭐ 12 |
 | [Machine-Learning-Engineering-with-MLflow](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-MLflow) | Machine Learning Engineering with MLflow, published by Packt | HTML | ⭐ 126 |
 | [Machine-Learning-Engineering-with-Python](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python) | Machine Learning Engineering with Python | Jupyter Notebook | ⭐ 191 |
-| [Machine-Learning-Engineering-with-Python-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition) |  | Jupyter Notebook | ⭐ 276 |
+| [Machine-Learning-Engineering-with-Python-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition) |  | Jupyter Notebook | ⭐ 277 |
 | [Machine-Learning-Experimentation-with-TensorBoard](https://github.com/PacktPublishing/Machine-Learning-Experimentation-with-TensorBoard) | Machine Learning Experimentation with TensorBoard | Python | ⭐ 3 |
-| [Machine-Learning-for-Absolute-Beginners---Level-1](https://github.com/PacktPublishing/Machine-Learning-for-Absolute-Beginners---Level-1) |  |  | ⭐ 18 |
+| [Machine-Learning-for-Absolute-Beginners---Level-1](https://github.com/PacktPublishing/Machine-Learning-for-Absolute-Beginners---Level-1) |  |  | ⭐ 19 |
 | [Machine-Learning-for-Absolute-Beginners---Level-3](https://github.com/PacktPublishing/Machine-Learning-for-Absolute-Beginners---Level-3) | Machine Learning for Absolute Beginners - Level 3, published by Packt | Jupyter Notebook | ⭐ 12 |
 | [Machine-Learning-for-Absolute-Beginners-Level-2](https://github.com/PacktPublishing/Machine-Learning-for-Absolute-Beginners-Level-2) | Machine Learning for Absolute Beginners - Level 2 [Video], published by Packt | Jupyter Notebook | ⭐ 15 |
 | [Machine-Learning-for-Algorithmic-Trading-Bots-with-Python](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Bots-with-Python) |  | Jupyter Notebook | ⭐ 408 |
-| [Machine-Learning-for-Algorithmic-Trading-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) | Code and resources for Machine Learning for Algorithmic Trading, 2nd edition. | Jupyter Notebook | ⭐ 2390 |
-| [Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) | Machine Learning for Algorithmic Trading, Second Edition - published by Packt | Jupyter Notebook | ⭐ 1606 |
+| [Machine-Learning-for-Algorithmic-Trading-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) | Code and resources for Machine Learning for Algorithmic Trading, 2nd edition. | Jupyter Notebook | ⭐ 2397 |
+| [Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) | Machine Learning for Algorithmic Trading, Second Edition - published by Packt | Jupyter Notebook | ⭐ 1608 |
 | [Machine-Learning-for-Android-App-development-Using-ML-Kit](https://github.com/PacktPublishing/Machine-Learning-for-Android-App-development-Using-ML-Kit) | Machine Learning for Android App development Using ML Kit, published by Packt |  | ⭐ 13 |
 | [Machine-Learning-for-Cybersecurity-Cookbook](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) | Machine Learning for Cybersecurity Cookbook, published by Packt | Jupyter Notebook | ⭐ 381 |
 | [Machine-Learning-for-Data-Mining](https://github.com/PacktPublishing/Machine-Learning-for-Data-Mining) | Machine Learning for Data Mining, published by Packt |  | ⭐ 2 |
@@ -6006,8 +6013,8 @@
 | [Malware-Analysis-and-Development](https://github.com/PacktPublishing/Malware-Analysis-and-Development) | This is the code repository forMalware Analysis and Development, published by Packt |  | ⭐ 1 |
 | [Malware-Analysis-Of-Malicious-Documents](https://github.com/PacktPublishing/Malware-Analysis-Of-Malicious-Documents) |  | VBA |  |
 | [Malware-Analysis-Techniques](https://github.com/PacktPublishing/Malware-Analysis-Techniques) | Malware Analysis Techniques, published by Packt |  | ⭐ 83 |
-| [Malware-Development-for-Ethical-Hackers](https://github.com/PacktPublishing/Malware-Development-for-Ethical-Hackers) | Malware Development for Ethical Hackers, published by Packt | C | ⭐ 513 |
-| [Malware-Development-for-Ethical-Hackers-Second-Edition](https://github.com/PacktPublishing/Malware-Development-for-Ethical-Hackers-Second-Edition) | Malware Development for Ethical Hackers - 2nd Edition, published by Packt | C | ⭐ 13 |
+| [Malware-Development-for-Ethical-Hackers](https://github.com/PacktPublishing/Malware-Development-for-Ethical-Hackers) | Malware Development for Ethical Hackers, published by Packt | C | ⭐ 515 |
+| [Malware-Development-for-Ethical-Hackers-Second-Edition](https://github.com/PacktPublishing/Malware-Development-for-Ethical-Hackers-Second-Edition) | Malware Development for Ethical Hackers - 2nd Edition, published by Packt | C | ⭐ 14 |
 | [Manage-Windows-Server-Infrastructure-With-Active-Directory](https://github.com/PacktPublishing/Manage-Windows-Server-Infrastructure-With-Active-Directory) | Manage Windows Server Infrastructure With Active Directory, published by Packt |  |  |
 | [Managed-NoSQL-Database-In-The-Cloud---Amazon-AWS-DynamoDB](https://github.com/PacktPublishing/Managed-NoSQL-Database-In-The-Cloud---Amazon-AWS-DynamoDB) | Code Repository for Managed NoSQL Database In The Cloud - Amazon AWS DynamoDB, publishe... |  | ⭐ 2 |
 | [Managing-and-Monitoring-Streaming-Solutions-in-Azure](https://github.com/PacktPublishing/Managing-and-Monitoring-Streaming-Solutions-in-Azure) | Managing and Monitoring Streaming Solutions in Azure, Published by Packt | C# |  |
@@ -6065,7 +6072,7 @@
 | [Mastering-5G-Network-Design-Implementation-and-Operation](https://github.com/PacktPublishing/Mastering-5G-Network-Design-Implementation-and-Operation) | GitHub repository for Mastering 5G Network Design, Implementation, and Operation |  | ⭐ 1 |
 | [Mastering-ABP-Framework](https://github.com/PacktPublishing/Mastering-ABP-Framework) | Mastering ABP Framework, published by Packt |  | ⭐ 139 |
 | [Mastering-Active-Directory](https://github.com/PacktPublishing/Mastering-Active-Directory) | Mastering Active Directory, published by Packt | PowerShell | ⭐ 22 |
-| [Mastering-Active-Directory-Third-Edition](https://github.com/PacktPublishing/Mastering-Active-Directory-Third-Edition) | Mastering Active Directory, Third Edition , Published by Packt | PowerShell | ⭐ 54 |
+| [Mastering-Active-Directory-Third-Edition](https://github.com/PacktPublishing/Mastering-Active-Directory-Third-Edition) | Mastering Active Directory, Third Edition , Published by Packt | PowerShell | ⭐ 55 |
 | [Mastering-Active-Directory-Third-Edition-Audiobook](https://github.com/PacktPublishing/Mastering-Active-Directory-Third-Edition-Audiobook) |  |  | ⭐ 5 |
 | [Mastering-Adobe-Animate-2021](https://github.com/PacktPublishing/Mastering-Adobe-Animate-2021) | Mastering Adobe Animate 2021, published by Packt | ActionScript | ⭐ 5 |
 | [Mastering-Adobe-Animate-2023-Third-Edition](https://github.com/PacktPublishing/Mastering-Adobe-Animate-2023-Third-Edition) | Mastering Adobe Animate 2023 - Third Edition, published by Packt | JavaScript | ⭐ 10 |
@@ -6127,7 +6134,7 @@
 | [Mastering-AutoCAD](https://github.com/PacktPublishing/Mastering-AutoCAD) | Mastering AutoCAD 2025, published by Packt |  | ⭐ 2 |
 | [Mastering-AWS-CDK---Coding-Cloud-Architectures](https://github.com/PacktPublishing/Mastering-AWS-CDK---Coding-Cloud-Architectures) |  | TypeScript | ⭐ 4 |
 | [Mastering-AWS-CloudFormation](https://github.com/PacktPublishing/Mastering-AWS-CloudFormation) | Mastering AWS CloudFormation, published by Packt | Python | ⭐ 70 |
-| [Mastering-AWS-CloudFormation-Second-Edition](https://github.com/PacktPublishing/Mastering-AWS-CloudFormation-Second-Edition) | Mastering AWS CloudFormation Second Edition, published by packt | Python | ⭐ 17 |
+| [Mastering-AWS-CloudFormation-Second-Edition](https://github.com/PacktPublishing/Mastering-AWS-CloudFormation-Second-Edition) | Mastering AWS CloudFormation Second Edition, published by packt | Python | ⭐ 18 |
 | [Mastering-AWS-Development-Video-](https://github.com/PacktPublishing/Mastering-AWS-Development-Video-) | Code Repository for Mastering AWS Development (Video), published by Packt | JavaScript |  |
 | [Mastering-AWS-Lambda](https://github.com/PacktPublishing/Mastering-AWS-Lambda) | Mastering AWS Lambda, published by Packt | JavaScript | ⭐ 21 |
 | [Mastering-AWS-SAM-and-Lambda---A-Complete-Hands-on-Journey](https://github.com/PacktPublishing/Mastering-AWS-SAM-and-Lambda---A-Complete-Hands-on-Journey) | Mastering AWS SAM and Lambda - A Complete Hands-on Journey, Published by Packt Publishing | Python | ⭐ 1 |
@@ -6215,7 +6222,7 @@
 | [Mastering-Docker-2017-the-DevOps-way-by-School-of-Devops](https://github.com/PacktPublishing/Mastering-Docker-2017-the-DevOps-way-by-School-of-Devops) | Mastering Docker (2017) the DevOps way by School of Devops®, published by Packt |  |  |
 | [Mastering-Docker-Enterprise](https://github.com/PacktPublishing/Mastering-Docker-Enterprise) | Mastering Docker Enterprise published by Packt | Go | ⭐ 11 |
 | [Mastering-Docker-Essentials-Hands-on-DevOps](https://github.com/PacktPublishing/Mastering-Docker-Essentials-Hands-on-DevOps) |  | HTML | ⭐ 6 |
-| [Mastering-Docker-Fourth-Edition](https://github.com/PacktPublishing/Mastering-Docker-Fourth-Edition) | Mastering Docker, Fourth Edition, published by Packt | C# | ⭐ 65 |
+| [Mastering-Docker-Fourth-Edition](https://github.com/PacktPublishing/Mastering-Docker-Fourth-Edition) | Mastering Docker, Fourth Edition, published by Packt | C# | ⭐ 66 |
 | [Mastering-Docker-on-Windows](https://github.com/PacktPublishing/Mastering-Docker-on-Windows) | Mastering Docker on Windows, published by Packt | Shell | ⭐ 5 |
 | [Mastering-Docker-Second-Edition](https://github.com/PacktPublishing/Mastering-Docker-Second-Edition) | Mastering Docker, Second Edition, published by Packt | JavaScript | ⭐ 25 |
 | [Mastering-Docker-Third-Edition](https://github.com/PacktPublishing/Mastering-Docker-Third-Edition) | Mastering Docker Third Edition, published by Packt | Dockerfile | ⭐ 50 |
@@ -6229,10 +6236,10 @@
 | [Mastering-Elasticsearch-7.0](https://github.com/PacktPublishing/Mastering-Elasticsearch-7.0) | Mastering Elasticsearch 7.0, published by Packt | Python | ⭐ 24 |
 | [Mastering-ElasticSearch-Video-](https://github.com/PacktPublishing/Mastering-ElasticSearch-Video-) |  |  |  |
 | [Mastering-Elixir](https://github.com/PacktPublishing/Mastering-Elixir) | Mastering-Elixir, published by Packt | Elixir | ⭐ 35 |
-| [Mastering-Embedded-Linux-Development](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Development) | Mastering Embedded Linux Development Fourth Edition, published by Packt | C | ⭐ 111 |
+| [Mastering-Embedded-Linux-Development](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Development) | Mastering Embedded Linux Development Fourth Edition, published by Packt | C | ⭐ 113 |
 | [Mastering-Embedded-Linux-Programming](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming) | Mastering Embedded Linux Programming, published by Packt |  | ⭐ 2 |
 | [Mastering-Embedded-Linux-Programming-Second-Edition](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming-Second-Edition) | Mastering Embedded Linux Programming – Second Edition, published by Packt | C | ⭐ 197 |
-| [Mastering-Embedded-Linux-Programming-Third-Edition](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming-Third-Edition) | Mastering Embedded Linux Programming Third Edition, published by Packt | C | ⭐ 829 |
+| [Mastering-Embedded-Linux-Programming-Third-Edition](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming-Third-Edition) | Mastering Embedded Linux Programming Third Edition, published by Packt | C | ⭐ 830 |
 | [Mastering-Embedded-System-Programming-with-C](https://github.com/PacktPublishing/Mastering-Embedded-System-Programming-with-C) | Mastering Embedded System Programming with C, published by Packt |  | ⭐ 1 |
 | [Mastering-Entity-Framework](https://github.com/PacktPublishing/Mastering-Entity-Framework) | Code repository for Mastering Entity Framework, published by Packt Publishing |  |  |
 | [Mastering-Entity-Framework-Core-2.0](https://github.com/PacktPublishing/Mastering-Entity-Framework-Core-2.0) | Mastering Entity Framework Core, published by Packt | C# | ⭐ 16 |
@@ -6263,7 +6270,7 @@
 | [Mastering-Git---Second-Edition](https://github.com/PacktPublishing/Mastering-Git---Second-Edition) | Mastering Git - Second Edition, published by Packt |  | ⭐ 14 |
 | [Mastering-Git-and-GitHub---A-Practical-Bootcamp-for-Beginners](https://github.com/PacktPublishing/Mastering-Git-and-GitHub---A-Practical-Bootcamp-for-Beginners) | Mastering Git and GitHub - A Practical Bootcamp for Beginners, published by Packt |  | ⭐ 8 |
 | [Mastering-Git-Skills](https://github.com/PacktPublishing/Mastering-Git-Skills) |  | Shell | ⭐ 7 |
-| [Mastering-GitHub-Actions](https://github.com/PacktPublishing/Mastering-GitHub-Actions) | Mastering GitHub Actions, published by Packt | JavaScript | ⭐ 42 |
+| [Mastering-GitHub-Actions](https://github.com/PacktPublishing/Mastering-GitHub-Actions) | Mastering GitHub Actions, published by Packt | JavaScript | ⭐ 43 |
 | [Mastering-GitLab](https://github.com/PacktPublishing/Mastering-GitLab) | Published by Packt, Mastering GitLab |  | ⭐ 1 |
 | [Mastering-GitLab-12](https://github.com/PacktPublishing/Mastering-GitLab-12) | Mastering GitLab 12, published by Packt | HCL | ⭐ 65 |
 | [Mastering-Go](https://github.com/PacktPublishing/Mastering-Go) | Mastering Go, published by Packt | Go | ⭐ 198 |
@@ -6274,7 +6281,7 @@
 | [mastering-google-analytics](https://github.com/PacktPublishing/mastering-google-analytics) |  |  |  |
 | [Mastering-Google-Cloud-Platform-Security](https://github.com/PacktPublishing/Mastering-Google-Cloud-Platform-Security) |  |  |  |
 | [Mastering-GPT4](https://github.com/PacktPublishing/Mastering-GPT4) | Mastering GPT4 | Jupyter Notebook | ⭐ 1 |
-| [Mastering-Graphics-Programming-with-Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan) |  | C++ | ⭐ 739 |
+| [Mastering-Graphics-Programming-with-Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan) |  | C++ | ⭐ 740 |
 | [Mastering-Graphics-Programming-With-Vulkan-2nd-Edition](https://github.com/PacktPublishing/Mastering-Graphics-Programming-With-Vulkan-2nd-Edition) | Mastering Graphics Programming with Vulkan, 2nd Edition, by Packt Publishing |  |  |
 | [Mastering-Graphics-Programming-With-Vulkan-Second-Edition](https://github.com/PacktPublishing/Mastering-Graphics-Programming-With-Vulkan-Second-Edition) | Mastering Graphics Programming With Vulkan, Second Edition, by Packt Publishing |  |  |
 | [Mastering-gRPC](https://github.com/PacktPublishing/Mastering-gRPC) | Mastering gRPC, published by Packt |  |  |
@@ -6309,7 +6316,7 @@
 | [Mastering-IOT](https://github.com/PacktPublishing/Mastering-IOT) | Build modern IoT solutions that secure and monitor your IoT infrastructure | JavaScript | ⭐ 9 |
 | [Mastering-IoT-with-Arduino](https://github.com/PacktPublishing/Mastering-IoT-with-Arduino) | Code repository for Mastering IoT with Arduino, Published by Packt | C++ | ⭐ 8 |
 | [Mastering-IPython-4](https://github.com/PacktPublishing/Mastering-IPython-4) | Mastering IPython 4 by Packt Publishing | Python | ⭐ 18 |
-| [Mastering-Java---From-Beginner-to-Intermediate](https://github.com/PacktPublishing/Mastering-Java---From-Beginner-to-Intermediate) |  | Java | ⭐ 4 |
+| [Mastering-Java---From-Beginner-to-Intermediate](https://github.com/PacktPublishing/Mastering-Java---From-Beginner-to-Intermediate) |  | Java | ⭐ 5 |
 | [Mastering-Java-11-Second-Edition](https://github.com/PacktPublishing/Mastering-Java-11-Second-Edition) | Mastering Java 11 – Second Edition, published by Packt | Java | ⭐ 26 |
 | [Mastering-Java-9](https://github.com/PacktPublishing/Mastering-Java-9) | Mastering Java 9, published by Packt. | Java | ⭐ 7 |
 | [Mastering-Java-EE-8-Application-Development](https://github.com/PacktPublishing/Mastering-Java-EE-8-Application-Development) | Mastering Java EE 8 Application Development by Packt Publishing | Java | ⭐ 1 |
@@ -6337,7 +6344,7 @@
 | [Mastering-Juniper-Enterprise-Routing-and-Switching---JNCIS-ENT](https://github.com/PacktPublishing/Mastering-Juniper-Enterprise-Routing-and-Switching---JNCIS-ENT) |  | Rich Text Format | ⭐ 3 |
 | [Mastering-Juniper-Networks](https://github.com/PacktPublishing/Mastering-Juniper-Networks) | Mastering Juniper Networks, Published by Packt |  |  |
 | [Mastering-JupyterLab](https://github.com/PacktPublishing/Mastering-JupyterLab) | Mastering JupyterLab, Published by Packt |  |  |
-| [Mastering-Kali-Linux-for-Advanced-Penetration-Testing-4E](https://github.com/PacktPublishing/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-4E) | Mastering Kali Linux for Advanced Penetration Testing 4E published by Packt | Python | ⭐ 89 |
+| [Mastering-Kali-Linux-for-Advanced-Penetration-Testing-4E](https://github.com/PacktPublishing/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-4E) | Mastering Kali Linux for Advanced Penetration Testing 4E published by Packt | Python | ⭐ 90 |
 | [Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Second-Edition](https://github.com/PacktPublishing/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Second-Edition) | Mastering Kali Linux for Advanced Penetration Testing - Second Edition, published by Packt | Python | ⭐ 64 |
 | [Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Third-Edition](https://github.com/PacktPublishing/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Third-Edition) | Mastering Kali Linux for Advanced Penetration Testing Third Edition, published by Packt | HTML | ⭐ 75 |
 | [Mastering-Kali-Linux-for-Web-Penetration-Testing](https://github.com/PacktPublishing/Mastering-Kali-Linux-for-Web-Penetration-Testing) | Mastering Kali Linux for Web Penetration Testing, published by Packt |  | ⭐ 12 |
@@ -6409,7 +6416,7 @@
 | [Mastering-MongoDB-4.x-Second-Edition](https://github.com/PacktPublishing/Mastering-MongoDB-4.x-Second-Edition) | Mastering MongoDB 4.x -  Second Edition, published by Packt | Python | ⭐ 21 |
 | [Mastering-MongoDB-6.x](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) | Mastering MongoDB 6.x, published by Packt  | Python | ⭐ 26 |
 | [Mastering-MongoDB-7.0](https://github.com/PacktPublishing/Mastering-MongoDB-7.0) | Mastering MongoDB 7.0, 4th Edition, published by Packt | JavaScript | ⭐ 32 |
-| [Mastering-Multi-Agent-Development-with-AutoGen](https://github.com/PacktPublishing/Mastering-Multi-Agent-Development-with-AutoGen) |  | Python | ⭐ 20 |
+| [Mastering-Multi-Agent-Development-with-AutoGen](https://github.com/PacktPublishing/Mastering-Multi-Agent-Development-with-AutoGen) |  | Python | ⭐ 21 |
 | [Mastering-Multithreading-with-Cplusplus](https://github.com/PacktPublishing/Mastering-Multithreading-with-Cplusplus) | Mastering Multithreading with C++, published by Packt | C++ | ⭐ 18 |
 | [Mastering-MySQL-8](https://github.com/PacktPublishing/Mastering-MySQL-8) | Mastering-MySQL-8 |  |  |
 | [Mastering-Natural-Language-Processing-with-Python](https://github.com/PacktPublishing/Mastering-Natural-Language-Processing-with-Python) | Mastering Natural Language Processing with Python | Python | ⭐ 141 |
@@ -6446,12 +6453,12 @@
 | [Mastering-Palo-Alto-Networks-2nd-edition-Audiobook](https://github.com/PacktPublishing/Mastering-Palo-Alto-Networks-2nd-edition-Audiobook) | Mastering Palo Alto Networks – 2nd edition Audiobook, Published by Packt |  | ⭐ 3 |
 | [Mastering-Palo-Alto-Networks-Firewall-Policy-as-Code](https://github.com/PacktPublishing/Mastering-Palo-Alto-Networks-Firewall-Policy-as-Code) | Mastering Palo Alto Networks Firewall Policy as Code, published by packt |  | ⭐ 1 |
 | [Mastering-Palo-Alto-Networks-Third-Edition](https://github.com/PacktPublishing/Mastering-Palo-Alto-Networks-Third-Edition) | Mastering Palo Alto Networks, Third Edition_published by Packt |  | ⭐ 7 |
-| [Mastering-Pandas-for-Finance](https://github.com/PacktPublishing/Mastering-Pandas-for-Finance) |  | Jupyter Notebook | ⭐ 65 |
+| [Mastering-Pandas-for-Finance](https://github.com/PacktPublishing/Mastering-Pandas-for-Finance) |  | Jupyter Notebook | ⭐ 66 |
 | [Mastering-Pandas-Second-Edition](https://github.com/PacktPublishing/Mastering-Pandas-Second-Edition) | Mastering Pandas Second Edition, published by Packt | HTML | ⭐ 27 |
 | [Mastering-Parallel-Programming-with-R](https://github.com/PacktPublishing/Mastering-Parallel-Programming-with-R) | Code file for Mastering Parallel Programming with R by Packt Publishing | C | ⭐ 11 |
 | [Mastering-Penetration-Testing-with-Python](https://github.com/PacktPublishing/Mastering-Penetration-Testing-with-Python) | Mastering Penetration Testing with Python, published by Packt |  |  |
 | [Mastering-Photoshop-Elements-2020](https://github.com/PacktPublishing/Mastering-Photoshop-Elements-2020) | Mastering Photoshop Elements 2020, published by Packt |  | ⭐ 1 |
-| [Mastering-PHP-7](https://github.com/PacktPublishing/Mastering-PHP-7) | Mastering PHP 7, published By Packt | PHP | ⭐ 23 |
+| [Mastering-PHP-7](https://github.com/PacktPublishing/Mastering-PHP-7) | Mastering PHP 7, published By Packt | PHP | ⭐ 22 |
 | [Mastering-PHP-Design-Patterns](https://github.com/PacktPublishing/Mastering-PHP-Design-Patterns) | Mastering PHP Design Patterns by Packt | PHP | ⭐ 36 |
 | [Mastering-Pivotal-Cloud-Foundry-for-Web-Developers](https://github.com/PacktPublishing/Mastering-Pivotal-Cloud-Foundry-for-Web-Developers) |  |  |  |
 | [Mastering-PLC-programming](https://github.com/PacktPublishing/Mastering-PLC-programming) |  Mastering PLC programming, published by Packt |  | ⭐ 44 |
@@ -6476,9 +6483,9 @@
 | [Mastering-Python-3.x-3rd-Edition](https://github.com/PacktPublishing/Mastering-Python-3.x-3rd-Edition) | Mastering Python 3.x, 3rd Edition, published by Packt | Python | ⭐ 7 |
 | [Mastering-Python-Data-Analysis](https://github.com/PacktPublishing/Mastering-Python-Data-Analysis) | Mastering-Python-Data-Analysis | Jupyter Notebook | ⭐ 87 |
 | [Mastering-Python-Design-Patterns-Second-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition) | Mastering-Python-Design-Patterns-Second-Edition, published by Packt | Python | ⭐ 426 |
-| [Mastering-Python-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition) | Mastering Python Design Patterns, Third Edition by Packt Publishing | Python | ⭐ 119 |
+| [Mastering-Python-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition) | Mastering Python Design Patterns, Third Edition by Packt Publishing | Python | ⭐ 121 |
 | [Mastering-Python-for-Finance-Second-Edition](https://github.com/PacktPublishing/Mastering-Python-for-Finance-Second-Edition) | Mastering Python for Finance – Second Edition, published by Packt | Jupyter Notebook | ⭐ 510 |
-| [Mastering-Python-for-Networking-and-Security](https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security) | Mastering Python for Networking and Security published by Packt | Python | ⭐ 130 |
+| [Mastering-Python-for-Networking-and-Security](https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security) | Mastering Python for Networking and Security published by Packt | Python | ⭐ 129 |
 | [Mastering-Python-for-Networking-and-Security-Second-Edition](https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security-Second-Edition) | Mastering Python for Networking and Security, Second Edition, published by Packt | Python | ⭐ 168 |
 | [Mastering-Python-Marathon-Interview-Question-Series](https://github.com/PacktPublishing/Mastering-Python-Marathon-Interview-Question-Series) |  |  |  |
 | [Mastering-Python-Networking](https://github.com/PacktPublishing/Mastering-Python-Networking) | Mastering Python Networking, published by Packt | Python | ⭐ 137 |
@@ -6530,8 +6537,8 @@
 | [Mastering-Revenue-and-Sales-Forecasting-with-Excel](https://github.com/PacktPublishing/Mastering-Revenue-and-Sales-Forecasting-with-Excel) | Mastering Revenue and Sales Forecasting with Excel by Packt Publishing |  |  |
 | [Mastering-Reverse-Engineering](https://github.com/PacktPublishing/Mastering-Reverse-Engineering) | Mastering Reverse Engineering, published by Packt | C++ | ⭐ 170 |
 | [Mastering-Reverse-Engineering-Second-Edition](https://github.com/PacktPublishing/Mastering-Reverse-Engineering-Second-Edition) | Mastering Reverse Engineering (Second Edition), published by Packt Publishing | Assembly | ⭐ 6 |
-| [Mastering-Roblox-Coding](https://github.com/PacktPublishing/Mastering-Roblox-Coding) | Mastering Roblox Coding, published by Packt | Lua | ⭐ 31 |
-| [Mastering-ROS-2-for-Robotics-Programming](https://github.com/PacktPublishing/Mastering-ROS-2-for-Robotics-Programming) | Source code of the book Mastering ROS 2 for Robotics Programming | C++ | ⭐ 193 |
+| [Mastering-Roblox-Coding](https://github.com/PacktPublishing/Mastering-Roblox-Coding) | Mastering Roblox Coding, published by Packt | Lua | ⭐ 32 |
+| [Mastering-ROS-2-for-Robotics-Programming](https://github.com/PacktPublishing/Mastering-ROS-2-for-Robotics-Programming) | Source code of the book Mastering ROS 2 for Robotics Programming | C++ | ⭐ 195 |
 | [Mastering-ROS-for-Robotics-Programming-Second-Edition](https://github.com/PacktPublishing/Mastering-ROS-for-Robotics-Programming-Second-Edition) | Mastering ROS for Robotics Programming - Second-Edition, published by Packt | C++ | ⭐ 157 |
 | [Mastering-ROS-for-Robotics-Programming-Third-edition](https://github.com/PacktPublishing/Mastering-ROS-for-Robotics-Programming-Third-edition) | Mastering ROS for Robotics Programming - Third edition, Published by Packt | JavaScript | ⭐ 136 |
 | [Mastering-RTOS-with-ESP32](https://github.com/PacktPublishing/Mastering-RTOS-with-ESP32) |  | Assembly | ⭐ 2 |
@@ -6539,7 +6546,7 @@
 | [Mastering-Rust-Build-Robust-Concurrent-and-Fast-Applications](https://github.com/PacktPublishing/Mastering-Rust-Build-Robust-Concurrent-and-Fast-Applications) | Mastering Rust – Build Robust, Concurrent, and Fast Applications [Video], by Packt Publ... | Rust | ⭐ 12 |
 | [Mastering-RUST-Second-Edition](https://github.com/PacktPublishing/Mastering-RUST-Second-Edition) | Mastering RUST, Second Edition,published by Packt | Rust | ⭐ 145 |
 | [Mastering-Salesforce-Lightning-Application-Development](https://github.com/PacktPublishing/Mastering-Salesforce-Lightning-Application-Development) | Mastering Salesforce Lightning Application Development, published by Packt | JavaScript | ⭐ 2 |
-| [Mastering-SAP-ABAP](https://github.com/PacktPublishing/Mastering-SAP-ABAP) | Mastering SAP ABAP, published by Packt | ABAP | ⭐ 38 |
+| [Mastering-SAP-ABAP](https://github.com/PacktPublishing/Mastering-SAP-ABAP) | Mastering SAP ABAP, published by Packt | ABAP | ⭐ 39 |
 | [Mastering-SAP-S-4HANA-1709-Strategies-for-Implementation-and-Migration](https://github.com/PacktPublishing/Mastering-SAP-S-4HANA-1709-Strategies-for-Implementation-and-Migration) | Published by Packt |  |  |
 | [Mastering-SAP-S-4HANA-Strategies-for-Implementation-and-Migration](https://github.com/PacktPublishing/Mastering-SAP-S-4HANA-Strategies-for-Implementation-and-Migration) | Mastering SAP S/4HANA: Strategies for Implementation and Migration, published by Packt |  |  |
 | [Mastering-SAS-Programming-for-Data-Warehousing](https://github.com/PacktPublishing/Mastering-SAS-Programming-for-Data-Warehousing) | Mastering SAS Programming for Data Warehousing, published by Packt | SAS | ⭐ 4 |
@@ -6556,7 +6563,7 @@
 | [Mastering-Service-Mesh-Architecture](https://github.com/PacktPublishing/Mastering-Service-Mesh-Architecture) |  |  | ⭐ 8 |
 | [Mastering-ServiceNow-Scripting](https://github.com/PacktPublishing/Mastering-ServiceNow-Scripting) | Mastering ServiceNow Scripting, published by Packt |  | ⭐ 54 |
 | [Mastering-ServiceNow-Second-Edition](https://github.com/PacktPublishing/Mastering-ServiceNow-Second-Edition) | Mastering ServiceNow - Second Edition by PACKT |  | ⭐ 43 |
-| [Mastering-SFML-Game-Development](https://github.com/PacktPublishing/Mastering-SFML-Game-Development) | Code repository for Mastering SFML Game Development, published by Packt |  | ⭐ 71 |
+| [Mastering-SFML-Game-Development](https://github.com/PacktPublishing/Mastering-SFML-Game-Development) | Code repository for Mastering SFML Game Development, published by Packt |  | ⭐ 72 |
 | [Mastering-SharePoint-2019](https://github.com/PacktPublishing/Mastering-SharePoint-2019) | Mastering SharePoint 2019 [Video], published by Packt | JavaScript | ⭐ 3 |
 | [Mastering-SharePoint-Development-with-the-SharePoint-Framework-](https://github.com/PacktPublishing/Mastering-SharePoint-Development-with-the-SharePoint-Framework-) |  |  | ⭐ 4 |
 | [Mastering-SoapUI](https://github.com/PacktPublishing/Mastering-SoapUI) | Code Repository for Mastering SoapUI, Published by Packt  |  | ⭐ 3 |
@@ -6585,7 +6592,7 @@
 | [Mastering-Swift-5-Fifth-Edition](https://github.com/PacktPublishing/Mastering-Swift-5-Fifth-Edition) | Mastering Swift 5, Fifth Edition, published by Packt | Swift | ⭐ 31 |
 | [Mastering-Swift-5-Programming](https://github.com/PacktPublishing/Mastering-Swift-5-Programming) |  |  | ⭐ 1 |
 | [Mastering-Swift-5.3_Sixth-Edition](https://github.com/PacktPublishing/Mastering-Swift-5.3_Sixth-Edition) | Mastering Swift 5.3_Sixth Edition, published by Packt | Swift | ⭐ 23 |
-| [Mastering-Swift-6-Seventh-Edition](https://github.com/PacktPublishing/Mastering-Swift-6-Seventh-Edition) | Mastering Swift 6, Seventh Edition - Published by Packt | Swift | ⭐ 50 |
+| [Mastering-Swift-6-Seventh-Edition](https://github.com/PacktPublishing/Mastering-Swift-6-Seventh-Edition) | Mastering Swift 6, Seventh Edition - Published by Packt | Swift | ⭐ 52 |
 | [Mastering-SwiftData-SwiftUI-for-iOS-Development](https://github.com/PacktPublishing/Mastering-SwiftData-SwiftUI-for-iOS-Development) | Mastering SwiftData & SwiftUI for iOS Development, Published by Packt Publishing |  | ⭐ 1 |
 | [Mastering-SwiftUI--iOS-26-App-Development-Bootcamp](https://github.com/PacktPublishing/Mastering-SwiftUI--iOS-26-App-Development-Bootcamp) | Mastering SwiftUI- iOS 26 App Development Bootcamp, published by Packt Publishing | Swift | ⭐ 1 |
 | [Mastering-System-Administration-with-PowerShell-6.x](https://github.com/PacktPublishing/Mastering-System-Administration-with-PowerShell-6.x) | Mastering System Administration with PowerShell 6.x [Video], Published by Packt |  |  |
@@ -6598,8 +6605,8 @@
 | [Mastering-Tableau-2026](https://github.com/PacktPublishing/Mastering-Tableau-2026) | Mastering Tableau 2026, published by Packt |  | ⭐ 5 |
 | [Mastering-Tailwind-CSS-3.0---Build-Two-Dynamic-Projects](https://github.com/PacktPublishing/Mastering-Tailwind-CSS-3.0---Build-Two-Dynamic-Projects) | Mastering Tailwind CSS 3.0 - Build Two Dynamic Projects, published by Packt |  | ⭐ 8 |
 | [Mastering-TensorFlow-1x](https://github.com/PacktPublishing/Mastering-TensorFlow-1x) | Mastering TensorFlow 1x, published by Packt | Jupyter Notebook | ⭐ 105 |
-| [Mastering-Terraform](https://github.com/PacktPublishing/Mastering-Terraform) | Mastering Terraform, published by Packt | HCL | ⭐ 97 |
-| [Mastering-Terraform---From-Beginner-to-Expert](https://github.com/PacktPublishing/Mastering-Terraform---From-Beginner-to-Expert) |  | HCL | ⭐ 37 |
+| [Mastering-Terraform](https://github.com/PacktPublishing/Mastering-Terraform) | Mastering Terraform, published by Packt | HCL | ⭐ 98 |
+| [Mastering-Terraform---From-Beginner-to-Expert](https://github.com/PacktPublishing/Mastering-Terraform---From-Beginner-to-Expert) |  | HCL | ⭐ 38 |
 | [Mastering-Text-Mining-with-R](https://github.com/PacktPublishing/Mastering-Text-Mining-with-R) | Code repository for Mastering Text Mining with R, published by Packt | R | ⭐ 17 |
 | [Mastering-the-Art-of-Isometric-Room-Design-in-Blender-3](https://github.com/PacktPublishing/Mastering-the-Art-of-Isometric-Room-Design-in-Blender-3) |  |  | ⭐ 2 |
 | [Mastering-the-Cpp17-STL](https://github.com/PacktPublishing/Mastering-the-Cpp17-STL) | Mastering the C++17 STL, published by Packt | C++ | ⭐ 103 |
@@ -6651,7 +6658,7 @@
 | [Mastering-Windows-Privilege-Escalation](https://github.com/PacktPublishing/Mastering-Windows-Privilege-Escalation) | Mastering Windows Privilege Escalation, published by Packt |  | ⭐ 1 |
 | [Mastering-Windows-Security-and-Hardening---Second-Edition](https://github.com/PacktPublishing/Mastering-Windows-Security-and-Hardening---Second-Edition) |  |  |  |
 | [Mastering-Windows-Server-2019](https://github.com/PacktPublishing/Mastering-Windows-Server-2019) |  Mastering Windows Server 2019, Packt Publishing | PowerShell | ⭐ 8 |
-| [Mastering-Windows-Server-2025---Practical-Labs-for-New-Administrators-](https://github.com/PacktPublishing/Mastering-Windows-Server-2025---Practical-Labs-for-New-Administrators-) | Mastering Windows Server 2025 - Practical Labs for New Administrators, Published by Pac... |  | ⭐ 3 |
+| [Mastering-Windows-Server-2025---Practical-Labs-for-New-Administrators-](https://github.com/PacktPublishing/Mastering-Windows-Server-2025---Practical-Labs-for-New-Administrators-) | Mastering Windows Server 2025 - Practical Labs for New Administrators, Published by Pac... |  | ⭐ 4 |
 | [Mastering-Wireshark-3-2nd-Edition-](https://github.com/PacktPublishing/Mastering-Wireshark-3-2nd-Edition-) |  | Python | ⭐ 8 |
 | [Mastering-WooCommerce-](https://github.com/PacktPublishing/Mastering-WooCommerce-) | Mastering WooCommerce, published by Packt | PHP | ⭐ 6 |
 | [Mastering-WooCommerce-4](https://github.com/PacktPublishing/Mastering-WooCommerce-4) | Mastering WooCommerce 4, published by Packt |  | ⭐ 2 |
@@ -6664,7 +6671,7 @@
 | [Mastering-Yii-2](https://github.com/PacktPublishing/Mastering-Yii-2) | Mastering Yii 2, Published by Packt |  | ⭐ 2 |
 | [Mastering-Zendesk](https://github.com/PacktPublishing/Mastering-Zendesk) | Code file of Mastering Zendesk by Packt | JavaScript | ⭐ 1 |
 | [MasteringImmutablejs](https://github.com/PacktPublishing/MasteringImmutablejs) | Mastering Immutable.js, published by Packt | JavaScript |  |
-| [MasteringPython](https://github.com/PacktPublishing/MasteringPython) | Build high performance, concurrent, and multi-threaded apps with Python using proven de... | Jupyter Notebook | ⭐ 32 |
+| [MasteringPython](https://github.com/PacktPublishing/MasteringPython) | Build high performance, concurrent, and multi-threaded apps with Python using proven de... | Jupyter Notebook | ⭐ 33 |
 | [Materialize-CSS-From-Scratch-With-5-Projects](https://github.com/PacktPublishing/Materialize-CSS-From-Scratch-With-5-Projects) | Materialize CSS From Scratch With 5 Projects, published by Packt |  | ⭐ 5 |
 | [Math-and-Statistics-for-NLP-](https://github.com/PacktPublishing/Math-and-Statistics-for-NLP-) |  |  |  |
 | [Math-for-Bayesian-Statistics](https://github.com/PacktPublishing/Math-for-Bayesian-Statistics) | Math for Bayesian Statistics |  |  |
@@ -6680,7 +6687,7 @@
 | [MATLAB-for-Machine-Learning-second-edition](https://github.com/PacktPublishing/MATLAB-for-Machine-Learning-second-edition) | MATLAB for Machine Learning - second edition, Published by Packt | MATLAB | ⭐ 18 |
 | [Matplotlib-2.x-By-Example](https://github.com/PacktPublishing/Matplotlib-2.x-By-Example) | Matplotlib 2.x By Example, published by Packt | Jupyter Notebook | ⭐ 29 |
 | [Matplotlib-2.x-Cookbook](https://github.com/PacktPublishing/Matplotlib-2.x-Cookbook) |  |  |  |
-| [Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) | Matplotlib 3.0 Cookbook, published by Packt | Jupyter Notebook | ⭐ 141 |
+| [Matplotlib-3.0-Cookbook](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) | Matplotlib 3.0 Cookbook, published by Packt | Jupyter Notebook | ⭐ 142 |
 | [Matplotlib-for-Python-Developers](https://github.com/PacktPublishing/Matplotlib-for-Python-Developers) | Matplotlib for Python Developers [Video], Published by Packt |  | ⭐ 7 |
 | [Matplotlib-for-Python-Developers-Second-Edition](https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition) | Matplotlib for Python Developers, Second Edition by Packt | Jupyter Notebook | ⭐ 27 |
 | [Matplotlib-for-Python-Developers-Video](https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Video) | Matplotlib for Python Developers [Video], by Packt Publishing | Jupyter Notebook | ⭐ 4 |
@@ -6724,7 +6731,7 @@
 | [Microservices-Communication-in-.NET-Using-gRPC](https://github.com/PacktPublishing/Microservices-Communication-in-.NET-Using-gRPC) | Microservices Communication in .NET Using gRPC, published by Packt | C# | ⭐ 48 |
 | [Microservices-Deployment-Cookbook](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook) | Code repository for Microservices Deployment Cookbook, published by Packt. | Java | ⭐ 32 |
 | [Microservices-Design-Patterns-in-.NET](https://github.com/PacktPublishing/Microservices-Design-Patterns-in-.NET) | Microservices design patterns in .NET, published by Packt | C# | ⭐ 57 |
-| [Microservices-Design-Patterns-in-.NET---Second-Edition](https://github.com/PacktPublishing/Microservices-Design-Patterns-in-.NET---Second-Edition) | Microservices Design Patterns in .NET - Second Edition, published by Packt | C# | ⭐ 33 |
+| [Microservices-Design-Patterns-in-.NET---Second-Edition](https://github.com/PacktPublishing/Microservices-Design-Patterns-in-.NET---Second-Edition) | Microservices Design Patterns in .NET - Second Edition, published by Packt | C# | ⭐ 34 |
 | [Microservices-Design-Patterns-with-.NET](https://github.com/PacktPublishing/Microservices-Design-Patterns-with-.NET) | Microservices Design Patterns with .NET, published by Packt |  |  |
 | [Microservices-Development-Cookbook](https://github.com/PacktPublishing/Microservices-Development-Cookbook) | Microservices Development Cookbook, published by Packt | HTML | ⭐ 11 |
 | [Microservices-Development-on-Azure-with-Java](https://github.com/PacktPublishing/Microservices-Development-on-Azure-with-Java) | Microservices Development on Azure with Java, published by Packt | Java | ⭐ 5 |
@@ -6732,7 +6739,7 @@
 | [Microservices-with-Azure-](https://github.com/PacktPublishing/Microservices-with-Azure-) | Code repository for Microservices with Azure , Published By Packt | PowerShell | ⭐ 2 |
 | [Microservices-with-Clojure](https://github.com/PacktPublishing/Microservices-with-Clojure) | Microservices with Clojure, published by Packt | Roff | ⭐ 48 |
 | [Microservices-with-Go](https://github.com/PacktPublishing/Microservices-with-Go) | Microservices with Go, published by Packt | Go | ⭐ 196 |
-| [Microservices-with-Go---Second-Edition](https://github.com/PacktPublishing/Microservices-with-Go---Second-Edition) | Microservices with Go - Second Edition, Published by Packt | Go | ⭐ 32 |
+| [Microservices-with-Go---Second-Edition](https://github.com/PacktPublishing/Microservices-with-Go---Second-Edition) | Microservices with Go - Second Edition, Published by Packt | Go | ⭐ 33 |
 | [Microservices-with-Kotlin](https://github.com/PacktPublishing/Microservices-with-Kotlin) | Microservices with Kotlin, published by Packt |  | ⭐ 1 |
 | [Microservices-with-Kubernetes](https://github.com/PacktPublishing/Microservices-with-Kubernetes) | Microservices with Kubernetes published by Packt  |  |  |
 | [Microservices-with-Spring-Boot-3.0-and-Spring-Cloud-3rd-edition](https://github.com/PacktPublishing/Microservices-with-Spring-Boot-3.0-and-Spring-Cloud-3rd-edition) | Microservices with Spring Boot 3.0 and Spring Cloud, 3rd edition |  |  |
@@ -6790,7 +6797,7 @@
 | [Microsoft-Enterprise-Mobility-and-Security-Training](https://github.com/PacktPublishing/Microsoft-Enterprise-Mobility-and-Security-Training) | Microsoft Enterprise Mobility and Security Training, published by Packt |  | ⭐ 2 |
 | [Microsoft-Exam-MD-100-Windows-10-Certification-Guide](https://github.com/PacktPublishing/Microsoft-Exam-MD-100-Windows-10-Certification-Guide) | Microsoft Exam MD-100 Windows 10 Certification Guide, published by Packt  | PowerShell | ⭐ 12 |
 | [Microsoft-Excel---Beginner-to-Advanced-in-Animation-and-AI](https://github.com/PacktPublishing/Microsoft-Excel---Beginner-to-Advanced-in-Animation-and-AI) |  |  |  |
-| [Microsoft-Excel-2021-365---Beginner-to-Advanced](https://github.com/PacktPublishing/Microsoft-Excel-2021-365---Beginner-to-Advanced) |  |  | ⭐ 30 |
+| [Microsoft-Excel-2021-365---Beginner-to-Advanced](https://github.com/PacktPublishing/Microsoft-Excel-2021-365---Beginner-to-Advanced) |  |  | ⭐ 32 |
 | [Microsoft-Excel-365---Beginner-to-Advanced](https://github.com/PacktPublishing/Microsoft-Excel-365---Beginner-to-Advanced) | Microsoft Excel 365 Intermediate, Published by Packt Publishing |  | ⭐ 1 |
 | [Microsoft-Excel-365-Advanced](https://github.com/PacktPublishing/Microsoft-Excel-365-Advanced) | Microsoft Excel 365 Advanced, Published by Packt Publishing |  |  |
 | [Microsoft-Excel-A-Beginners-Guide-to-Pivot-Tables-in-Excel](https://github.com/PacktPublishing/Microsoft-Excel-A-Beginners-Guide-to-Pivot-Tables-in-Excel) | Microsoft Excel: A Beginners’ Guide to Pivot Tables in Excel, published by Packt |  | ⭐ 13 |
@@ -6893,7 +6900,7 @@
 | [MLOps-for-Azure](https://github.com/PacktPublishing/MLOps-for-Azure) |  |  |  |
 | [MLOps-with-Kubeflow-](https://github.com/PacktPublishing/MLOps-with-Kubeflow-) | MLOps with Kubeflow, published by Packt |  |  |
 | [MLOps-with-Red-Hat-OpenShift](https://github.com/PacktPublishing/MLOps-with-Red-Hat-OpenShift) | MLOps with Red Hat OpenShift, Published by Packt | Jupyter Notebook | ⭐ 7 |
-| [MO-500-Microsoft-Access-Expert-Certification](https://github.com/PacktPublishing/MO-500-Microsoft-Access-Expert-Certification) |  |  | ⭐ 1 |
+| [MO-500-Microsoft-Access-Expert-Certification](https://github.com/PacktPublishing/MO-500-Microsoft-Access-Expert-Certification) |  |  | ⭐ 2 |
 | [Mobile-App-Development-with-PhoneGap](https://github.com/PacktPublishing/Mobile-App-Development-with-PhoneGap) | Mobile App Development with PhoneGap, published by Packt | Java | ⭐ 1 |
 | [Mobile-App-Reverse-Engineering](https://github.com/PacktPublishing/Mobile-App-Reverse-Engineering) |  |  | ⭐ 2 |
 | [Mobile-Application-Development-JavaScript-Frameworks](https://github.com/PacktPublishing/Mobile-Application-Development-JavaScript-Frameworks) | Code repository for Mobile Application Development: Using JavaScript Descendent Technol... | JavaScript |  |
@@ -6918,7 +6925,7 @@
 | [Modeling-Count-Data-using-Stata](https://github.com/PacktPublishing/Modeling-Count-Data-using-Stata) | Code Repository for Modeling Count Data using Stata, Published by Packt |  |  |
 | [Modelling-Visualization-of-Data-in-Pandas](https://github.com/PacktPublishing/Modelling-Visualization-of-Data-in-Pandas) | Code repository for Modeling and Visualization of Data in Pandas, Published by Packt |  | ⭐ 3 |
 | [Modern-AI-Agent-Development-Using-LangChain-and-Microsoft-Azure](https://github.com/PacktPublishing/Modern-AI-Agent-Development-Using-LangChain-and-Microsoft-Azure) | Modern AI Agent Development Using LangChain and Microsoft Azure, Published by Packt Pub... | Jupyter Notebook | ⭐ 1 |
-| [Modern-AI-Agents](https://github.com/PacktPublishing/Modern-AI-Agents) | Modern AI Agents | Jupyter Notebook | ⭐ 339 |
+| [Modern-AI-Agents](https://github.com/PacktPublishing/Modern-AI-Agents) | Modern AI Agents | Jupyter Notebook | ⭐ 340 |
 | [Modern-Android-13-Development-Cookbook](https://github.com/PacktPublishing/Modern-Android-13-Development-Cookbook) | Modern Android 13 Development Cookbook, Published by Packt | Kotlin | ⭐ 54 |
 | [Modern-Android-15-Development-Cookbook-2nd-Edition](https://github.com/PacktPublishing/Modern-Android-15-Development-Cookbook-2nd-Edition) | Modern Android 15 Development Cookbook, 2nd Edition, published by Packt | Kotlin | ⭐ 2 |
 | [Modern-API-Automation-From-Postman-to-AI-Driven-Pipelines](https://github.com/PacktPublishing/Modern-API-Automation-From-Postman-to-AI-Driven-Pipelines) | Modern API Automation, From Postman to AI-Driven Pipelines, Published by Packt Publishing | Python |  |
@@ -6931,13 +6938,13 @@
 | [Modern-C-Templates-In-Depth](https://github.com/PacktPublishing/Modern-C-Templates-In-Depth) |  | C++ | ⭐ 2 |
 | [Modern-CLI-Applications-in-Python](https://github.com/PacktPublishing/Modern-CLI-Applications-in-Python) | Modern CLI Applications in Python by Packt Publishing | Python | ⭐ 1 |
 | [Modern-CMake-for-Cpp](https://github.com/PacktPublishing/Modern-CMake-for-Cpp) | Modern CMake for C++, published by Packt | Dockerfile | ⭐ 589 |
-| [Modern-CMake-for-Cpp-2E](https://github.com/PacktPublishing/Modern-CMake-for-Cpp-2E) | Modern CMake for C++, 2E - published by Packt | Dockerfile | ⭐ 150 |
+| [Modern-CMake-for-Cpp-2E](https://github.com/PacktPublishing/Modern-CMake-for-Cpp-2E) | Modern CMake for C++, 2E - published by Packt | Dockerfile | ⭐ 151 |
 | [Modern-Computer-Architecture-and-Organization](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization) | Modern Computer Architecture and Organization, published by Packt | Assembly | ⭐ 213 |
 | [Modern-Computer-Architecture-and-Organization-Second-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition) | Modern Computer Architecture and Organization – Second Edition, Published by Packt | Assembly | ⭐ 226 |
-| [Modern-Computer-Architecture-and-Organization-Third-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition) | Modern Computer Architecture and Organization (Third Edition), published by Packt | Python | ⭐ 16 |
+| [Modern-Computer-Architecture-and-Organization-Third-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition) | Modern Computer Architecture and Organization (Third Edition), published by Packt | Python | ⭐ 18 |
 | [Modern-Computer-Vision-with-C-](https://github.com/PacktPublishing/Modern-Computer-Vision-with-C-) |  |  |  |
 | [Modern-Computer-Vision-with-PyTorch](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch) | Modern Computer Vision with PyTorch, published by Packt   | Jupyter Notebook | ⭐ 918 |
-| [Modern-Computer-Vision-with-PyTorch-2E](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E) | Modern Computer Vision with PyTorch, 2E, Published by Packt | Jupyter Notebook | ⭐ 355 |
+| [Modern-Computer-Vision-with-PyTorch-2E](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E) | Modern Computer Vision with PyTorch, 2E, Published by Packt | Jupyter Notebook | ⭐ 360 |
 | [Modern-Cpp-Programming-Cookbook](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook) | Modern Cpp Programming Cookbook, by Packt | C++ | ⭐ 102 |
 | [Modern-CPP-Programming-Cookbook-Second-Edition](https://github.com/PacktPublishing/Modern-CPP-Programming-Cookbook-Second-Edition) | Modern C++ Programming Cookbook, Second Edition, published by Packt | C++ | ⭐ 216 |
 | [Modern-Cpp-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition) | Modern C++ Programming Cookbook, Third Edition, Published by PACKT | C++ | ⭐ 166 |
@@ -6955,7 +6962,7 @@
 | [Modern-Distributed-Tracing-in-.NET](https://github.com/PacktPublishing/Modern-Distributed-Tracing-in-.NET) | Modern Distributed Tracing in .NET, published by Packt | C# | ⭐ 46 |
 | [Modern-Frontend-Development-with-Node.js](https://github.com/PacktPublishing/Modern-Frontend-Development-with-Node.js) | Modern Frontend Development with Node.js, published by Packt | JavaScript | ⭐ 35 |
 | [Modern-Full-Stack-React-Projects](https://github.com/PacktPublishing/Modern-Full-Stack-React-Projects) | Modern Full-Stack React Projects, published by Packt | JavaScript | ⭐ 144 |
-| [Modern-Full-Stack-Web-Development-with-ASP.NET-Core](https://github.com/PacktPublishing/Modern-Full-Stack-Web-Development-with-ASP.NET-Core) | Modern Full-Stack Web Development with ASP.NET Core, published by Packt | HTML | ⭐ 27 |
+| [Modern-Full-Stack-Web-Development-with-ASP.NET-Core](https://github.com/PacktPublishing/Modern-Full-Stack-Web-Development-with-ASP.NET-Core) | Modern Full-Stack Web Development with ASP.NET Core, published by Packt | HTML | ⭐ 28 |
 | [Modern-Generative-AI-with-ChatGPT-and-OpenAI-Models](https://github.com/PacktPublishing/Modern-Generative-AI-with-ChatGPT-and-OpenAI-Models) | Modern Generative AI with ChatGPT and OpenAI Models, published by Packt | Jupyter Notebook | ⭐ 112 |
 | [Modern-Golang-Programming](https://github.com/PacktPublishing/Modern-Golang-Programming) |  | Go | ⭐ 4 |
 | [Modern-Graph-Theory-Algorithms-with-Python](https://github.com/PacktPublishing/Modern-Graph-Theory-Algorithms-with-Python) | Modern Graph Theory Algorithms with Python, published by Packt | Jupyter Notebook | ⭐ 40 |
@@ -6988,7 +6995,7 @@
 | [Modern-React-From-The-Beginning](https://github.com/PacktPublishing/Modern-React-From-The-Beginning) |  |  | ⭐ 3 |
 | [Modern-React-Native](https://github.com/PacktPublishing/Modern-React-Native) | Modern React Native, published by Packt |  |  |
 | [Modern-Recommendation-Systems](https://github.com/PacktPublishing/Modern-Recommendation-Systems) | Modern Recommendation Systems published by Packt |  |  |
-| [Modern-REST-API-Development-in-Go](https://github.com/PacktPublishing/Modern-REST-API-Development-in-Go) | Modern REST API Development in Go, Published by Packt | Go | ⭐ 12 |
+| [Modern-REST-API-Development-in-Go](https://github.com/PacktPublishing/Modern-REST-API-Development-in-Go) | Modern REST API Development in Go, Published by Packt | Go | ⭐ 13 |
 | [Modern-Scala-Projects](https://github.com/PacktPublishing/Modern-Scala-Projects) | Modern Scala Projects, published by Packt | Scala | ⭐ 11 |
 | [Modern-State-Management-with-NgRx](https://github.com/PacktPublishing/Modern-State-Management-with-NgRx) | Modern State Management with NgRx, published by Packt |  |  |
 | [Modern-Time-Series-Analysis-with-R](https://github.com/PacktPublishing/Modern-Time-Series-Analysis-with-R) | Modern Time Series with R, published by Packt | R | ⭐ 8 |
@@ -7022,7 +7029,7 @@
 | [Modular-Programming-with-JavaScript](https://github.com/PacktPublishing/Modular-Programming-with-JavaScript) | Code repository for Modular Programming with JavaScript, published by Packt | JavaScript | ⭐ 12 |
 | [Modular-Programming-with-PHP7](https://github.com/PacktPublishing/Modular-Programming-with-PHP7) | Code Repository for Modular Programming with PHP 7, published by Packt | PHP | ⭐ 40 |
 | [Modular-Programming-with-Python](https://github.com/PacktPublishing/Modular-Programming-with-Python) | Modular-Programming-with-Python Code | Python | ⭐ 48 |
-| [MongoDB---The-Complete-Developer-s-Guide](https://github.com/PacktPublishing/MongoDB---The-Complete-Developer-s-Guide) | MongoDB - The Complete Developer’s Guide, published by Packt | JavaScript | ⭐ 5 |
+| [MongoDB---The-Complete-Developer-s-Guide](https://github.com/PacktPublishing/MongoDB---The-Complete-Developer-s-Guide) | MongoDB - The Complete Developer’s Guide, published by Packt | JavaScript | ⭐ 6 |
 | [MongoDB---The-Complete-Developer-s-Guide-](https://github.com/PacktPublishing/MongoDB---The-Complete-Developer-s-Guide-) | MongoDB - The Complete Developer’s Guide , published by Packt |  | ⭐ 9 |
 | [MongoDB-4-Quick-Start-Guide](https://github.com/PacktPublishing/MongoDB-4-Quick-Start-Guide) | MongoDB 4 Quick Start Guide, published by Packt | PHP | ⭐ 7 |
 | [MongoDB-Administration](https://github.com/PacktPublishing/MongoDB-Administration) | MongoDB Administration by Packt Publishing |  |  |
@@ -7047,7 +7054,7 @@
 | [MuleSoft-for-Salesforce-Developers](https://github.com/PacktPublishing/MuleSoft-for-Salesforce-Developers) | MuleSoft for Salesforce Developers published by Packt | DataWeave | ⭐ 24 |
 | [MuleSoft-for-Salesforce-Developers-Second-Edition](https://github.com/PacktPublishing/MuleSoft-for-Salesforce-Developers-Second-Edition) | MuleSoft for Salesforce Developers - Second Edition, published by Packt | DataWeave | ⭐ 4 |
 | [MuleSoft-Platform-Architect-s-Guide](https://github.com/PacktPublishing/MuleSoft-Platform-Architect-s-Guide) | MuleSoft Platform Architect's Guide, Published by Packt |  | ⭐ 1 |
-| [Multi-Cloud-Handbook-for-Developers](https://github.com/PacktPublishing/Multi-Cloud-Handbook-for-Developers) | Multi-Cloud Handbook for Developers, published by Packt  | JavaScript | ⭐ 7 |
+| [Multi-Cloud-Handbook-for-Developers](https://github.com/PacktPublishing/Multi-Cloud-Handbook-for-Developers) | Multi-Cloud Handbook for Developers, published by Packt  | JavaScript | ⭐ 8 |
 | [Multi-Cloud-Strategy-for-Cloud-Architects](https://github.com/PacktPublishing/Multi-Cloud-Strategy-for-Cloud-Architects) | Multi-Cloud Strategy for Cloud Architects - published by Packt |  | ⭐ 2 |
 | [Multi-Paradigm-Programming-with-Modern-Cpp-daytime](https://github.com/PacktPublishing/Multi-Paradigm-Programming-with-Modern-Cpp-daytime) |  Multi-Paradigm Programming with Modern C++, published by Packt | C++ | ⭐ 25 |
 | [Multi-Paradigm-Programming-with-Modern-Cpp-Examples](https://github.com/PacktPublishing/Multi-Paradigm-Programming-with-Modern-Cpp-Examples) | Multi-P aradigm Programming with Modern C++ (Examples) | C++ | ⭐ 11 |
@@ -7095,7 +7102,7 @@
 | [Natural-Language-Processing-with-TensorFlow-2-2E](https://github.com/PacktPublishing/Natural-Language-Processing-with-TensorFlow-2-2E) | Code Repository for Natural Language Processing with TensorFlow 2 2E, Published by Packt |  |  |
 | [Natural-Language-Understanding-with-Python](https://github.com/PacktPublishing/Natural-Language-Understanding-with-Python) | Natural Language Understanding with Python published by Packt Publishing | Jupyter Notebook | ⭐ 44 |
 | [Natural-Lanuage-Process-TF](https://github.com/PacktPublishing/Natural-Lanuage-Process-TF) |  | Jupyter Notebook | ⭐ 3 |
-| [Neo4j-Cypher-GDS-GraphQL-LLM-Knowledge-Graphs-for-RAG](https://github.com/PacktPublishing/Neo4j-Cypher-GDS-GraphQL-LLM-Knowledge-Graphs-for-RAG) |  | Jupyter Notebook | ⭐ 3 |
+| [Neo4j-Cypher-GDS-GraphQL-LLM-Knowledge-Graphs-for-RAG](https://github.com/PacktPublishing/Neo4j-Cypher-GDS-GraphQL-LLM-Knowledge-Graphs-for-RAG) |  | Jupyter Notebook | ⭐ 4 |
 | [Nessus-Scanner---Network-Scanning-from-Beginner-to-Advanced](https://github.com/PacktPublishing/Nessus-Scanner---Network-Scanning-from-Beginner-to-Advanced) |  |  | ⭐ 2 |
 | [Nest.js-Web-Development](https://github.com/PacktPublishing/Nest.js-Web-Development) | Nest.js Web Development, published by Packt |  |  |
 | [NET-Core-Microservices](https://github.com/PacktPublishing/NET-Core-Microservices) | NET Core Microservices [Video], published by Packt |  |  |
@@ -7128,7 +7135,7 @@
 | [Neural-Networks-in-Machine-Learning-for-Developers](https://github.com/PacktPublishing/Neural-Networks-in-Machine-Learning-for-Developers) | Neural Networks in Machine Learning for Developers by Packt Publishing | Jupyter Notebook | ⭐ 1 |
 | [Neural-Networks-with-Keras-Cookbook](https://github.com/PacktPublishing/Neural-Networks-with-Keras-Cookbook) | Neural Networks with Keras Cookbook, published by Packt | Jupyter Notebook | ⭐ 53 |
 | [Neural-Networks-with-R](https://github.com/PacktPublishing/Neural-Networks-with-R) | Neural Networks with R, published by Packt | R | ⭐ 34 |
-| [Neural-Rendering-in-Action](https://github.com/PacktPublishing/Neural-Rendering-in-Action) | Neural Rendering in Action, Published by Packt | Jupyter Notebook |  |
+| [Neural-Rendering-in-Action](https://github.com/PacktPublishing/Neural-Rendering-in-Action) | Neural Rendering in Action, Published by Packt | C++ |  |
 | [Neural-Search-From-Prototype-to-Production-with-Jina](https://github.com/PacktPublishing/Neural-Search-From-Prototype-to-Production-with-Jina) | Neural Search - From Prototype to Production with Jina, published by Packt | Python | ⭐ 11 |
 | [Neuro-Symbolic-AI](https://github.com/PacktPublishing/Neuro-Symbolic-AI) | Neuro-Symbolic AI, published by Packt | Jupyter Notebook | ⭐ 49 |
 | [New](https://github.com/PacktPublishing/New) | gyf |  |  |
@@ -7166,8 +7173,8 @@
 | [Node.js-By-Example](https://github.com/PacktPublishing/Node.js-By-Example) | Node.js By Example by Packt Publishing | JavaScript | ⭐ 17 |
 | [Node.js-Complete-Reference-Guide](https://github.com/PacktPublishing/Node.js-Complete-Reference-Guide) |  | JavaScript | ⭐ 12 |
 | [Node.js-Cookbook-Fifth-Edition](https://github.com/PacktPublishing/Node.js-Cookbook-Fifth-Edition) | Node.js Cookbook - Fifth Edition, published by Packt Publishing | JavaScript | ⭐ 29 |
-| [Node.js-Design-Patterns-Fourth-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Fourth-Edition) | Node.js Design Patterns, Fourth Edition - published by Packt | JavaScript | ⭐ 145 |
-| [Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) | Node.js Design Patterns Third Edition, published by Packt | JavaScript | ⭐ 1919 |
+| [Node.js-Design-Patterns-Fourth-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Fourth-Edition) | Node.js Design Patterns, Fourth Edition - published by Packt | JavaScript | ⭐ 151 |
+| [Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) | Node.js Design Patterns Third Edition, published by Packt | JavaScript | ⭐ 1920 |
 | [Node.js-Design-Patterns-v-](https://github.com/PacktPublishing/Node.js-Design-Patterns-v-) | Code repository for Node.js Design Patterns(v), Published by Packt | JavaScript | ⭐ 28 |
 | [Node.js-Developing-Web-Applications](https://github.com/PacktPublishing/Node.js-Developing-Web-Applications) | Node.js Developing Web Applications, published by Packt |  |  |
 | [Node.js-Express-and-MongoDB-Dev-to-Deployment](https://github.com/PacktPublishing/Node.js-Express-and-MongoDB-Dev-to-Deployment) | Node.js, Express and MongoDB Dev to Deployment, published by Packt |  |  |
@@ -7195,7 +7202,7 @@
 | [Nuxt-3-Projects](https://github.com/PacktPublishing/Nuxt-3-Projects) | Nuxt 3 Projects, published by Packt | Vue | ⭐ 15 |
 | [Nuxt.js---Vue.js-on-Steroids](https://github.com/PacktPublishing/Nuxt.js---Vue.js-on-Steroids) | Nuxt.js - Vue.js on Steroids, published by Packt | CSS | ⭐ 17 |
 | [Nuxt.js-Quick-Start-Guide](https://github.com/PacktPublishing/Nuxt.js-Quick-Start-Guide) | Nuxt.js Quick Start Guide published by Packt |  |  |
-| [NVIDIA-GenAI-LLMs-Learn-and-Pass-NCA-GENL-Certification](https://github.com/PacktPublishing/NVIDIA-GenAI-LLMs-Learn-and-Pass-NCA-GENL-Certification) | NVIDIA GenAI & LLMs: Learn and Pass NCA-GENL Certification, published by Packt Publishing |  |  |
+| [NVIDIA-GenAI-LLMs-Learn-and-Pass-NCA-GENL-Certification](https://github.com/PacktPublishing/NVIDIA-GenAI-LLMs-Learn-and-Pass-NCA-GENL-Certification) | NVIDIA GenAI & LLMs: Learn and Pass NCA-GENL Certification, published by Packt Publishing |  | ⭐ 1 |
 
 ## O (120 repos)
 
@@ -7233,7 +7240,7 @@
 | [Odoo-15-Development-Essentials](https://github.com/PacktPublishing/Odoo-15-Development-Essentials) | Odoo 15 Development Essentials, published by Packt | Python | ⭐ 105 |
 | [Odoo-17-Development-Cookbook-Fifth-Edition](https://github.com/PacktPublishing/Odoo-17-Development-Cookbook-Fifth-Edition) | Odoo Development Cookbook - Fifth Edition, published by Packt | Python | ⭐ 121 |
 | [Odoo-17-Development-Essentials](https://github.com/PacktPublishing/Odoo-17-Development-Essentials) | Odoo 17 Development Essentials_published by Packt |  |  |
-| [Odoo-19-Development-Cookbook-6E](https://github.com/PacktPublishing/Odoo-19-Development-Cookbook-6E) | Odoo 19 Development Cookbook, 6E, published by Packt | Python | ⭐ 27 |
+| [Odoo-19-Development-Cookbook-6E](https://github.com/PacktPublishing/Odoo-19-Development-Cookbook-6E) | Odoo 19 Development Cookbook, 6E, published by Packt | Python | ⭐ 28 |
 | [Odoo-Development-Cookbook](https://github.com/PacktPublishing/Odoo-Development-Cookbook) | Code from the "Odoo Development Cookbook" | Python | ⭐ 48 |
 | [Offensive-Automotive-Cybersecurity](https://github.com/PacktPublishing/Offensive-Automotive-Cybersecurity) | Offensive Automotive Cybersecurity, published by Packt |  |  |
 | [Offensive-Hacking-Unfolded---Become-a-Pro-Pentester](https://github.com/PacktPublishing/Offensive-Hacking-Unfolded---Become-a-Pro-Pentester) | Offensive Hacking Unfolded - Become a Pro Pentester, by Packt Publishing |  | ⭐ 20 |
@@ -7269,7 +7276,7 @@
 | [OpenCV-Computer-Vision-Examples-with-Python-A-Complete-Guide-for-Dummies](https://github.com/PacktPublishing/OpenCV-Computer-Vision-Examples-with-Python-A-Complete-Guide-for-Dummies) | OpenCV Computer Vision Examples with Python: A Complete Guide for Dummies, published by... | Python | ⭐ 9 |
 | [OpenCV-Computer-Vision-Projects-with-Python](https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python) | OpenCV-Computer-Vision-Projects-with-Python | Python | ⭐ 132 |
 | [OpenCV-for-Secret-Agents](https://github.com/PacktPublishing/OpenCV-for-Secret-Agents) | OpenCV for Secrest Agents by Packt Publishing | Shell | ⭐ 14 |
-| [OpenCV-with-Python-By-Example](https://github.com/PacktPublishing/OpenCV-with-Python-By-Example) | OpenCV with Python By Example, published by packt | Python | ⭐ 58 |
+| [OpenCV-with-Python-By-Example](https://github.com/PacktPublishing/OpenCV-with-Python-By-Example) | OpenCV with Python By Example, published by packt | Python | ⭐ 59 |
 | [opencv.org](https://github.com/PacktPublishing/opencv.org) | Sources for http://opencv.org site | HTML | ⭐ 1 |
 | [OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition) | Code repository for OpenCV 3 Computer Vision Application Programming Cookbook, Third Ed... | C++ | ⭐ 212 |
 | [OpenDaylight-Cookbook](https://github.com/PacktPublishing/OpenDaylight-Cookbook) | OpenDaylight Cookbook, published by Packt |  | ⭐ 6 |
@@ -7291,7 +7298,7 @@
 | [OpenTelemetry-in-Practice---The-Complete-Observability-Course](https://github.com/PacktPublishing/OpenTelemetry-in-Practice---The-Complete-Observability-Course) | This is the code repository for OpenTelemetry in Practice - The Complete Observability ... | Shell | ⭐ 1 |
 | [OpenVPN-2-Cookbook](https://github.com/PacktPublishing/OpenVPN-2-Cookbook) | OpenVPN 2 Cookbook, published by Packt | Shell | ⭐ 2 |
 | [OpenVPN-Cookbook-Second-Edition](https://github.com/PacktPublishing/OpenVPN-Cookbook-Second-Edition) | This is the code repository for the book OpenVPN Cookbook Second Edition published by P... | Shell | ⭐ 36 |
-| [Operational-AI-with-Docker](https://github.com/PacktPublishing/Operational-AI-with-Docker) | Operational AI with Docker  | Python | ⭐ 13 |
+| [Operational-AI-with-Docker](https://github.com/PacktPublishing/Operational-AI-with-Docker) | Operational AI with Docker  | Python | ⭐ 16 |
 | [Operationalizing-Machine-Learning-with-Apache-Kafka](https://github.com/PacktPublishing/Operationalizing-Machine-Learning-with-Apache-Kafka) | Operationalizing Machine Learning with Apache Kafka, by Packt Publishing |  |  |
 | [Operationalizing-Threat-Intelligence-Audiobook](https://github.com/PacktPublishing/Operationalizing-Threat-Intelligence-Audiobook) |  |  |  |
 | [Optimizing-Compilers-using-LLVM](https://github.com/PacktPublishing/Optimizing-Compilers-using-LLVM) | Optimizing Compilers using LLVM, published by Packt |  |  |
@@ -7310,7 +7317,7 @@
 | [Oracle-CX-Cloud-Suite](https://github.com/PacktPublishing/Oracle-CX-Cloud-Suite) | Oracle CX Cloud Suite, published by Packt |  |  |
 | [Oracle-Database-12c-certification-guide-1Z0-071-](https://github.com/PacktPublishing/Oracle-Database-12c-certification-guide-1Z0-071-) | Oracle Database 12c certification guide (1Z0-071) published by Packt. |  | ⭐ 1 |
 | [Oracle-Database-12c-Security-Cookbook](https://github.com/PacktPublishing/Oracle-Database-12c-Security-Cookbook) | Oracle-Database-12c-Security-Cookbook Code |  | ⭐ 5 |
-| [Oracle-Database-Administration-from-Zero-to-Hero](https://github.com/PacktPublishing/Oracle-Database-Administration-from-Zero-to-Hero) |  | XSLT | ⭐ 56 |
+| [Oracle-Database-Administration-from-Zero-to-Hero](https://github.com/PacktPublishing/Oracle-Database-Administration-from-Zero-to-Hero) |  | XSLT | ⭐ 58 |
 | [Oracle-Database-Backup-and-Recovery-using-RMAN](https://github.com/PacktPublishing/Oracle-Database-Backup-and-Recovery-using-RMAN) | Oracle Database Backup and Recovery using RMAN, published by Packt | Java | ⭐ 3 |
 | [Oracle-Database-SQL-Certification-Guide-1Z0-071-](https://github.com/PacktPublishing/Oracle-Database-SQL-Certification-Guide-1Z0-071-) | Oracle Database SQL Certification Guide (1Z0-071), published by Packt |  |  |
 | [Oracle-Helidon-Quick-Start-Guide](https://github.com/PacktPublishing/Oracle-Helidon-Quick-Start-Guide) | Oracle Helidon Quick Start Guide, published by Packt |  | ⭐ 1 |
@@ -7322,7 +7329,7 @@
 | [Overlay-SDN-Solutions-Network](https://github.com/PacktPublishing/Overlay-SDN-Solutions-Network) | Code Repository for Overlay SDN Solutions (Network, published by Packt |  | ⭐ 1 |
 | [Overlay-SDN-Solutions-Network-Virtualization-Introduction](https://github.com/PacktPublishing/Overlay-SDN-Solutions-Network-Virtualization-Introduction) | Overlay SDN Solutions (Network Virtualization) Introduction, published by Packt |  | ⭐ 1 |
 
-## P (647 repos)
+## P (649 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -7351,8 +7358,8 @@
 | [PacktPlus](https://github.com/PacktPublishing/PacktPlus) | Code files for content available on Packt+ | JavaScript | ⭐ 12 |
 | [packtpub-cli](https://github.com/PacktPublishing/packtpub-cli) | Download freely offered books from packtpub.com | JavaScript |  |
 | [packtpub-xtext-book-2nd-examples](https://github.com/PacktPublishing/packtpub-xtext-book-2nd-examples) | This contains the examples for the book "Implementing Domain-Specific Languages with Xt... | Xtend |  |
-| [PacktPublishing-Beginning-Selenium-WebDriver-Testing-in-Java](https://github.com/PacktPublishing/PacktPublishing-Beginning-Selenium-WebDriver-Testing-in-Java) | PacktPublishing/Beginning-Selenium-WebDriver-Testing-in-Java, published by Packt | HTML | ⭐ 9 |
-| [PacktPublishing-The-Front-End-Web-Developer-Bootcamp---HTML-CSS-JS-React](https://github.com/PacktPublishing/PacktPublishing-The-Front-End-Web-Developer-Bootcamp---HTML-CSS-JS-React) | PacktPublishing/The-Front-End-Web-Developer-Bootcamp---HTML-CSS-JS-React, By Packt Publ... | HTML | ⭐ 12 |
+| [PacktPublishing-Beginning-Selenium-WebDriver-Testing-in-Java](https://github.com/PacktPublishing/PacktPublishing-Beginning-Selenium-WebDriver-Testing-in-Java) | PacktPublishing/Beginning-Selenium-WebDriver-Testing-in-Java, published by Packt | HTML | ⭐ 10 |
+| [PacktPublishing-The-Front-End-Web-Developer-Bootcamp---HTML-CSS-JS-React](https://github.com/PacktPublishing/PacktPublishing-The-Front-End-Web-Developer-Bootcamp---HTML-CSS-JS-React) | PacktPublishing/The-Front-End-Web-Developer-Bootcamp---HTML-CSS-JS-React, By Packt Publ... | HTML | ⭐ 13 |
 | [Palo-Alto-Networks-from-Policy-to-Code](https://github.com/PacktPublishing/Palo-Alto-Networks-from-Policy-to-Code) | GitHub repository for the Palo Alto Networks from Policy to Code book |  | ⭐ 1 |
 | [Pandas-and-NumPy-Tips-Trick-and-Techniques](https://github.com/PacktPublishing/Pandas-and-NumPy-Tips-Trick-and-Techniques) | Pandas and NumPy Tips, Trick, and Techniques [Video], published by Packt | Jupyter Notebook | ⭐ 4 |
 | [Pandas-Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook) | Pandas Cookbook, published by Packt | Jupyter Notebook | ⭐ 776 |
@@ -7370,7 +7377,7 @@
 | [PCI-DSS-Essentials---Process-Compliance-Self-Assessment](https://github.com/PacktPublishing/PCI-DSS-Essentials---Process-Compliance-Self-Assessment) | PCI-DSS Essentials - Process, Compliance & Self-Assessment, Published by Packt Publishing |  |  |
 | [PCI-DSS-v4.0.0-Fundamentals-and-Compliance-Guide](https://github.com/PacktPublishing/PCI-DSS-v4.0.0-Fundamentals-and-Compliance-Guide) |  |  |  |
 | [Penetration-Testing-A-Survial-Toolkit](https://github.com/PacktPublishing/Penetration-Testing-A-Survial-Toolkit) |  | Java | ⭐ 3 |
-| [Penetration-Testing-Azure-for-Ethical-Hackers](https://github.com/PacktPublishing/Penetration-Testing-Azure-for-Ethical-Hackers) | Penetration Testing Azure for Ethical Hackers, published by Packt | PowerShell | ⭐ 115 |
+| [Penetration-Testing-Azure-for-Ethical-Hackers](https://github.com/PacktPublishing/Penetration-Testing-Azure-for-Ethical-Hackers) | Penetration Testing Azure for Ethical Hackers, published by Packt | PowerShell | ⭐ 116 |
 | [Penetration-Testing-Azure-For-Ethical-Hackers-2E](https://github.com/PacktPublishing/Penetration-Testing-Azure-For-Ethical-Hackers-2E) | Penetration Testing Azure For Ethical Hackers, 2E_Published by Packt |  | ⭐ 1 |
 | [Penetration-Testing-With-Python-In-Kali-Linux](https://github.com/PacktPublishing/Penetration-Testing-With-Python-In-Kali-Linux) | GitHub repository for the Penetration Testing With Python In Kali Linux book | Python | ⭐ 4 |
 | [Penetration-Testing-with-Raspberry-Pi-Second-Edition](https://github.com/PacktPublishing/Penetration-Testing-with-Raspberry-Pi-Second-Edition) | This is the code bundle of Penetration Testing with Raspberry Pi, Second-Edition book |  | ⭐ 11 |
@@ -7422,13 +7429,14 @@
 | [PID-Controllers-Introduction-to-Control-Design](https://github.com/PacktPublishing/PID-Controllers-Introduction-to-Control-Design) | PID Controllers: Introduction to Control Design by Packt Publishing |  | ⭐ 2 |
 | [PL-300-Microsoft-Power-BI-Data-Analyst-Certification-The-Ultimate-Guide](https://github.com/PacktPublishing/PL-300-Microsoft-Power-BI-Data-Analyst-Certification-The-Ultimate-Guide) |  |  | ⭐ 9 |
 | [Planning-and-Control-Using-Microsoft-Project-365-and-2021](https://github.com/PacktPublishing/Planning-and-Control-Using-Microsoft-Project-365-and-2021) | Planning and Control Using Microsoft Project 365 and 2021, by Packt Publishing |  | ⭐ 1 |
-| [Planning-and-Control-with-Oracle-Primavera-P6-PPM-Professional](https://github.com/PacktPublishing/Planning-and-Control-with-Oracle-Primavera-P6-PPM-Professional) | Planning and Control with Oracle Primavera P6 PPM Professional, published by Packt |  | ⭐ 21 |
+| [Planning-and-Control-with-Oracle-Primavera-P6-PPM-Professional](https://github.com/PacktPublishing/Planning-and-Control-with-Oracle-Primavera-P6-PPM-Professional) | Planning and Control with Oracle Primavera P6 PPM Professional, published by Packt |  | ⭐ 22 |
 | [Platform-and-Model-Design-for-Responsible-AI](https://github.com/PacktPublishing/Platform-and-Model-Design-for-Responsible-AI) | Platform and Model Design for Responsible AI, published by Packt | Jupyter Notebook | ⭐ 5 |
-| [Platform-Engineer-s-Handbook](https://github.com/PacktPublishing/Platform-Engineer-s-Handbook) | Platform Engineer's Handbook, Published by Packt | Python | ⭐ 8 |
+| [Platform-Engineer-s-Handbook](https://github.com/PacktPublishing/Platform-Engineer-s-Handbook) | Platform Engineer's Handbook, Published by Packt | Python | ⭐ 9 |
 | [Platform-Engineering-for-Architects](https://github.com/PacktPublishing/Platform-Engineering-for-Architects) | Platform Engineering for Architects, published by Packt |  | ⭐ 27 |
 | [Platform-Engineering-in-Practice](https://github.com/PacktPublishing/Platform-Engineering-in-Practice) | Platform Engineering in Practice, published by Packt |  |  |
 | [Play-Framework-for-Web-Application-Development](https://github.com/PacktPublishing/Play-Framework-for-Web-Application-Development) | Play! Framework for Web Application Development [Video], published by Packt |  |  |
-| [Playwright-Python-and-Pytest-for-Web-Automation-Testing](https://github.com/PacktPublishing/Playwright-Python-and-Pytest-for-Web-Automation-Testing) | Playwright Python and Pytest for Web Automation Testing, published by Packt | Python | ⭐ 62 |
+| [Playwright-Python-and-Pytest-for-Web-Automation-Testing](https://github.com/PacktPublishing/Playwright-Python-and-Pytest-for-Web-Automation-Testing) | Playwright Python and Pytest for Web Automation Testing, published by Packt | Python | ⭐ 63 |
+| [Playwright-Testing-with-JavaScript-Zero-to-Hero](https://github.com/PacktPublishing/Playwright-Testing-with-JavaScript-Zero-to-Hero) | Playwright Testing with JavaScript: Zero to Hero, published by Packt Publishing |  |  |
 | [PLCs-for-Beginners](https://github.com/PacktPublishing/PLCs-for-Beginners) | PLC for Beginners, published by Packt |  | ⭐ 10 |
 | [Plotly-Dash-Cookbook](https://github.com/PacktPublishing/Plotly-Dash-Cookbook) | Plotly Dash Cookbook, Published by Packt | Jupyter Notebook | ⭐ 12 |
 | [PMI-RMP-Certification-Training](https://github.com/PacktPublishing/PMI-RMP-Certification-Training) | PMI-RMP® Certification Training, by Packt Publishing |  | ⭐ 5 |
@@ -7439,7 +7447,7 @@
 | [Podman-for-the-Absolute-Beginners---Hands-On-DevOps](https://github.com/PacktPublishing/Podman-for-the-Absolute-Beginners---Hands-On-DevOps) |  |  | ⭐ 6 |
 | [Polars-Cookbook](https://github.com/PacktPublishing/Polars-Cookbook) | Polars Cookbook, Published by Packt | Jupyter Notebook | ⭐ 361 |
 | [Polished-Ruby-Programming](https://github.com/PacktPublishing/Polished-Ruby-Programming) | Polished Ruby Programming, published by Packt | Ruby | ⭐ 208 |
-| [Polished-Ruby-Programming-2nd-Edition](https://github.com/PacktPublishing/Polished-Ruby-Programming-2nd-Edition) | Polished Ruby Programming, 2nd Edition, published by Packt | Ruby | ⭐ 1 |
+| [Polished-Ruby-Programming-2nd-Edition](https://github.com/PacktPublishing/Polished-Ruby-Programming-2nd-Edition) | Polished Ruby Programming, 2nd Edition, published by Packt | Ruby | ⭐ 3 |
 | [Poorva_Done_Repo](https://github.com/PacktPublishing/Poorva_Done_Repo) |  |  |  |
 | [Portfolio-Website-using-HTML-CSS-and-JavaScript-with-Hosting](https://github.com/PacktPublishing/Portfolio-Website-using-HTML-CSS-and-JavaScript-with-Hosting) | Portfolio Website using HTML, CSS, and JavaScript with Hosting, by Packt Publishing |  | ⭐ 2 |
 | [PostGIS-Cookbook-Second-Edition](https://github.com/PacktPublishing/PostGIS-Cookbook-Second-Edition) | PostGIS Cookbook, Second Edition, published by Packt | HTML | ⭐ 35 |
@@ -7456,6 +7464,7 @@
 | [PostgreSQL-Administration-Cookbook-9.5-9.6](https://github.com/PacktPublishing/PostgreSQL-Administration-Cookbook-9.5-9.6) | Code repository for PostgreSQL Administration Cookbook 9.5/9.6 Edition, published by Packt |  | ⭐ 11 |
 | [PostgreSQL-High-Availability-Cookbook](https://github.com/PacktPublishing/PostgreSQL-High-Availability-Cookbook) | Code repository for PostgreSQL High Availability Cookbook by Packt | Shell | ⭐ 25 |
 | [PostgreSQL-High-Performance-Cookbook](https://github.com/PacktPublishing/PostgreSQL-High-Performance-Cookbook) | Code repository for PostgreSQL High Performance Cookbook by Packt Publishing |  | ⭐ 16 |
+| [PostgreSQL-on-Kubernetes](https://github.com/PacktPublishing/PostgreSQL-on-Kubernetes) | PostgreSQL on Kubernetes, published by Packt | Python | ⭐ 1 |
 | [Postman-Tutorial-Getting-Started-with-API-Testing](https://github.com/PacktPublishing/Postman-Tutorial-Getting-Started-with-API-Testing) | Postman Tutorial: Getting Started with API Testing, by Packt Publishing |  | ⭐ 13 |
 | [Power-Apps-AI-Builder-Cookbook-](https://github.com/PacktPublishing/Power-Apps-AI-Builder-Cookbook-) |  |  |  |
 | [Power-Apps-Tips-Tricks-and-Best-Practices](https://github.com/PacktPublishing/Power-Apps-Tips-Tricks-and-Best-Practices) | Power Apps Tips, Tricks, and Best Practices, published by Packt |  | ⭐ 2 |
@@ -7473,7 +7482,7 @@
 | [Power-BI-Masterclass---Beginners-to-Advanced-v-](https://github.com/PacktPublishing/Power-BI-Masterclass---Beginners-to-Advanced-v-) | Code Repository for Power BI Masterclass - Beginners to Advanced(v), Published by Packt |  | ⭐ 5 |
 | [Power-BI-Masterclass---Python-Finance-and-Advanced-DAX](https://github.com/PacktPublishing/Power-BI-Masterclass---Python-Finance-and-Advanced-DAX) | Power BI Masterclass - Python, Finance, and Advanced DAX, by Packt Publishing | Python | ⭐ 15 |
 | [Power-BI-Masterclass---Your-Future-in-Data-Analytics](https://github.com/PacktPublishing/Power-BI-Masterclass---Your-Future-in-Data-Analytics) | Power BI Masterclass - Your Future in Data Analytics [Video], Published by Packt |  | ⭐ 3 |
-| [Power-BI-Masterclass-2023](https://github.com/PacktPublishing/Power-BI-Masterclass-2023) |  |  | ⭐ 13 |
+| [Power-BI-Masterclass-2023](https://github.com/PacktPublishing/Power-BI-Masterclass-2023) |  |  | ⭐ 14 |
 | [Power-BI-Specialization-for-Beginners](https://github.com/PacktPublishing/Power-BI-Specialization-for-Beginners) | Power BI Specialization for Beginners, Published by Packt Publishing |  |  |
 | [Power-Platform-and-the-AI-Revolution](https://github.com/PacktPublishing/Power-Platform-and-the-AI-Revolution) | Power Platform and the AI Revolution, First Edition |  | ⭐ 2 |
 | [Power-Query-Cookbook](https://github.com/PacktPublishing/Power-Query-Cookbook) | Power Query Cookbook, published by Packt |  | ⭐ 23 |
@@ -7495,7 +7504,7 @@
 | [Practical-Ansible-2](https://github.com/PacktPublishing/Practical-Ansible-2) | Ansible 2 Cookbook, published by Packt | Python | ⭐ 37 |
 | [Practical-Ansible-Second-Edition](https://github.com/PacktPublishing/Practical-Ansible-Second-Edition) | Practical Ansible - Second Edition, Published by packt | Python | ⭐ 13 |
 | [Practical-Ansible-Solutions](https://github.com/PacktPublishing/Practical-Ansible-Solutions) |  Practical Ansible Solutions, Published by Packt | Python | ⭐ 16 |
-| [Practical-Antivirus-and-EDR-Evasion-Techniques](https://github.com/PacktPublishing/Practical-Antivirus-and-EDR-Evasion-Techniques) |  | C++ | ⭐ 1 |
+| [Practical-Antivirus-and-EDR-Evasion-Techniques](https://github.com/PacktPublishing/Practical-Antivirus-and-EDR-Evasion-Techniques) |  | C++ | ⭐ 2 |
 | [Practical-Arduino-Robotics](https://github.com/PacktPublishing/Practical-Arduino-Robotics) | Practical Arduino Robotics ,published by Packt | C++ | ⭐ 32 |
 | [Practical-Artificial-Intelligence-and-Machine-Learning-with-Python-in-Excel](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-and-Machine-Learning-with-Python-in-Excel) | "Practical Artificial Intelligence and Machine Learning with Python in Excel published ... |  |  |
 | [Practical-Artificial-Intelligence-for-A-B-Testing-](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-for-A-B-Testing-) | Practical Artificial Intelligence for A/B Testing {video], published by Packt | Python | ⭐ 6 |
@@ -7561,7 +7570,7 @@
 | [Practical-Linux-Security-Cookbook](https://github.com/PacktPublishing/Practical-Linux-Security-Cookbook) | Code files for Practical-Linux-Security-Cookbook, Packt Publishing |  | ⭐ 25 |
 | [Practical-Linux-Security-Solutions](https://github.com/PacktPublishing/Practical-Linux-Security-Solutions) | Practical Linux Security Solutions by Packt Publishing |  |  |
 | [Practical-LLM-Evaluation-for-Production-Systems](https://github.com/PacktPublishing/Practical-LLM-Evaluation-for-Production-Systems) | Practical LLM Evaluation for Production Systems, published by Packt | Python | ⭐ 12 |
-| [Practical-LLMs-for-Healthcare](https://github.com/PacktPublishing/Practical-LLMs-for-Healthcare) |  |  | ⭐ 1 |
+| [Practical-LLMs-for-Healthcare](https://github.com/PacktPublishing/Practical-LLMs-for-Healthcare) |  |  | ⭐ 2 |
 | [Practical-Machine-Learning](https://github.com/PacktPublishing/Practical-Machine-Learning) | Practical Machine Learning published by Packt | Java | ⭐ 5 |
 | [Practical-Machine-Learning-Cookbook](https://github.com/PacktPublishing/Practical-Machine-Learning-Cookbook) | Code repository for Practical Machine Learning Cookbook, published by Packt | R | ⭐ 35 |
 | [Practical-Machine-Learning-on-Databricks](https://github.com/PacktPublishing/Practical-Machine-Learning-on-Databricks) | Practical Machine Learning on Databricks, published by packt | Python | ⭐ 24 |
@@ -7604,7 +7613,7 @@
 | [Practical-Security-Automation-and-Testing](https://github.com/PacktPublishing/Practical-Security-Automation-and-Testing) | Hands-on Security Automation in DevOps, published by Packt | HTML | ⭐ 52 |
 | [Practical-Serverless-and-Microservices-with-Csharp](https://github.com/PacktPublishing/Practical-Serverless-and-Microservices-with-Csharp) | Practical Serverless and Microservices with C#, published by Packt | C# | ⭐ 13 |
 | [Practical-Site-Reliability-Engineering](https://github.com/PacktPublishing/Practical-Site-Reliability-Engineering) | Practical Site Reliability Engineering, published by Packt | Ballerina | ⭐ 12 |
-| [Practical-System-Programming-for-Rust-Developers](https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers) | Practical System Programming for Rust Developers, published by Packt | Rust | ⭐ 248 |
+| [Practical-System-Programming-for-Rust-Developers](https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers) | Practical System Programming for Rust Developers, published by Packt | Rust | ⭐ 251 |
 | [Practical-Test-Driven-Development](https://github.com/PacktPublishing/Practical-Test-Driven-Development) | Practical Test-Driven Development, published by Packt | C# | ⭐ 19 |
 | [Practical-Threat-Detection-Engineering](https://github.com/PacktPublishing/Practical-Threat-Detection-Engineering) | Practical Threat Detection Engineering, Published by Packt |  | ⭐ 94 |
 | [Practical-Time-Series-Analysis](https://github.com/PacktPublishing/Practical-Time-Series-Analysis) | Practical Time-Series Analysis, published by Packt | Jupyter Notebook | ⭐ 418 |
@@ -7724,7 +7733,7 @@
 | [Prompt-Engineering-for-Everyone-with-ChatGPT-and-GPT-4](https://github.com/PacktPublishing/Prompt-Engineering-for-Everyone-with-ChatGPT-and-GPT-4) | Prompt Engineering for Everyone with ChatGPT and GPT-4, by Packt Publishing |  | ⭐ 10 |
 | [Prompt-Engineering-for-Everyone-with-ChatGPT-and-GPT4](https://github.com/PacktPublishing/Prompt-Engineering-for-Everyone-with-ChatGPT-and-GPT4) | Prompt Engineering for Everybody with ChatGPT and GPT4, by Packt Publishing |  | ⭐ 33 |
 | [Prompt-Engineering-in-Python-with-GPT-and-the-OpenAI-API](https://github.com/PacktPublishing/Prompt-Engineering-in-Python-with-GPT-and-the-OpenAI-API) |  | Jupyter Notebook | ⭐ 14 |
-| [Prompt-Engineering-Masterclass---From-Beginner-to-Advanced](https://github.com/PacktPublishing/Prompt-Engineering-Masterclass---From-Beginner-to-Advanced) | Prompt Engineering Masterclass - From Beginner to Advanced, Published by Packt Publishing | Jupyter Notebook | ⭐ 13 |
+| [Prompt-Engineering-Masterclass---From-Beginner-to-Advanced](https://github.com/PacktPublishing/Prompt-Engineering-Masterclass---From-Beginner-to-Advanced) | Prompt Engineering Masterclass - From Beginner to Advanced, Published by Packt Publishing | Jupyter Notebook | ⭐ 15 |
 | [Protocol-Buffers-Handbook](https://github.com/PacktPublishing/Protocol-Buffers-Handbook) | Protocol Buffers Handbook, published by Packt | Rust | ⭐ 11 |
 | [PROTOTYPING-WITH-SKETCH](https://github.com/PacktPublishing/PROTOTYPING-WITH-SKETCH) | PROTOTYPING WITH SKETCH, published by Packt |  |  |
 | [PSD-to-HTML-Learn-To-Build-Re](https://github.com/PacktPublishing/PSD-to-HTML-Learn-To-Build-Re) | Code Repositroy for PSD to HTML: Learn To Build Re, published by Packt |  |  |
@@ -7777,11 +7786,11 @@
 | [Python-Application-Development-Tips-Tricks-and-Techniques](https://github.com/PacktPublishing/Python-Application-Development-Tips-Tricks-and-Techniques) | Python-Application-Development-Tips-Tricks-and-Techniques [Video] | Python | ⭐ 13 |
 | [Python-Architecture-Patterns](https://github.com/PacktPublishing/Python-Architecture-Patterns) | Code Repository for Python Architecture Patterns, Created by Packt | Python | ⭐ 83 |
 | [python-artificial-intelligence-projects](https://github.com/PacktPublishing/python-artificial-intelligence-projects) |  |  |  |
-| [Python-Artificial-Intelligence-Projects-for-Beginners](https://github.com/PacktPublishing/Python-Artificial-Intelligence-Projects-for-Beginners) | Python Artificial Intelligence Projects for Beginners, published by Packt | Jupyter Notebook | ⭐ 466 |
+| [Python-Artificial-Intelligence-Projects-for-Beginners](https://github.com/PacktPublishing/Python-Artificial-Intelligence-Projects-for-Beginners) | Python Artificial Intelligence Projects for Beginners, published by Packt | Jupyter Notebook | ⭐ 468 |
 | [Python-at-Scale](https://github.com/PacktPublishing/Python-at-Scale) | Python at Scale, Published by Packt |  |  |
 | [Python-Automation-Cookbook](https://github.com/PacktPublishing/Python-Automation-Cookbook) | Python Automation Cookbook, published by Packt | Python | ⭐ 258 |
 | [Python-Automation-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-Automation-Cookbook-Second-Edition) | Python-Automation-Cookbook-Second-Edition, published by Packt | Python | ⭐ 131 |
-| [Python-Automation-Cookbook-Third-Edition](https://github.com/PacktPublishing/Python-Automation-Cookbook-Third-Edition) | Python Automation Cookbook Third Edition, published by Packt  | Python | ⭐ 13 |
+| [Python-Automation-Cookbook-Third-Edition](https://github.com/PacktPublishing/Python-Automation-Cookbook-Third-Edition) | Python Automation Cookbook Third Edition, published by Packt  | Python | ⭐ 14 |
 | [Python-Automation-for-Everyone](https://github.com/PacktPublishing/Python-Automation-for-Everyone) | Python Automation for Everyone bu Packt Publishing |  | ⭐ 1 |
 | [Python-Automation-Projects](https://github.com/PacktPublishing/Python-Automation-Projects) | Python Automation Projects by Packt Publishing  |  | ⭐ 1 |
 | [Python-Beginners-Guide-to-Artificial-Intelligence](https://github.com/PacktPublishing/Python-Beginners-Guide-to-Artificial-Intelligence) |  | Jupyter Notebook | ⭐ 25 |
@@ -7789,7 +7798,7 @@
 | [Python-Bootcamp-in-a-day---Python-Programming-for-Beginners](https://github.com/PacktPublishing/Python-Bootcamp-in-a-day---Python-Programming-for-Beginners) | Python Bootcamp in a day - Python Programming for Beginners, by Packt Publishing |  | ⭐ 6 |
 | [Python-Code-Camp](https://github.com/PacktPublishing/Python-Code-Camp) | Python Code Camp by Packt Publishing |  | ⭐ 2 |
 | [Python-Course-for-Data-Analysis-Become-Data-Analyst](https://github.com/PacktPublishing/Python-Course-for-Data-Analysis-Become-Data-Analyst) |  | Jupyter Notebook | ⭐ 4 |
-| [Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E) | Python Data Analysis, 4E, published by Packt | Jupyter Notebook | ⭐ 10 |
+| [Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E) | Python Data Analysis, 4E, published by Packt | Jupyter Notebook | ⭐ 11 |
 | [Python-Data-Analysis-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-Data-Analysis-Cookbook-Second-Edition) | Python Data Analysis Cookbook, Second Edition, published by Packt |  | ⭐ 1 |
 | [Python-Data-Analysis-Second-Edition](https://github.com/PacktPublishing/Python-Data-Analysis-Second-Edition) | Python Data Analysis Second Edition by Packt | Jupyter Notebook | ⭐ 70 |
 | [Python-Data-Analysis-Third-Edition](https://github.com/PacktPublishing/Python-Data-Analysis-Third-Edition) | Python Data Analysis, Third Edition, Published by Packt | Jupyter Notebook | ⭐ 215 |
@@ -7802,7 +7811,7 @@
 | [Python-Data-Mining-Quick-Start-Guide](https://github.com/PacktPublishing/Python-Data-Mining-Quick-Start-Guide) | Python Data Mining Quick Start Guide, Published by Packt | Jupyter Notebook | ⭐ 27 |
 | [Python-Data-Science-Essentials](https://github.com/PacktPublishing/Python-Data-Science-Essentials) | Published by Packt Publishing | Jupyter Notebook | ⭐ 28 |
 | [Python-Data-Science-Essentials-Second-Edition](https://github.com/PacktPublishing/Python-Data-Science-Essentials-Second-Edition) | Code repository for Python Data Science Essentials Second Edition published by Packt | Jupyter Notebook | ⭐ 44 |
-| [Python-Data-Science-Essentials-Third-Edition](https://github.com/PacktPublishing/Python-Data-Science-Essentials-Third-Edition) | Python Data Science Essentials - Third Edition, Published by Packt  | Jupyter Notebook | ⭐ 55 |
+| [Python-Data-Science-Essentials-Third-Edition](https://github.com/PacktPublishing/Python-Data-Science-Essentials-Third-Edition) | Python Data Science Essentials - Third Edition, Published by Packt  | Jupyter Notebook | ⭐ 57 |
 | [Python-Data-Science-with-AI-for-Beginners](https://github.com/PacktPublishing/Python-Data-Science-with-AI-for-Beginners) | Jumpstart your career in data science by creating real-world AI applications in Python | Python | ⭐ 5 |
 | [Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms) | Python Data Structures and Algorithms, published by Packt | Python | ⭐ 158 |
 | [Python-Data-Structures-and-Algorithms-v-](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms-v-) | Code repository for Python Data Structures and Algorithms [video], Published by Packt | Jupyter Notebook | ⭐ 24 |
@@ -7810,7 +7819,7 @@
 | [Python-Data-Visualization-with-Matplotlib-2.x](https://github.com/PacktPublishing/Python-Data-Visualization-with-Matplotlib-2.x) | Python Data Visualization with Matplotlib 2.x, Packt Publishing | Jupyter Notebook | ⭐ 7 |
 | [Python-Data-Wrangling](https://github.com/PacktPublishing/Python-Data-Wrangling) | Python Data Wrangling, published by Packt |  |  |
 | [Python-Deep-Learning](https://github.com/PacktPublishing/Python-Deep-Learning) | Code repository for Python Deep Learning, published by Packt | Jupyter Notebook | ⭐ 92 |
-| [Python-Deep-Learning-Cookbook](https://github.com/PacktPublishing/Python-Deep-Learning-Cookbook) | Python Deep Learning Cookbook, published by Packt | Jupyter Notebook | ⭐ 141 |
+| [Python-Deep-Learning-Cookbook](https://github.com/PacktPublishing/Python-Deep-Learning-Cookbook) | Python Deep Learning Cookbook, published by Packt | Jupyter Notebook | ⭐ 142 |
 | [Python-Deep-Learning-for-Beginners-](https://github.com/PacktPublishing/Python-Deep-Learning-for-Beginners-) | Code Repository for Python Deep Learning for Beginners, published by Packt | Jupyter Notebook | ⭐ 6 |
 | [Python-Deep-Learning-Projects](https://github.com/PacktPublishing/Python-Deep-Learning-Projects) | Python Deep Learning Projects, published by Packt | Jupyter Notebook | ⭐ 214 |
 | [Python-Deep-Learning-Projects-Video](https://github.com/PacktPublishing/Python-Deep-Learning-Projects-Video) |  Python Deep Learning Projects [Video], Published by Packt |  | ⭐ 1 |
@@ -7830,15 +7839,15 @@
 | [Python-End-to-End-Guide-to-Artificial-Intelligence](https://github.com/PacktPublishing/Python-End-to-End-Guide-to-Artificial-Intelligence) |  |  | ⭐ 1 |
 | [Python-Essentials](https://github.com/PacktPublishing/Python-Essentials) | Python Essentials, published by Packt | Python | ⭐ 11 |
 | [Python-Essentials-for-AWS-Cloud-Developers](https://github.com/PacktPublishing/Python-Essentials-for-AWS-Cloud-Developers) | Python Essentials for AWS Cloud Developers, published by Packt. | Python | ⭐ 12 |
-| [Python-Ethical-Hacking](https://github.com/PacktPublishing/Python-Ethical-Hacking) | Python Ethical Hacking, published by Packt | Python | ⭐ 204 |
+| [Python-Ethical-Hacking](https://github.com/PacktPublishing/Python-Ethical-Hacking) | Python Ethical Hacking, published by Packt | Python | ⭐ 206 |
 | [Python-Everything-You-Need-to-Know-to-Become-a-Developer](https://github.com/PacktPublishing/Python-Everything-You-Need-to-Know-to-Become-a-Developer) | Code repository for Python: Everything You Need to Know to Become a Developer, Publishe... |  | ⭐ 3 |
 | [Python-Feature-Engineering-Cookbook](https://github.com/PacktPublishing/Python-Feature-Engineering-Cookbook) | Python Feature Engineering Cookbook, published by Packt | Jupyter Notebook | ⭐ 498 |
 | [Python-Feature-Engineering-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-Feature-Engineering-Cookbook-Second-Edition) | Python Feature Engineering Cookbook Second Edition, published by Packt | Jupyter Notebook | ⭐ 89 |
-| [Python-Feature-Engineering-Cookbook-Third-Edition](https://github.com/PacktPublishing/Python-Feature-Engineering-Cookbook-Third-Edition) | Python Feature Engineering Cookbook, Third Edition, published by Packt | Jupyter Notebook | ⭐ 74 |
-| [Python-for-Algorithmic-Trading-Cookbook](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook) | Python for Algorithmic Trading Cookbook, published by Packt | Jupyter Notebook | ⭐ 1163 |
-| [Python-for-Algorithmic-Trading-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook-Second-Edition) | Python for Algorithmic Trading Cookbook, Second Edition, published by Packt | Jupyter Notebook | ⭐ 28 |
+| [Python-Feature-Engineering-Cookbook-Third-Edition](https://github.com/PacktPublishing/Python-Feature-Engineering-Cookbook-Third-Edition) | Python Feature Engineering Cookbook, Third Edition, published by Packt | Jupyter Notebook | ⭐ 75 |
+| [Python-for-Algorithmic-Trading-Cookbook](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook) | Python for Algorithmic Trading Cookbook, published by Packt | Jupyter Notebook | ⭐ 1166 |
+| [Python-for-Algorithmic-Trading-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook-Second-Edition) | Python for Algorithmic Trading Cookbook, Second Edition, published by Packt | Jupyter Notebook | ⭐ 30 |
 | [Python-For-Android-Hacking-Crash-Course-Trojan-Perspective](https://github.com/PacktPublishing/Python-For-Android-Hacking-Crash-Course-Trojan-Perspective) | Code Repository for Python For Android Hacking Crash Course: Trojan Perspective, publis... |  | ⭐ 23 |
-| [Python-for-ArcGIS-Pro](https://github.com/PacktPublishing/Python-for-ArcGIS-Pro) | Code Repository for Python for ArcGIS Pro, Published by Packt | Jupyter Notebook | ⭐ 182 |
+| [Python-for-ArcGIS-Pro](https://github.com/PacktPublishing/Python-for-ArcGIS-Pro) | Code Repository for Python for ArcGIS Pro, Published by Packt | Jupyter Notebook | ⭐ 183 |
 | [Python-for-ArcGIS-Pro-Second-Edition](https://github.com/PacktPublishing/Python-for-ArcGIS-Pro-Second-Edition) | Python for ArcGIS Pro, Second Edition, published by Packt |  |  |
 | [Python-for-Automating-Information-Security](https://github.com/PacktPublishing/Python-for-Automating-Information-Security) |  | Python | ⭐ 34 |
 | [Python-for-Beginners---Start-to-Code-with-Python](https://github.com/PacktPublishing/Python-for-Beginners---Start-to-Code-with-Python) |  | Python | ⭐ 9 |
@@ -7850,16 +7859,16 @@
 | [Python-for-Data-Science---Database-and-Visualization](https://github.com/PacktPublishing/Python-for-Data-Science---Database-and-Visualization) | Python for Data Science - Database and Visualization, Published by Packt Publishing | Jupyter Notebook |  |
 | [Python-for-Data-Visualization-A-Beginner-s-Guide](https://github.com/PacktPublishing/Python-for-Data-Visualization-A-Beginner-s-Guide) | Python for Data Visualization: A Beginner's Guide, by Packt Publishing | Jupyter Notebook | ⭐ 7 |
 | [Python-for-Deep-Learning---Build-Neural-Networks-in-Python](https://github.com/PacktPublishing/Python-for-Deep-Learning---Build-Neural-Networks-in-Python) |  | Jupyter Notebook | ⭐ 5 |
-| [Python-for-DevOps-The-Ultimate-Hands-On-Guide](https://github.com/PacktPublishing/Python-for-DevOps-The-Ultimate-Hands-On-Guide) |  | Jupyter Notebook | ⭐ 17 |
+| [Python-for-DevOps-The-Ultimate-Hands-On-Guide](https://github.com/PacktPublishing/Python-for-DevOps-The-Ultimate-Hands-On-Guide) |  | Jupyter Notebook | ⭐ 18 |
 | [Python-for-Everybody-The-Ultimate-Python-3-Bootcamp](https://github.com/PacktPublishing/Python-for-Everybody-The-Ultimate-Python-3-Bootcamp) |  | Jupyter Notebook | ⭐ 16 |
 | [Python-for-Everyday-Life](https://github.com/PacktPublishing/Python-for-Everyday-Life) | Python for Everyday Life, published by Packt | Python | ⭐ 59 |
 | [Python-for-Finance-Cookbook](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) | Python for Finance Cookbook, published by Packt | Jupyter Notebook | ⭐ 798 |
-| [Python-for-Finance-Cookbook-2E](https://github.com/PacktPublishing/Python-for-Finance-Cookbook-2E) | The repository of "Python for Finance Cookbook" 2nd edition | Jupyter Notebook | ⭐ 153 |
+| [Python-for-Finance-Cookbook-2E](https://github.com/PacktPublishing/Python-for-Finance-Cookbook-2E) | The repository of "Python for Finance Cookbook" 2nd edition | Jupyter Notebook | ⭐ 154 |
 | [Python-for-Finance-CookbookX-2E](https://github.com/PacktPublishing/Python-for-Finance-CookbookX-2E) | Python for Finance Cookbook-2E-Published by Packt |  | ⭐ 5 |
 | [Python-for-Finance-Investment-Fundamentals-and-Data-Analytics](https://github.com/PacktPublishing/Python-for-Finance-Investment-Fundamentals-and-Data-Analytics) | Python for Finance: Investment Fundamentals and Data Analytics, published by Packt | Jupyter Notebook | ⭐ 47 |
-| [Python-for-Finance-Second-Edition](https://github.com/PacktPublishing/Python-for-Finance-Second-Edition) | Python for Finance – Second Edition, published by Packt | Python | ⭐ 283 |
+| [Python-for-Finance-Second-Edition](https://github.com/PacktPublishing/Python-for-Finance-Second-Edition) | Python for Finance – Second Edition, published by Packt | Python | ⭐ 285 |
 | [Python-for-Game-Programming---Pygame-from-A-to-Z](https://github.com/PacktPublishing/Python-for-Game-Programming---Pygame-from-A-to-Z) | Python for Game Programming - Pygame from A to Z, by Packt Publishing |  | ⭐ 1 |
-| [Python-for-Geeks](https://github.com/PacktPublishing/Python-for-Geeks) | Python for Geeks, published by Packt | Python | ⭐ 112 |
+| [Python-for-Geeks](https://github.com/PacktPublishing/Python-for-Geeks) | Python for Geeks, published by Packt | Python | ⭐ 111 |
 | [Python-for-Google-App-Engine](https://github.com/PacktPublishing/Python-for-Google-App-Engine) | Python for Google App Engine | Python | ⭐ 8 |
 | [Python-for-Machine-Learning---The-Complete-Beginner-s-Course](https://github.com/PacktPublishing/Python-for-Machine-Learning---The-Complete-Beginner-s-Course) |  | Jupyter Notebook | ⭐ 11 |
 | [Python-for-Offensive-PenTest](https://github.com/PacktPublishing/Python-for-Offensive-PenTest) | Python for Offensive PenTest, published by Packt | Python | ⭐ 151 |
@@ -7878,11 +7887,11 @@
 | [Python-GUI-Development-with-Tkinter---Build-Pro-Desktop-Apps-](https://github.com/PacktPublishing/Python-GUI-Development-with-Tkinter---Build-Pro-Desktop-Apps-) | Python GUI Development with Tkinter - Build Pro Desktop Apps!, by Packt Publishing | Python | ⭐ 4 |
 | [Python-GUI-Programming---Building-a-Desktop-Application-with-Tkinter-and-SQLite](https://github.com/PacktPublishing/Python-GUI-Programming---Building-a-Desktop-Application-with-Tkinter-and-SQLite) | Code Repository for Python GUI Programming - Building a Desktop Application with Tkinte... |  | ⭐ 5 |
 | [Python-GUI-Programming-A-Complete-Reference-Guide](https://github.com/PacktPublishing/Python-GUI-Programming-A-Complete-Reference-Guide) | Develop responsive and powerful GUI applications with PyQt and Tkinter | Python | ⭐ 43 |
-| [Python-GUI-Programming-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-GUI-Programming-Cookbook-Second-Edition) | Python GUI Programming Cookbook, Second Edition, published by Packt | Python | ⭐ 315 |
+| [Python-GUI-Programming-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-GUI-Programming-Cookbook-Second-Edition) | Python GUI Programming Cookbook, Second Edition, published by Packt | Python | ⭐ 316 |
 | [Python-GUI-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/Python-GUI-Programming-Cookbook-Third-Edition) | Python GUI Programming Cookbook, Third Edition, Published by Packt | Python | ⭐ 103 |
 | [Python-GUI-Programming-Solutions-V-](https://github.com/PacktPublishing/Python-GUI-Programming-Solutions-V-) | Python GUI Programming Solutions (V) [Video] by Packt Publishing | Python | ⭐ 1 |
 | [Python-GUI-Programming-with-Tkinter](https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter) | Python GUI Programming with Tkinter, published by Packt | Python | ⭐ 269 |
-| [Python-GUI-Programming-with-Tkinter-2E](https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E) | Python GUI Programming with Tkinter 2E.Published by Packt | Python | ⭐ 137 |
+| [Python-GUI-Programming-with-Tkinter-2E](https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E) | Python GUI Programming with Tkinter 2E.Published by Packt | Python | ⭐ 138 |
 | [Python-High-Performance-Second-Edition](https://github.com/PacktPublishing/Python-High-Performance-Second-Edition) | Python High Performance – Second Edition, published by Packt | Jupyter Notebook | ⭐ 111 |
 | [Python-Image-Processing-Cookbook](https://github.com/PacktPublishing/Python-Image-Processing-Cookbook) |  | Jupyter Notebook | ⭐ 175 |
 | [Python-in-Containers](https://github.com/PacktPublishing/Python-in-Containers) | Python in Containers, published by Packt |  | ⭐ 6 |
@@ -7890,8 +7899,8 @@
 | [Python-In-Practice---15-Projects-to-Master-Python](https://github.com/PacktPublishing/Python-In-Practice---15-Projects-to-Master-Python) | Python In Practice - 15 Projects to Master Python, published by Packt | Python | ⭐ 11 |
 | [Python-Interactive-Dashboards-with-Plotly-Dash](https://github.com/PacktPublishing/Python-Interactive-Dashboards-with-Plotly-Dash) | Python Interactive Dashboards with Plotly Dash, by Packt Publishing | Jupyter Notebook | ⭐ 24 |
 | [Python-Journey-from-Novice-to-Expert](https://github.com/PacktPublishing/Python-Journey-from-Novice-to-Expert) | Code repository for Python Journey from Novice to Expert, published by Packt | Python | ⭐ 41 |
-| [Python-Machine-Learning](https://github.com/PacktPublishing/Python-Machine-Learning) | Code repository for Python Machine Learning, published by Packt | Jupyter Notebook | ⭐ 68 |
-| [Python-Machine-Learning-Blueprints](https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints) | Code repository for Python Machine Learning Blueprints, published by Packt  | Jupyter Notebook | ⭐ 359 |
+| [Python-Machine-Learning](https://github.com/PacktPublishing/Python-Machine-Learning) | Code repository for Python Machine Learning, published by Packt | Jupyter Notebook | ⭐ 67 |
+| [Python-Machine-Learning-Blueprints](https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints) | Code repository for Python Machine Learning Blueprints, published by Packt  | Jupyter Notebook | ⭐ 360 |
 | [Python-Machine-Learning-Blueprints-Second-Edition](https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints-Second-Edition) | Python Machine Learning Blueprints - Second Edition, published by Packt | Jupyter Notebook | ⭐ 29 |
 | [Python-Machine-Learning-Bootcamp](https://github.com/PacktPublishing/Python-Machine-Learning-Bootcamp) |  | Jupyter Notebook | ⭐ 13 |
 | [Python-Machine-Learning-By-Example](https://github.com/PacktPublishing/Python-Machine-Learning-By-Example) | Python Machine Learning By Example, published by Packt | Python | ⭐ 126 |
@@ -7902,7 +7911,7 @@
 | [Python-Machine-Learning-Crash-Course-for-Beginners](https://github.com/PacktPublishing/Python-Machine-Learning-Crash-Course-for-Beginners) | Python Machine Learning Crash Course for Beginners [Video], published by Packt. | Jupyter Notebook | ⭐ 11 |
 | [Python-Machine-Learning-in-7-Days](https://github.com/PacktPublishing/Python-Machine-Learning-in-7-Days) | Python Machine Learning in 7 Days, published by Packt | Jupyter Notebook | ⭐ 16 |
 | [Python-Machine-Learning-Projects](https://github.com/PacktPublishing/Python-Machine-Learning-Projects) | Python Machine Learning Projects, by Packt publishing |  | ⭐ 5 |
-| [Python-Machine-Learning-Second-Edition](https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition) | Python Machine Learning - Second Edition, published by Packt | Jupyter Notebook | ⭐ 510 |
+| [Python-Machine-Learning-Second-Edition](https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition) | Python Machine Learning - Second Edition, published by Packt | Jupyter Notebook | ⭐ 512 |
 | [Python-Machine-Learning-Solutions](https://github.com/PacktPublishing/Python-Machine-Learning-Solutions) |  |  | ⭐ 2 |
 | [Python-Machine-Learning-Solutions-V-](https://github.com/PacktPublishing/Python-Machine-Learning-Solutions-V-) | Python Machine Learning Solutions by Packt Publishing | HTML |  |
 | [Python-Machine-Learning-Third-Edition](https://github.com/PacktPublishing/Python-Machine-Learning-Third-Edition) |  | Jupyter Notebook | ⭐ 33 |
@@ -7924,7 +7933,7 @@
 | [Python-Network-Programming-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-Network-Programming-Cookbook-Second-Edition) | Python Network Programming Cookbook – Second Edition, published by Packt | Python | ⭐ 161 |
 | [Python-Network-Programming-for-Network-Engineers-Python-3-](https://github.com/PacktPublishing/Python-Network-Programming-for-Network-Engineers-Python-3-) | Code repository for Python Network Programming for Network Engineers (Python 3), Publis... |  | ⭐ 14 |
 | [Python-Networking-Cookbook](https://github.com/PacktPublishing/Python-Networking-Cookbook) | Python Network Programming Techniques, published by Packt | Python | ⭐ 37 |
-| [Python-Object-Oriented-Programming---4th-edition](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition) | Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt | Python | ⭐ 281 |
+| [Python-Object-Oriented-Programming---4th-edition](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition) | Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt | Python | ⭐ 282 |
 | [Python-Object-Oriented-Programming-5E](https://github.com/PacktPublishing/Python-Object-Oriented-Programming-5E) | Python Object-Oriented Programming, 5E, published by Packt | Python | ⭐ 43 |
 | [Python-Object-Oriented-Programming-Bootcamp](https://github.com/PacktPublishing/Python-Object-Oriented-Programming-Bootcamp) | Python Object Oriented Programming Bootcamp, published by packt publishing | Jupyter Notebook |  |
 | [Python-Object-Oriented-Programming-Cookbook](https://github.com/PacktPublishing/Python-Object-Oriented-Programming-Cookbook) | Python Object Oriented Programming Cookbook, published by Packt | Python | ⭐ 18 |
@@ -7934,7 +7943,7 @@
 | [Python-Parallel-Programming-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-Parallel-Programming-Cookbook-Second-Edition) | Python Parallel Programming Cookbook – Second Edition, published by Packt | Python | ⭐ 129 |
 | [Python-Parallel-Programming-Solutions](https://github.com/PacktPublishing/Python-Parallel-Programming-Solutions) | Python Parallel Programming Solutions [Video], by Packt Publishing |  | ⭐ 2 |
 | [Python-Penetration-Testing-Cookbook](https://github.com/PacktPublishing/Python-Penetration-Testing-Cookbook) | Python Penetration Testing Cookbook, published by Packt | Python | ⭐ 78 |
-| [Python-Penetration-Testing-Essentials-Second-Edition](https://github.com/PacktPublishing/Python-Penetration-Testing-Essentials-Second-Edition) | Python Penetration Testing Essentials, Second Edition, published by Packt | Python | ⭐ 37 |
+| [Python-Penetration-Testing-Essentials-Second-Edition](https://github.com/PacktPublishing/Python-Penetration-Testing-Essentials-Second-Edition) | Python Penetration Testing Essentials, Second Edition, published by Packt | Python | ⭐ 38 |
 | [Python-Penetration-Testing-for-Developers](https://github.com/PacktPublishing/Python-Penetration-Testing-for-Developers) | Python Penetration Testing for Developers, published by Packt | Python | ⭐ 40 |
 | [Python-Programming](https://github.com/PacktPublishing/Python-Programming) | Python Programming [Video], published by Packt | Python |  |
 | [Python-Programming-Advanced-Understanding-Weird-Concepts](https://github.com/PacktPublishing/Python-Programming-Advanced-Understanding-Weird-Concepts) |  | Python | ⭐ 3 |
@@ -7957,7 +7966,7 @@
 | [Python-SQL-Tableau-Integrating-Python-SQL-and-Tableau](https://github.com/PacktPublishing/Python-SQL-Tableau-Integrating-Python-SQL-and-Tableau) | Python + SQL + Tableau: Integrating Python, SQL, and Tableau, published by Packt | Jupyter Notebook | ⭐ 35 |
 | [Python-Testing-Cookbook-Second-Edition](https://github.com/PacktPublishing/Python-Testing-Cookbook-Second-Edition) | Python Testing Cookbook – Second Edition, published by Packt |  | ⭐ 3 |
 | [Python-Tips-Tricks-Techniques-](https://github.com/PacktPublishing/Python-Tips-Tricks-Techniques-) | Python Tips, Tricks & Techniques[Video], published by Packt | Jupyter Notebook | ⭐ 6 |
-| [Python-Web-Development-with-Sanic](https://github.com/PacktPublishing/Python-Web-Development-with-Sanic) | Python Web Development with Sanic, published by Packt | Python | ⭐ 81 |
+| [Python-Web-Development-with-Sanic](https://github.com/PacktPublishing/Python-Web-Development-with-Sanic) | Python Web Development with Sanic, published by Packt | Python | ⭐ 82 |
 | [Python-Web-Scraping-Cookbook](https://github.com/PacktPublishing/Python-Web-Scraping-Cookbook) | Python Web Scraping Cookbook, published by Packt | HTML | ⭐ 135 |
 | [Python-Web-Scraping-Projects](https://github.com/PacktPublishing/Python-Web-Scraping-Projects) | Python Web Scraping Projects, published by Packt | HTML | ⭐ 19 |
 | [Python-Web-Scraping-Second-Edition](https://github.com/PacktPublishing/Python-Web-Scraping-Second-Edition) | Python Web Scraping Second Edition, published by Packt | Python | ⭐ 95 |
@@ -7968,18 +7977,20 @@
 | [PyTorch-1.x-Reinforcement-Learning-Cookbook](https://github.com/PacktPublishing/PyTorch-1.x-Reinforcement-Learning-Cookbook) | PyTorch 1.x Reinforcement Learning Cookbook, published by Packt | Python | ⭐ 102 |
 | [PyTorch-Artificial-Intelligence-Fundamentals](https://github.com/PacktPublishing/PyTorch-Artificial-Intelligence-Fundamentals) | PyTorch Artificial Intelligence Fundamentals, published by Packt | Jupyter Notebook | ⭐ 28 |
 | [PyTorch-Bootcamp-for-Artificial-Neural-Networks-and-Deep-Learning-Applications](https://github.com/PacktPublishing/PyTorch-Bootcamp-for-Artificial-Neural-Networks-and-Deep-Learning-Applications) | Code Repository for PyTorch Bootcamp for Artificial Neural Networks and Deep Learning A... | Jupyter Notebook | ⭐ 5 |
-| [PyTorch-Computer-Vision-Cookbook](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook) | PyTorch Computer Vision Cookbook, Published by Packt | Jupyter Notebook | ⭐ 311 |
+| [PyTorch-Computer-Vision-Cookbook](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook) | PyTorch Computer Vision Cookbook, Published by Packt | Jupyter Notebook | ⭐ 310 |
 | [PyTorch-Deep-Learning-in-7-Days](https://github.com/PacktPublishing/PyTorch-Deep-Learning-in-7-Days) | Code repository for PyTorch Deep Learning in 7 Days, Published by Packt | Python | ⭐ 49 |
 | [PyTorch-for-Deep-Learning-and-Computer-Vision](https://github.com/PacktPublishing/PyTorch-for-Deep-Learning-and-Computer-Vision) | Code Repository for PyTorch for Deep Learning and Computer Vision, published by Packt |  | ⭐ 18 |
 | [Pytorch-Lightning-Cookbook](https://github.com/PacktPublishing/Pytorch-Lightning-Cookbook) | Pytorch Lightning Cookbook, published by Packt |  |  |
 | [PyTorch-Ultimate-2023---From-Basics-to-Cutting-Edge](https://github.com/PacktPublishing/PyTorch-Ultimate-2023---From-Basics-to-Cutting-Edge) | PyTorch Ultimate 2023 - From Basics to Cutting-Edge, published by Packt | Python | ⭐ 148 |
 
-## Q (46 repos)
+## Q (48 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
 | [-Quantum-Computing-with-IBM-Qx-Cookbook](https://github.com/PacktPublishing/-Quantum-Computing-with-IBM-Qx-Cookbook) |  Quantum Computing with IBM Qx Cookbook, by Packt |  | ⭐ 1 |
 | [-Quick-Start-Guide-for-Courses-in-Canvas](https://github.com/PacktPublishing/-Quick-Start-Guide-for-Courses-in-Canvas) |  Quick Start Guide for Courses in Canvas[Video], by Packt Publishing |  | ⭐ 1 |
+| [QA-Guide-to-REST-API-Testing-for-Beginners](https://github.com/PacktPublishing/QA-Guide-to-REST-API-Testing-for-Beginners) | QA Guide to REST API Testing for Beginners, published by Packt Publishing |  |  |
+| [QA-Guide-to-Web-Application-Testing-for-Beginners](https://github.com/PacktPublishing/QA-Guide-to-Web-Application-Testing-for-Beginners) | QA Guide to Web Application Testing for Beginners, published by Packt Publishing |  |  |
 | [QC101-Quantum-Computing-and-Introduction-to-Quantum-Machine-Learning](https://github.com/PacktPublishing/QC101-Quantum-Computing-and-Introduction-to-Quantum-Machine-Learning) | QC101 Quantum Computing and Introduction to Quantum Machine Learning, by Packy Publishing | Python | ⭐ 11 |
 | [QC101-Quantum-Computing-and-Quantum-Physics-for-Beginners](https://github.com/PacktPublishing/QC101-Quantum-Computing-and-Quantum-Physics-for-Beginners) |  | Q# | ⭐ 8 |
 | [QC151-Quantum-Physics-for-Quantum-Computing](https://github.com/PacktPublishing/QC151-Quantum-Physics-for-Quantum-Computing) | Code Repository for QC151 Quantum Physics for Quantum Computing, published by Packt |  |  |
@@ -8005,7 +8016,7 @@
 | [Quantitative-Finance-with-R](https://github.com/PacktPublishing/Quantitative-Finance-with-R) | Quantitative Finance with R, published by Packt | R | ⭐ 17 |
 | [Quantum-Algorithms-APIs-and-Apps](https://github.com/PacktPublishing/Quantum-Algorithms-APIs-and-Apps) | Quantum Algorithms, APIs, and Apps, Published by Packt |  |  |
 | [Quantum-Chemistry-and-Computing-for-the-Curious](https://github.com/PacktPublishing/Quantum-Chemistry-and-Computing-for-the-Curious) | Quantum Chemistry and Computing for the Curious, published by Packt | Jupyter Notebook | ⭐ 56 |
-| [Quantum-Chemistry-and-Computing-for-the-Curious-Second-Edition](https://github.com/PacktPublishing/Quantum-Chemistry-and-Computing-for-the-Curious-Second-Edition) | Quantum Chemistry and Computing for the Curious, Second Edition, published by Packt | Jupyter Notebook | ⭐ 1 |
+| [Quantum-Chemistry-and-Computing-for-the-Curious-Second-Edition](https://github.com/PacktPublishing/Quantum-Chemistry-and-Computing-for-the-Curious-Second-Edition) | Quantum Chemistry and Computing for the Curious, Second Edition, published by Packt | Jupyter Notebook | ⭐ 2 |
 | [Quantum-Computing-Algorithms](https://github.com/PacktPublishing/Quantum-Computing-Algorithms) | Quantum computing Algorithms, published by Packt. | Jupyter Notebook | ⭐ 23 |
 | [Quantum-Computing-CookBook](https://github.com/PacktPublishing/Quantum-Computing-CookBook) | Quantum Computing CookBook, published by Packt |  |  |
 | [Quantum-Computing-Experimentation-with-Amazon-Braket](https://github.com/PacktPublishing/Quantum-Computing-Experimentation-with-Amazon-Braket) | Quantum Computing Experimentation with Amazon Braket, published by Packt | Jupyter Notebook | ⭐ 21 |
@@ -8077,7 +8088,7 @@
 | [RabbitMQ-Essentials---Second-Edition](https://github.com/PacktPublishing/RabbitMQ-Essentials---Second-Edition) | RabbitMQ Essentials - Second Edition, published by Packt |  | ⭐ 2 |
 | [RabbitMQ-Essentials---Second-Edition-](https://github.com/PacktPublishing/RabbitMQ-Essentials---Second-Edition-) | RabbitMQ Essentials - Second Edition, published by Packt |  |  |
 | [RabbitMQ-Essentials-Second-Edition](https://github.com/PacktPublishing/RabbitMQ-Essentials-Second-Edition) | RabbitMQ Essentials - Second Edition, published by Packt | Ruby | ⭐ 54 |
-| [RAG-from-First-Principles](https://github.com/PacktPublishing/RAG-from-First-Principles) | RAG from First Principles Published by Packt Pub | Jupyter Notebook | ⭐ 10 |
+| [RAG-from-First-Principles](https://github.com/PacktPublishing/RAG-from-First-Principles) | RAG from First Principles Published by Packt Pub | Jupyter Notebook | ⭐ 11 |
 | [Rancher-Deep-Dive](https://github.com/PacktPublishing/Rancher-Deep-Dive) |  Rancher Deep Dive, published by Packt | Shell | ⭐ 36 |
 | [Rancher-Deep-Dive-Second-Edition](https://github.com/PacktPublishing/Rancher-Deep-Dive-Second-Edition) | GitHub repository for the Rancher Deep Dive Second Edition book | Shell |  |
 | [Rancher-Up-and-Running](https://github.com/PacktPublishing/Rancher-Up-and-Running) | Rancher Up and Running |  |  |
@@ -8119,7 +8130,7 @@
 | [Raspberry-Pi-Zero-W-Wireless-Projects](https://github.com/PacktPublishing/Raspberry-Pi-Zero-W-Wireless-Projects) | Raspberry Pi Zero W Wireless Projects, published by Packt | Python | ⭐ 7 |
 | [RDS-PostgreSQL-and-DynamoDB-CRUD-AWS-with-Python-and-Boto3](https://github.com/PacktPublishing/RDS-PostgreSQL-and-DynamoDB-CRUD-AWS-with-Python-and-Boto3) | RDS PostgreSQL and DynamoDB CRUD: AWS with Python and Boto3, published by Packt |  |  |
 | [React---The-Complete-Guide-incl.-Hooks-React-Router-and-Redux-First-Edition-](https://github.com/PacktPublishing/React---The-Complete-Guide-incl.-Hooks-React-Router-and-Redux-First-Edition-) |  | CSS | ⭐ 2 |
-| [React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition](https://github.com/PacktPublishing/React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition) | Code snapshots and materials for our "React - The Complete Guide (Includes Hooks, React... |  | ⭐ 440 |
+| [React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition](https://github.com/PacktPublishing/React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition) | Code snapshots and materials for our "React - The Complete Guide (Includes Hooks, React... |  | ⭐ 441 |
 | [React-16---The-Complete-Guide](https://github.com/PacktPublishing/React-16---The-Complete-Guide) | Code Repository for React 16 - The Complete Guide, Published by Packt |  | ⭐ 2 |
 | [React-16-Cookbook](https://github.com/PacktPublishing/React-16-Cookbook) | React 16 Cookbook, published by Packt | JavaScript | ⭐ 6 |
 | [React-16-Essentials-Second-Edition](https://github.com/PacktPublishing/React-16-Essentials-Second-Edition) | React 16 Essentials – Second Edition, published by Packt | JavaScript | ⭐ 14 |
@@ -8240,7 +8251,7 @@
 | [Real-World-SQL-Projects-5-Hands-On-Case-Studies](https://github.com/PacktPublishing/Real-World-SQL-Projects-5-Hands-On-Case-Studies) | This is the code repository for Real-World SQL Projects: 5 Hands-On Case Studies, publi... | TSQL | ⭐ 7 |
 | [Real-World-SRE](https://github.com/PacktPublishing/Real-World-SRE) | Real-World SRE, published by Packt | HTML | ⭐ 26 |
 | [Real-World-Svelte](https://github.com/PacktPublishing/Real-World-Svelte) | Real-World Svelte, published by Packt | Svelte | ⭐ 58 |
-| [Realizing-3D-Animation-in-Blender](https://github.com/PacktPublishing/Realizing-3D-Animation-in-Blender) | Realizing 3D Animation in Blender, Published by Packt |  | ⭐ 8 |
+| [Realizing-3D-Animation-in-Blender](https://github.com/PacktPublishing/Realizing-3D-Animation-in-Blender) | Realizing 3D Animation in Blender, Published by Packt |  | ⭐ 9 |
 | [Reaper-Scripts-for-Beginners](https://github.com/PacktPublishing/Reaper-Scripts-for-Beginners) |  | Lua | ⭐ 1 |
 | [ReasonML-Quick-Start-Guide](https://github.com/PacktPublishing/ReasonML-Quick-Start-Guide) | Published by Packt | Reason | ⭐ 15 |
 | [Recommender-Systems-An-Applied-Approach-using-Deep-Learning](https://github.com/PacktPublishing/Recommender-Systems-An-Applied-Approach-using-Deep-Learning) | Recommender Systems: An Applied Approach using Deep Learning, by Packt Publishing | Jupyter Notebook | ⭐ 9 |
@@ -8273,7 +8284,7 @@
 | [Regression-Analysis-with-R](https://github.com/PacktPublishing/Regression-Analysis-with-R) | Regression Analysis with R, published by Packt | R | ⭐ 29 |
 | [Regression-Modeling-With-Statistics-and-Machine-Learning-in-Python](https://github.com/PacktPublishing/Regression-Modeling-With-Statistics-and-Machine-Learning-in-Python) | Regression Modeling With Statistics and Machine Learning in Python by Packt Publishing | Jupyter Notebook | ⭐ 17 |
 | [Regular-Expressions-in-JavaScript-Master-Course-and-Projects](https://github.com/PacktPublishing/Regular-Expressions-in-JavaScript-Master-Course-and-Projects) | Regular Expressions in JavaScript – Master Course and Projects by Packt Publishing |  | ⭐ 3 |
-| [Reinforcement-Learning-Algorithms-with-Python](https://github.com/PacktPublishing/Reinforcement-Learning-Algorithms-with-Python) | Reinforcement Learning Algorithms with Python, Published by Packt | Python | ⭐ 188 |
+| [Reinforcement-Learning-Algorithms-with-Python](https://github.com/PacktPublishing/Reinforcement-Learning-Algorithms-with-Python) | Reinforcement Learning Algorithms with Python, Published by Packt | Python | ⭐ 187 |
 | [Reinforcement-Learning-and-Deep-RL-Python-Theory-and-Projects-](https://github.com/PacktPublishing/Reinforcement-Learning-and-Deep-RL-Python-Theory-and-Projects-) | Reinforcement Learning and Deep RL Python (Theory and Projects), published by Packt | Jupyter Notebook | ⭐ 7 |
 | [Reinforcement-Learning-for-LLMs](https://github.com/PacktPublishing/Reinforcement-Learning-for-LLMs) | Reinforcement Learning for LLMs, Published by Packt | Jupyter Notebook | ⭐ 1 |
 | [Reinforcement-Learning-Techniques-with-R](https://github.com/PacktPublishing/Reinforcement-Learning-Techniques-with-R) | Reinforcement Learning Techniques with R [Video], Published by Packt |  |  |
@@ -8296,7 +8307,7 @@
 | [Responsive-Web-Design-Advancing-your-Design-to-the-Modern-Web](https://github.com/PacktPublishing/Responsive-Web-Design-Advancing-your-Design-to-the-Modern-Web) |  |  |  |
 | [Responsive-Web-Design-by-Example-Third-Edition](https://github.com/PacktPublishing/Responsive-Web-Design-by-Example-Third-Edition) | Responsive Web Design by Example published by Packt | PHP | ⭐ 13 |
 | [Responsive-Web-Design-From-Concept-to-Complete-Site](https://github.com/PacktPublishing/Responsive-Web-Design-From-Concept-to-Complete-Site) |  |  |  |
-| [Responsive-Web-Design-with-HTML5-and-CSS-Fifth-Edition](https://github.com/PacktPublishing/Responsive-Web-Design-with-HTML5-and-CSS-Fifth-Edition) | Responsive Web Design with HTML5 and CSS, Fifth Edition, published by Packt | HTML | ⭐ 22 |
+| [Responsive-Web-Design-with-HTML5-and-CSS-Fifth-Edition](https://github.com/PacktPublishing/Responsive-Web-Design-with-HTML5-and-CSS-Fifth-Edition) | Responsive Web Design with HTML5 and CSS, Fifth Edition, published by Packt | HTML | ⭐ 24 |
 | [Responsive-Web-Design-with-HTML5-and-CSS-Third-Edition](https://github.com/PacktPublishing/Responsive-Web-Design-with-HTML5-and-CSS-Third-Edition) | Responsive Web Design with HTML5 and CSS, Third Edition, published by Packt | HTML | ⭐ 184 |
 | [Responsive-Web-Design-with-HTML5-and-CSS-Video-Course](https://github.com/PacktPublishing/Responsive-Web-Design-with-HTML5-and-CSS-Video-Course) | Code Repository for Responsive Web Design with HTML5 and CSS, Published by Packt |  | ⭐ 7 |
 | [Responsive-Web-Design-with-HTML5-and-CSS3-Essentials](https://github.com/PacktPublishing/Responsive-Web-Design-with-HTML5-and-CSS3-Essentials) | Code repository for Responsive Web Design with HTML5 and CSS3 Essentials, published by ... | HTML | ⭐ 6 |
@@ -8337,7 +8348,7 @@
 | [Reverse-Engineering-Create-Your-Own-GUI-CrackMe-using-C-](https://github.com/PacktPublishing/Reverse-Engineering-Create-Your-Own-GUI-CrackMe-using-C-) | Reverse Engineering: Create Your Own GUI CrackMe using C++, Published by Packt Publishing |  |  |
 | [Reverse-Engineering-Malware-Analysis---Intermediate-Level](https://github.com/PacktPublishing/Reverse-Engineering-Malware-Analysis---Intermediate-Level) |  |  |  |
 | [Reverse-Engineering-Malware-Analysis-of-.NET-Java](https://github.com/PacktPublishing/Reverse-Engineering-Malware-Analysis-of-.NET-Java) |  | C# |  |
-| [Reverse-Engineering-Masterclass-IDA-Ghidra-Linux-x86_64](https://github.com/PacktPublishing/Reverse-Engineering-Masterclass-IDA-Ghidra-Linux-x86_64) | Reverse Engineering Masterclass: IDA, Ghidra, Linux & x86_64, published by packt publis... | Assembly | ⭐ 2 |
+| [Reverse-Engineering-Masterclass-IDA-Ghidra-Linux-x86_64](https://github.com/PacktPublishing/Reverse-Engineering-Masterclass-IDA-Ghidra-Linux-x86_64) | Reverse Engineering Masterclass: IDA, Ghidra, Linux & x86_64, published by packt publis... | Assembly | ⭐ 3 |
 | [ReverseEngineeringCookbook](https://github.com/PacktPublishing/ReverseEngineeringCookbook) | Reverse Engineering Cookbook, Published by Packt | C | ⭐ 4 |
 | [Ripple-Quick-Start-Guide](https://github.com/PacktPublishing/Ripple-Quick-Start-Guide) | Ripple Quick Start Guide,Published by Packt | JavaScript | ⭐ 4 |
 | [RISC-V-Architecture-and-DSP-Processor-Design](https://github.com/PacktPublishing/RISC-V-Architecture-and-DSP-Processor-Design) | RISC-V Architecture and DSP Processor Design, published by Packt | C | ⭐ 4 |
@@ -8358,7 +8369,7 @@
 | [Robotic-Process-Automation-with-Automation-Anywhere](https://github.com/PacktPublishing/Robotic-Process-Automation-with-Automation-Anywhere) | Robotic Process Automation with Automation Anywhere, Published by Packt | VBScript | ⭐ 13 |
 | [Robotic-Process-Automation-with-Blue-Prism-Quick-Start-Guide](https://github.com/PacktPublishing/Robotic-Process-Automation-with-Blue-Prism-Quick-Start-Guide) | Robotic Process Automation with Blue Prism Quick Start Guide |  | ⭐ 16 |
 | [Robotics-at-Home-with-Raspberry-Pi-Pico](https://github.com/PacktPublishing/Robotics-at-Home-with-Raspberry-Pi-Pico) | Robotics at Home with Raspberry Pi Pico, Published by Packt | Jupyter Notebook | ⭐ 36 |
-| [ROS-2-from-Scratch](https://github.com/PacktPublishing/ROS-2-from-Scratch) | ROS 2 from Scratch, published by Packt | Python | ⭐ 246 |
+| [ROS-2-from-Scratch](https://github.com/PacktPublishing/ROS-2-from-Scratch) | ROS 2 from Scratch, published by Packt | Python | ⭐ 248 |
 | [ROS-2-New-Features](https://github.com/PacktPublishing/ROS-2-New-Features) | ROS 2 New Features [Video], published by Packt | C++ | ⭐ 10 |
 | [ROS-Programming-Building-Powerful-Robots](https://github.com/PacktPublishing/ROS-Programming-Building-Powerful-Robots) | ROS Programming: Building Powerful Robots, published by Packt | Python | ⭐ 50 |
 | [ROS-Robotics-By-Example](https://github.com/PacktPublishing/ROS-Robotics-By-Example) | Code repository for ROS Robotics By Example, published By Packt | Python | ⭐ 106 |
@@ -8378,13 +8389,13 @@
 | [Rust-Essentials-Second-Edition](https://github.com/PacktPublishing/Rust-Essentials-Second-Edition) | Rust Essentials, Second Edition, published by Packt | Rust | ⭐ 28 |
 | [Rust-for-Beginners-Learn-Rust-in-4-Hours](https://github.com/PacktPublishing/Rust-for-Beginners-Learn-Rust-in-4-Hours) |  | Rust | ⭐ 10 |
 | [Rust-for-Blockchain-Application-Development](https://github.com/PacktPublishing/Rust-for-Blockchain-Application-Development) |  | Rust | ⭐ 83 |
-| [Rust-for-CPP-Developers](https://github.com/PacktPublishing/Rust-for-CPP-Developers) |  | Rust | ⭐ 8 |
+| [Rust-for-CPP-Developers](https://github.com/PacktPublishing/Rust-for-CPP-Developers) |  | Rust | ⭐ 9 |
 | [Rust-High-Performance](https://github.com/PacktPublishing/Rust-High-Performance) | Rust High Performance, published by Packt | Rust | ⭐ 108 |
 | [Rust-Interop-with-Cpp](https://github.com/PacktPublishing/Rust-Interop-with-Cpp) |  | Rust |  |
 | [Rust-Programming-2023---A-Comprehensive-Course-for-Beginners](https://github.com/PacktPublishing/Rust-Programming-2023---A-Comprehensive-Course-for-Beginners) | Rust Programming: From Zero to Advanced in 2023 - A Comprehensive Course, published by ... | Rich Text Format | ⭐ 10 |
 | [Rust-Programming-By-Example](https://github.com/PacktPublishing/Rust-Programming-By-Example) | Rust Programming By Example, published by Packt | Makefile | ⭐ 78 |
 | [Rust-Programming-Cookbook](https://github.com/PacktPublishing/Rust-Programming-Cookbook) | Rust Programming Cookbook, published by Packt | Rust | ⭐ 76 |
-| [Rust-Programming-Master-Class-from-Beginner-to-Expert](https://github.com/PacktPublishing/Rust-Programming-Master-Class-from-Beginner-to-Expert) |  | Rust | ⭐ 105 |
+| [Rust-Programming-Master-Class-from-Beginner-to-Expert](https://github.com/PacktPublishing/Rust-Programming-Master-Class-from-Beginner-to-Expert) |  | Rust | ⭐ 106 |
 | [Rust-Programming-Recipies](https://github.com/PacktPublishing/Rust-Programming-Recipies) | Rust Programming Recepies ,Published by Packt | Rust | ⭐ 23 |
 | [Rust-Projects](https://github.com/PacktPublishing/Rust-Projects) | Rust Projects [video], published by Packt | Rust | ⭐ 19 |
 | [Rust-Quick-Start-Guide](https://github.com/PacktPublishing/Rust-Quick-Start-Guide) | Rust Quick Start Guide, Published by Packt | Rust | ⭐ 28 |
@@ -8395,7 +8406,7 @@
 | [Rust-Web-Programming-3E](https://github.com/PacktPublishing/Rust-Web-Programming-3E) | Rust Web Programming, 3E_Published by Packt | Rust | ⭐ 61 |
 | [RxJS-Cookbook-for-Reactive-Programming](https://github.com/PacktPublishing/RxJS-Cookbook-for-Reactive-Programming) |  | TypeScript | ⭐ 16 |
 
-## S (522 repos)
+## S (525 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -8449,7 +8460,7 @@
 | [Salesforce-Lightning-Recipes](https://github.com/PacktPublishing/Salesforce-Lightning-Recipes) | Salesforce Lightning Recipes (Video), Published by Packt |  | ⭐ 1 |
 | [Salesforce-Lightning-Web-Component-Cookbook](https://github.com/PacktPublishing/Salesforce-Lightning-Web-Component-Cookbook) | Salesforce Lightning Web Component Cookbook, Published by Packt | Apex | ⭐ 20 |
 | [Salesforce-Platform-App-Builder-Complete-Training-Program](https://github.com/PacktPublishing/Salesforce-Platform-App-Builder-Complete-Training-Program) |  |  | ⭐ 1 |
-| [Salesforce-Platform-Developer-I-Certification-Guide](https://github.com/PacktPublishing/Salesforce-Platform-Developer-I-Certification-Guide) | Salesforce Platform Developer I Certification Guide, published by Packt | Apex | ⭐ 32 |
+| [Salesforce-Platform-Developer-I-Certification-Guide](https://github.com/PacktPublishing/Salesforce-Platform-Developer-I-Certification-Guide) | Salesforce Platform Developer I Certification Guide, published by Packt | Apex | ⭐ 33 |
 | [Salesforce-Platform-Enterprise-Architecture-4th-Edition](https://github.com/PacktPublishing/Salesforce-Platform-Enterprise-Architecture-4th-Edition) |  |  | ⭐ 35 |
 | [Salesforce-Technical-Architects-Handbook](https://github.com/PacktPublishing/Salesforce-Technical-Architects-Handbook) |  Salesforce Technical Architect's Handbook, published by Packt |  | ⭐ 1 |
 | [SAP-Business-Intelligence-Essentials](https://github.com/PacktPublishing/SAP-Business-Intelligence-Essentials) | SAP Business Intelligence Essentials , published by Packt |  |  |
@@ -8505,7 +8516,7 @@
 | [Scientific-Computing-with-Python-Third-Edition](https://github.com/PacktPublishing/Scientific-Computing-with-Python-Third-Edition) |  |  |  |
 | [Scientific-Computing-with-Scala](https://github.com/PacktPublishing/Scientific-Computing-with-Scala) | Scientific-Computing-with-Scala_Code | Scala | ⭐ 16 |
 | [scikit-learn-Cookbook-Second-Edition](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition) | scikit-learn Cookbook Second Edition, published by Packt | Jupyter Notebook | ⭐ 111 |
-| [scikit-learn-Cookbook-Third-Edition](https://github.com/PacktPublishing/scikit-learn-Cookbook-Third-Edition) | scikit-learn cookbook third edition, published by Packt | Jupyter Notebook | ⭐ 34 |
+| [scikit-learn-Cookbook-Third-Edition](https://github.com/PacktPublishing/scikit-learn-Cookbook-Third-Edition) | scikit-learn cookbook third edition, published by Packt | Jupyter Notebook | ⭐ 35 |
 | [scikit-learn-Machine-Learning-Simplified](https://github.com/PacktPublishing/scikit-learn-Machine-Learning-Simplified) |  |  | ⭐ 8 |
 | [Scikit-learn-Recipes](https://github.com/PacktPublishing/Scikit-learn-Recipes) | Build machine learning models with scikit-learn power tools | Jupyter Notebook | ⭐ 11 |
 | [scikit-learn-Test-Predictions-Using-Various-Models-V-](https://github.com/PacktPublishing/scikit-learn-Test-Predictions-Using-Various-Models-V-) | scikit-learn –Test Predictions Using Various Models by Packt Publishing | Jupyter Notebook | ⭐ 1 |
@@ -8533,6 +8544,7 @@
 | [Securing-Containers-from-Development-to-Production](https://github.com/PacktPublishing/Securing-Containers-from-Development-to-Production) | Securing Containers from Development to Production, published by Packt |  |  |
 | [Securing-Embedded-Systems](https://github.com/PacktPublishing/Securing-Embedded-Systems) | Securing Embedded Systems, Published by Packt |  | ⭐ 1 |
 | [Securing-Ethereum-Smart-Contracts](https://github.com/PacktPublishing/Securing-Ethereum-Smart-Contracts) | Published by Packt | Solidity | ⭐ 2 |
+| [Securing-the-Autonomous-Supply-Chain-](https://github.com/PacktPublishing/Securing-the-Autonomous-Supply-Chain-) | Securing the Autonomous Supply Chain , published by Packt |  |  |
 | [Securing-Your-AI-and-Machine-Learning-Systems](https://github.com/PacktPublishing/Securing-Your-AI-and-Machine-Learning-Systems) |  | Jupyter Notebook | ⭐ 10 |
 | [Security-701---Hands-On-Cybersecurity-Lab-Series](https://github.com/PacktPublishing/Security-701---Hands-On-Cybersecurity-Lab-Series) | Security+ 701 - Hands-On Cybersecurity Lab Series, Published by Packt Publishing | Python | ⭐ 6 |
 | [Security-Automation-with-Ansible-2](https://github.com/PacktPublishing/Security-Automation-with-Ansible-2) | Security Automation with Ansible 2, published by Packt | Jinja | ⭐ 70 |
@@ -8609,7 +8621,7 @@
 | [ServiceNow-Building-Powerful-Workflows](https://github.com/PacktPublishing/ServiceNow-Building-Powerful-Workflows) | Code files for  ServiceNow: Building Powerful Workflows, published by Packt |  | ⭐ 11 |
 | [ServiceNow-for-Architects-and-Project-Leaders-Audiobook](https://github.com/PacktPublishing/ServiceNow-for-Architects-and-Project-Leaders-Audiobook) | ServiceNow for Architects and Project Leaders Audiobook, published by Packt |  |  |
 | [ServiceNow-IT-Operations-Management-V-](https://github.com/PacktPublishing/ServiceNow-IT-Operations-Management-V-) | ServiceNow IT Operations Management [V] [Video] by Packt Publsihing |  | ⭐ 2 |
-| [ServiceNow-System-Administrator-from-Zero-to-Hero](https://github.com/PacktPublishing/ServiceNow-System-Administrator-from-Zero-to-Hero) |  |  | ⭐ 27 |
+| [ServiceNow-System-Administrator-from-Zero-to-Hero](https://github.com/PacktPublishing/ServiceNow-System-Administrator-from-Zero-to-Hero) |  |  | ⭐ 26 |
 | [ServiceNowCookbook](https://github.com/PacktPublishing/ServiceNowCookbook) | This is the code repository for the book, ServiceNow Cookbook, published by Packt | JavaScript | ⭐ 16 |
 | [Servlets-and-JSP-Tutorial-for-Beginners](https://github.com/PacktPublishing/Servlets-and-JSP-Tutorial-for-Beginners) | Servlets and JSP Tutorial for Beginners, by Packt Publishing |  | ⭐ 3 |
 | [Setup-Your-Own-Asterisk-VoIP-Server-with-Android-iOS-Windows-Apps](https://github.com/PacktPublishing/Setup-Your-Own-Asterisk-VoIP-Server-with-Android-iOS-Windows-Apps) | Setup Your Own Asterisk VoIP Server with Android, iOS & Windows Apps, published by Packt |  | ⭐ 5 |
@@ -8648,6 +8660,7 @@
 | [Six-Sigma-White-Belt](https://github.com/PacktPublishing/Six-Sigma-White-Belt) | Six Sigma White Belt, published by Packt publishing |  | ⭐ 19 |
 | [Six-Sigma-White-Belt-Accredited](https://github.com/PacktPublishing/Six-Sigma-White-Belt-Accredited) |  |  | ⭐ 3 |
 | [Skeletons-vs-Zombies-MOBA-With-Multiplayer-in-Unity](https://github.com/PacktPublishing/Skeletons-vs-Zombies-MOBA-With-Multiplayer-in-Unity) | Code repository for Skeletons vs Zombies MOBA With Multiplayer in Unity, published by P... |  |  |
+| [Small-Language-Models-Powered-Applications](https://github.com/PacktPublishing/Small-Language-Models-Powered-Applications) | Small Language Models-Powered Applications, published by Packt  |  |  |
 | [Smart-Internet-of-Things-Projects](https://github.com/PacktPublishing/Smart-Internet-of-Things-Projects) | Code Repository for Smart Internet of Things Projects, Published by Packt | Python | ⭐ 9 |
 | [Smart-IoT-Projects-using-Python-and-Raspberry-Pi](https://github.com/PacktPublishing/Smart-IoT-Projects-using-Python-and-Raspberry-Pi) | Code repository for Smart IoT Projects using Python and Raspberry Pi, Published by Packt |  | ⭐ 1 |
 | [Smart-Robotics-with-LEGO-MINDSTORMS-Robot-Inventor](https://github.com/PacktPublishing/Smart-Robotics-with-LEGO-MINDSTORMS-Robot-Inventor) | Smart Robotics with LEGO MINDSTORMS Robot Inventor, Published by Packt |  | ⭐ 9 |
@@ -8776,7 +8789,7 @@
 | [spring-interview-guide](https://github.com/PacktPublishing/spring-interview-guide) | 200+ Questions and Answers on Spring, Spring Boot and Spring MVC | JavaScript | ⭐ 1 |
 | [Spring-Microservices](https://github.com/PacktPublishing/Spring-Microservices) | Code repository for Spring Microservices, published by Packt Publishing | Java | ⭐ 221 |
 | [spring-microservices-1](https://github.com/PacktPublishing/spring-microservices-1) | Spring Microservices using Spring Cloud |  |  |
-| [spring-microservices-v2](https://github.com/PacktPublishing/spring-microservices-v2) | Master Microservices with Spring Boot and Spring Cloud, Published by Packt Publishing |  | ⭐ 12 |
+| [spring-microservices-v2](https://github.com/PacktPublishing/spring-microservices-v2) | Master Microservices with Spring Boot and Spring Cloud, Published by Packt Publishing |  | ⭐ 13 |
 | [Spring-MVC-Beginners-Guide-Second-Edition](https://github.com/PacktPublishing/Spring-MVC-Beginners-Guide-Second-Edition) | Code repository for Spring MVC Beginner's Guide Second Edition, published by Packt  | Java | ⭐ 40 |
 | [Spring-MVC-Blueprints](https://github.com/PacktPublishing/Spring-MVC-Blueprints) | Code repository for Spring MVC Blueprints, published by Packt | Java | ⭐ 22 |
 | [Spring-MVC-Designing-Real-World-Web-Application](https://github.com/PacktPublishing/Spring-MVC-Designing-Real-World-Web-Application) |  | Java | ⭐ 24 |
@@ -8793,7 +8806,8 @@
 | [SQL-Beginner-to-Guru-MySQL-Edition---Master-SQL-with-MySQL](https://github.com/PacktPublishing/SQL-Beginner-to-Guru-MySQL-Edition---Master-SQL-with-MySQL) | Code Repository for SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL, Publis... | PLpgSQL | ⭐ 18 |
 | [SQL-Bootcamp---From-Zero-to-Job-Ready](https://github.com/PacktPublishing/SQL-Bootcamp---From-Zero-to-Job-Ready) | SQL Bootcamp - From Zero to Job-Ready, Published by Packt Publishing |  | ⭐ 7 |
 | [SQL-Data-Cleaning-Cookbook](https://github.com/PacktPublishing/SQL-Data-Cleaning-Cookbook) |  |  | ⭐ 4 |
-| [SQL-for-Data-Analytics-Fourth-Edition](https://github.com/PacktPublishing/SQL-for-Data-Analytics-Fourth-Edition) | SQL for Data Analytics - Fourth Edition, published by Packt | Python | ⭐ 59 |
+| [SQL-for-Beginners---Learn-SQL-with-Hands-On-Projects-Exercises](https://github.com/PacktPublishing/SQL-for-Beginners---Learn-SQL-with-Hands-On-Projects-Exercises) | This is the code repository for SQL for Beginners - Learn SQL with Hands-On Projects & ... |  |  |
+| [SQL-for-Data-Analytics-Fourth-Edition](https://github.com/PacktPublishing/SQL-for-Data-Analytics-Fourth-Edition) | SQL for Data Analytics - Fourth Edition, published by Packt | Python | ⭐ 61 |
 | [SQL-for-Data-Analytics-Third-Edition](https://github.com/PacktPublishing/SQL-for-Data-Analytics-Third-Edition) |  | PLpgSQL | ⭐ 73 |
 | [SQL-Fundamentals-for-Business-Intelligence](https://github.com/PacktPublishing/SQL-Fundamentals-for-Business-Intelligence) | SQL Fundamentals for Business Intelligence [video], published by Packt |  |  |
 | [SQL-Fundamentals-for-Marketing-Digital-and-Web-Analytics](https://github.com/PacktPublishing/SQL-Fundamentals-for-Marketing-Digital-and-Web-Analytics) | SQL Fundamentals for Marketing, Digital and Web Analytics [Video], Published by Packt | HTML | ⭐ 14 |
@@ -8836,7 +8850,7 @@
 | [Streaming-Big-Data-with-Spark-Streaming-Scala-and-Spark-3-](https://github.com/PacktPublishing/Streaming-Big-Data-with-Spark-Streaming-Scala-and-Spark-3-) | Code Repository for Streaming Big Data with Spark Streaming, Scala-Hands on; Published ... | Scala | ⭐ 3 |
 | [Streaming-Data-Solutions-with-Amazon-Kinesis](https://github.com/PacktPublishing/Streaming-Data-Solutions-with-Amazon-Kinesis) | Streaming Data Solutions with Amazon Kinesis, Published by Packt | Java | ⭐ 22 |
 | [Streamlining-Data-Engineering-with-ChatGPT-Integration](https://github.com/PacktPublishing/Streamlining-Data-Engineering-with-ChatGPT-Integration) | Streamlining Data Engineering with ChatGPT Integration, published by Packt |  |  |
-| [Streamlit-Cookbook](https://github.com/PacktPublishing/Streamlit-Cookbook) | Streamlit Cookbook, published by Packt | Python | ⭐ 14 |
+| [Streamlit-Cookbook](https://github.com/PacktPublishing/Streamlit-Cookbook) | Streamlit Cookbook, published by Packt | Python | ⭐ 13 |
 | [Streamlit-for-Data-Science](https://github.com/PacktPublishing/Streamlit-for-Data-Science) | A repo for the book 'Streamlit for Data Science' by Tyler Richards | Python | ⭐ 4 |
 | [Streamlit-for-NLP-with-OpenAI-GPT](https://github.com/PacktPublishing/Streamlit-for-NLP-with-OpenAI-GPT) | Streamlit for NLP with OpenAI GPT |  |  |
 | [Structural-Design-Patterns-in-Modern-C-](https://github.com/PacktPublishing/Structural-Design-Patterns-in-Modern-C-) | Structural Design Patterns in Modern C++, published by Packt |  | ⭐ 16 |
@@ -8845,7 +8859,7 @@
 | [Supercharge-Scala-Future---FP-Tower](https://github.com/PacktPublishing/Supercharge-Scala-Future---FP-Tower) | Supercharge Scala Future \| FP-Tower, published by Packt | Scala | ⭐ 4 |
 | [Supercharge-Scala-Future-FP-Tower](https://github.com/PacktPublishing/Supercharge-Scala-Future-FP-Tower) | Supercharge Scala Future \| FP-Tower, published by Packt |  |  |
 | [Supercharge-Your-Applications-with-GraalVM](https://github.com/PacktPublishing/Supercharge-Your-Applications-with-GraalVM) | Supercharge Your Applications with GraalVM, published by Packt | Java | ⭐ 19 |
-| [Supercharged-Coding-with-Gen-AI](https://github.com/PacktPublishing/Supercharged-Coding-with-Gen-AI) | Supercharged Coding with Gen-AI, Published by Packt | Python | ⭐ 17 |
+| [Supercharged-Coding-with-Gen-AI](https://github.com/PacktPublishing/Supercharged-Coding-with-Gen-AI) | Supercharged Coding with Gen-AI, Published by Packt | Python | ⭐ 18 |
 | [Supercharging-Node.js-Applications-with-Sequelize](https://github.com/PacktPublishing/Supercharging-Node.js-Applications-with-Sequelize) | Supercharging Node.js Application with Sequelize, published by Packt | JavaScript | ⭐ 17 |
 | [Superset-Quick-Start-Guide](https://github.com/PacktPublishing/Superset-Quick-Start-Guide) | Superset Quick Start Guide, published by Packt | Jupyter Notebook | ⭐ 56 |
 | [Supervised-and-Unsupervised-Learning-with-Python](https://github.com/PacktPublishing/Supervised-and-Unsupervised-Learning-with-Python) | Supervised and Unsupervised Learning with Python [Video], Published by Packt |  |  |
@@ -8917,12 +8931,12 @@
 | [SysML-v2-Masterclass](https://github.com/PacktPublishing/SysML-v2-Masterclass) | SysML v2 Masterclass, Published by Packt |  | ⭐ 1 |
 | [SysML_Version2_Masterclass](https://github.com/PacktPublishing/SysML_Version2_Masterclass) | SysML Version2 Masterclass, published by Packt |  |  |
 | [System-Center-2016-Virtual-Machine-Manager-Cookbook-Third-Edition](https://github.com/PacktPublishing/System-Center-2016-Virtual-Machine-Manager-Cookbook-Third-Edition) |  | PowerShell | ⭐ 1 |
-| [System-Design-Masterclass](https://github.com/PacktPublishing/System-Design-Masterclass) |  |  | ⭐ 11 |
-| [System-Programming-Essentials-with-Go](https://github.com/PacktPublishing/System-Programming-Essentials-with-Go) | System Programming Essentials with Go, published by Packt | Go | ⭐ 72 |
+| [System-Design-Masterclass](https://github.com/PacktPublishing/System-Design-Masterclass) |  |  | ⭐ 12 |
+| [System-Programming-Essentials-with-Go](https://github.com/PacktPublishing/System-Programming-Essentials-with-Go) | System Programming Essentials with Go, published by Packt | Go | ⭐ 74 |
 | [Systems-Engineering-Demystified-Second-Edition](https://github.com/PacktPublishing/Systems-Engineering-Demystified-Second-Edition) | Systems Engineering Demystified, Second Edition - Published by Packt |  | ⭐ 1 |
 | [Systems-Programming-with-C-Sharp-and-.NET](https://github.com/PacktPublishing/Systems-Programming-with-C-Sharp-and-.NET) | , published by Packt | C# | ⭐ 33 |
 
-## T (510 repos)
+## T (513 repos)
 
 | Repository | Description | Language | ⭐ |
 |------------|-------------|----------|----|
@@ -8953,7 +8967,7 @@
 | [Tableau-Desktop-Certified-Professional-Certification-Guide-](https://github.com/PacktPublishing/Tableau-Desktop-Certified-Professional-Certification-Guide-) |  |  |  |
 | [Tableau-Desktop-Specialist-Certification](https://github.com/PacktPublishing/Tableau-Desktop-Specialist-Certification) | Tableau Desktop Specialist Certification, Published by Packt |  |  |
 | [Tableau-in-7-Days](https://github.com/PacktPublishing/Tableau-in-7-Days) | Code Repository for Tableau in 7 Days, published by Packt |  |  |
-| [Tableau-in-7-Steps](https://github.com/PacktPublishing/Tableau-in-7-Steps) | Tableau in 7 Steps |  | ⭐ 2 |
+| [Tableau-in-7-Steps](https://github.com/PacktPublishing/Tableau-in-7-Steps) | Tableau in 7 Steps |  | ⭐ 3 |
 | [Tableau-Masterclass-2024](https://github.com/PacktPublishing/Tableau-Masterclass-2024) |  |  | ⭐ 1 |
 | [Tableau-Prep-Builder-for-beginners---let-s-get-started-](https://github.com/PacktPublishing/Tableau-Prep-Builder-for-beginners---let-s-get-started-) | Tableau Prep Builder for beginners - let's get started, by Packt Publishing |  |  |
 | [Tableau-Prep-Builder-for-Beginners-Getting-Started](https://github.com/PacktPublishing/Tableau-Prep-Builder-for-Beginners-Getting-Started) |  |  | ⭐ 2 |
@@ -9010,7 +9024,7 @@
 | [TensorFlow.js-Quick-Start-Guide](https://github.com/PacktPublishing/TensorFlow.js-Quick-Start-Guide) | TensorFlow.js Quick Start Guide, Published by Packt |  | ⭐ 1 |
 | [Teradata-Cookbook](https://github.com/PacktPublishing/Teradata-Cookbook) | Teradata Cookbook, by Packt |  | ⭐ 9 |
 | [Terraform-Cookbook](https://github.com/PacktPublishing/Terraform-Cookbook) | Terraform Cookbook by Packt | HCL | ⭐ 139 |
-| [Terraform-Cookbook-Second-Edition](https://github.com/PacktPublishing/Terraform-Cookbook-Second-Edition) | Code Repository for Terraform Cookbook Second Edition, Published by Packt | HCL | ⭐ 108 |
+| [Terraform-Cookbook-Second-Edition](https://github.com/PacktPublishing/Terraform-Cookbook-Second-Edition) | Code Repository for Terraform Cookbook Second Edition, Published by Packt | HCL | ⭐ 109 |
 | [Terraform-for-Google-Cloud-Essential-Guide](https://github.com/PacktPublishing/Terraform-for-Google-Cloud-Essential-Guide) | Terraform-for-Google-Cloud-Essential-Guide, published by Packt | HCL | ⭐ 52 |
 | [Terraform-in-Action---Build-Manage-Cloud-Infrastructure](https://github.com/PacktPublishing/Terraform-in-Action---Build-Manage-Cloud-Infrastructure) |  |  | ⭐ 5 |
 | [Terragrunt-for-DevOps-Scale-Your-Terraform-Workflows](https://github.com/PacktPublishing/Terragrunt-for-DevOps-Scale-Your-Terraform-Workflows) | Terragrunt for DevOps: Scale Your Terraform Workflows, published by Packt Publishing | HTML |  |
@@ -9054,6 +9068,7 @@
 | [The-Absolute-Beginners-Guide-to-Cyber-Security-2026-Part-2](https://github.com/PacktPublishing/The-Absolute-Beginners-Guide-to-Cyber-Security-2026-Part-2) |  |  | ⭐ 1 |
 | [The-Agent-Augmented-Data-Scientist](https://github.com/PacktPublishing/The-Agent-Augmented-Data-Scientist) | The Agent-Augmented Data Scientist, Published by Packt |  |  |
 | [The-AI-Enhanced-Scrum-Master---Automate-Analyse-and-Accelerate-Agile-Workflow](https://github.com/PacktPublishing/The-AI-Enhanced-Scrum-Master---Automate-Analyse-and-Accelerate-Agile-Workflow) |  |  | ⭐ 6 |
+| [The-AI-Generalist-Program](https://github.com/PacktPublishing/The-AI-Generalist-Program) | The AI Generalist Program, Published by Packt Publishing |  |  |
 | [The-AI-Native-Developer-Playbook](https://github.com/PacktPublishing/The-AI-Native-Developer-Playbook) |  |  | ⭐ 1 |
 | [The-AI-Optimization-Handbook](https://github.com/PacktPublishing/The-AI-Optimization-Handbook) | The AI Optimization Handbook, Published by Packt |  |  |
 | [The-AI-Product-Manager-s-Handbook-Audiobook](https://github.com/PacktPublishing/The-AI-Product-Manager-s-Handbook-Audiobook) |  |  | ⭐ 4 |
@@ -9079,7 +9094,7 @@
 | [The-Art-of-Project-Management](https://github.com/PacktPublishing/The-Art-of-Project-Management) | Code Repository for The Art of Project Management, published by Packt |  |  |
 | [The-Art-of-Writing-Efficient-Programs](https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs) | The Art of Writing Efficient Programs, published by Packt | C | ⭐ 388 |
 | [The-Art-of-Writing-Efficient-Programs-2E](https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs-2E) | The Art of Writing Efficient Programs, Second Edition, published by Packt | C | ⭐ 3 |
-| [The-Azure-Cloud-Native-Architecture-Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) | The Azure Cloud Native Architecture Mapbook, published by Packt | C# | ⭐ 343 |
+| [The-Azure-Cloud-Native-Architecture-Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) | The Azure Cloud Native Architecture Mapbook, published by Packt | C# | ⭐ 344 |
 | [The-Azure-Cloud-Native-Architecture-Mapbook-Second-Edition](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook-Second-Edition) | The Azure Cloud Native Architecture Mapbook, Second Edition, Published by Packt | HCL | ⭐ 28 |
 | [The-Azure-IoT-Handbook](https://github.com/PacktPublishing/The-Azure-IoT-Handbook) | The Azure IoT Handbook, published by Packt | C# | ⭐ 9 |
 | [The-Backstage-Blueprint](https://github.com/PacktPublishing/The-Backstage-Blueprint) | The Backstage Blueprint, published by Packt |  |  |
@@ -9091,6 +9106,7 @@
 | [The-Break-Even-Sales-Funnel-Blueprint-and-Fundamentals-Guide](https://github.com/PacktPublishing/The-Break-Even-Sales-Funnel-Blueprint-and-Fundamentals-Guide) | The Break-Even Sales Funnel Blueprint and Fundamentals Guide, published by Packt |  | ⭐ 1 |
 | [The-CatBoost-Cookbook](https://github.com/PacktPublishing/The-CatBoost-Cookbook) | The CatBoost Cookbook, published by Packt |  |  |
 | [The-ChatBot-Bootcamp---Build-ChatBots-using-Chatfuel](https://github.com/PacktPublishing/The-ChatBot-Bootcamp---Build-ChatBots-using-Chatfuel) | Code repository for The ChatBot Bootcamp - Build ChatBots using Chatfuel, published by ... |  | ⭐ 1 |
+| [The-Claude-Code-Operating-Model](https://github.com/PacktPublishing/The-Claude-Code-Operating-Model) | The Claude Code Operating Model, published by Packt | Shell |  |
 | [The-Cloud-DevOps-Engineer-s-Guide](https://github.com/PacktPublishing/The-Cloud-DevOps-Engineer-s-Guide) | The Cloud DevOps Engineer's Guide, published by Packt | TypeScript | ⭐ 7 |
 | [The-Complete-2020-Ethereum-and-Solidity-Developer-Bootcamp](https://github.com/PacktPublishing/The-Complete-2020-Ethereum-and-Solidity-Developer-Bootcamp) | The Complete 2020 Ethereum and Solidity Developer Bootcamp [Video], published by Packt | Solidity | ⭐ 7 |
 | [The-Complete-2020-Ethereum-Solidity-Developer-Bootcamp](https://github.com/PacktPublishing/The-Complete-2020-Ethereum-Solidity-Developer-Bootcamp) | Code Repository for The Complete 2020 Ethereum & Solidity Developer Bootcamp, Published... |  | ⭐ 3 |
@@ -9109,7 +9125,7 @@
 | [The-Complete-C-Programming-Course-for-Beginners](https://github.com/PacktPublishing/The-Complete-C-Programming-Course-for-Beginners) |  |  |  |
 | [The-Complete-Carbon-Programming-Course](https://github.com/PacktPublishing/The-Complete-Carbon-Programming-Course) | Published by Packt Publishing |  |  |
 | [The-Complete-CBDC-Course---Digital-Currency-For-All-Levels](https://github.com/PacktPublishing/The-Complete-CBDC-Course---Digital-Currency-For-All-Levels) | The Complete CBDC Course - Digital Currency For All Levels, by Packt Publishing |  |  |
-| [The-Complete-Certified-Salesforce-Administrator-Guide](https://github.com/PacktPublishing/The-Complete-Certified-Salesforce-Administrator-Guide) |  |  | ⭐ 1 |
+| [The-Complete-Certified-Salesforce-Administrator-Guide](https://github.com/PacktPublishing/The-Complete-Certified-Salesforce-Administrator-Guide) |  |  | ⭐ 2 |
 | [The-Complete-Coding-Interview-Guide-in-Java](https://github.com/PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java) | The Complete Coding Interview Guide in Java, published by Packt | Java | ⭐ 371 |
 | [The-Complete-Coding-Interview-Guide-in-Java-Audiobook](https://github.com/PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java-Audiobook) |  |  | ⭐ 3 |
 | [The-Complete-CSS-Flexbox-Guide-With-a-Complete-Project-2021](https://github.com/PacktPublishing/The-Complete-CSS-Flexbox-Guide-With-a-Complete-Project-2021) |  |  | ⭐ 1 |
@@ -9152,7 +9168,7 @@
 | [The-Complete-jQuery-Course-From-Beginner-To-Advanced-](https://github.com/PacktPublishing/The-Complete-jQuery-Course-From-Beginner-To-Advanced-) | Code Repository for The Complete jQuery Course: From Beginner To Advanced!, published b... |  | ⭐ 1 |
 | [The-Complete-Kubernetes-Guide](https://github.com/PacktPublishing/The-Complete-Kubernetes-Guide) | Become an expert in container management with the power of Kubernetes | JavaScript | ⭐ 11 |
 | [The-Complete-LangChain-LLMs-Guide](https://github.com/PacktPublishing/The-Complete-LangChain-LLMs-Guide) | The Complete LangChain & LLMs Guide, by Packt Publishing | Python | ⭐ 57 |
-| [The-Complete-Linux-Training-Course-to-Get-Your-Dream-IT-Job](https://github.com/PacktPublishing/The-Complete-Linux-Training-Course-to-Get-Your-Dream-IT-Job) | Code Repository for The Complete Linux Training Course to Get Your Dream IT Job, Publis... | Shell | ⭐ 105 |
+| [The-Complete-Linux-Training-Course-to-Get-Your-Dream-IT-Job](https://github.com/PacktPublishing/The-Complete-Linux-Training-Course-to-Get-Your-Dream-IT-Job) | Code Repository for The Complete Linux Training Course to Get Your Dream IT Job, Publis... | Shell | ⭐ 106 |
 | [The-Complete-Machine-Learning-Course-with-Python](https://github.com/PacktPublishing/The-Complete-Machine-Learning-Course-with-Python) | Code Repository for The Complete Machine Learning Course with Python, Published by Packt |  | ⭐ 7 |
 | [The-Complete-Masterclass-on-PL-900-Certification-](https://github.com/PacktPublishing/The-Complete-Masterclass-on-PL-900-Certification-) | The Complete Masterclass on PL-900 Certification, by Packt Publishing |  | ⭐ 4 |
 | [The-Complete-Metasploit-Guide](https://github.com/PacktPublishing/The-Complete-Metasploit-Guide) | Explore effective penetration testing techniques with Metasploit | Ruby | ⭐ 17 |
@@ -9168,14 +9184,15 @@
 | [The-Complete-Pentesting-Privilege-Escalation-Course](https://github.com/PacktPublishing/The-Complete-Pentesting-Privilege-Escalation-Course) | The Complete Pentesting & Privilege Escalation Course, published by Packt |  | ⭐ 10 |
 | [The-Complete-Power-BI-Interview-Guide](https://github.com/PacktPublishing/The-Complete-Power-BI-Interview-Guide) |  |  |  |
 | [The-Complete-Product-Management-Fundamentals](https://github.com/PacktPublishing/The-Complete-Product-Management-Fundamentals) |  |  | ⭐ 7 |
-| [The-Complete-Project-Management-Fundamentals-Course](https://github.com/PacktPublishing/The-Complete-Project-Management-Fundamentals-Course) | Project Management Certification A Project Management Course, published by Packt |  | ⭐ 20 |
+| [The-Complete-Project-Management-Fundamentals-Course](https://github.com/PacktPublishing/The-Complete-Project-Management-Fundamentals-Course) | Project Management Certification A Project Management Course, published by Packt |  | ⭐ 19 |
 | [The-Complete-Python-and-Data-Science-Bootcamp](https://github.com/PacktPublishing/The-Complete-Python-and-Data-Science-Bootcamp) |  |  | ⭐ 2 |
 | [The-Complete-Python-and-PostgreSQL-Developer-Course](https://github.com/PacktPublishing/The-Complete-Python-and-PostgreSQL-Developer-Course) | The Complete Python and PostgreSQL Developer Course, published by Packt |  | ⭐ 19 |
 | [The-Complete-Python-Course](https://github.com/PacktPublishing/The-Complete-Python-Course) | The Complete Python Course, published by Packt | Python | ⭐ 81 |
 | [The-Complete-Python-Course-2024-](https://github.com/PacktPublishing/The-Complete-Python-Course-2024-) | The Complete Python Course (2022), by Packt Publishing | Python | ⭐ 7 |
 | [The-Complete-Python-Course-2025](https://github.com/PacktPublishing/The-Complete-Python-Course-2025) |  | Python | ⭐ 7 |
 | [The-Complete-Python-Course-including-Django-Web-Framework](https://github.com/PacktPublishing/The-Complete-Python-Course-including-Django-Web-Framework) | The Complete Python Course including Django Web Framework, published by Packt | Python | ⭐ 6 |
-| [The-Complete-Quantum-Computing-Course-for-Beginners-](https://github.com/PacktPublishing/The-Complete-Quantum-Computing-Course-for-Beginners-) | The Complete Quantum Computing Course for Beginners, by Packt Publishing | Jupyter Notebook | ⭐ 206 |
+| [The-Complete-QA-Bootcamp-From-Beginner-to-Job-Ready](https://github.com/PacktPublishing/The-Complete-QA-Bootcamp-From-Beginner-to-Job-Ready) | The Complete QA Bootcamp: From Beginner to Job Ready, published by Packt Publishing |  |  |
+| [The-Complete-Quantum-Computing-Course-for-Beginners-](https://github.com/PacktPublishing/The-Complete-Quantum-Computing-Course-for-Beginners-) | The Complete Quantum Computing Course for Beginners, by Packt Publishing | Jupyter Notebook | ⭐ 208 |
 | [The-Complete-React-19-Developer-Course-incl.-Next.js-16-](https://github.com/PacktPublishing/The-Complete-React-19-Developer-Course-incl.-Next.js-16-) | The Complete React 19 Developer Course (incl. Next.js 16), Published by Packt |  |  |
 | [The-Complete-React-Developer-Course-with-Hooks-and-Redux-](https://github.com/PacktPublishing/The-Complete-React-Developer-Course-with-Hooks-and-Redux-) | Code Repository for The Complete React Developer Course (with Hooks and Redux), Publish... |  | ⭐ 11 |
 | [The-Complete-React-Js-and-Redux-Course---Build-Modern-Web-Apps](https://github.com/PacktPublishing/The-Complete-React-Js-and-Redux-Course---Build-Modern-Web-Apps) | The Complete React Js and Redux Course - Build Modern Web Apps, published by Packt |  | ⭐ 10 |
@@ -9241,11 +9258,11 @@
 | [The-Java-Ecosystem-Demystified](https://github.com/PacktPublishing/The-Java-Ecosystem-Demystified) |  |  |  |
 | [The-Javascript-you-need-for-ReactJS-or-Vue-Angular-Node-](https://github.com/PacktPublishing/The-Javascript-you-need-for-ReactJS-or-Vue-Angular-Node-) | The Javascript you need for ReactJS (or Vue, Angular, Node), Packt Publishing |  | ⭐ 1 |
 | [The-Kaggle-Book](https://github.com/PacktPublishing/The-Kaggle-Book) | Code Repository for The Kaggle Book, Published by Packt Publishing | Jupyter Notebook | ⭐ 2334 |
-| [The-Kaggle-Book-2nd-Edition](https://github.com/PacktPublishing/The-Kaggle-Book-2nd-Edition) | Code Repository for The Kaggle Book 2nd Edition, Published by Packt | Jupyter Notebook | ⭐ 110 |
+| [The-Kaggle-Book-2nd-Edition](https://github.com/PacktPublishing/The-Kaggle-Book-2nd-Edition) | Code Repository for The Kaggle Book 2nd Edition, Published by Packt | Jupyter Notebook | ⭐ 111 |
 | [The-Kaggle-Workbook](https://github.com/PacktPublishing/The-Kaggle-Workbook) | Code Repository for The Kaggle Workbook, Published by Packt | Jupyter Notebook | ⭐ 139 |
 | [The-Kubernetes-Bible](https://github.com/PacktPublishing/The-Kubernetes-Bible) | The Kubernetes Bible, published by Packt | Mustache | ⭐ 83 |
 | [The-Kubernetes-Bible-3rd-Edition](https://github.com/PacktPublishing/The-Kubernetes-Bible-3rd-Edition) | The Kubernetes Bible 3rd Edition |  |  |
-| [The-Kubernetes-Bible-Second-Edition](https://github.com/PacktPublishing/The-Kubernetes-Bible-Second-Edition) | The Kubernetes Bible, Second Edition, Published By Packt | Python | ⭐ 81 |
+| [The-Kubernetes-Bible-Second-Edition](https://github.com/PacktPublishing/The-Kubernetes-Bible-Second-Edition) | The Kubernetes Bible, Second Edition, Published By Packt | Python | ⭐ 80 |
 | [The-Kubernetes-Book---2024-Edition](https://github.com/PacktPublishing/The-Kubernetes-Book---2024-Edition) | Navigate the world of Kubernetes with expertise |  | ⭐ 4 |
 | [The-Kubernetes-Operator-Framework-Book](https://github.com/PacktPublishing/The-Kubernetes-Operator-Framework-Book) | The Kubernetes Operator Framework Book, published by Packt | Go | ⭐ 49 |
 | [The-Linux-DevOps-Handbook](https://github.com/PacktPublishing/The-Linux-DevOps-Handbook) | The Linux DevOps Handbook, published by Packt | HCL | ⭐ 29 |
@@ -9258,13 +9275,13 @@
 | [The-Manager-s-AI-Playbook---Mastering-ChatGPT-for-Everyday-Leadership](https://github.com/PacktPublishing/The-Manager-s-AI-Playbook---Mastering-ChatGPT-for-Everyday-Leadership) | The Manager’s AI Playbook - Mastering ChatGPT for Everyday Leadership, Published by Pac... |  |  |
 | [The-MCP-Engineer-Handbook](https://github.com/PacktPublishing/The-MCP-Engineer-Handbook) | The MCP Engineer Handbook | JavaScript | ⭐ 5 |
 | [The-Microsoft-Excel-Data-Analysis-Toolkit-Bundle](https://github.com/PacktPublishing/The-Microsoft-Excel-Data-Analysis-Toolkit-Bundle) |  |  | ⭐ 13 |
-| [The-Missing-Bootstrap-5-Guide](https://github.com/PacktPublishing/The-Missing-Bootstrap-5-Guide) | The Missing Bootstrap 5 Guide, published by Packt | HTML | ⭐ 29 |
+| [The-Missing-Bootstrap-5-Guide](https://github.com/PacktPublishing/The-Missing-Bootstrap-5-Guide) | The Missing Bootstrap 5 Guide, published by Packt | HTML | ⭐ 30 |
 | [The-Modern-Cpp-Challenge](https://github.com/PacktPublishing/The-Modern-Cpp-Challenge) | The Modern C++ Challenge, published by Packt | C | ⭐ 334 |
 | [The-Modern-CSharp-Challenge](https://github.com/PacktPublishing/The-Modern-CSharp-Challenge) | The Modern CSharp Challenge, published by Packt | Rich Text Format | ⭐ 28 |
 | [The-Modern-JavaScript-Bootcamp-2019](https://github.com/PacktPublishing/The-Modern-JavaScript-Bootcamp-2019) | The Modern JavaScript Bootcamp (2019), published by Packt |  | ⭐ 28 |
 | [The-Modern-Python-Challenge](https://github.com/PacktPublishing/The-Modern-Python-Challenge) | The Modern Python Challenge by Packt Publishing |  | ⭐ 2 |
 | [The-Modern-Python-Challenge-v](https://github.com/PacktPublishing/The-Modern-Python-Challenge-v) | The Modern Python Challenge [Video], Published by Packt | Jupyter Notebook | ⭐ 7 |
-| [The-Modern-Vulkan-Cookbook](https://github.com/PacktPublishing/The-Modern-Vulkan-Cookbook) | The Modern Vulkan Cookbook published by Packt | C++ | ⭐ 262 |
+| [The-Modern-Vulkan-Cookbook](https://github.com/PacktPublishing/The-Modern-Vulkan-Cookbook) | The Modern Vulkan Cookbook published by Packt | C++ | ⭐ 263 |
 | [The-Music-Producer-s-Creative-Guide-to-Ableton-Live-11](https://github.com/PacktPublishing/The-Music-Producer-s-Creative-Guide-to-Ableton-Live-11) | The Music Producer's Creative Guide to Ableton Live 11, published by Packt |  |  |
 | [The-Music-Producer-s-Creative-Guide-to-Ableton-Live-12_2nd-Edition](https://github.com/PacktPublishing/The-Music-Producer-s-Creative-Guide-to-Ableton-Live-12_2nd-Edition) | The Music Producer’s Creative Guide to Ableton Live 12 2nd Edition |  |  |
 | [The-Music-Producer-s-Ultimate-Guide-to-FL-Studio-20](https://github.com/PacktPublishing/The-Music-Producer-s-Ultimate-Guide-to-FL-Studio-20) | The Music Producer’s Ultimate Guide to FL Studio 20, published by Packt |  | ⭐ 1 |
@@ -9298,7 +9315,7 @@
 | [The-Secrets-to-Photorealism-The-PBR-Blender-2.8-Workflow](https://github.com/PacktPublishing/The-Secrets-to-Photorealism-The-PBR-Blender-2.8-Workflow) | The Secrets to Photorealism: The PBR/Blender 2.8 Workflow, published by Packt |  | ⭐ 2 |
 | [The-Security-Matrix-Building-a-practical-defense-based-on-what-attackers-actually-do](https://github.com/PacktPublishing/The-Security-Matrix-Building-a-practical-defense-based-on-what-attackers-actually-do) | The Security Matrix: Building a practical defense based on what attackers actually do, ... |  |  |
 | [The-Self-Taught-Cloud-Computing-Engineer](https://github.com/PacktPublishing/The-Self-Taught-Cloud-Computing-Engineer) | The Self-Taught Cloud Computing Engineer, published by Packt | Python | ⭐ 53 |
-| [The-Self-Taught-Embedded-Software-Engineer](https://github.com/PacktPublishing/The-Self-Taught-Embedded-Software-Engineer) | The Self-Taught Embedded Software Engineer, published by Packt |  |  |
+| [The-Self-Taught-Embedded-Software-Engineer](https://github.com/PacktPublishing/The-Self-Taught-Embedded-Software-Engineer) | The Self-Taught Embedded Software Engineer, published by Packt | C |  |
 | [The-Service-FMEA-Bootcamp---FMEA-for-Risk-and-Reliability](https://github.com/PacktPublishing/The-Service-FMEA-Bootcamp---FMEA-for-Risk-and-Reliability) | The Service FMEA Bootcamp - FMEA for Risk and Reliability, Published by Packt Publishing |  |  |
 | [The-Simplest-Guid-to-Clinical-Data-Analysis-with-SAS](https://github.com/PacktPublishing/The-Simplest-Guid-to-Clinical-Data-Analysis-with-SAS) |  | Rich Text Format |  |
 | [The-Simplest-Guide-to-Advanced-SAS-Programming-Macros-Proc-SQL](https://github.com/PacktPublishing/The-Simplest-Guide-to-Advanced-SAS-Programming-Macros-Proc-SQL) | The Simplest Guide™ to Advanced SAS Programming \| Macros\| Proc SQL, by Packt Publishing |  | ⭐ 1 |
@@ -9329,11 +9346,11 @@
 | [The-Ultimate-Hands-on-Hadoop](https://github.com/PacktPublishing/The-Ultimate-Hands-on-Hadoop) | Code Repository for The Ultimate Hands-on Hadoop, Published by Packt | Python | ⭐ 6 |
 | [The-Ultimate-Hands-on-Hadoop..](https://github.com/PacktPublishing/The-Ultimate-Hands-on-Hadoop..) | Code Repository for The Ultimate Hands-on Hadoop..;Created by Packt Publishing |  | ⭐ 1 |
 | [The-Ultimate-HTML-Developer-2020-Edition](https://github.com/PacktPublishing/The-Ultimate-HTML-Developer-2020-Edition) | The Ultimate HTML Developer 2020 Edition by Packt Publishing | HTML | ⭐ 7 |
-| [The-Ultimate-Kali-Linux-Book-3E](https://github.com/PacktPublishing/The-Ultimate-Kali-Linux-Book-3E) | The Ultimate Kali Linux Book, 3E_published by Packt | Shell | ⭐ 77 |
+| [The-Ultimate-Kali-Linux-Book-3E](https://github.com/PacktPublishing/The-Ultimate-Kali-Linux-Book-3E) | The Ultimate Kali Linux Book, 3E_published by Packt | Shell | ⭐ 78 |
 | [The-Ultimate-Kali-Linux-Book-Audiobook](https://github.com/PacktPublishing/The-Ultimate-Kali-Linux-Book-Audiobook) | The Ultimate Kali Linux Book Audiobook by Packt |  | ⭐ 25 |
 | [The-Ultimate-Kong-API-Handbook](https://github.com/PacktPublishing/The-Ultimate-Kong-API-Handbook) | The Ultimate Kong API Handbook, published by Packt |  |  |
 | [The-Ultimate-Kubernetes-Bootcamp-by-School-of-Devops-](https://github.com/PacktPublishing/The-Ultimate-Kubernetes-Bootcamp-by-School-of-Devops-) | Code Repository for The Ultimate Kubernetes Bootcamp by School of Devops®, Published by... |  |  |
-| [The-Ultimate-Linux-Bootcamp-for-DevOps-SRE-and-Cloud-Engineers](https://github.com/PacktPublishing/The-Ultimate-Linux-Bootcamp-for-DevOps-SRE-and-Cloud-Engineers) |  |  | ⭐ 6 |
+| [The-Ultimate-Linux-Bootcamp-for-DevOps-SRE-and-Cloud-Engineers](https://github.com/PacktPublishing/The-Ultimate-Linux-Bootcamp-for-DevOps-SRE-and-Cloud-Engineers) |  |  | ⭐ 7 |
 | [The-Ultimate-Linux-Shell-Scripting-Guide](https://github.com/PacktPublishing/The-Ultimate-Linux-Shell-Scripting-Guide) | The Ultimate Linux Shell Scripting Guide | Shell | ⭐ 58 |
 | [The-Ultimate-LongTail-Pro-Platinum-Keyword-Research-Training](https://github.com/PacktPublishing/The-Ultimate-LongTail-Pro-Platinum-Keyword-Research-Training) | Code Repository for The Ultimate LongTail Pro Platinum Keyword Research Training, publi... |  | ⭐ 1 |
 | [The-Ultimate-Openshift-2018-Bootcamp](https://github.com/PacktPublishing/The-Ultimate-Openshift-2018-Bootcamp) | Code Repository for The Ultimate Openshift (2018) Bootcamp, Published by Packt |  |  |
@@ -9362,12 +9379,12 @@
 | [Time-Series-Analysis-with-Excel](https://github.com/PacktPublishing/Time-Series-Analysis-with-Excel) | Time Series Analysis with Excel |  | ⭐ 1 |
 | [Time-Series-Analysis-with-Python-3.x](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-3.x) | Time Series Analysis with Python 3.x [Video], published by Packt | Jupyter Notebook | ⭐ 30 |
 | [Time-Series-Analysis-with-Python-Cookbook](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook) | Time Series Analysis with Python Cookbook, published by Packt | Jupyter Notebook | ⭐ 289 |
-| [Time-Series-Analysis-with-Python-Cookbook-Second-Edition](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook-Second-Edition) | Time Series Analysis with Python Cookbook, Second Edition - Published by Packt | Jupyter Notebook | ⭐ 79 |
+| [Time-Series-Analysis-with-Python-Cookbook-Second-Edition](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook-Second-Edition) | Time Series Analysis with Python Cookbook, Second Edition - Published by Packt | Jupyter Notebook | ⭐ 80 |
 | [Time-Series-Analysis-with-Spark](https://github.com/PacktPublishing/Time-Series-Analysis-with-Spark) | Time Series Analysis with Spark, published by Packt | Jupyter Notebook | ⭐ 18 |
 | [Time-Series-Indexing](https://github.com/PacktPublishing/Time-Series-Indexing) | Time Series Indexing | Python | ⭐ 1 |
 | [Time-Series-with-PyTorch](https://github.com/PacktPublishing/Time-Series-with-PyTorch) | Time Series with PyTorch, Published by Packt | Jupyter Notebook | ⭐ 29 |
-| [TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook) | TinyML Cookbook, published by Packt | Jupyter Notebook | ⭐ 308 |
-| [TinyML-Cookbook_2E](https://github.com/PacktPublishing/TinyML-Cookbook_2E) | TinyML Cookbook, 2E_Published by Packt | C | ⭐ 88 |
+| [TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook) | TinyML Cookbook, published by Packt | Jupyter Notebook | ⭐ 309 |
+| [TinyML-Cookbook_2E](https://github.com/PacktPublishing/TinyML-Cookbook_2E) | TinyML Cookbook, 2E_Published by Packt | C | ⭐ 89 |
 | [Tkinter-GUI-Application-Development-Blueprints-Second-Edition](https://github.com/PacktPublishing/Tkinter-GUI-Application-Development-Blueprints-Second-Edition) | Tkinter GUI Application Development Blueprints Second Edition, published by Packt | Python | ⭐ 130 |
 | [Tkinter-GUI-Application-Development-Cookbook](https://github.com/PacktPublishing/Tkinter-GUI-Application-Development-Cookbook) | Tkinter GUI Application Development Cookbook, published by Packt | Python | ⭐ 62 |
 | [Tkinter-GUI-Application-Development-Projects](https://github.com/PacktPublishing/Tkinter-GUI-Application-Development-Projects) | Tkinter GUI Application Development Projects by Packt Publishing | Python | ⭐ 10 |
@@ -9380,7 +9397,7 @@
 | [TOTAL-CompTIA-A-Core-2-220-1202-v15-Course](https://github.com/PacktPublishing/TOTAL-CompTIA-A-Core-2-220-1202-v15-Course) |  |  | ⭐ 8 |
 | [TOTAL-CompTIA-CySA-Cybersecurity-Analyst-CS0-002](https://github.com/PacktPublishing/TOTAL-CompTIA-CySA-Cybersecurity-Analyst-CS0-002) |  |  | ⭐ 14 |
 | [Total-CompTIA-CySA-Cybersecurity-Analyst-CS0-004-](https://github.com/PacktPublishing/Total-CompTIA-CySA-Cybersecurity-Analyst-CS0-004-) | Total: CompTIA CySA+ Cybersecurity Analyst (CS0-004), published by Packt Publishing |  | ⭐ 1 |
-| [TOTAL-CompTIA-Security-Cert-SY0-701-](https://github.com/PacktPublishing/TOTAL-CompTIA-Security-Cert-SY0-701-) | TOTAL: CompTIA Security+ Cert (SY0-701), by Packt Publishing |  | ⭐ 207 |
+| [TOTAL-CompTIA-Security-Cert-SY0-701-](https://github.com/PacktPublishing/TOTAL-CompTIA-Security-Cert-SY0-701-) | TOTAL: CompTIA Security+ Cert (SY0-701), by Packt Publishing |  | ⭐ 209 |
 | [Touch-ID-Face-ID](https://github.com/PacktPublishing/Touch-ID-Face-ID) | Working With iOS Touch ID and Face ID, published by Packt |  | ⭐ 1 |
 | [Tower-Defense-Game-Development---Unity-6-and-Blender-Compatible](https://github.com/PacktPublishing/Tower-Defense-Game-Development---Unity-6-and-Blender-Compatible) |  |  | ⭐ 2 |
 | [TPRM-Driven-Supply-Chain-Cybersecurity](https://github.com/PacktPublishing/TPRM-Driven-Supply-Chain-Cybersecurity) | TPRM-Driven Supply Chain Cybersecurity, published by Packt |  | ⭐ 1 |
@@ -9457,12 +9474,12 @@
 | [Ultimate-Argo-Bootcamp-by-School-of-Devops---6-Projects-Included](https://github.com/PacktPublishing/Ultimate-Argo-Bootcamp-by-School-of-Devops---6-Projects-Included) |  |  | ⭐ 12 |
 | [Ultimate-ASP.NET-5-Web-API-Development-Guide](https://github.com/PacktPublishing/Ultimate-ASP.NET-5-Web-API-Development-Guide) | Ultimate ASP.NET 5 Web API Development Guide, published by Packt |  | ⭐ 2 |
 | [Ultimate-ASP.NET-5-Web-API-Development-Guide-](https://github.com/PacktPublishing/Ultimate-ASP.NET-5-Web-API-Development-Guide-) | Ultimate ASP.NET 5 Web API Development Guide, published by Packt | C# | ⭐ 11 |
-| [Ultimate-AWS-Data-Engineering-Bootcamp---15-Real-World-Labs](https://github.com/PacktPublishing/Ultimate-AWS-Data-Engineering-Bootcamp---15-Real-World-Labs) | This is the code repository for Ultimate AWS Data Engineering Bootcamp - 15 Real-World ... | Python | ⭐ 12 |
+| [Ultimate-AWS-Data-Engineering-Bootcamp---15-Real-World-Labs](https://github.com/PacktPublishing/Ultimate-AWS-Data-Engineering-Bootcamp---15-Real-World-Labs) | This is the code repository for Ultimate AWS Data Engineering Bootcamp - 15 Real-World ... | Python | ⭐ 13 |
 | [Ultimate-CSS-Grid-Course-From-Beginner-to-Advanced](https://github.com/PacktPublishing/Ultimate-CSS-Grid-Course-From-Beginner-to-Advanced) | Code Repository for Ultimate CSS Grid Course: From Beginner to Advanced, published by P... |  |  |
 | [Ultimate-Godot-Game-Developer-Projects](https://github.com/PacktPublishing/Ultimate-Godot-Game-Developer-Projects) | Ultimate Godot Game Developer Projects, by Packt Publishing | GDScript | ⭐ 2 |
 | [Ultimate-Graphic-Design-Course-Create-40-Practical-Projects](https://github.com/PacktPublishing/Ultimate-Graphic-Design-Course-Create-40-Practical-Projects) | Code Repository for Ultimate Graphic Design Course: Create 40 Practical Projects, Publi... |  | ⭐ 15 |
 | [Ultimate-Graphic-Design-Course-Create-40Practical-Projects](https://github.com/PacktPublishing/Ultimate-Graphic-Design-Course-Create-40Practical-Projects) |  |  | ⭐ 1 |
-| [Ultimate-Guide-to-FastAPI-and-Backend-Development](https://github.com/PacktPublishing/Ultimate-Guide-to-FastAPI-and-Backend-Development) |  | Python | ⭐ 84 |
+| [Ultimate-Guide-to-FastAPI-and-Backend-Development](https://github.com/PacktPublishing/Ultimate-Guide-to-FastAPI-and-Backend-Development) |  | Python | ⭐ 85 |
 | [Ultimate-Guide-to-Raspberry-Pi---Tips-Tricks-and-Hacks](https://github.com/PacktPublishing/Ultimate-Guide-to-Raspberry-Pi---Tips-Tricks-and-Hacks) | 2019 Ultimate Guide to Raspberry Pi: Tips, Tricks and Hacks, published by Packt | Python | ⭐ 14 |
 | [Ultimate-Java-Development-and-Certification-Guide](https://github.com/PacktPublishing/Ultimate-Java-Development-and-Certification-Guide) | Code Repository for Ultimate Java Development and Certification Guide, published by Packt | Java |  |
 | [Ultimate-Microsoft-Office-Excel-Word-PowerPoint-Access-Outlook-and-Team](https://github.com/PacktPublishing/Ultimate-Microsoft-Office-Excel-Word-PowerPoint-Access-Outlook-and-Team) |  |  | ⭐ 2 |
@@ -9504,11 +9521,11 @@
 | [Unity-2020-Mobile-Game-Development-Second-Edition](https://github.com/PacktPublishing/Unity-2020-Mobile-Game-Development-Second-Edition) | Unity 2020 Mobile Game Development, published by Packt | C# | ⭐ 55 |
 | [Unity-2020-Virtual-Reality-Projects-3rd-Edition-](https://github.com/PacktPublishing/Unity-2020-Virtual-Reality-Projects-3rd-Edition-) | Unity 2020 Virtual Reality Projects (3rd Edition), published by Packt | C# | ⭐ 50 |
 | [Unity-2021-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Unity-2021-Cookbook-Fourth-Edition) | Unity 2021 Cookbook - Fourth Edition, published by Packt | C# | ⭐ 91 |
-| [Unity-2021-Shaders-and-Effects-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Unity-2021-Shaders-and-Effects-Cookbook-Fourth-Edition) | Unity 2021 Shaders and Effects Cookbook - Fourth Edition, published by Packt | C# | ⭐ 152 |
+| [Unity-2021-Shaders-and-Effects-Cookbook-Fourth-Edition](https://github.com/PacktPublishing/Unity-2021-Shaders-and-Effects-Cookbook-Fourth-Edition) | Unity 2021 Shaders and Effects Cookbook - Fourth Edition, published by Packt | C# | ⭐ 151 |
 | [Unity-2022-by-Example](https://github.com/PacktPublishing/Unity-2022-by-Example) |  | C# | ⭐ 23 |
 | [Unity-2022-Mobile-Game-Development-3rd-Edition](https://github.com/PacktPublishing/Unity-2022-Mobile-Game-Development-3rd-Edition) | Unity 2022 Mobile Game Development 3rd Edition, published by Packt | ShaderLab | ⭐ 29 |
 | [Unity-2022-Mobile-Game-Development-Third-Edition](https://github.com/PacktPublishing/Unity-2022-Mobile-Game-Development-Third-Edition) | Unity 2022 Mobile Game Development, published by Packt |  |  |
-| [Unity-2023-Cookbook-Fifth-Edition](https://github.com/PacktPublishing/Unity-2023-Cookbook-Fifth-Edition) | Unity 2023 Cookbook | PHP | ⭐ 50 |
+| [Unity-2023-Cookbook-Fifth-Edition](https://github.com/PacktPublishing/Unity-2023-Cookbook-Fifth-Edition) | Unity 2023 Cookbook | PHP | ⭐ 51 |
 | [Unity-2D-Game-Development-Cookbook](https://github.com/PacktPublishing/Unity-2D-Game-Development-Cookbook) | Code repository for Unity 2D Game Development Cookbook, published by Packt Publishing  | C# | ⭐ 9 |
 | [Unity-3D-Game-Development](https://github.com/PacktPublishing/Unity-3D-Game-Development) | Unity Game Development -published by Packt | C# | ⭐ 29 |
 | [Unity-3D-Game-Development-by-Example](https://github.com/PacktPublishing/Unity-3D-Game-Development-by-Example) | Unity 3D Game Development by Example, published by Packt | C# | ⭐ 4 |
@@ -9623,7 +9640,7 @@
 | [Vanilla-C-A-Beginner-s-Guide-to-Coding](https://github.com/PacktPublishing/Vanilla-C-A-Beginner-s-Guide-to-Coding) | Vanilla C#: A Beginner's Guide to Coding by Packt Publishing |  | ⭐ 3 |
 | [VB.NET-Masterclass-Learn-Visual-Basic-and-VBScript](https://github.com/PacktPublishing/VB.NET-Masterclass-Learn-Visual-Basic-and-VBScript) | VB.NET Masterclass: Learn Visual Basic and VBScript, published by Packt |  |  |
 | [VB.NET-with-VS-2017-and-Windows-Forms](https://github.com/PacktPublishing/VB.NET-with-VS-2017-and-Windows-Forms) | VB.NET with VS 2017 and Windows Forms, published by Packt |  |  |
-| [VBA-Automation-for-Excel-2019-Cookbook](https://github.com/PacktPublishing/VBA-Automation-for-Excel-2019-Cookbook) | VBA Automation for Excel 2019 Cookbook, published by Packt |  | ⭐ 49 |
+| [VBA-Automation-for-Excel-2019-Cookbook](https://github.com/PacktPublishing/VBA-Automation-for-Excel-2019-Cookbook) | VBA Automation for Excel 2019 Cookbook, published by Packt |  | ⭐ 50 |
 | [VBA-Excel-Programming-Simplified](https://github.com/PacktPublishing/VBA-Excel-Programming-Simplified) | VBA Excel Programming Simplified, published by Packt |  | ⭐ 1 |
 | [VBA-Intermediate-Training](https://github.com/PacktPublishing/VBA-Intermediate-Training) | Code Repository for VBA Intermediate Training, published by Packt |  |  |
 | [Vector-Graphics-with-SVG-HTML---Complete-Course-with-Projects](https://github.com/PacktPublishing/Vector-Graphics-with-SVG-HTML---Complete-Course-with-Projects) | Code Repository for Vector Graphics with SVG & HTML - Complete Course with Projects, pu... |  | ⭐ 1 |
@@ -9680,7 +9697,7 @@
 | [Vuejs-2-Cookbook](https://github.com/PacktPublishing/Vuejs-2-Cookbook) | Vuejs-2-Cookbook, published by Packt | Vue | ⭐ 86 |
 | [VuePress-Quick-Start-Guide](https://github.com/PacktPublishing/VuePress-Quick-Start-Guide) | VuePress Quick Start Guide, published by Packt | JavaScript | ⭐ 2 |
 | [Vuex-Quick-Start-Guide](https://github.com/PacktPublishing/Vuex-Quick-Start-Guide) | Vuex Quick Start Guide, published by Packt | JavaScript | ⭐ 15 |
-| [Vulkan-Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook) | Code repository for Vulkan Cookbook by Packt | C++ | ⭐ 896 |
+| [Vulkan-Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook) | Code repository for Vulkan Cookbook by Packt | C++ | ⭐ 897 |
 | [Vulkan-for-Beginners](https://github.com/PacktPublishing/Vulkan-for-Beginners) |  |  | ⭐ 1 |
 | [Vulkan-QuickStart-Guide](https://github.com/PacktPublishing/Vulkan-QuickStart-Guide) | Published by Packt |  | ⭐ 3 |
 
@@ -9690,8 +9707,8 @@
 |------------|-------------|----------|----|
 | [Wearable-Tech-Projects-with-the-Raspberry-Pi-Zero](https://github.com/PacktPublishing/Wearable-Tech-Projects-with-the-Raspberry-Pi-Zero) | Wearable-Tech Projects with the Raspberry Pi Zero, published by Packt | Python | ⭐ 16 |
 | [Web-Analytics-with-Hands-on-Projects-in-R](https://github.com/PacktPublishing/Web-Analytics-with-Hands-on-Projects-in-R) | Web Analytics with Hands-on Projects in R by PAckt Publishing |  |  |
-| [Web-API-Development-with-ASP.NET-Core-8](https://github.com/PacktPublishing/Web-API-Development-with-ASP.NET-Core-8) | RESTful Web Services with ASP.NET Core 7, published by Packt |  | ⭐ 100 |
-| [Web-App-Development-Made-Simple-with-Streamlit](https://github.com/PacktPublishing/Web-App-Development-Made-Simple-with-Streamlit) | Web App Development Made Simple with Streamlit, published by Packt | Python | ⭐ 33 |
+| [Web-API-Development-with-ASP.NET-Core-8](https://github.com/PacktPublishing/Web-API-Development-with-ASP.NET-Core-8) | RESTful Web Services with ASP.NET Core 7, published by Packt |  | ⭐ 101 |
+| [Web-App-Development-Made-Simple-with-Streamlit](https://github.com/PacktPublishing/Web-App-Development-Made-Simple-with-Streamlit) | Web App Development Made Simple with Streamlit, published by Packt | Python | ⭐ 32 |
 | [Web-Application-Development-with-MEAN](https://github.com/PacktPublishing/Web-Application-Development-with-MEAN) | Web Application Development with MEAN, published by Packt | JavaScript | ⭐ 10 |
 | [Web-Application-Development-with-R-Using-Shiny-Second-Edition](https://github.com/PacktPublishing/Web-Application-Development-with-R-Using-Shiny-Second-Edition) | Web Application Development with R Using Shiny - Second Edition, published by Packt |  |  |
 | [Web-Application-Development-with-R-Using-Shiny-third-edition](https://github.com/PacktPublishing/Web-Application-Development-with-R-Using-Shiny-third-edition) | Web Application Development with R Using Shiny - Third Edition, published by Packt | HTML | ⭐ 31 |
@@ -9713,7 +9730,7 @@
 | [Web-Development-with-Blazor-Second-Edition](https://github.com/PacktPublishing/Web-Development-with-Blazor-Second-Edition) | Code Repository for Web Development with Blazor Second Edition Published by Packt | HTML | ⭐ 42 |
 | [Web-Development-with-Blazor-Third-Edition](https://github.com/PacktPublishing/Web-Development-with-Blazor-Third-Edition) | Web Development with Blazor, Third Edition | HTML | ⭐ 70 |
 | [Web-Development-with-Bootstrap-4-and-Angular-2-Second-Edition](https://github.com/PacktPublishing/Web-Development-with-Bootstrap-4-and-Angular-2-Second-Edition) | Code repository for Web Development with Bootstrap 4 and Angular 2 Second Edition, publ... | TypeScript | ⭐ 31 |
-| [Web-Development-with-Django](https://github.com/PacktPublishing/Web-Development-with-Django) | Learn to build modern web applications with a Python-based framework | HTML | ⭐ 196 |
+| [Web-Development-with-Django](https://github.com/PacktPublishing/Web-Development-with-Django) | Learn to build modern web applications with a Python-based framework | HTML | ⭐ 197 |
 | [Web-Development-with-Django-2-Cookbook-Third-Edition](https://github.com/PacktPublishing/Web-Development-with-Django-2-Cookbook-Third-Edition) | Web Development with Django 2 Cookbook - Third Edition, by Packt |  | ⭐ 1 |
 | [Web-Development-with-Django-Second-Edition](https://github.com/PacktPublishing/Web-Development-with-Django-Second-Edition) |  | HTML | ⭐ 84 |
 | [Web-Development-with-Django-Third-Edition](https://github.com/PacktPublishing/Web-Development-with-Django-Third-Edition) | Web development with Django Third Edition, published by Packt | Python | ⭐ 14 |
@@ -9774,7 +9791,7 @@
 | [Wix-Web-Development-Updated-for-2021-](https://github.com/PacktPublishing/Wix-Web-Development-Updated-for-2021-) | Wix Web Development [Updated for 2021], by Packt Publishing |  |  |
 | [Woo-Plugins---A-Guide-on-the-Best-Plugins-for-WooCommerce](https://github.com/PacktPublishing/Woo-Plugins---A-Guide-on-the-Best-Plugins-for-WooCommerce) |  |  |  |
 | [WooCommerce-Cookbook](https://github.com/PacktPublishing/WooCommerce-Cookbook) | Code repository for WooCommerce Cookbook, published by Packt Publishing | PHP | ⭐ 4 |
-| [WordPress-101---The-Complete-Guide](https://github.com/PacktPublishing/WordPress-101---The-Complete-Guide) |  |  | ⭐ 19 |
+| [WordPress-101---The-Complete-Guide](https://github.com/PacktPublishing/WordPress-101---The-Complete-Guide) |  |  | ⭐ 18 |
 | [WordPress-5-Complete-7th-Edition](https://github.com/PacktPublishing/WordPress-5-Complete-7th-Edition) | WordPress 5 Complete - Seventh Edition, published by Packt | PHP | ⭐ 14 |
 | [WordPress-5-Cookbook](https://github.com/PacktPublishing/WordPress-5-Cookbook) | WordPress-5-Cookbook, published by Packt | PHP | ⭐ 7 |
 | [WordPress-5-Theme-Development-Academy-with-Bootstrap-v4](https://github.com/PacktPublishing/WordPress-5-Theme-Development-Academy-with-Bootstrap-v4) | Code Repository for WordPress 5 Theme Development Academy with Bootstrap v4, Published ... |  | ⭐ 3 |
@@ -9818,7 +9835,7 @@
 | [Write-a-Native-iOS-Game-Using-Xamarin-and-C-](https://github.com/PacktPublishing/Write-a-Native-iOS-Game-Using-Xamarin-and-C-) |  |  |  |
 | [Writing-and-Running-Secure-.NET-5-Applications](https://github.com/PacktPublishing/Writing-and-Running-Secure-.NET-5-Applications) | Writing and Running Secure .NET 5 Applications, Published by Packt |  |  |
 | [Writing-API-Tests-with-Karate](https://github.com/PacktPublishing/Writing-API-Tests-with-Karate) | Writing API Tests with Karate, published by Packt | Gherkin | ⭐ 12 |
-| [Writing-Clean-Code---20-Common-Code-Smells-and-How-to-Avoid-Them](https://github.com/PacktPublishing/Writing-Clean-Code---20-Common-Code-Smells-and-How-to-Avoid-Them) |  | TypeScript | ⭐ 5 |
+| [Writing-Clean-Code---20-Common-Code-Smells-and-How-to-Avoid-Them](https://github.com/PacktPublishing/Writing-Clean-Code---20-Common-Code-Smells-and-How-to-Avoid-Them) |  | TypeScript | ⭐ 4 |
 | [Writing-Clean-Python-Code](https://github.com/PacktPublishing/Writing-Clean-Python-Code) | Writing Clean Python Code  [ Video], Published by Packt | Python | ⭐ 16 |
 | [Writing-Haskell-Programs](https://github.com/PacktPublishing/Writing-Haskell-Programs) |  Writing Haskell Programs [Video], by Packt Publishing |  |  |
 | [Writing-High-Performance-Java-Application-in-Java-9](https://github.com/PacktPublishing/Writing-High-Performance-Java-Application-in-Java-9) | Writing High Performance Java Application in Java 9 [Video], published by Packt | Java | ⭐ 2 |
@@ -9842,7 +9859,7 @@
 | [xAPI-Fundamentals---Getting-Started-with-xAPI-aka-TinCan-](https://github.com/PacktPublishing/xAPI-Fundamentals---Getting-Started-with-xAPI-aka-TinCan-) | Code Repository for xAPI Fundamentals - Getting Started with xAPI (aka TinCan), Publish... |  | ⭐ 1 |
 | [Xcode-10-Tips-Trick-Techniques](https://github.com/PacktPublishing/Xcode-10-Tips-Trick-Techniques) | Code Repository for Xcode 10: Tips, Trick & Techniques, Published by Packt | Swift | ⭐ 4 |
 | [XCode-9-Essentials](https://github.com/PacktPublishing/XCode-9-Essentials) | XCode 9 Essentials [Video], Published by Packt | Swift | ⭐ 3 |
-| [XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis](https://github.com/PacktPublishing/XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis) | XGBoost for Regression Predictive Modeling and Time Series Analysis, published by Packt | Jupyter Notebook | ⭐ 48 |
+| [XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis](https://github.com/PacktPublishing/XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis) | XGBoost for Regression Predictive Modeling and Time Series Analysis, published by Packt | Jupyter Notebook | ⭐ 49 |
 | [XNA-3D-Game-Development-By-Example](https://github.com/PacktPublishing/XNA-3D-Game-Development-By-Example) | XNA 3D Game Development By Example, Published by Packt |  | ⭐ 2 |
 | [XR-Development-with-Unity](https://github.com/PacktPublishing/XR-Development-with-Unity) | XR Development with Unity, published by Packt | C# | ⭐ 23 |
 
@@ -9869,14 +9886,14 @@
 | [Zabbix-4-Network-Monitoring-Third-Edition](https://github.com/PacktPublishing/Zabbix-4-Network-Monitoring-Third-Edition) | Zabbix 4 Network Monitoring Third Edition, published by Packt | Shell | ⭐ 10 |
 | [Zabbix-5-Network-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-5-Network-Monitoring-Cookbook) | Zabbix 5 Network Monitoring Cookbook, Published by Packt | Perl | ⭐ 17 |
 | [Zabbix-6-IT-Infrastructure-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-6-IT-Infrastructure-Monitoring-Cookbook) | Zabbix 6 IT Infrastructure Monitoring Cookbook, published by Packt | Perl | ⭐ 20 |
-| [Zabbix-7-IT-Infrastructure-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-7-IT-Infrastructure-Monitoring-Cookbook) | Zabbix 7 IT Infrastructure Monitoring Cookbook, published by packt | Perl | ⭐ 33 |
+| [Zabbix-7-IT-Infrastructure-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-7-IT-Infrastructure-Monitoring-Cookbook) | Zabbix 7 IT Infrastructure Monitoring Cookbook, published by packt | Perl | ⭐ 34 |
 | [Zabbix-Enterprise-Network-Monitoring-Made-Easy](https://github.com/PacktPublishing/Zabbix-Enterprise-Network-Monitoring-Made-Easy) | This is the code repository for the course, Zabbix: Enterprise Network Montioring Made ... | Shell | ⭐ 5 |
 | [Zabbix-Network-Monitoring-Second-Edition](https://github.com/PacktPublishing/Zabbix-Network-Monitoring-Second-Edition) | Code repository for  Zabbix Network Monitoring Second Edition, published by Packt | Shell | ⭐ 2 |
 | [ZBrush-Cookbook](https://github.com/PacktPublishing/ZBrush-Cookbook) | ZBrush Cookbook published by Packt |  |  |
 | [Zed-Attack-Proxy-Cookbook](https://github.com/PacktPublishing/Zed-Attack-Proxy-Cookbook) | Zed Attack Proxy Cookbook, published by Packt |  | ⭐ 12 |
-| [Zephyr-RTOS-Cookbook](https://github.com/PacktPublishing/Zephyr-RTOS-Cookbook) | Zephyr RTOS Cookbook, published by Packt | C | ⭐ 5 |
+| [Zephyr-RTOS-Cookbook](https://github.com/PacktPublishing/Zephyr-RTOS-Cookbook) | Zephyr RTOS Cookbook, published by Packt | C | ⭐ 7 |
 | [Zero-to-Hero-Data-Preparation-Workshop](https://github.com/PacktPublishing/Zero-to-Hero-Data-Preparation-Workshop) | Zero to Hero Data Preparation Workshop, Published by Packt |  |  |
-| [Zero-to-Hero-in-Cryptocurrency-Trading](https://github.com/PacktPublishing/Zero-to-Hero-in-Cryptocurrency-Trading) |  | Python | ⭐ 65 |
+| [Zero-to-Hero-in-Cryptocurrency-Trading](https://github.com/PacktPublishing/Zero-to-Hero-in-Cryptocurrency-Trading) |  | Python | ⭐ 66 |
 | [Zero-to-Hero-Java-SpringBoot-and-JPA-Mastery-with-a-Real-Project](https://github.com/PacktPublishing/Zero-to-Hero-Java-SpringBoot-and-JPA-Mastery-with-a-Real-Project) | Zero to Hero Java SpringBoot and JPA Mastery with Real Project, published by Packt publ... | Java | ⭐ 14 |
 | [Zero-to-Hero-ReactJS-Mastery-Course](https://github.com/PacktPublishing/Zero-to-Hero-ReactJS-Mastery-Course) |  | HTML | ⭐ 4 |
 | [Zero-Trust-AI-and-Blue-Team](https://github.com/PacktPublishing/Zero-Trust-AI-and-Blue-Team) | Zero Trust AI and Blue Team, published by Packt |  |  |
